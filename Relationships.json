@@ -1600,5 +1600,973 @@
         ]
       }
     ]
+  },
+  {
+    "CharacterID": "Troi",
+    "Name": "Deanna Troi",
+    "Series": [
+      "TNG",
+      "Films"
+    ],
+    "Meta": "Ship\u2019s counselor, USS Enterprise (NCC-1701-D)",
+    "Relationships": [
+      {
+        "RelationshipID": "Riker-Troi",
+        "Name": "Deanna Troi and William Riker",
+        "Series": [
+          "TNG",
+          "Films"
+        ],
+        "RelationshipType": [
+          "Romantic bond",
+          "Imzadi connection"
+        ],
+        "People": [
+          {
+            "Character": "Deanna Troi",
+            "BioID": "Troi"
+          },
+          {
+            "Character": "William Riker",
+            "BioID": "Riker"
+          }
+        ],
+        "Overview": "From Troi\u2019s point of view, her relationship with William Riker is the enduring thread that runs beneath every other connection in her life aboard the Enterprise. He is her imzadi\u2014first love, first profound meeting of minds\u2014and that bond never truly dissolves, even when years and duty pull them onto different paths. Serving together forces her to compartmentalize: to be his counselor, his colleague, and sometimes his conscience, while keeping at bay the part of her that still remembers the young officer on Betazed who promised a future he could not yet deliver. The push and pull between what they once were and what they are now shapes how she thinks about commitment, compromise and the risks of opening her heart again.",
+        "StartingPoint": "When they reunite on the Enterprise-D, Troi carries the ache of Riker\u2019s choice to pursue his career rather than stay on Betazed. She can sense his mix of regret and pride the moment he steps onto the bridge, and she feels her own complicated response: hurt, relief, and an undeniable surge of joy that he is alive and near. Professionally, she resolves to remain steady\u2014she is ship\u2019s counselor, not a woman revisiting a broken engagement\u2014but their shared history slips into their work in subtle ways. Her empathic sense makes it impossible to ignore his flashes of jealousy or fear, and she must constantly decide when to respond as a counselor and when to shield herself as someone who has already been wounded by the same emotions.",
+        "Evolution": "Over the years, Troi and Riker circle each other through other relationships, missed chances and crises that strip away pretense. When alternative futures and transporter accidents confront them with versions of themselves who chose differently, Troi is forced to admit how much of her life has been shaped by the decision to keep their connection dormant. She watches Riker wrestle with his own fear of commitment and recognizes a parallel reluctance in herself: as long as they remain \u2018just friends,\u2019 they cannot truly lose each other, but neither can they fully belong to anyone else. Gradually, especially after she explores a brief relationship with Worf and confronts the reality of mortality and loss, Troi comes to prefer the risk of fully claiming what they are to each other over the safety of distance. By the time of their eventual marriage, she no longer sees Riker as the young man who left Betazed but as a partner who has grown alongside her, tested by command and grief, and still chooses her in the end.",
+        "KeyThemes": [
+          "First love and enduring attachment",
+          "Balancing career and intimacy",
+          "Choosing vulnerability after past hurt",
+          "Telepathic and emotional transparency"
+        ],
+        "KeyEpisodes": [
+          {
+            "EpisodeID": "tngs1e1",
+            "EpisodeTitle": "Encounter at Farpoint",
+            "Role": "Reunion of imzadi",
+            "TrajectoryNote": "Sensing Riker\u2019s presence before she sees him, Troi is confronted with unresolved emotions that set the tone for years of carefully managed closeness and distance."
+          },
+          {
+            "EpisodeID": "tngs2e1",
+            "EpisodeTitle": "The Child",
+            "Role": "Reassessing paths not taken",
+            "TrajectoryNote": "Troi\u2019s unexpected pregnancy and the crew\u2019s protective response prompt her to reflect on what family and partnership could mean, including with Riker, if she allowed herself to consider it."
+          },
+          {
+            "EpisodeID": "tngs3e24",
+            "EpisodeTitle": "Menage \u00e0 Troi",
+            "Role": "Jealousy and rescue",
+            "TrajectoryNote": "Abducted alongside Riker, Troi observes his mixture of irritation and fierce protectiveness, confirming that whatever they call themselves, the bond between them remains intensely personal."
+          },
+          {
+            "EpisodeID": "tngs6e24",
+            "EpisodeTitle": "Second Chances",
+            "Role": "Confronting a divergent self",
+            "TrajectoryNote": "Faced with Riker\u2019s duplicate, who still loves her openly, Troi must decide whether to reclaim the version of their relationship that might have been, clarifying what she truly wants from the Riker she serves with."
+          },
+          {
+            "EpisodeID": "tngs7e25",
+            "EpisodeTitle": "All Good Things...",
+            "Role": "Future loss and unresolved grief",
+            "TrajectoryNote": "In a possible future where she has died, the pain Troi senses lingering in those who knew her\u2014especially Riker\u2014underscores how deeply their lives are intertwined, even when fate separates them."
+          }
+        ],
+        "NotableMoments": [
+          {
+            "EpisodeID": "tngs1e1",
+            "EpisodeTitle": "Encounter at Farpoint",
+            "Description": "On the bridge, Troi instinctively reaches out to Riker with a wordless thought, and the flash of recognition they share tells her that whatever distance now lies between them, their imzadi bond endures."
+          },
+          {
+            "EpisodeID": "tngs6e24",
+            "EpisodeTitle": "Second Chances",
+            "Description": "Dancing in Ten Forward with the duplicate Riker, Troi allows herself to feel, for a moment, what it would be like if duty and fear had not intervened\u2014a glimpse that both tempts and unsettles her."
+          },
+          {
+            "EpisodeID": "tngs7e25",
+            "EpisodeTitle": "All Good Things...",
+            "Description": "Hearing how her death affected those she loves in an alternate timeline, Troi recognizes that her choices about Riker shape more than her own happiness\u2014they help define what \u2018home\u2019 means for him as well."
+          }
+        ]
+      },
+      {
+        "RelationshipID": "Troi-Picard",
+        "Name": "Deanna Troi and Jean-Luc Picard",
+        "Series": [
+          "TNG",
+          "Films"
+        ],
+        "RelationshipType": [
+          "Counselor and captain",
+          "Emotional anchor"
+        ],
+        "People": [
+          {
+            "Character": "Deanna Troi",
+            "BioID": "Troi"
+          },
+          {
+            "Character": "Jean-Luc Picard",
+            "BioID": "Picard"
+          }
+        ],
+        "Overview": "Troi experiences her relationship with Picard as a careful balancing act between respect for the captain\u2019s authority and responsibility for the man\u2019s emotional well-being. Her empathy allows her to sense the strain beneath his composed exterior, but she knows he values privacy and control. Over time, she becomes one of the few people he allows to see the cracks in his armor, and she understands that simply offering space and presence can be as important as any advice. In turn, Picard\u2019s trust in her professional judgment affirms Troi\u2019s sense of purpose: she is not merely soothing feelings, but shaping decisions that affect thousands of lives.",
+        "StartingPoint": "At first, Troi approaches Picard with a mix of professional admiration and caution. His reserve and discomfort with overt displays of emotion make it clear that he does not want a counselor who hovers or intrudes. She stakes out neutral ground: offering insights on alien negotiators and crew morale in brief, focused comments, then withdrawing unless invited to say more. This approach earns Picard\u2019s respect and slowly opens a path for deeper conversations. Troi notes that he rarely discusses his own past or fears, but when he does, he chooses her office as the setting\u2014behavior she recognizes as significant in a man who guards his inner life so closely.",
+        "Evolution": "As the Enterprise faces increasingly traumatic events\u2014first contact with the Borg, near-wars, and personal violations\u2014Troi\u2019s role in Picard\u2019s life deepens. After his assimilation, she helps him confront his lingering terror and guilt, not by forcing catharsis but by normalizing the slow, uneven process of recovery. She also challenges him when his instinct to shoulder burdens alone becomes harmful, reminding him that relying on his crew is not a weakness. In later years, Troi watches Picard wrestle with aging, lost opportunities and the possibility of his own obsolescence; her support shifts toward helping him integrate these realities into his identity rather than fight them. Although he will never be as open with her as some patients, Troi understands that each moment he allows himself to be vulnerable in her presence represents a significant victory over isolation, and she treasures the quiet trust that has grown between them.",
+        "KeyThemes": [
+          "Loneliness of command",
+          "Boundaries in therapeutic relationships",
+          "Trauma and recovery",
+          "Allowing vulnerability without losing authority"
+        ],
+        "KeyEpisodes": [
+          {
+            "EpisodeID": "tngs2e9",
+            "EpisodeTitle": "The Measure of a Man",
+            "Role": "Ethical advisor",
+            "TrajectoryNote": "Troi\u2019s insights into the emotional stakes of Data\u2019s trial help Picard frame his arguments in terms of personhood and dignity, reinforcing her role as more than a mere observer."
+          },
+          {
+            "EpisodeID": "tngs3e26",
+            "EpisodeTitle": "The Best of Both Worlds, Part I",
+            "Role": "Sensing impending trauma",
+            "TrajectoryNote": "As the Borg threat looms, Troi senses Picard\u2019s mounting anxiety beneath his calm, underscoring how attuned she is to the emotional undercurrents that others miss."
+          },
+          {
+            "EpisodeID": "tngs4e1",
+            "EpisodeTitle": "The Best of Both Worlds, Part II",
+            "Role": "Helping him live with what happened",
+            "TrajectoryNote": "In the aftermath of his assimilation, Troi quietly supports Picard as he begins to accept that healing will not mean forgetting, but learning to live with the memory."
+          },
+          {
+            "EpisodeID": "tngs7e25",
+            "EpisodeTitle": "All Good Things...",
+            "Role": "Believing him when others doubt",
+            "TrajectoryNote": "When Picard describes his temporal shifts, Troi is among the first to take his distress seriously, reaffirming her commitment to trust his subjective experience even when the evidence is thin."
+          }
+        ],
+        "NotableMoments": [
+          {
+            "EpisodeID": "tngs4e1",
+            "EpisodeTitle": "The Best of Both Worlds, Part II",
+            "Description": "In her office, Troi listens as Picard haltingly describes his time as Locutus, offering not solutions but the assurance that his reactions are understandable and that recovery will take the time it needs."
+          },
+          {
+            "EpisodeID": "tngs7e25",
+            "EpisodeTitle": "All Good Things...",
+            "Description": "As the crew doubts Picard\u2019s story of shifting timelines, Troi calmly reminds them of his history and character, using her credibility to buy him the benefit of the doubt he rarely asks for."
+          },
+          {
+            "EpisodeID": "tngs1e1",
+            "EpisodeTitle": "Encounter at Farpoint",
+            "Description": "Troi\u2019s early, concise observations about Q and the tension on the bridge signal to Picard that she will not waste his time, establishing a professional rapport on which deeper trust can later be built."
+          }
+        ]
+      },
+      {
+        "RelationshipID": "Troi-Lwaxana",
+        "Name": "Deanna Troi and Lwaxana Troi",
+        "Series": [
+          "TNG"
+        ],
+        "RelationshipType": [
+          "Family",
+          "Mother-daughter tension"
+        ],
+        "People": [
+          {
+            "Character": "Deanna Troi",
+            "BioID": "Troi"
+          },
+          {
+            "Character": "Lwaxana Troi",
+            "BioID": "Lwaxana"
+          }
+        ],
+        "Overview": "From Deanna\u2019s perspective, her relationship with her mother, Lwaxana Troi, is an exhausting blend of embarrassment, exasperation and fierce, undeniable love. Lwaxana\u2019s flamboyant personality and disregard for Starfleet decorum constantly threaten the carefully balanced professional identity Deanna has built aboard the Enterprise. Yet beneath the theatrical entrances and meddling, Deanna senses a profound, sometimes painful devotion: a mother desperate to see her daughter happy, even if her methods make that harder rather than easier.",
+        "StartingPoint": "When Lwaxana first arrives on the Enterprise, Deanna braces herself for impact. She knows from experience that her mother will treat the ship like an extension of a Betazoid drawing room, shattering boundaries Deanna has carefully constructed between her personal and professional lives. Early visits confirm this: Lwaxana announces private details in public, comments freely on Deanna\u2019s romantic prospects and openly critiques Starfleet formality. Deanna responds with practiced diplomacy and thinly veiled frustration, but her empathic sense also picks up the anxiety and loneliness underlying her mother\u2019s bravado.",
+        "Evolution": "Over multiple visits, crises force mother and daughter to confront the grief and expectations that haunt their relationship. Episodes involving arranged marriages, aging, and the prospect of ritual death lay bare the weight of Betazoid tradition on both women. Deanna gradually recognizes that her mother\u2019s meddling stems from fear\u2014fear that Deanna will end up alone, that she will reject her heritage, or that Lwaxana herself will be forgotten. In turn, Lwaxana is confronted with Deanna\u2019s need to define happiness on her own terms, even when that means choosing Starfleet and a starship over Betazed and a traditional life. Their clashes remain loud and sometimes painful, but moments of quiet honesty\u2014often when one of them is in genuine danger or grief\u2014allow Deanna to see the strength and vulnerability beneath Lwaxana\u2019s persona. By the later years, she no longer tries to change her mother; instead, she learns to set firmer boundaries while appreciating the love that motivates even Lwaxana\u2019s most exasperating antics.",
+        "KeyThemes": [
+          "Cultural expectations versus personal choice",
+          "Grief and aging in a telepathic family",
+          "Embarrassment as a mask for love",
+          "Defining adulthood apart from parental plans"
+        ],
+        "KeyEpisodes": [
+          {
+            "EpisodeID": "tngs1e11",
+            "EpisodeTitle": "Haven",
+            "Role": "Arranged marriage and rebellion",
+            "TrajectoryNote": "Lwaxana\u2019s attempt to enforce Deanna\u2019s betrothal brings long-simmering conflicts about duty, love and cultural tradition into the open."
+          },
+          {
+            "EpisodeID": "tngs2e19",
+            "EpisodeTitle": "Manhunt",
+            "Role": "Public embarrassment, private concern",
+            "TrajectoryNote": "Lwaxana\u2019s overt pursuit of Picard mortifies Deanna but also reveals her mother\u2019s fear of aging alone, complicating Deanna\u2019s annoyance with sympathy."
+          },
+          {
+            "EpisodeID": "tngs4e22",
+            "EpisodeTitle": "Half a Life",
+            "Role": "Confronting mortality and custom",
+            "TrajectoryNote": "As Lwaxana falls in love with Timicin and opposes his society\u2019s ritual suicide, Deanna witnesses her mother\u2019s vulnerability and capacity for principled defiance."
+          },
+          {
+            "EpisodeID": "tngs5e20",
+            "EpisodeTitle": "Cost of Living",
+            "Role": "Shared responsibility and heritage",
+            "TrajectoryNote": "Helping Lwaxana care for Alexander while the ship faces danger, Deanna sees a different side of her mother and reevaluates what aspects of Betazoid life she wants to carry forward."
+          }
+        ],
+        "NotableMoments": [
+          {
+            "EpisodeID": "tngs1e11",
+            "EpisodeTitle": "Haven",
+            "Description": "Deanna\u2019s mixture of outrage and quiet sadness during the aborted wedding makes clear that her conflict with Lwaxana is not simply rebellion, but a struggle to reconcile her own desires with her mother\u2019s expectations."
+          },
+          {
+            "EpisodeID": "tngs4e22",
+            "EpisodeTitle": "Half a Life",
+            "Description": "Holding her mother as Lwaxana weeps over Timicin\u2019s choice, Deanna feels their grief resonate across their telepathic bond, recognizing how much courage it takes for Lwaxana to love in the face of inevitable loss."
+          },
+          {
+            "EpisodeID": "tngs5e20",
+            "EpisodeTitle": "Cost of Living",
+            "Description": "Watching Lwaxana teach Alexander to revel in joy and messiness, Deanna glimpses the nurturing, life-affirming woman behind the theatrics and feels a renewed, if begrudging, affection."
+          }
+        ]
+      },
+      {
+        "RelationshipID": "Troi-Worf",
+        "Name": "Deanna Troi and Worf",
+        "Series": [
+          "TNG"
+        ],
+        "RelationshipType": [
+          "Unexpected romance",
+          "Cross-cultural connection"
+        ],
+        "People": [
+          {
+            "Character": "Deanna Troi",
+            "BioID": "Troi"
+          },
+          {
+            "Character": "Worf",
+            "BioID": "Worf"
+          }
+        ],
+        "Overview": "Troi views her brief romantic relationship with Worf as a surprising but sincere attempt to bridge two very different ways of being. As a counselor, she has long understood Worf\u2019s struggle to reconcile Klingon traditions with Starfleet values; as his friend, she has seen the tenderness he hides beneath a warrior\u2019s exterior. When their connection turns romantic, Troi is intrigued by the challenge of meeting him halfway\u2014discovering which parts of Klingon passion resonate with her and which clash with the empathy and gentleness at her core.",
+        "StartingPoint": "Hints of a deeper bond emerge gradually, often in alternate timelines and holodeck scenarios where Troi sees versions of herself already committed to Worf. These glimpses plant a seed of curiosity: if in some realities they work, what is it about their personalities that could make that possible? In the primary timeline, their relationship begins in earnest only late in the Enterprise-D\u2019s mission, when shared responsibilities for Alexander and mutual respect as officers provide a foundation. Troi approaches the possibility cautiously, aware that both their friends and her mother will have strong opinions, but she is also drawn to the idea of being with someone who understands the demands of service and the weight of divided heritage.",
+        "Evolution": "During the time they explore being a couple, Troi discovers that Worf\u2019s intensity can be both exhilarating and exhausting. She appreciates his honesty, his protective instincts and the way he openly values her strength rather than expecting her to be fragile. At the same time, their differences\u2014in communication style, in expectations around family and ceremony, and in their visions of the future\u2014become increasingly apparent. Troi\u2019s empathy allows her to sense Worf\u2019s constant internal battle between Klingon tradition and Federation life, and she realizes that becoming his long-term partner would mean sharing that conflict in ways she is not sure she can sustain. Ultimately, the relationship fades not in a dramatic break but in a quiet recognition that their paths, while briefly intertwined, lead in different directions. Troi carries forward a warmer, more nuanced understanding of Worf and of her own capacity to be surprised by whom she can love.",
+        "KeyThemes": [
+          "Attraction across cultural divides",
+          "Balancing passion with compatibility",
+          "Alternate futures versus present reality",
+          "Respecting a relationship that does not last"
+        ],
+        "KeyEpisodes": [
+          {
+            "EpisodeID": "tngs7e8",
+            "EpisodeTitle": "Attached",
+            "Role": "Foreshadowing emotional risk",
+            "TrajectoryNote": "While not directly about Worf, Troi\u2019s reflections on Picard and Beverly\u2019s almost-relationship highlight her awareness of how difficult it can be to change a long-standing friendship into romance\u2014a lesson she later applies to Worf."
+          },
+          {
+            "EpisodeID": "tngs7e17",
+            "EpisodeTitle": "Masks",
+            "Role": "Shared concern for Alexander",
+            "TrajectoryNote": "Working with Worf as Alexander struggles with his identity reinforces Troi\u2019s appreciation for Worf\u2019s efforts to be a good father, deepening her affection and respect."
+          },
+          {
+            "EpisodeID": "tngs7e21",
+            "EpisodeTitle": "Firstborn",
+            "Role": "Seeing Worf\u2019s vulnerabilities",
+            "TrajectoryNote": "As Worf grapples with Alexander\u2019s future, Troi\u2019s support helps reveal the depth of his doubts and hopes, contributing to the foundation for their later romantic connection."
+          },
+          {
+            "EpisodeID": "tngs7e25",
+            "EpisodeTitle": "All Good Things...",
+            "Role": "Alternate marriage",
+            "TrajectoryNote": "In a possible future, Troi\u2019s marriage to Worf demonstrates that there is a universe in which they make a life together, prompting her in the present to consider what that would truly mean."
+          }
+        ],
+        "NotableMoments": [
+          {
+            "EpisodeID": "tngs7e21",
+            "EpisodeTitle": "Firstborn",
+            "Description": "Troi\u2019s patient conversations with Worf about Alexander\u2019s choices show her recognizing a gentleness in him that few others see, planting the seeds for later romantic consideration."
+          },
+          {
+            "EpisodeID": "tngs7e25",
+            "EpisodeTitle": "All Good Things...",
+            "Description": "Hearing about her own marriage to Worf in an alternate timeline, Troi feels a jolt of surprise and curiosity that lingers long after the timeline resets, challenging her assumptions about her own romantic future."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CharacterID": "Geordi",
+    "Name": "Geordi La Forge",
+    "Series": [
+      "TNG",
+      "Films"
+    ],
+    "Meta": "Chief engineer, USS Enterprise (NCC-1701-D)",
+    "Relationships": [
+      {
+        "RelationshipID": "Data-Geordi",
+        "Name": "Geordi La Forge and Data",
+        "Series": [
+          "TNG",
+          "Films"
+        ],
+        "RelationshipType": [
+          "Best friends",
+          "Engineering partnership"
+        ],
+        "People": [
+          {
+            "Character": "Geordi La Forge",
+            "BioID": "Geordi"
+          },
+          {
+            "Character": "Data",
+            "BioID": "Data"
+          }
+        ],
+        "Overview": "From Geordi\u2019s point of view, his friendship with Data is the steady center of his life aboard the Enterprise-D. What begins as an easy working relationship between a gifted engineer and an equally gifted android evolves into a bond that defines how Geordi thinks about loyalty, curiosity and what it means to be human. Data never pities Geordi for his VISOR, never flinches from his mistakes and never stops asking questions that push Geordi to see the world in new ways. In return, Geordi treats Data not as a machine to be tuned but as a friend whose growth matters as much as the ship\u2019s next warp-core upgrade.",
+        "StartingPoint": "Early on, Geordi notices that Data gravitates toward him during off-duty hours, asking about human idioms, jokes and social rituals. At first, Geordi approaches these conversations like any other engineering problem: break down the concept, run through examples, see if the android can reproduce the result. But as they work together on the bridge and in main engineering, Geordi realizes that he enjoys Data\u2019s company for its own sake. Data\u2019s literal responses to sarcasm, his earnest attempts at small talk and his complete lack of ego make him easy to be around in a way that few superior officers or peers are. Poker nights, late shifts and tricky repairs gradually blur the line between \u2018colleague\u2019 and \u2018friend\u2019 in Geordi\u2019s mind, until one day he finds himself automatically looking for Data\u2019s presence whenever a new anomaly\u2014or a new joke\u2014turns up.",
+        "Evolution": "As the years pass, Geordi\u2019s friendship with Data is tested by forces that would have shattered a more fragile bond. He watches Data confront questions of personhood in courts and laboratories, and each time Starfleet threatens to treat his friend as property, Geordi feels a personal fury that surprises even him. When Lore twists Data into a dangerous version of himself, Geordi is forced to fight the very man he has spent years trusting with his life, and the memory of being used as a pawn in that struggle lingers long after the crisis ends. Yet it is precisely in the aftermath of these trials\u2014when Data apologizes in his flat, honest way and asks how to make things right\u2014that Geordi understands how real their friendship is. By the time Data begins experimenting with emotions and ultimately chooses to sacrifice himself to save the ship and its crew, Geordi no longer thinks of him as a project in progress but as a friend he has been privileged to know at every stage of an extraordinary journey toward humanity.",
+        "KeyThemes": [
+          "Friendship built on everyday work and trust",
+          "Learning humanity through shared problem-solving",
+          "Forgiveness after violation and betrayal",
+          "Pride in a friend\u2019s growth and sacrifice"
+        ],
+        "KeyEpisodes": [
+          {
+            "EpisodeID": "tngs4e11",
+            "EpisodeTitle": "Data's Day",
+            "Role": "Everyday friendship",
+            "TrajectoryNote": "Geordi\u2019s inclusion in Data\u2019s detailed log of a single day aboard the Enterprise reflects how central their easy camaraderie has become to Data\u2019s understanding of life among humans."
+          },
+          {
+            "EpisodeID": "tngs3e6",
+            "EpisodeTitle": "Booby Trap",
+            "Role": "Brains and circuits in sync",
+            "TrajectoryNote": "Working side by side to free the Enterprise from an ancient trap, Geordi experiences firsthand how naturally their skills mesh when the ship\u2019s survival is at stake."
+          },
+          {
+            "EpisodeID": "tngs7e1",
+            "EpisodeTitle": "Descent, Part II",
+            "Role": "After Lore\u2019s manipulation",
+            "TrajectoryNote": "Once freed from Lore\u2019s influence, Data\u2019s remorse and Geordi\u2019s shaken trust force both of them to redefine what it means to be friends when one has been turned into a weapon against the other."
+          },
+          {
+            "EpisodeID": "tngs3e16",
+            "EpisodeTitle": "The Offspring",
+            "Role": "Pride in Data as a parent",
+            "TrajectoryNote": "Watching Data create and care for Lal, Geordi recognizes the depth of his friend\u2019s commitment to becoming more than the sum of his programming."
+          }
+        ],
+        "NotableMoments": [
+          {
+            "EpisodeID": "tngs4e11",
+            "EpisodeTitle": "Data's Day",
+            "Description": "Geordi\u2019s relaxed banter with Data in engineering\u2014trading advice, jokes and technical ideas\u2014captures the rhythm of a friendship built on countless shared shifts and small, unrecorded moments."
+          },
+          {
+            "EpisodeID": "tngs7e1",
+            "EpisodeTitle": "Descent, Part II",
+            "Description": "After his rescue, Geordi listens as Data explains the frightening appeal of feeling anger under Lore\u2019s control; choosing to stay by his friend\u2019s side rather than pull away, Geordi quietly recommits to helping Data navigate emotions safely."
+          },
+          {
+            "EpisodeID": "tngs3e16",
+            "EpisodeTitle": "The Offspring",
+            "Description": "Seeing Data\u2019s meticulous care for Lal, Geordi feels a surge of protective warmth for both father and daughter, realizing that his friend\u2019s journey toward humanity now includes the grief of losing a child."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CharacterID": "Beverly",
+    "Name": "Beverly Crusher",
+    "Series": [
+      "TNG",
+      "Films"
+    ],
+    "Meta": "Chief medical officer, USS Enterprise (NCC-1701-D)",
+    "Relationships": [
+      {
+        "RelationshipID": "Picard-Beverly",
+        "Name": "Beverly Crusher and Jean-Luc Picard",
+        "Series": [
+          "TNG",
+          "Films"
+        ],
+        "RelationshipType": [
+          "Romantic tension",
+          "Professional partnership"
+        ],
+        "People": [
+          {
+            "Character": "Beverly Crusher",
+            "BioID": "Crusher"
+          },
+          {
+            "Character": "Jean-Luc Picard",
+            "BioID": "Picard"
+          }
+        ],
+        "Overview": "From Beverly\u2019s perspective, her relationship with Jean-Luc Picard is a constantly shifting blend of affection, unfinished grief and professional respect. He is both her captain and the man who once served with her late husband, a living reminder of a life cut short and of feelings she never fully allowed herself to explore. On the Enterprise-D, she depends on Picard\u2019s steadiness and ethical clarity, even as she remains keenly aware of the unspoken attraction between them. The result is a bond with its own diagnosis: stable on the surface, prone to acute flare-ups whenever duty drops away and they are left alone with the past.",
+        "StartingPoint": "When Beverly accepts the assignment to the Enterprise-D, she does so knowing that Picard will be her commanding officer. Their first encounter aboard the ship is layered with tension: she reads in him the same guilt and restraint she has sensed for years whenever their paths crossed after Jack\u2019s death. Professionally, she insists on clean boundaries\u2014he is \u2018Captain\u2019 on the bridge, and she asserts her authority in Sickbay without hesitation. Privately, however, she is wary of spending too much time in his ready room or at his side on away missions, aware that any prolonged conversation risks drifting from reports and autopsies into memories of Jack and the choices they all made. Beverly\u2019s early strategy is simple: keep the relationship contained within the uniform, where Starfleet roles can absorb what personal history cannot.",
+        "Evolution": "Over time, shared crises erode the safety of that distance. Beverly sees Picard irradiated, infected, and nearly lost to forces she can barely comprehend; each time, her professional composure hides a surge of fear that has nothing to do with losing a captain and everything to do with losing Jean-Luc. When circumstances force them into emotional honesty\u2014telepathic links, alternate futures, or the quiet moments after near-disaster\u2014Beverly hears truths she has long suspected: that he loved her, that he still does, and that part of his distance has always been about honoring Jack and Wesley. She responds with her own mixture of longing and caution, unwilling to jeopardize Wesley\u2019s sense of stability or the working family they have built aboard the Enterprise. Glimpses of a possible future in which they marry and divorce affect her deeply; they confirm that the risk is real, but also that their connection is strong enough to survive even that. In the end, Beverly accepts that her life with Picard is defined not by a resolved romance but by a durable intimacy: they may never choose the simple label of lovers, but they trust one another with truths they rarely share with anyone else.",
+        "KeyThemes": [
+          "Love complicated by grief and duty",
+          "Professional independence alongside emotional dependence",
+          "Guilt over the past and fear of the future",
+          "Choosing stability over romantic certainty"
+        ],
+        "KeyEpisodes": [
+          {
+            "EpisodeID": "tngs1e1",
+            "EpisodeTitle": "Encounter at Farpoint",
+            "Role": "Old ghosts on a new ship",
+            "TrajectoryNote": "Beverly\u2019s first day aboard the Enterprise-D forces her to confront Picard not as a distant figure from her past but as her daily commanding officer, rekindling unresolved feelings tied to Jack\u2019s death."
+          },
+          {
+            "EpisodeID": "tngs4e5",
+            "EpisodeTitle": "Remember Me",
+            "Role": "Seeing how he fights for her",
+            "TrajectoryNote": "As reality collapses around her, Beverly later learns the extent to which Picard and the crew refused to accept her loss, reinforcing her sense that she occupies a singular place in his emotional universe."
+          },
+          {
+            "EpisodeID": "tngs7e8",
+            "EpisodeTitle": "Attached",
+            "Role": "Forced confession",
+            "TrajectoryNote": "Linked telepathically on the planet\u2019s surface, Beverly cannot ignore the strength of Picard\u2019s feelings or her own; the experience forces them both to admit that their careful distance has always been a choice, not an inevitability."
+          },
+          {
+            "EpisodeID": "tngs7e25",
+            "EpisodeTitle": "All Good Things...",
+            "Role": "A future they might have had",
+            "TrajectoryNote": "Learning of a possible timeline in which she and Picard marry and later divorce leaves Beverly reflective and unsettled, confirming that their connection is powerful enough to shape entire chapters of each other\u2019s lives."
+          }
+        ],
+        "NotableMoments": [
+          {
+            "EpisodeID": "tngs1e1",
+            "EpisodeTitle": "Encounter at Farpoint",
+            "Description": "On the bridge, Beverly registers Picard\u2019s stiff formality and senses the guilt he still carries; behind her professional calm, she resolves not to let their shared history interfere with her duty\u2014or Wesley\u2019s future."
+          },
+          {
+            "EpisodeID": "tngs7e8",
+            "EpisodeTitle": "Attached",
+            "Description": "Hearing Picard\u2019s unfiltered admission that he has loved her for years, Beverly feels both vindicated and afraid; responding in kind means acknowledging that her own feelings have never really faded."
+          },
+          {
+            "EpisodeID": "tngs7e25",
+            "EpisodeTitle": "All Good Things...",
+            "Description": "Confronted with the knowledge that an alternate Beverly chose to marry Picard despite all the risks, she quietly wonders whether her own caution has protected them\u2014or simply delayed the inevitable reckoning."
+          }
+        ]
+      },
+      {
+        "RelationshipID": "Beverly-Wesley",
+        "Name": "Beverly Crusher and Wesley Crusher",
+        "Series": [
+          "TNG"
+        ],
+        "RelationshipType": [
+          "Mother and son",
+          "Parenting under command"
+        ],
+        "People": [
+          {
+            "Character": "Beverly Crusher",
+            "BioID": "Crusher"
+          },
+          {
+            "Character": "Wesley Crusher",
+            "BioID": "Wesley"
+          }
+        ],
+        "Overview": "Beverly experiences her relationship with Wesley as the core around which every other part of her life orbits. She is a Starfleet officer, a physician, and a trusted member of the senior staff, but she is also a widow raising a gifted, headstrong son in the least conventional environment imaginable. Her pride in Wesley\u2019s intelligence and compassion is matched only by her fear that Starfleet\u2014and her own choices\u2014will cost him the kind of simple, grounded childhood he can never have aboard a starship. Every professional decision she makes is shadowed by the question of what it will mean for him.",
+        "StartingPoint": "When Beverly brings Wesley aboard the Enterprise-D, she is acutely aware that she is exposing him to both opportunity and danger. She still grieves for Jack and knows that he died under Picard\u2019s command; choosing to serve with Jean-Luc again while her son is on the same ship is a gamble she justifies by trusting Picard\u2019s judgment and Starfleet\u2019s safeguards. Wesley\u2019s eagerness to be part of the crew both delights and worries her. On the one hand, his curiosity and technical aptitude make it clear he belongs among the stars; on the other, every time he steps onto the bridge, she feels a surge of protective anxiety. From the beginning, Beverly must navigate two roles: encouraging Wesley\u2019s growth as an individual while trying not to let her fear of losing him turn into smothering control.",
+        "Evolution": "As Wesley grows from an enthusiastic teenager into a young officer-in-training, Beverly\u2019s parenting challenges shift from setting boundaries to accepting his independence. She advocates fiercely for his opportunities\u2014supporting his admission to Starfleet Academy and defending his place aboard the Enterprise\u2014yet insists that he be held accountable when he fails. The Nova Squadron cover-up is particularly wrenching: Beverly\u2019s instinct is to protect her son from the consequences of his choices, but she ultimately backs Picard\u2019s insistence on honesty, recognizing that shielding Wesley would only stunt the man he is becoming. When Wesley eventually leaves the conventional Starfleet path to follow the Traveller, Beverly is left with a complicated mix of emotions: sorrow at his departure, relief that he is alive and pursuing a calling, and a quiet pride that he had the courage to choose his own destiny. Through it all, she measures her success not by whether Wesley stays near her, but by whether he becomes someone she can be proud of from any distance.",
+        "KeyThemes": [
+          "Parenting in a hazardous environment",
+          "Letting go versus holding on",
+          "Balancing protection with accountability",
+          "Living with the legacy of a lost father"
+        ],
+        "KeyEpisodes": [
+          {
+            "EpisodeID": "tngs1e6",
+            "EpisodeTitle": "Where No One Has Gone Before",
+            "Role": "Seeing his potential",
+            "TrajectoryNote": "As the Traveller highlights Wesley\u2019s unique gifts, Beverly realizes that her son\u2019s life will never be ordinary, forcing her to adjust her expectations about what safety and success will look like for him."
+          },
+          {
+            "EpisodeID": "tngs4e9",
+            "EpisodeTitle": "Final Mission",
+            "Role": "Facing his possible loss",
+            "TrajectoryNote": "Stranded and believing Picard might die, Beverly must confront the possibility that Wesley will lose another father figure\u2014and that she may have to help him survive that grief."
+          },
+          {
+            "EpisodeID": "tngs5e19",
+            "EpisodeTitle": "The First Duty",
+            "Role": "Choosing integrity over protection",
+            "TrajectoryNote": "When Wesley\u2019s role in the Academy cover-up comes to light, Beverly struggles between the urge to shield him and the knowledge that letting him face the truth is the only way he will grow."
+          },
+          {
+            "EpisodeID": "tngs7e24",
+            "EpisodeTitle": "Journey's End",
+            "Role": "Letting him choose his path",
+            "TrajectoryNote": "Wesley\u2019s decision to leave Starfleet and follow the Traveller forces Beverly to accept that her son\u2019s destiny lies far beyond the career she imagined for him, even as she remains his emotional home."
+          }
+        ],
+        "NotableMoments": [
+          {
+            "EpisodeID": "tngs1e6",
+            "EpisodeTitle": "Where No One Has Gone Before",
+            "Description": "Watching Wesley interact with the Traveller, Beverly feels a mix of awe and fear, realizing that her son\u2019s gifts connect him to forces she cannot fully understand or control."
+          },
+          {
+            "EpisodeID": "tngs5e19",
+            "EpisodeTitle": "The First Duty",
+            "Description": "Hearing Picard\u2019s harsh but fair rebuke of Wesley, Beverly aches for her son but recognizes that this hard lesson in integrity is one she cannot spare him from if he is to become the man she hopes he will be."
+          },
+          {
+            "EpisodeID": "tngs7e24",
+            "EpisodeTitle": "Journey's End",
+            "Description": "As Wesley departs with the Traveller, Beverly masks her heartbreak with a smile, offering a mother\u2019s blessing even as she privately grapples with the realization that his path has diverged permanently from the one she knew."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CharacterID": "Worf",
+    "Name": "Worf",
+    "Series": [
+      "TNG",
+      "DS9",
+      "Films"
+    ],
+    "Meta": "Klingon Starfleet officer; security/tactical on Enterprise-D, later strategic operations on Deep Space 9",
+    "Relationships": [
+      {
+        "RelationshipID": "Picard-Worf",
+        "Name": "Worf and Jean-Luc Picard",
+        "Series": [
+          "TNG",
+          "Films",
+          "DS9"
+        ],
+        "RelationshipType": [
+          "Captain and officer",
+          "Honor and trust"
+        ],
+        "People": [
+          {
+            "Character": "Worf",
+            "BioID": "Worf"
+          },
+          {
+            "Character": "Jean-Luc Picard",
+            "BioID": "Picard"
+          }
+        ],
+        "Overview": "From Worf\u2019s perspective, his relationship with Captain Jean-Luc Picard is the clearest proof that a Klingon can find honor within Starfleet. Picard is not simply his commanding officer; he is a chadich-like figure whose respect Worf has earned through battle, discipline and difficult choices. Worf trusts that Picard will listen when Klingon custom clashes with Federation law, and in turn Worf measures his own actions against the captain\u2019s standards. Over the years, Picard becomes the one human whose judgment Worf accepts even when it cuts against his instincts, because he has seen Picard risk his own standing to defend Klingon honor.",
+        "StartingPoint": "At first, Worf regards Picard as a capable but distant human captain, one more representative of the Federation that was once his people\u2019s enemy. Serving on the Enterprise-D, he notes Picard\u2019s discipline, his commitment to duty and his willingness to let a Klingon stand on the bridge of a flagship. The turning point comes when Worf\u2019s family name is implicated in the Khitomer massacre. Picard\u2019s decision to accompany Worf to the Klingon High Council and to investigate the accusation signals to Worf that his captain does not see him as a convenient symbol but as a son of the House of Mogh whose honor matters. When Picard agrees to stand as Worf\u2019s cha\u2019DIch\u2014his legal champion\u2014Worf records that a line has been crossed: this human has taken on the risks and burdens of Klingon family politics as if they were his own.",
+        "Evolution": "As Klingon politics grow more volatile, Worf repeatedly finds Picard at the center of decisions that shape both his personal fate and the Empire\u2019s. Picard\u2019s role as arbiter of succession forces Worf to reconcile loyalty to his captain with devotion to the Klingon Chancellor, and each new crisis reveals how much Picard trusts Worf\u2019s insight into his own people. When Worf leaves the Enterprise to fight in the Klingon civil war and later to serve on Deep Space 9, he does so believing that Picard understands and approves: their bond is strong enough to survive separate paths. In later years, Worf continues to treat Picard\u2019s opinion as a moral compass; when he witnesses corruption among Klingon leaders, he remembers how Picard balanced honor and duty and uses that example to guide his own defiance. For Worf, few titles carry as much weight as \u2018this man is my captain,\u2019 and that description applies to Picard long after they no longer share a ship.",
+        "KeyThemes": [
+          "Honor across cultural lines",
+          "Balancing Klingon tradition with Federation duty",
+          "Mentorship through example and risk",
+          "Political loyalty versus personal integrity"
+        ],
+        "KeyEpisodes": [
+          {
+            "EpisodeID": "tngs3e17",
+            "EpisodeTitle": "Sins of the Father",
+            "Role": "Shared risk for Worf\u2019s honor",
+            "TrajectoryNote": "Picard\u2019s choice to serve as Worf\u2019s cha\u2019DIch and uncover the truth behind the Khitomer accusation proves to Worf that his captain will endanger himself for the sake of Klingon honor."
+          },
+          {
+            "EpisodeID": "tngs4e26",
+            "EpisodeTitle": "Redemption",
+            "Role": "Duty to Empire and ship",
+            "TrajectoryNote": "As Klingon civil war erupts, Picard respects Worf\u2019s decision to resign his Starfleet commission, validating Worf\u2019s need to fight for his people without severing their bond."
+          },
+          {
+            "EpisodeID": "tngs5e1",
+            "EpisodeTitle": "Redemption II",
+            "Role": "Return and acceptance",
+            "TrajectoryNote": "Worf\u2019s eventual return to the Enterprise and Picard\u2019s ready acceptance confirm that temporary divergence in duty has not diminished their mutual trust."
+          },
+          {
+            "EpisodeID": "ds9s4e1",
+            "EpisodeTitle": "The Way of the Warrior",
+            "Role": "Picard\u2019s legacy on a new post",
+            "TrajectoryNote": "When Worf arrives on Deep Space 9, his memories of serving under Picard shape how he evaluates Captain Sisko\u2019s leadership and his own role in a new conflict."
+          }
+        ],
+        "NotableMoments": [
+          {
+            "EpisodeID": "tngs3e17",
+            "EpisodeTitle": "Sins of the Father",
+            "Description": "Standing beside Picard in the High Council chamber, Worf witnesses his captain confront Klingon leaders without flinching, deepening his respect and binding his own honor to Picard\u2019s actions."
+          },
+          {
+            "EpisodeID": "tngs4e26",
+            "EpisodeTitle": "Redemption",
+            "Description": "When Picard formally accepts Worf\u2019s resignation, the pain in both men\u2019s expressions underscores for Worf that leaving the Enterprise is not a rejection of his captain, but a sacrifice both of them understand."
+          }
+        ]
+      },
+      {
+        "RelationshipID": "Worf-Alexander",
+        "Name": "Worf and Alexander Rozhenko",
+        "Series": [
+          "TNG",
+          "DS9"
+        ],
+        "RelationshipType": [
+          "Father and son",
+          "Honor versus parenting"
+        ],
+        "People": [
+          {
+            "Character": "Worf",
+            "BioID": "Worf"
+          },
+          {
+            "Character": "Alexander Rozhenko",
+            "BioID": "Alexander"
+          }
+        ],
+        "Overview": "Worf experiences his relationship with his son, Alexander, as his most difficult and revealing test. On the battlefield, Worf knows who he is: a Klingon warrior who lives and dies by a clear code. As a father, he faces a situation in which there is no honorable duel, only compromises and mistakes. Alexander does not fit Worf\u2019s expectations of a Klingon child\u2014he resists training, avoids violence and questions traditions Worf takes for granted. Yet Worf\u2019s love for him forces him to reconsider what it truly means to pass on honor: is it teaching a boy to fight, or teaching him to choose his own path?",
+        "StartingPoint": "Worf\u2019s first real encounter with Alexander comes under tragic circumstances, when K\u2019Ehleyr is mortally wounded and reveals that the boy is his son. Worf\u2019s initial reaction is shock and guilt; he has been denied the chance to shape Alexander\u2019s early years, and now he must decide whether to claim him in the midst of personal disgrace and political chaos. His choice to acknowledge Alexander and take responsibility is an act of honor, but Worf quickly discovers that parenting aboard a starship does not resemble the rigid training he imagined. Alexander dislikes the structure of Klingon lessons, resists ritual and seems overwhelmed by the expectations his father places on him. Worf\u2019s frustration stems as much from his own uncertainty as from the boy\u2019s behavior\u2014no opponent has ever confounded him the way his own child does.",
+        "Evolution": "As Alexander grows, Worf is forced to adapt. He sends the boy to live with his human parents, the Rozhenkos, believing they can offer a gentler childhood; later, guilt and longing bring Alexander back to the Enterprise. Each reunion exposes Worf\u2019s fears that he has failed in both Klingon and human terms: he is neither the stern but wise father of legend nor the openly affectionate parent his human friends model. Through holodeck adventures, counseling sessions and shared crises, Worf slowly learns to listen as much as instruct. On Deep Space 9, when an older Alexander returns as a clumsy recruit in a Klingon defense force, Worf\u2019s embarrassment gradually gives way to pride as he sees his son find a place that suits his own temperament. By accepting Alexander\u2019s different expression of courage, Worf finally understands that honoring one\u2019s family can mean allowing a child to be something other than a reflection of his father.",
+        "KeyThemes": [
+          "Parenting without a clear script",
+          "Identity between cultures",
+          "Redefining honor for the next generation",
+          "Letting a child choose his own way"
+        ],
+        "KeyEpisodes": [
+          {
+            "EpisodeID": "tngs4e7",
+            "EpisodeTitle": "Reunion",
+            "Role": "Discovery of fatherhood",
+            "TrajectoryNote": "K\u2019Ehleyr\u2019s death and Alexander\u2019s presence force Worf to confront unexpected fatherhood and decide whether to claim his son in the midst of political turmoil."
+          },
+          {
+            "EpisodeID": "tngs5e10",
+            "EpisodeTitle": "New Ground",
+            "Role": "Bringing Alexander aboard",
+            "TrajectoryNote": "When Alexander comes to live on the Enterprise, Worf\u2019s struggle to impose Klingon discipline on a reluctant child reveals how unprepared he is for day-to-day parenting."
+          },
+          {
+            "EpisodeID": "tngs5e20",
+            "EpisodeTitle": "Cost of Living",
+            "Role": "Challenging rigid expectations",
+            "TrajectoryNote": "Lwaxana Troi\u2019s influence shows Worf that joy and spontaneity have a place in Alexander\u2019s life, forcing him to loosen his grip on strict tradition."
+          },
+          {
+            "EpisodeID": "ds9s6e21",
+            "EpisodeTitle": "The Sound of Her Voice",
+            "Role": "Reflections on family",
+            "TrajectoryNote": "On Deep Space 9, Worf\u2019s conversations about duty and connection highlight his ongoing efforts to understand what kind of father he has been and still could be."
+          }
+        ],
+        "NotableMoments": [
+          {
+            "EpisodeID": "tngs5e10",
+            "EpisodeTitle": "New Ground",
+            "Description": "Watching Alexander gravitate toward play and curiosity rather than ritual combat, Worf feels both disappointment and reluctant admiration, recognizing a courage that looks different from his own."
+          },
+          {
+            "EpisodeID": "tngs5e20",
+            "EpisodeTitle": "Cost of Living",
+            "Description": "Seeing Alexander revel in the chaotic holodeck commune Lwaxana introduces him to, Worf begins to understand that strict discipline alone will not make his son whole."
+          }
+        ]
+      },
+      {
+        "RelationshipID": "Worf-HouseOfMogh",
+        "Name": "Worf and the House of Mogh",
+        "Series": [
+          "TNG",
+          "DS9"
+        ],
+        "RelationshipType": [
+          "Family honor",
+          "Political burden"
+        ],
+        "People": [
+          {
+            "Character": "Worf",
+            "BioID": "Worf"
+          },
+          {
+            "Character": "Kurn",
+            "BioID": "Kurn"
+          },
+          {
+            "Character": "Mogh",
+            "BioID": "Mogh"
+          }
+        ],
+        "Overview": "For Worf, his relationship with the House of Mogh is both birthright and curse. He carries his father Mogh\u2019s name as a badge of pride, yet that same name becomes the target of lies that nearly destroy his status among Klingons. Worf sees himself as the steward of his house\u2019s honor, responsible not only for his own conduct but for protecting his brother Kurn and the memory of their parents. The weight of that duty often pushes him into choices that cost him personally while preserving the house\u2014or the Empire\u2014from greater disgrace.",
+        "StartingPoint": "Raised by human parents after Khitomer, Worf initially knows the House of Mogh only through fragments of story and ritual. When he returns to the Empire as an adult officer, he discovers that his family name is entangled in the politics of the High Council. The accusation that Mogh betrayed Khitomer shocks Worf; his instinct is to challenge the lie openly, but doing so risks plunging the Council into chaos. Confronting Kurn and learning that his brother has lived in secrecy to protect their shared legacy, Worf realizes that family in the Klingon sense is inseparable from public duty. Accepting discommendation in his father\u2019s place becomes his first major act of sacrificial loyalty to the house.",
+        "Evolution": "As time passes, the House of Mogh\u2019s saga only grows more tangled. Worf\u2019s temporary dishonor, Kurn\u2019s anguish at living as a human, and the machinations of leaders like Duras and later Gowron continually force Worf to choose between what is best for his family and what is best for the Empire. On Deep Space 9, when Klingon politics threaten Kurn\u2019s sanity and life, Worf makes the agonizing decision to have his brother\u2019s memories altered and to place him in another house, effectively ending Kurn\u2019s identity as a son of Mogh. Worf understands that this choice will haunt him, but he makes it believing that preserving his brother\u2019s life is a higher duty than preserving the house\u2019s completeness. By the later years of the Dominion War, Worf has come to see the House of Mogh not as a static lineage but as a story carried in his own actions: whatever titles he may lose or gain, his commitment to truth and honor is what keeps his family\u2019s name alive.",
+        "KeyThemes": [
+          "Family as public duty",
+          "Carrying ancestral guilt and honor",
+          "Sacrifice of self for house and Empire",
+          "Identity reshaped by political necessity"
+        ],
+        "KeyEpisodes": [
+          {
+            "EpisodeID": "tngs3e17",
+            "EpisodeTitle": "Sins of the Father",
+            "Role": "Taking the burden of dishonor",
+            "TrajectoryNote": "Worf\u2019s acceptance of discommendation to protect the Empire and his brother defines his understanding of what it means to act as head of the House of Mogh."
+          },
+          {
+            "EpisodeID": "tngs4e26",
+            "EpisodeTitle": "Redemption",
+            "Role": "Fighting for the house and Empire",
+            "TrajectoryNote": "Joining the civil war, Worf stakes his life and status on restoring his family\u2019s name and supporting a Chancellor who can hold the Empire together."
+          },
+          {
+            "EpisodeID": "ds9s4e15",
+            "EpisodeTitle": "Sons of Mogh",
+            "Role": "Erasing his brother to save him",
+            "TrajectoryNote": "Worf\u2019s decision to have Kurn\u2019s memory altered severs his brother from the House of Mogh but spares him a life of despair, marking one of Worf\u2019s most painful compromises."
+          }
+        ],
+        "NotableMoments": [
+          {
+            "EpisodeID": "tngs3e17",
+            "EpisodeTitle": "Sins of the Father",
+            "Description": "Standing alone in the Great Hall as other Klingons turn their backs, Worf accepts ostracism with rigid dignity, internalizing the lesson that true honor often goes unrecognized."
+          },
+          {
+            "EpisodeID": "ds9s4e15",
+            "EpisodeTitle": "Sons of Mogh",
+            "Description": "Watching Kurn walk away with a new identity, Worf feels the paradox of having saved his brother by effectively killing the man he knew, a burden he silently adds to the house\u2019s ledger."
+          }
+        ]
+      },
+      {
+        "RelationshipID": "Worf-Duras-Gowron",
+        "Name": "Worf and Duras / Gowron",
+        "Series": [
+          "TNG",
+          "DS9"
+        ],
+        "RelationshipType": [
+          "Political rivalry",
+          "Honor versus power"
+        ],
+        "People": [
+          {
+            "Character": "Worf",
+            "BioID": "Worf"
+          },
+          {
+            "Character": "Duras",
+            "BioID": "Duras"
+          },
+          {
+            "Character": "Gowron",
+            "BioID": "Gowron"
+          }
+        ],
+        "Overview": "Worf\u2019s interactions with Duras and Gowron embody the clash between his rigid sense of honor and the messy realities of Klingon politics. Duras represents the corruption that nearly destroys his family, while Gowron begins as an ally and ends as a cautionary tale about how power can erode principle. Through them, Worf learns that simply being Klingon does not guarantee honor, and that sometimes loyalty to the Empire requires opposing its leaders.",
+        "StartingPoint": "Worf\u2019s hatred of Duras crystallizes when evidence of Duras\u2019s father\u2019s betrayal at Khitomer is suppressed and the blame is placed on the House of Mogh. Forced to accept discommendation, Worf stores away a personal vow: Duras will answer for his crimes. When the chance comes during the succession crisis, and Duras murders K\u2019Ehleyr, Worf kills him in a duel, satisfying both personal and cultural demands for justice. Gowron enters Worf\u2019s life as the apparent antidote to Duras\u2019s corruption: an outsider candidate whom Worf supports as the more honorable choice for Chancellor. At that stage, Worf believes that allying with Gowron will help restore both his house and the Empire.",
+        "Evolution": "Over time, Worf\u2019s view of these men shifts. Duras\u2019s death does not undo the damage he has done, and dealing with the Duras sisters during the civil war and later in the Dominion War shows Worf that corruption spreads beyond a single individual. Gowron, meanwhile, changes from embattled reformer to self-serving wartime leader whose decisions increasingly waste Klingon lives for personal glory. On Deep Space 9, Worf watches Gowron undermine the effective leadership of Martok, and his patience finally breaks. Challenging Gowron and killing him in honorable combat, Worf then refuses the Chancellorship, placing the mantle on Martok instead. In doing so, he completes a long arc from victim of political games to an active shaper of the Empire\u2019s future, guided less by loyalty to any one leader than by loyalty to the idea of what Klingon leadership should be.",
+        "KeyThemes": [
+          "Justice versus vengeance",
+          "Disillusionment with corrupt authority",
+          "Choosing principle over personal gain",
+          "Reshaping a warrior culture from within"
+        ],
+        "KeyEpisodes": [
+          {
+            "EpisodeID": "tngs4e7",
+            "EpisodeTitle": "Reunion",
+            "Role": "Killing Duras",
+            "TrajectoryNote": "Worf\u2019s execution of Duras for K\u2019Ehleyr\u2019s murder satisfies ancient codes of vengeance but deepens his entanglement in Klingon politics."
+          },
+          {
+            "EpisodeID": "tngs4e26",
+            "EpisodeTitle": "Redemption",
+            "Role": "Backing Gowron",
+            "TrajectoryNote": "Supporting Gowron in the civil war, Worf stakes his family\u2019s honor on the belief that this leader will restore integrity to the High Council."
+          },
+          {
+            "EpisodeID": "ds9s7e19",
+            "EpisodeTitle": "Tacking into the Wind",
+            "Role": "Challenging Gowron\u2019s decay",
+            "TrajectoryNote": "Worf\u2019s decision to kill Gowron and elevate Martok marks his final rejection of blind loyalty to flawed leaders in favor of serving the Empire itself."
+          }
+        ],
+        "NotableMoments": [
+          {
+            "EpisodeID": "tngs4e7",
+            "EpisodeTitle": "Reunion",
+            "Description": "When Worf strikes down Duras in single combat, he feels the satisfaction of avenging K\u2019Ehleyr and Mogh, even as he knows Starfleet will condemn the act."
+          },
+          {
+            "EpisodeID": "ds9s7e19",
+            "EpisodeTitle": "Tacking into the Wind",
+            "Description": "Standing over Gowron\u2019s defeated body and placing the mantle of leadership on Martok, Worf chooses the future of the Empire over the temptation of ultimate power."
+          }
+        ]
+      },
+      {
+        "RelationshipID": "Worf-Jadzia",
+        "Name": "Worf and Jadzia Dax",
+        "Series": [
+          "DS9"
+        ],
+        "RelationshipType": [
+          "Romance",
+          "War-time partnership"
+        ],
+        "People": [
+          {
+            "Character": "Worf",
+            "BioID": "Worf"
+          },
+          {
+            "Character": "Jadzia Dax",
+            "BioID": "Jadzia Dax"
+          }
+        ],
+        "Overview": "Worf experiences his relationship with Jadzia Dax as the rare union of a warrior\u2019s heart with a kindred spirit who understands him on multiple levels. Jadzia is both a Starfleet science officer and a centuries-old joined Trill, someone who can match Worf in debate, in combat practice and in stubbornness. She embraces Klingon culture not out of obligation but out of genuine enthusiasm, allowing Worf to share rituals and passions he had long assumed no partner would fully accept. Their bond convinces him that love and honor can reinforce rather than weaken one another.",
+        "StartingPoint": "When Worf first arrives on Deep Space 9, he sees Jadzia as an intriguing but puzzling figure: a woman who laughs easily, fights hard and seems unintimidated by his stern demeanor. Their initial interactions are marked by teasing and challenge; Jadzia refuses to let Worf hide behind formality, calling him out when he is rigid or unfair. As she reveals her deep familiarity with Klingon history and tradition\u2014some of it acquired firsthand in previous lives\u2014Worf begins to recognize in her a companion who not only understands his culture but delights in it. Their friendship shifts toward romance when shared missions and near-death experiences make it clear that their respect and attraction run both ways.",
+        "Evolution": "Once committed, Worf and Jadzia navigate the demands of war, station life and cultural expectations together. Their courtship blends Klingon intensity with Jadzia\u2019s irreverent humor, culminating in a wedding rich with ritual and personal meaning. Worf learns to bend\u2014allowing Jadzia to keep aspects of herself that do not fit traditional Klingon roles\u2014while Jadzia proves she is willing to fight alongside him in the most dangerous theaters of the Dominion War. Her death at Dukat\u2019s hands shatters Worf\u2019s world; he channels his grief into fury, vows vengeance and struggles to reconcile his duties as a Starfleet officer with his desire for blood. Over time, memories of Jadzia\u2019s laughter and courage guide him toward a more balanced way of honoring her: not only by seeking justice, but by living in a way that reflects the joy and curiosity she brought into his life.",
+        "KeyThemes": [
+          "Love woven with shared battle",
+          "Cultural acceptance and adaptation",
+          "Grief and the demand for vengeance",
+          "Finding joy within a warrior\u2019s life"
+        ],
+        "KeyEpisodes": [
+          {
+            "EpisodeID": "ds9s5e3",
+            "EpisodeTitle": "Looking for par'Mach in All the Wrong Places",
+            "Role": "Romantic turning point",
+            "TrajectoryNote": "Helping another couple navigate Klingon courtship forces Worf and Jadzia to confront their own attraction, transforming flirtation into open acknowledgment."
+          },
+          {
+            "EpisodeID": "ds9s6e7",
+            "EpisodeTitle": "You Are Cordially Invited",
+            "Role": "Marriage through trial",
+            "TrajectoryNote": "Facing Martok\u2019s wife\u2019s disapproval and grueling Klingon traditions, Worf and Jadzia prove their commitment to each other and to blending their lives."
+          },
+          {
+            "EpisodeID": "ds9s6e15",
+            "EpisodeTitle": "Change of Heart",
+            "Role": "Choosing love over mission",
+            "TrajectoryNote": "Worf abandons a critical mission to save Jadzia\u2019s life, accepting the career consequences as the price of not losing her."
+          },
+          {
+            "EpisodeID": "ds9s6e26",
+            "EpisodeTitle": "Tears of the Prophets",
+            "Role": "Irreversible loss",
+            "TrajectoryNote": "Jadzia\u2019s death plunges Worf into grief and rage, reorienting his goals for the remainder of the war around honoring her memory."
+          }
+        ],
+        "NotableMoments": [
+          {
+            "EpisodeID": "ds9s5e3",
+            "EpisodeTitle": "Looking for par'Mach in All the Wrong Places",
+            "Description": "Realizing that his coaching of another Klingon suitor has become an outlet for his own feelings, Worf finally stops pretending that his bond with Jadzia is purely comradeship."
+          },
+          {
+            "EpisodeID": "ds9s6e7",
+            "EpisodeTitle": "You Are Cordially Invited",
+            "Description": "During the chaotic, tradition-laden wedding, Worf\u2019s pride in calling Jadzia his wife is evident, even as he stumbles through the compromises marriage demands."
+          },
+          {
+            "EpisodeID": "ds9s6e26",
+            "EpisodeTitle": "Tears of the Prophets",
+            "Description": "Kneeling beside Jadzia\u2019s body in the infirmary, Worf\u2019s silent grief reveals how completely she had become the center of his personal life."
+          }
+        ]
+      },
+      {
+        "RelationshipID": "Worf-Ezri",
+        "Name": "Worf and Ezri Dax",
+        "Series": [
+          "DS9"
+        ],
+        "RelationshipType": [
+          "Grief entangled with new connection"
+        ],
+        "People": [
+          {
+            "Character": "Worf",
+            "BioID": "Worf"
+          },
+          {
+            "Character": "Ezri Dax",
+            "BioID": "Ezri Dax"
+          }
+        ],
+        "Overview": "Worf\u2019s relationship with Ezri Dax begins as a painful complication of his grief for Jadzia. Ezri carries the Dax symbiont and with it the memories of Worf\u2019s late wife, yet she is also a distinct young woman with her own fears, doubts and desires. For Worf, every interaction with Ezri initially feels like an intrusion on his mourning: the familiar voice, shared jokes and half-remembered intimacy belong to Jadzia, but the person standing before him is someone else. Wrestling with this dissonance forces Worf to confront what, exactly, he loved in Jadzia and how to honor that love without denying Ezri\u2019s autonomy.",
+        "StartingPoint": "When Ezri arrives on Deep Space 9 unexpectedly joined to Dax, Worf reacts with anger and avoidance. He sees in her an unasked-for reminder of all he has lost and struggles to treat her as anything other than a flawed echo of his wife. Ezri, inexperienced with both her symbiont and her role as counselor, finds Worf\u2019s hostility confusing and hurtful, especially given the warmth Jadzia once felt for him. Worf\u2019s instinct is to cling to Klingon ritual and grief, treating Jadzia\u2019s death as a wound that must not be allowed to scab over too quickly. Ezri\u2019s presence threatens that carefully maintained pain.",
+        "Evolution": "Over time, shared missions and emotional confrontations push Worf and Ezri toward a clearer understanding. They briefly explore a romantic rekindling, driven as much by Worf\u2019s yearning for Jadzia and Ezri\u2019s confusion about her inherited feelings as by genuine compatibility. The experiment proves painful; arguments and lingering guilt make it clear that neither of them can move forward while treating Ezri as Jadzia\u2019s continuation rather than her own person. In the end, Worf accepts that his marriage was to Jadzia, not to Dax as an abstract entity, and that loving Ezri would require seeing her as entirely herself. Choosing not to pursue that path, he instead reframes their connection as comradeship: he will honor Jadzia by respecting Ezri\u2019s choices and acknowledging the unique role she plays in helping him let go. By the close of the Dominion War, Worf can look at Ezri without flinching, his grief for Jadzia transformed from raw rage into a quieter, enduring loyalty.",
+        "KeyThemes": [
+          "Grief and identity in a joined species",
+          "Letting the dead go while respecting the living",
+          "Distinguishing love for a person from love for a legacy",
+          "Reframing a relationship when romance is harmful"
+        ],
+        "KeyEpisodes": [
+          {
+            "EpisodeID": "ds9s7e2",
+            "EpisodeTitle": "Shadows and Symbols",
+            "Role": "First encounters with Ezri",
+            "TrajectoryNote": "Worf\u2019s cold reaction to Ezri\u2019s arrival highlights how unprepared he is to face a new host carrying Jadzia\u2019s memories so soon after her death."
+          },
+          {
+            "EpisodeID": "ds9s7e8",
+            "EpisodeTitle": "The Siege of AR-558",
+            "Role": "Shared trauma at the front",
+            "TrajectoryNote": "Fighting side by side in one of the war\u2019s ugliest battles, Worf recognizes Ezri\u2019s courage independent of Jadzia\u2019s legacy."
+          },
+          {
+            "EpisodeID": "ds9s7e19",
+            "EpisodeTitle": "Tacking into the Wind",
+            "Role": "Clarity about the past",
+            "TrajectoryNote": "By the time Worf challenges Gowron, his interactions with Ezri show that they have reached a point of mutual respect no longer clouded by romantic confusion."
+          }
+        ],
+        "NotableMoments": [
+          {
+            "EpisodeID": "ds9s7e2",
+            "EpisodeTitle": "Shadows and Symbols",
+            "Description": "Worf\u2019s stiff, formal manner with Ezri and his refusal to use familiar terms make clear that he sees her presence as an affront to his mourning, even if he cannot say so outright."
+          },
+          {
+            "EpisodeID": "ds9s7e8",
+            "EpisodeTitle": "The Siege of AR-558",
+            "Description": "In the trenches, Worf watches Ezri face terror and exhaustion without retreat, prompting him to acknowledge that her bravery belongs to her, not just to the memories she carries."
+          }
+        ]
+      }
+    ]
   }
 ]
