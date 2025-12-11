@@ -995,5 +995,230 @@
         ]
       }
     ]
+  },
+  {
+    "CharacterID": "McCoy",
+    "Name": "Leonard McCoy",
+    "Series": [
+      "TOS",
+      "Films"
+    ],
+    "Meta": "Chief medical officer, USS Enterprise (NCC-1701)",
+    "Relationships": [
+      {
+        "RelationshipID": "Kirk-McCoy",
+        "Name": "Leonard McCoy and James T. Kirk",
+        "Series": [
+          "TOS",
+          "Films"
+        ],
+        "RelationshipType": [
+          "Friendship",
+          "Moral conscience"
+        ],
+        "People": [
+          {
+            "Character": "Leonard McCoy",
+            "BioID": "McCoy"
+          },
+          {
+            "Character": "James T. Kirk",
+            "BioID": "Kirk"
+          }
+        ],
+        "Overview": "From McCoy\u2019s perspective, his relationship with Jim Kirk is an old-fashioned, thoroughly human friendship wrapped around the responsibilities of starship command. He sees Kirk as a brilliant, driven captain who will put himself between danger and his crew every time, but also as a man who carries too much of the galaxy on his shoulders. McCoy appoints himself as the one person aboard who can puncture Kirk\u2019s ego, call out his self-destructive impulses, and remind him that lives are more than entries in a log. The banter, arguments, and shared drinks are all part of the same mission: to keep Kirk tethered to his own humanity while he tries to save everyone else\u2019s.",
+        "StartingPoint": "By the time we meet them, McCoy and Kirk already share a comfortable shorthand born of years together. McCoy calls him \u201cJim\u201d even on the bridge, ignoring protocol when he thinks it\u2019s necessary, and Kirk allows it because he knows the doctor\u2019s irreverence comes from concern. Early crisis after crisis confirms for McCoy that Kirk is willing to risk everything, including himself, for the crew, and that someone has to stand at his elbow to say when enough is enough. McCoy\u2019s background as a country doctor and his somewhat old-fashioned ethics make him sensitive to any hint that Kirk might be turning people into pieces on a tactical board, and he digs his heels in whenever he senses that happening.",
+        "Evolution": "As their missions grow darker and the toll of command accumulates, McCoy\u2019s role in Kirk\u2019s life deepens. He tends Kirk\u2019s physical wounds, but he also tends the psychic ones\u2014losses, career frustrations, fear of aging and obsolescence\u2014as frankly as he would a broken bone. Over time, McCoy becomes the person who can tell Kirk he\u2019s wrong, or that he is lying to himself, without shattering their bond. In the films, as the years weigh on both men, McCoy watches Kirk wrestle with mortality, regret and diminished authority; he responds by pushing him to keep living rather than merely surviving in a desk job. Their friendship shifts from mentor-and-young-captain to two aging men holding each other up as the universe changes around them, still bound by loyalty that predates the Enterprise and will outlast her.",
+        "KeyThemes": [
+          "Conscience versus command",
+          "Friendship under pressure",
+          "Aging and fear of irrelevance",
+          "The human cost of leadership"
+        ],
+        "KeyEpisodes": [
+          {
+            "EpisodeID": "toss1e26",
+            "EpisodeTitle": "The Devil in the Dark",
+            "Role": "Balancing compassion and security",
+            "TrajectoryNote": "McCoy initially focuses on the miners\u2019 injuries, but his work with Kirk and Spock to understand the Horta reinforces his belief that Jim can be persuaded toward mercy when confronted with the living victims of Federation policy."
+          },
+          {
+            "EpisodeID": "toss1e28",
+            "EpisodeTitle": "The City on the Edge of Forever",
+            "Role": "Accidental catalyst and burden of guilt",
+            "TrajectoryNote": "McCoy\u2019s drug-induced flight into the past triggers a tragedy that Kirk must allow to unfold, leaving McCoy with the knowledge that his friend chose history over personal happiness and deepening his sense of how lonely command truly is."
+          },
+          {
+            "EpisodeID": "film-ST2",
+            "EpisodeTitle": "Star Trek II: The Wrath of Khan",
+            "Role": "Friend in a midlife crisis",
+            "TrajectoryNote": "In the face of Kirk\u2019s unease about age and promotion, McCoy needles him about \u2018getting his command back,\u2019 refusing to indulge self-pity and reminding him that hiding behind a desk is the surest way to die inside."
+          }
+        ],
+        "NotableMoments": [
+          {
+            "EpisodeID": "toss1e1",
+            "EpisodeTitle": "The Man Trap",
+            "Description": "McCoy\u2019s turmoil over Nancy and the salt creature collides with Kirk\u2019s insistence on protecting the crew, setting an early pattern in which McCoy\u2019s personal entanglements force Kirk to account for the emotional fallout of his decisions."
+          },
+          {
+            "EpisodeID": "toss1e28",
+            "EpisodeTitle": "The City on the Edge of Forever",
+            "Description": "When the timeline is restored and they return to the Guardian, McCoy is stunned by Kirk\u2019s abrupt command to \u2018let her die,\u2019 and the raw grief in Kirk\u2019s face confirms for McCoy that command sometimes demands sacrifices no one should have to make."
+          },
+          {
+            "EpisodeID": "film-ST2",
+            "EpisodeTitle": "Star Trek II: The Wrath of Khan",
+            "Description": "In Kirk\u2019s apartment, McCoy arrives with illegal Romulan ale and blunt advice, pushing him to stop sulking about birthdays and remember that his true place is on the bridge, where he can still make a difference."
+          }
+        ]
+      },
+      {
+        "RelationshipID": "Spock-McCoy",
+        "Name": "Leonard McCoy and Spock",
+        "Series": [
+          "TOS",
+          "Films"
+        ],
+        "RelationshipType": [
+          "Intellectual sparring",
+          "Respect beneath conflict"
+        ],
+        "People": [
+          {
+            "Character": "Leonard McCoy",
+            "BioID": "McCoy"
+          },
+          {
+            "Character": "Spock",
+            "BioID": "Spock"
+          }
+        ],
+        "Overview": "From McCoy\u2019s perspective, Spock is at once infuriating and indispensable: a colleague whose devotion to logic often seems to erase the very patients McCoy is sworn to protect, yet who repeatedly proves willing to risk his life for those same people. McCoy picks fights with Spock because he believes someone aboard has to champion emotion, pain, and the messy business of being alive, and Spock is the perfect foil for his arguments. Over time, the jabs about green blood and pointy ears become a shared language; beneath the insults, McCoy recognizes in Spock a man who holds himself to impossible standards and needs someone to remind him he is more than a walking computer.",
+        "StartingPoint": "Early in their relationship, McCoy treats Spock\u2019s Vulcan detachment as both a medical curiosity and a moral provocation. He needles Spock about his lack of bedside manner, questions his recommendations when they seem to discount suffering, and loudly objects whenever logic appears to trump compassion. Spock\u2019s cool rejoinders only aggravate him, yet McCoy also quickly learns that Spock is almost always right about the science. That tension\u2014between irritation at Spock\u2019s tone and respect for his competence\u2014drives McCoy to keep challenging him, convinced that if he lets Spock\u2019s worldview go unopposed, the ship will slowly slide into cold calculation.",
+        "Evolution": "Shared crises gradually reveal to McCoy that Spock\u2019s devotion to logic masks a profound, carefully buried empathy. Each time Spock volunteers for a suicide mission or accepts physical torment as a reasonable cost, McCoy\u2019s anger is fueled by fear of losing him. When Spock entrusts his katra to McCoy before sacrificing his life, the doctor is stunned to discover that he has become the guardian of Spock\u2019s mind; the experience of carrying that presence inside him forces McCoy to reckon with how deeply attached he has grown. After Spock\u2019s restoration, their bickering resumes, but the edge is softer, colored by the memory that Spock chose McCoy as the one person he trusted to bear his essence. For McCoy, the Vulcan he once called unfeeling becomes one of the few people whose judgment he relies on absolutely.",
+        "KeyThemes": [
+          "Logic versus emotion in practice",
+          "Respect expressed as argument",
+          "Carrying one another\u2019s burdens",
+          "Seeing the person behind the role"
+        ],
+        "KeyEpisodes": [
+          {
+            "EpisodeID": "toss1e26",
+            "EpisodeTitle": "The Devil in the Dark",
+            "Role": "Clash over priorities",
+            "TrajectoryNote": "McCoy\u2019s focus on injured miners collides with Spock\u2019s insistence on understanding the Horta, but their combined efforts\u2014Spock\u2019s mind meld and McCoy\u2019s improvised surgery\u2014convince McCoy that logic and compassion can work in tandem."
+          },
+          {
+            "EpisodeID": "toss2e18",
+            "EpisodeTitle": "The Immunity Syndrome",
+            "Role": "Debating sacrifice",
+            "TrajectoryNote": "As Spock volunteers for a deadly mission into the space organism, McCoy argues bitterly against treating crew lives as expendable, revealing how much he fears losing the Vulcan he claims to merely tolerate."
+          },
+          {
+            "EpisodeID": "toss3e9",
+            "EpisodeTitle": "The Tholian Web",
+            "Role": "Grief laid bare",
+            "TrajectoryNote": "With Kirk presumed dead, McCoy\u2019s confrontation with Spock over command decisions erupts into personal accusations, but the subsequent reconciliation shows McCoy recognizing that Spock is grieving just as deeply in his own way."
+          },
+          {
+            "EpisodeID": "film-ST3",
+            "EpisodeTitle": "Star Trek III: The Search for Spock",
+            "Role": "Katra bearer",
+            "TrajectoryNote": "Burdened with Spock\u2019s katra, McCoy swings between exasperation and desperate determination, ultimately risking his career and sanity to restore his friend, which cements the bond he once disguised behind insults."
+          }
+        ],
+        "NotableMoments": [
+          {
+            "EpisodeID": "toss1e26",
+            "EpisodeTitle": "The Devil in the Dark",
+            "Description": "After performing makeshift surgery on the Horta at Spock\u2019s urging, McCoy can\u2019t resist crowing about having \u2018cured a patient with silicon-based life,\u2019 revealing how much he enjoys proving that medicine and Vulcan logic together can achieve the impossible."
+          },
+          {
+            "EpisodeID": "toss3e9",
+            "EpisodeTitle": "The Tholian Web",
+            "Description": "Their fierce argument over Kirk\u2019s final orders ends with McCoy begrudgingly admitting that Spock may be right, signaling that beneath the bluster he trusts Spock to do what Jim would have wanted."
+          },
+          {
+            "EpisodeID": "film-ST3",
+            "EpisodeTitle": "Star Trek III: The Search for Spock",
+            "Description": "Once Spock is restored on Vulcan, McCoy\u2019s mixture of relief and annoyance that Spock left his mind in such a state plays out in a wry exchange, confirming that their abrasive affection has survived even death."
+          }
+        ]
+      },
+      {
+        "RelationshipID": "Kirk-Spock-McCoy",
+        "Name": "Kirk, Spock and McCoy (The Triad)",
+        "Series": [
+          "TOS",
+          "Films"
+        ],
+        "RelationshipType": [
+          "Command core",
+          "Ethical triangulation"
+        ],
+        "People": [
+          {
+            "Character": "Leonard McCoy",
+            "BioID": "McCoy"
+          },
+          {
+            "Character": "James T. Kirk",
+            "BioID": "Kirk"
+          },
+          {
+            "Character": "Spock",
+            "BioID": "Spock"
+          }
+        ],
+        "Overview": "McCoy experiences the triad he shares with Kirk and Spock as a constant, necessary argument that keeps the Enterprise from losing its soul. He sees himself as the voice of ordinary people\u2014the patients, colonists and enlisted crew\u2014standing between Spock\u2019s ruthless logic and Kirk\u2019s appetite for risk. When the three of them gather in Kirk\u2019s quarters or the briefing room, McCoy expects tension; without it, he worries that something has gone wrong. Over the years, he comes to understand that their debates are not a sign of division but the very mechanism by which the ship\u2019s moral course is set.",
+        "StartingPoint": "At first, McCoy simply follows his instincts: he objects when he thinks Kirk or Spock is ignoring the human cost of a decision, and he has no interest in being diplomatic about it. Kirk, however, keeps inviting him into strategic conversations, refusing to let him retreat into sickbay, and Spock grows accustomed to having his logic challenged twice\u2014once in front of the captain and again in private. McCoy gradually realizes that Kirk wants them together precisely because they disagree; their three-way arguments help the captain test every angle before committing to a course of action, and McCoy\u2019s role is to make sure the \u2018medicine\u2019 of logic never overwhelms the patient.",
+        "Evolution": "As stakes rise\u2014from brushfire conflicts and godlike entities to Federation-wide diplomatic crises\u2014the triad\u2019s internal balance becomes more deliberate. McCoy learns when to push and when to hold back, recognizing that sometimes Spock must be allowed to make the hard call and sometimes Kirk must be left alone with his burdens. Yet when either man drifts too far\u2014Spock into cold utilitarianism, Kirk into reckless heroics\u2014McCoy steps in without hesitation. Their shared history in the later films, especially the decision to risk everything to restore Spock and the shared experience of aging out of front-line command, tightens the bond into something like family. For McCoy, the triad becomes the lens through which he understands his own life: whatever else he is, he is the doctor who stood between mind and will and kept them both honest.",
+        "KeyThemes": [
+          "Mind, heart and will in tension",
+          "Debate as moral engine",
+          "Family forged in service",
+          "Guarding the soul of the ship"
+        ],
+        "KeyEpisodes": [
+          {
+            "EpisodeID": "toss2e19",
+            "EpisodeTitle": "A Private Little War",
+            "Role": "Arguing intervention",
+            "TrajectoryNote": "McCoy\u2019s horror at arming a local faction puts him at odds with Kirk\u2019s strategic concerns and Spock\u2019s cold analysis, but the three-way clash forces a more nuanced approach than any of them would have chosen alone."
+          },
+          {
+            "EpisodeID": "toss2e18",
+            "EpisodeTitle": "The Immunity Syndrome",
+            "Role": "Balancing sacrifice",
+            "TrajectoryNote": "Faced with an apocalyptic threat, McCoy fights both Kirk\u2019s willingness to risk lives and Spock\u2019s readiness to volunteer for a seemingly fatal mission, making the triad confront exactly what they are willing to sacrifice."
+          },
+          {
+            "EpisodeID": "film-ST3",
+            "EpisodeTitle": "Star Trek III: The Search for Spock",
+            "Role": "Choosing family over orders",
+            "TrajectoryNote": "Kirk and McCoy\u2019s decision to defy Starfleet to restore Spock transforms their three-way partnership into a self-conscious family unit, one that defines itself in opposition to bureaucratic logic when conscience demands it."
+          }
+        ],
+        "NotableMoments": [
+          {
+            "EpisodeID": "toss2e19",
+            "EpisodeTitle": "A Private Little War",
+            "Description": "In Kirk\u2019s quarters, McCoy\u2019s furious condemnation of escalating the arms race, countered by Spock\u2019s tactical realities and Kirk\u2019s anguish, showcases the triad at its most raw, turning a policy debate into a moral reckoning."
+          },
+          {
+            "EpisodeID": "toss2e18",
+            "EpisodeTitle": "The Immunity Syndrome",
+            "Description": "As they weigh sending Spock to almost certain death, McCoy\u2019s refusal to accept the loss without exhausting every alternative forces Kirk and Spock to confront the personal cost behind their seemingly logical plan."
+          },
+          {
+            "EpisodeID": "film-ST6",
+            "EpisodeTitle": "Star Trek VI: The Undiscovered Country",
+            "Description": "Older and battle-worn, the trio\u2019s brief exchanges on the Enterprise-A bridge retain all the familiar rhythms\u2014Spock\u2019s analysis, McCoy\u2019s exasperation, Kirk\u2019s synthesis\u2014demonstrating that their dynamic still anchors the ship even as the political order shifts."
+          }
+        ]
+      }
+    ]
   }
 ]
