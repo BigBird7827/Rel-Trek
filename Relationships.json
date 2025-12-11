@@ -8664,5 +8664,1629 @@
         ]
       }
     ]
+  },
+  {
+    "CharacterID": "RaffiMusiker",
+    "Name": "Raffi Musiker",
+    "Series": [
+      "PIC"
+    ],
+    "Meta": "Raffi Musiker is a brilliant but damaged intelligence officer and former Starfleet commander whose work on the Romulan rescue effort, subsequent disgrace, and long struggle with addiction leave deep scars. Fiercely loyal beneath the anger, she oscillates between pushing people away and fighting desperately to save them\u2014and the ideals she still believes Starfleet ought to stand for.",
+    "Relationships": [
+      {
+        "RelationshipID": "Picard-RaffiMusiker",
+        "Name": "Jean-Luc Picard and Raffi Musiker",
+        "Series": [
+          "PIC"
+        ],
+        "RelationshipType": [
+          "Captain\u2013First Officer",
+          "Found Family",
+          "Betrayal and Reconciliation"
+        ],
+        "People": [
+          {
+            "Character": "Raffi Musiker",
+            "BioID": "RaffiMusiker"
+          },
+          {
+            "Character": "Jean-Luc Picard",
+            "BioID": "Picard"
+          }
+        ],
+        "Overview": "Raffi and Jean-Luc Picard share one of the most emotionally loaded bonds of the Picard era. She is his handpicked intelligence officer and right hand during the Romulan evacuation, the one who does the dirty work and connects the dots while he serves as the public face. When Starfleet abandons the rescue and Picard responds by resigning, Raffi is left behind to take the professional and personal fallout. Her deep admiration for Picard curdles into a sense of abandonment and rage. Years later, when he reappears asking for help, their relationship becomes a long, painful negotiation between the man she still loves and believes in, and the man who walked away when she needed him most.",
+        "StartingPoint": "Before the events of the series, Picard recruits Raffi as his key lieutenant on the Romulan rescue effort. She respects his moral clarity and strategic mind, and he trusts her unconventional instincts and deep intel background. Together they push Starfleet to take the evacuation seriously, sharing late-night strategy sessions and hard calls about what risks are acceptable. When the synth attack on Mars derails the rescue and Starfleet orders a retreat, Raffi stands beside Picard as he issues an ultimatum: continue the mission or accept his resignation. Starfleet calls his bluff. He resigns. She is not offered the same escape\u2014Raffi is dismissed, discredited, and left to spiral while Picard retreats to his vineyard. From Raffi\u2019s perspective, that is the moment he stops being simply a mentor and becomes the man who left her to drown in the wreckage of their shared cause.",
+        "Evolution": "Years later, when Picard tracks her down at Vasquez Rocks, the reunion is raw. Raffi is living in a trailer, struggling with addiction, estranged from her family, and furious that Picard never reached out. She mocks his vineyard, his privilege, and his timing\u2014yet even in her anger, she agrees to help investigate the Romulan conspiracy surrounding Dahj and Soji. As they chase the truth together, old rhythms resurface: Raffi runs down leads, infiltrates, and connects patterns while Picard plays diplomat and conscience. Over the first season and into later years, they slowly rebuild a measure of trust. Picard apologizes not only with words but by once again treating her as essential, not expendable. By the time of the Changeling and Borg threats, Raffi is back in uniform and eventually serving under Seven on the Enterprise-G, and her interactions with Picard carry a layer of wry affection rather than open resentment. The scar of his abandonment never fully vanishes, but their bond evolves into something more complicated and honest than the hero-worship of the evacuation days.",
+        "KeyThemes": [
+          "Hero worship turning into anger after perceived abandonment",
+          "The uneven fallout of moral stands in hierarchical institutions",
+          "Addiction, shame, and the struggle to accept help",
+          "Rebuilding trust through action rather than rhetoric",
+          "Found-family loyalty that survives deep hurt"
+        ],
+        "KeyEpisodes": [
+          {
+            "EpisodeID": "pics1e3",
+            "EpisodeTitle": "The End is the Beginning",
+            "Role": "Confrontation at Vasquez Rocks",
+            "TrajectoryNote": "Raffi\u2019s furious, wounded reunion with Picard lays bare the depth of her sense of betrayal."
+          },
+          {
+            "EpisodeID": "pics1e5",
+            "EpisodeTitle": "Stardust City Rag",
+            "Role": "Working together despite resentment",
+            "TrajectoryNote": "Their undercover operation shows old teamwork still functions even while emotions remain unresolved."
+          },
+          {
+            "EpisodeID": "pics1e10",
+            "EpisodeTitle": "Et in Arcadia Ego, Part 2",
+            "Role": "Standing with Picard at the synth homeworld",
+            "TrajectoryNote": "Raffi\u2019s presence in Picard\u2019s final stand against catastrophe underscores that she still believes in his cause."
+          },
+          {
+            "EpisodeID": "pics3e10",
+            "EpisodeTitle": "The Last Generation",
+            "Role": "Legacy and closure",
+            "TrajectoryNote": "As Picard\u2019s old crew is honored and Raffi is positioned for a new future, their relationship feels more like equals than commander and subordinate."
+          }
+        ],
+        "NotableMoments": [
+          {
+            "EpisodeID": "pics1e3",
+            "EpisodeTitle": "The End is the Beginning",
+            "Description": "Raffi\u2019s bitter laughter and accusation\u2014demanding to know where Picard was when she lost everything\u2014strip away any illusion that his resignation hurt only him."
+          },
+          {
+            "EpisodeID": "pics1e10",
+            "EpisodeTitle": "Et in Arcadia Ego, Part 2",
+            "Description": "As Picard risks his life to prevent a new synthetic apocalypse, Raffi backs his play, choosing once again to tether her fate to his judgment."
+          }
+        ]
+      },
+      {
+        "RelationshipID": "Raffi-Seven",
+        "Name": "Raffi Musiker and Seven of Nine",
+        "Series": [
+          "PIC"
+        ],
+        "RelationshipType": [
+          "Romantic",
+          "Partners in the Fight",
+          "On-Again/Off-Again"
+        ],
+        "People": [
+          {
+            "Character": "Raffi Musiker",
+            "BioID": "RaffiMusiker"
+          },
+          {
+            "Character": "Seven of Nine",
+            "BioID": "Seven"
+          }
+        ],
+        "Overview": "Raffi and Seven bond as two women who have seen too much and trust too little\u2014but still keep throwing themselves into impossible fights. Both carry immense trauma: Seven from the Borg and a lifetime of being othered, Raffi from addiction, betrayal, and institutional failure. Their relationship begins as a wary alliance between a former Starfleet intel officer and a Fenris Ranger, then deepens into a canon queer romance marked by mutual respect, shared damage, and an ability to call each other on their self-destructive habits. Across clandestine missions and near-death battles, they learn to be vulnerable together in ways neither finds easy.",
+        "StartingPoint": "During the La Sirena mission, Raffi and Seven initially orbit each other as professionals with overlapping agendas. Seven\u2019s brutal efficiency and vigilante methods unsettle Raffi, while Raffi\u2019s contacts and investigative work offer Seven tools she would not otherwise have. Their early interactions are spiky but intrigued; they recognize familiar patterns of pain and anger in each other. By the end of the first season, after surviving the synth homeworld confrontation, the two share a quiet, wordless moment as they sit down at a bar hand in hand\u2014a small but clear sign that something more than camaraderie has begun.",
+        "Evolution": "In later seasons, Raffi and Seven\u2019s relationship becomes more explicit and more complicated. They have been romantically involved but are not always together; arguments over risk, secrecy, and emotional openness drive them apart and pull them back again. Working side by side\u2014whether Seven is wearing a Starfleet uniform or operating on the fringes\u2014forces them to confront the ways they use work as a shield against intimacy. Raffi pushes Seven to acknowledge her own worth beyond guilt and duty, while Seven challenges Raffi to believe she deserves more than running on fumes and self-loathing. By the time Seven takes command of the Enterprise-G with Raffi as her first officer, their partnership has evolved into a blend of romantic history and professional trust, a hard-earned equilibrium between two people who have chosen each other again and again despite every reason not to.",
+        "KeyThemes": [
+          "Queer romance between two deeply scarred survivors",
+          "Using work and danger as shields against emotional vulnerability",
+          "Learning to trust that love does not automatically mean abandonment",
+          "Balancing vigilante instincts with Starfleet ideals",
+          "Transforming shared trauma into shared purpose"
+        ],
+        "KeyEpisodes": [
+          {
+            "EpisodeID": "pics1e10",
+            "EpisodeTitle": "Et in Arcadia Ego, Part 2",
+            "Role": "First clear on-screen romantic beat",
+            "TrajectoryNote": "Raffi and Seven holding hands at the bar signals the start of a canon relationship."
+          },
+          {
+            "EpisodeID": "pics2e1",
+            "EpisodeTitle": "The Star Gazer",
+            "Role": "Working together amid unresolved feelings",
+            "TrajectoryNote": "Their professional coordination and tension reflect a relationship that has deepened off-screen and hit bumps."
+          },
+          {
+            "EpisodeID": "pics3e1",
+            "EpisodeTitle": "The Next Generation",
+            "Role": "Separate assignments, lingering connection",
+            "TrajectoryNote": "Raffi\u2019s undercover work and Seven\u2019s posting on the Titan show they are still moving in the same orbits despite distance."
+          },
+          {
+            "EpisodeID": "pics3e10",
+            "EpisodeTitle": "The Last Generation",
+            "Role": "Enterprise-G command team",
+            "TrajectoryNote": "Seven as captain and Raffi as first officer formalize their partnership into the future of Starfleet."
+          }
+        ],
+        "NotableMoments": [
+          {
+            "EpisodeID": "pics1e10",
+            "EpisodeTitle": "Et in Arcadia Ego, Part 2",
+            "Description": "At a quiet bar table after saving the galaxy, Raffi and Seven reach for each other\u2019s hands, choosing connection after a lifetime of loss."
+          },
+          {
+            "EpisodeID": "pics3e10",
+            "EpisodeTitle": "The Last Generation",
+            "Description": "On the bridge of the Enterprise-G, Seven and Raffi exchange a look that blends history, affection, and determination as they set a new course together."
+          }
+        ]
+      },
+      {
+        "RelationshipID": "Raffi-CristobalRios",
+        "Name": "Raffi Musiker and Crist\u00f3bal Rios",
+        "Series": [
+          "PIC"
+        ],
+        "RelationshipType": [
+          "Crewmates",
+          "Mutual Support",
+          "Shared Trauma"
+        ],
+        "People": [
+          {
+            "Character": "Raffi Musiker",
+            "BioID": "RaffiMusiker"
+          },
+          {
+            "Character": "Crist\u00f3bal Rios",
+            "BioID": "CristobalRios"
+          }
+        ],
+        "Overview": "Raffi and Crist\u00f3bal Rios are two damaged former Starfleet officers who find a kind of rough-edged comfort in each other\u2019s company aboard La Sirena. Rios carries the trauma of the Ibn Majid massacre and his disillusionment with Starfleet; Raffi carries the wreckage of the Romulan rescue failure and her own addiction. Their relationship is not romantic so much as deeply companionable: he looks out for her when she is at her lowest, and she recognizes in him a fellow exile trying to pretend he is fine. Together they help Picard\u2019s mission work not just through skill, but by keeping each other functional when old wounds threaten to pull them under.",
+        "StartingPoint": "When Picard first approaches Rios to hire La Sirena, Raffi is the one who pushes for using the ex-Starfleet captain in the first place. Once aboard, she moves easily through his ship, treating his collection of holographic doubles and his gruff exterior as puzzles to be solved rather than walls to bounce off. Rios, in turn, sees Raffi\u2019s drinking, conspiracy talk, and volatility and responds with quiet, practical care\u2014making sure she gets to bed safely, handing her a glass of water, and offering space without judgment. The ease with which they slip into shared routines of banter and watchfulness marks them as kindred spirits long before they articulate it.",
+        "Evolution": "As the conspiracy around the synth ban and the Romulans deepens, Raffi and Rios repeatedly find themselves in corners of the ship where the masks slip. Rios opens up about the Ibn Majid and his captain\u2019s death; Raffi confesses the cost of her obsession on her family and career. They trade small acts of kindness\u2014covering shifts, checking in after arguments, sharing quiet drinks that are less about getting drunk and more about not being alone. When Rios eventually chooses to remain behind in 21st-century Earth with Teresa and her son, it marks a divergence in their paths, but not a negation of their bond. For Raffi, the time on La Sirena with Rios is part of the road back to believing she can function as an officer again; for Rios, she is one of the people who proved he was still capable of trusting and being trusted after Starfleet broke his heart.",
+        "KeyThemes": [
+          "Bonding through shared disillusionment with Starfleet",
+          "Quiet caretaking between people who pretend they don\u2019t need it",
+          "Using found-family dynamics to survive trauma",
+          "Letting someone see past the persona of competence and cynicism",
+          "Paths diverging without erasing the value of the time shared"
+        ],
+        "KeyEpisodes": [
+          {
+            "EpisodeID": "pics1e3",
+            "EpisodeTitle": "The End is the Beginning",
+            "Role": "La Sirena crew forms",
+            "TrajectoryNote": "Raffi\u2019s move onto La Sirena and early interactions with Rios establish them as fellow exiles orbiting Picard\u2019s mission."
+          },
+          {
+            "EpisodeID": "pics1e4",
+            "EpisodeTitle": "Absolute Candor",
+            "Role": "Settling into shipboard routine",
+            "TrajectoryNote": "Their banter and shared glances underline an emerging mutual watchfulness beneath the sarcasm."
+          },
+          {
+            "EpisodeID": "pics1e7",
+            "EpisodeTitle": "Nepenthe",
+            "Role": "Processing trauma in transit",
+            "TrajectoryNote": "Raffi and Rios both juggle their own ghosts while trying to keep the crew moving, revealing parallel coping mechanisms."
+          },
+          {
+            "EpisodeID": "pics2e10",
+            "EpisodeTitle": "Farewell",
+            "Role": "Diverging futures",
+            "TrajectoryNote": "Rios\u2019s decision to stay in the 21st century closes their chapter aboard La Sirena, underscoring how far both have come since their lowest points."
+          }
+        ],
+        "NotableMoments": [
+          {
+            "EpisodeID": "pics1e3",
+            "EpisodeTitle": "The End is the Beginning",
+            "Description": "Rios quietly tucking a passed-out Raffi into a bunk, treating her with gentle respect instead of disdain, signals a protective instinct that runs both ways."
+          },
+          {
+            "EpisodeID": "pics1e7",
+            "EpisodeTitle": "Nepenthe",
+            "Description": "Sharing drinks and dark humor, Raffi and Rios compare emotional shrapnel from Starfleet, recognizing themselves in each other\u2019s war stories."
+          }
+        ]
+      },
+      {
+        "RelationshipID": "Raffi-Worf",
+        "Name": "Raffi Musiker and Worf",
+        "Series": [
+          "PIC"
+        ],
+        "RelationshipType": [
+          "Mentor\u2013Prot\u00e9g\u00e9",
+          "Intelligence Partners",
+          "Redemption"
+        ],
+        "People": [
+          {
+            "Character": "Raffi Musiker",
+            "BioID": "RaffiMusiker"
+          },
+          {
+            "Character": "Worf",
+            "BioID": "Worf"
+          }
+        ],
+        "Overview": "Raffi\u2019s partnership with Worf in the later Picard era marks a turning point in her journey back toward purpose and self-respect. Worf, now tempered by years of spiritual practice and intelligence work, becomes an unexpected mentor figure: a former warrior who understands rage, guilt, and the need for restraint. He sees past Raffi\u2019s addictions and self-loathing to the sharp, principled officer underneath, and he chooses her as his partner in a dangerous investigation into conspiracies threatening the Federation. Their dynamic mixes dry humor, clashing methods, and a quiet, mutual recognition of how hard it is to walk the path back from one\u2019s worst mistakes.",
+        "StartingPoint": "When Raffi is first seen working deep undercover amid crime and chaos, she appears to be operating solo, chasing leads no one else believes in. The reveal that Worf is her handler and secret partner reframes her situation: she has not fallen entirely off the Starfleet grid, but is executing missions too sensitive for open acknowledgement. Their early interactions are tense; Raffi resents feeling managed, and Worf\u2019s calm, almost ascetic demeanor stands in sharp contrast to her raw nerves. Yet he consistently acknowledges her skills and instincts, offering measured praise alongside critique, signaling that he considers her an equal in the field rather than a liability to be babysat.",
+        "Evolution": "As the Changeling plot and the threat to Starfleet deepen, Raffi and Worf grow into a tightly coordinated intelligence team. He tempers her impulses when she is ready to burn everything down for answers; she pushes him to recognize when Klingon-style direct action is exactly what the situation requires. Their banter\u2014her jabs at his newfound calm, his dry retorts\u2014conceals a deepening trust. Worf explicitly frames their work in terms of redemption and duty, themes that resonate with Raffi\u2019s desire to prove she is more than her lowest moments. By the time the dust settles and she stands ready to serve as first officer of the Enterprise-G, Raffi carries with her not just Picard\u2019s belief in her, but Worf\u2019s example of someone who has remade himself without denying the warrior he once was. Their partnership has become a key pillar in her reclaimed identity as a Starfleet officer.",
+        "KeyThemes": [
+          "Finding mentorship in someone who understands anger and restraint",
+          "Redemption through service and difficult, unseen work",
+          "Balancing aggressive instincts with strategic patience",
+          "Trust earned by recognizing each other\u2019s broken places",
+          "Intelligence work as a path back into Starfleet\u2019s light"
+        ],
+        "KeyEpisodes": [
+          {
+            "EpisodeID": "pics3e1",
+            "EpisodeTitle": "The Next Generation",
+            "Role": "Undercover beginnings",
+            "TrajectoryNote": "Raffi\u2019s covert investigation sets the stage for Worf\u2019s reveal as her mysterious handler and ally."
+          },
+          {
+            "EpisodeID": "pics3e2",
+            "EpisodeTitle": "Disengage",
+            "Role": "Partnership in the shadows",
+            "TrajectoryNote": "Worf\u2019s intervention in Raffi\u2019s mission demonstrates his commitment to her survival and the importance of their shared work."
+          },
+          {
+            "EpisodeID": "pics3e5",
+            "EpisodeTitle": "Imposters",
+            "Role": "Uncovering deeper conspiracy",
+            "TrajectoryNote": "Working together, they peel back layers of the Changeling threat, solidifying their status as a formidable team."
+          },
+          {
+            "EpisodeID": "pics3e10",
+            "EpisodeTitle": "The Last Generation",
+            "Role": "Aftermath and new beginnings",
+            "TrajectoryNote": "Raffi\u2019s path to the Enterprise-G and Worf\u2019s continued service reflect how their joint efforts helped reclaim her Starfleet future."
+          }
+        ],
+        "NotableMoments": [
+          {
+            "EpisodeID": "pics3e2",
+            "EpisodeTitle": "Disengage",
+            "Description": "Worf\u2019s calm, efficient rescue of Raffi, followed by tea and understated critique, establishes him as the rare partner who can steady her without belittling her."
+          },
+          {
+            "EpisodeID": "pics3e5",
+            "EpisodeTitle": "Imposters",
+            "Description": "Side by side in the midst of a spiraling conspiracy, Raffi and Worf\u2019s blend of sharp analysis and controlled violence shows how well their contrasting styles mesh."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CharacterID": "CristobalRios",
+    "Name": "Crist\u00f3bal Rios",
+    "Series": [
+      "PIC"
+    ],
+    "Meta": "Crist\u00f3bal Rios is the ex\u2013Starfleet captain of La Sirena, a talented pilot and tactician whose disillusionment after the Ibn Majid tragedy leaves him drifting on the fringes of Federation space. Buried beneath his cigars, dark humor, and self-imposed exile is a man who still cares fiercely about doing the right thing\u2014and who slowly remembers how to be an officer again when drawn into Picard\u2019s mission.",
+    "Relationships": [
+      {
+        "RelationshipID": "Picard-CristobalRios",
+        "Name": "Jean-Luc Picard and Crist\u00f3bal Rios",
+        "Series": [
+          "PIC"
+        ],
+        "RelationshipType": [
+          "Captain\u2013Captain",
+          "Reluctant Ally",
+          "Restored Faith"
+        ],
+        "People": [
+          {
+            "Character": "Crist\u00f3bal Rios",
+            "BioID": "CristobalRios"
+          },
+          {
+            "Character": "Jean-Luc Picard",
+            "BioID": "Picard"
+          }
+        ],
+        "Overview": "Rios initially sees Jean-Luc Picard as exactly the kind of legendary Starfleet figure he has tried to leave behind: a symbol of ideals that did not protect him or his crew on the Ibn Majid. Hired as a contractor rather than enlisted as a subordinate, he insists on the distance implied by his worn civilian boots and battered ship. But Picard\u2019s stubborn morality and refusal to treat Rios as expendable gradually erode that distance. Over the course of their mission together, Picard becomes the first superior Rios has allowed himself to believe in since Vandermeer, and helping Picard forces Rios to confront the fact that he has never truly stopped being a Starfleet officer at heart.",
+        "StartingPoint": "When Picard boards La Sirena in \u201cThe End is the Beginning,\u201d he finds Rios literally living with ghosts\u2014his own face reflected back at him in multiple holograms that handle ship functions. Rios plays the part of the cynical freelancer, claiming to be uninterested in politics or heroics, yet Picard immediately picks up that he still runs his ship with Starfleet precision. Their early conversations are wary fencing matches: Picard probes gently at Rios\u2019s history, while Rios deflects with sarcasm and demands his fee. Still, he listens when Picard speaks about duty and unfinished business, and he agrees to take the job even before all the latinum is promised, betraying an underlying desire to matter again.",
+        "Evolution": "As the conspiracy around Dahj, Soji, and the synth ban unfolds, Rios is drawn into a cause he pretends not to care about. Picard treats him like a trusted captain rather than hired transport, including him in strategy sessions and relying on his judgment in tight spots. When Rios\u2019s trauma over the Ibn Majid resurfaces in the form of panic and self-sabotage, Picard pushes him\u2014gently but firmly\u2014to face the truth rather than wallow in guilt. Rios, in turn, witnesses Picard\u2019s vulnerability and mortal limits, including his illness and apparent death at the end of the Coppelius mission. By the time Rios later chooses to stay behind in 21st-century Earth, he does so as someone whose sense of purpose has been rekindled; Picard has reminded him that sacrifice in the service of saving lives is not a betrayal of his past, but a way to honor it. Their relationship never becomes as overtly mentor\u2013student as Picard\u2019s bond with Raffi, but Rios walks away from their time together with his faith in the idea of Starfleet\u2014and in himself as a protector\u2014partly restored.",
+        "KeyThemes": [
+          "A disillusioned officer slowly regaining faith in Starfleet ideals",
+          "Contractor pose versus enduring sense of duty",
+          "Living with the ghosts of a dead crew and a failed captain",
+          "Seeing legendary heroes as flawed but still worth following",
+          "Choosing to act like an officer even outside the uniform"
+        ],
+        "KeyEpisodes": [
+          {
+            "EpisodeID": "pics1e3",
+            "EpisodeTitle": "The End is the Beginning",
+            "Role": "La Sirena hired",
+            "TrajectoryNote": "Rios agrees to transport Picard, establishing a guarded working relationship built on mutual need and curiosity."
+          },
+          {
+            "EpisodeID": "pics1e4",
+            "EpisodeTitle": "Absolute Candor",
+            "Role": "Testing trust in action",
+            "TrajectoryNote": "Rios\u2019s willingness to follow Picard into escalating danger reveals the tension between his cynicism and his instincts."
+          },
+          {
+            "EpisodeID": "pics1e7",
+            "EpisodeTitle": "Nepenthe",
+            "Role": "Trauma and trust surface",
+            "TrajectoryNote": "As the truth about the Ibn Majid emerges, Picard\u2019s insistence that Rios confront his past deepens their connection."
+          },
+          {
+            "EpisodeID": "pics1e10",
+            "EpisodeTitle": "Et in Arcadia Ego, Part 2",
+            "Role": "Facing Picard\u2019s mortality",
+            "TrajectoryNote": "Rios\u2019s grief at Picard\u2019s apparent death underscores how far he has come from detached contractor to invested ally."
+          }
+        ],
+        "NotableMoments": [
+          {
+            "EpisodeID": "pics1e3",
+            "EpisodeTitle": "The End is the Beginning",
+            "Description": "Picard casually notes that Rios still runs La Sirena like a Starfleet ship, catching him off guard and exposing the lie behind his mercenary act."
+          },
+          {
+            "EpisodeID": "pics1e7",
+            "EpisodeTitle": "Nepenthe",
+            "Description": "Rios, shaken by memories of the Ibn Majid, listens as Picard pushes him to look beyond his guilt and see the larger pattern behind the conspiracy."
+          }
+        ]
+      },
+      {
+        "RelationshipID": "Rios-AgnesJurati",
+        "Name": "Crist\u00f3bal Rios and Agnes Jurati",
+        "Series": [
+          "PIC"
+        ],
+        "RelationshipType": [
+          "Romantic",
+          "Comfort and Betrayal",
+          "Shared Damage"
+        ],
+        "People": [
+          {
+            "Character": "Crist\u00f3bal Rios",
+            "BioID": "CristobalRios"
+          },
+          {
+            "Character": "Agnes Jurati",
+            "BioID": "AgnesJurati"
+          }
+        ],
+        "Overview": "Rios and Agnes Jurati drift into a relationship that begins as mutual comfort between two shattered people and becomes one of the most complicated connections aboard La Sirena. Rios is drawn to Jurati\u2019s nervous brilliance and vulnerability; she finds solace in his warmth and easy charm. But the secrets Jurati carries\u2014murder, mind-tampering, and a desperate fear of a synthetic apocalypse\u2014eventually blow apart the illusion that they can simply hide together in each other\u2019s arms. Their romance charts the painful line between genuine affection and the damage done when someone is not yet able to be honest even with themselves.",
+        "StartingPoint": "At first, Rios and Jurati are just two people trying to cope with the chaos Picard has brought into their lives. Jurati is overwhelmed by the scope of what she has seen and done; Rios is managing his own ghosts while pretending to be fine. Their initial connection is physical and impulsive\u2014a spontaneous kiss and hookup in the aftermath of danger. Rios offers a kind of easy, nonjudgmental presence Jurati has rarely known, while she presents herself as a slightly awkward but harmless scientist. Neither is ready to talk about the darkness they carry, so they escape into each other instead.",
+        "Evolution": "As the mission continues, the truth about Jurati\u2019s actions\u2014killing Bruce Maddox under the influence of a horrifying shared vision\u2014comes out. Rios must reconcile the gentle, funny woman he has slept beside with the reality of what she has done and why. He reacts with hurt, anger, and confusion, yet he also sees the layers of manipulation and trauma at work. Their relationship never returns to the uncomplicated comfort of those early nights; instead it shifts into a hesitant camaraderie, with Rios offering wary support as Jurati seeks accountability and a path toward making amends. By the time of the temporal detour and Jurati\u2019s eventual merger with the Borg Queen, their trajectories diverge completely. Rios carries the memory of a woman he cared for who chose a cosmic responsibility over a conventional future, while Jurati\u2019s evolution makes it impossible for them to circle back to what they were. The relationship becomes less about romance fulfilled and more about the brief, messy intersection of two damaged lives headed in very different directions.",
+        "KeyThemes": [
+          "Finding comfort in the middle of crisis",
+          "The limits of intimacy when secrets and trauma dominate",
+          "Differentiating between a person and the worst thing they have done",
+          "Letting go when paths and responsibilities fundamentally diverge",
+          "Caring for someone who cannot stay the person you first met"
+        ],
+        "KeyEpisodes": [
+          {
+            "EpisodeID": "pics1e5",
+            "EpisodeTitle": "Stardust City Rag",
+            "Role": "Physical relationship ignites",
+            "TrajectoryNote": "Rios and Jurati\u2019s impulsive hookup reveals an attraction rooted in shared stress and loneliness."
+          },
+          {
+            "EpisodeID": "pics1e8",
+            "EpisodeTitle": "Broken Pieces",
+            "Role": "Secrets exposed",
+            "TrajectoryNote": "The crew learning what Jurati has done forces Rios to reassess who he has let into his bed and his trust."
+          },
+          {
+            "EpisodeID": "pics2e1",
+            "EpisodeTitle": "The Star Gazer",
+            "Role": "Evidence of a relationship and its limits",
+            "TrajectoryNote": "Hints of their off-screen history underscore how their connection could not survive all that has changed."
+          },
+          {
+            "EpisodeID": "pics2e10",
+            "EpisodeTitle": "Farewell",
+            "Role": "Final divergence",
+            "TrajectoryNote": "Jurati\u2019s new role with the Borg and Rios\u2019s decision about his own future make clear that their paths have split for good."
+          }
+        ],
+        "NotableMoments": [
+          {
+            "EpisodeID": "pics1e5",
+            "EpisodeTitle": "Stardust City Rag",
+            "Description": "Sharing a kiss and falling into bed, Rios and Jurati cling to each other as a brief refuge from the violence and moral ambiguity surrounding them."
+          },
+          {
+            "EpisodeID": "pics1e8",
+            "EpisodeTitle": "Broken Pieces",
+            "Description": "When Jurati\u2019s confession comes out, Rios\u2019s shock and hurt show how invested he had become in the version of her he thought he knew."
+          }
+        ]
+      },
+      {
+        "RelationshipID": "Rios-RaffiMusiker",
+        "Name": "Crist\u00f3bal Rios and Raffi Musiker",
+        "Series": [
+          "PIC"
+        ],
+        "RelationshipType": [
+          "Crews of La Sirena",
+          "Mutual Support",
+          "Found Family"
+        ],
+        "People": [
+          {
+            "Character": "Crist\u00f3bal Rios",
+            "BioID": "CristobalRios"
+          },
+          {
+            "Character": "Raffi Musiker",
+            "BioID": "RaffiMusiker"
+          }
+        ],
+        "Overview": "Rios and Raffi share the bond of two ex\u2013Starfleet officers who have been broken in different ways by the institution they once served. On La Sirena, they become each other\u2019s unofficial support system: he keeps an eye on her when addiction and obsession threaten to pull her under, and she reads him well enough to see the trauma behind his stoic captain routine. Their connection is rooted in shared cynicism, dark humor, and the stubborn refusal to stop caring, no matter how much they claim otherwise.",
+        "StartingPoint": "When Picard first reconnects with Raffi and recruits Rios, it\u2019s Raffi who pushes hardest for using La Sirena and its captain. She knows his record and his wounds and sees in him someone who can be trusted to take on an impossible mission. Aboard the ship, their banter comes easily: Raffi snipes about his secrets and his holograms, while Rios responds with dry quips and unspoken concern. Early scenes of Rios quietly getting an intoxicated Raffi to bed, or wordlessly placing a glass of water near her, establish the pattern of their relationship: he will not lecture her about her coping mechanisms, but he will not abandon her either.",
+        "Evolution": "As the mission grows more dangerous and the truths about both of their pasts come out, Rios and Raffi lean on each other as much as they lean on Picard. Raffi\u2019s investigative instincts and Rios\u2019s steady piloting and tactical sense complement each other; they exchange looks of exasperation and solidarity whenever Picard\u2019s plans veer into the improbable. Over time, they become the pragmatic backbone of La Sirena, holding the ship together physically and emotionally. Even after Rios chooses to remain in the 21st century with Teresa and her son, his connection to Raffi lingers in the way she approaches command and mentorship going forward\u2014having seen up close how a good captain can still be deeply wounded and still choose to act with compassion.",
+        "KeyThemes": [
+          "Shared disillusionment with Starfleet and authority",
+          "Caring for another damaged person without trying to \u201cfix\u201d them",
+          "Found family aboard a small, independent ship",
+          "Balancing sarcasm with genuine loyalty",
+          "Letting someone see past the performance of detachment"
+        ],
+        "KeyEpisodes": [
+          {
+            "EpisodeID": "pics1e3",
+            "EpisodeTitle": "The End is the Beginning",
+            "Role": "La Sirena crew coalesces",
+            "TrajectoryNote": "Raffi and Rios fall into an easy, wary partnership as Picard\u2019s crew finally comes together."
+          },
+          {
+            "EpisodeID": "pics1e4",
+            "EpisodeTitle": "Absolute Candor",
+            "Role": "Shipboard rhythms settle",
+            "TrajectoryNote": "Their shared glances and exchanges highlight a growing mutual understanding behind the snark."
+          },
+          {
+            "EpisodeID": "pics1e7",
+            "EpisodeTitle": "Nepenthe",
+            "Role": "Coping with pressure together",
+            "TrajectoryNote": "As stress mounts, Raffi and Rios trade dark humor and small kindnesses that keep La Sirena moving."
+          },
+          {
+            "EpisodeID": "pics2e10",
+            "EpisodeTitle": "Farewell",
+            "Role": "Diverging paths",
+            "TrajectoryNote": "Rios\u2019s decision to remain in the past brings their time as crewmates to a close, but not the impact they have had on each other."
+          }
+        ],
+        "NotableMoments": [
+          {
+            "EpisodeID": "pics1e3",
+            "EpisodeTitle": "The End is the Beginning",
+            "Description": "Seeing Raffi wrecked and drunk, Rios quietly tucks her into a bunk and lets her sleep it off, choosing care over judgment."
+          },
+          {
+            "EpisodeID": "pics1e7",
+            "EpisodeTitle": "Nepenthe",
+            "Description": "Trading weary jokes on the bridge, Rios and Raffi steady each other as the mission\u2019s emotional and tactical stakes keep climbing."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CharacterID": "AgnesJurati",
+    "Name": "Agnes Jurati",
+    "Series": [
+      "PIC"
+    ],
+    "Meta": "Dr. Agnes Jurati is a brilliant if anxious cyberneticist whose work on synthetic life, fraught mentorship under Bruce Maddox, and coercive mind-melding by Commodore Oh leave her carrying unbearable guilt. Torn between terror of what advanced synths might do and a deep longing to belong, she oscillates between catastrophic mistakes and acts of profound self-sacrifice.",
+    "Relationships": [
+      {
+        "RelationshipID": "AgnesJurati-CristobalRios",
+        "Name": "Agnes Jurati and Crist\u00f3bal Rios",
+        "Series": [
+          "PIC"
+        ],
+        "RelationshipType": [
+          "Romantic",
+          "Comfort and Betrayal",
+          "Shared Trauma"
+        ],
+        "People": [
+          {
+            "Character": "Agnes Jurati",
+            "BioID": "AgnesJurati"
+          },
+          {
+            "Character": "Crist\u00f3bal Rios",
+            "BioID": "CristobalRios"
+          }
+        ],
+        "Overview": "Jurati and Rios fall into each other\u2019s arms as two people already broken before La Sirena ever leaves dock. She hides a terrible secret\u2014murdering her former lover and mentor under the influence of a psychic warning\u2014while he hides the ghosts of the Ibn Majid. Their relationship begins as impulsive comfort in the middle of chaos and grows into something more tender, but it is never free from the weight of what Jurati has done. To Rios, Agnes is both the woman who made him feel less alone and the reminder that even good people can be pushed into unforgivable acts. To Agnes, Rios is living proof that someone can see her whole, terrible truth and still care about her, even if they can\u2019t stay together.",
+        "StartingPoint": "On La Sirena, Jurati arrives as the nervous, eager scientist swept up in Picard\u2019s quest, while Rios plays the jaded captain who wants everyone to think he\u2019s beyond caring. After the mission\u2019s early bruising encounters, the two of them end up alone, scared, and tipsy enough to admit they don\u2019t want to be alone that night. Their first kiss and hookup in \u201cStardust City Rag\u201d aren\u2019t framed as the start of some epic romance; they\u2019re two hurt people clinging to one another in search of warmth and temporary oblivion. In those early days, Rios reads Agnes as fragile but fundamentally harmless, while she sees him as strangely gentle beneath the scars.",
+        "Evolution": "The illusion shatters when the truth about Bruce Maddox\u2019s death comes out. Jurati\u2019s tearful confession forces Rios to confront the fact that the woman he\u2019s let into his bed has killed someone they were both supposed to trust. Yet he also sees the mind-rape and cosmic horror she was subjected to, and he recognizes in her self-hatred something very close to his own. Their relationship never fully recovers the easy intimacy of those early nights, but it transforms into a wary, painful kind of solidarity: Rios insists she accept medical help and accountability instead of self-destruction, and Agnes, in turn, fights to become more than the worst thing she has done. By the time Jurati merges with the Borg Queen and Rios chooses a life in 21st-century Earth, they are moving on very different trajectories, their romance distilled to a memory of a moment when two damaged people tried, and briefly succeeded, to make each other feel less alone.",
+        "KeyThemes": [
+          "Trauma-bonding and intimacy formed in crisis",
+          "Loving someone who has committed a terrible act",
+          "The limits of forgiveness when trust is broken",
+          "Seeing the person behind the crime and the pain",
+          "Letting go when lives and responsibilities diverge"
+        ],
+        "KeyEpisodes": [
+          {
+            "EpisodeID": "pics1e5",
+            "EpisodeTitle": "Stardust City Rag",
+            "Role": "Relationship ignites under pressure",
+            "TrajectoryNote": "Jurati and Rios hook up after the Freecloud mission, signaling the start of their complicated bond."
+          },
+          {
+            "EpisodeID": "pics1e8",
+            "EpisodeTitle": "Broken Pieces",
+            "Role": "Secrets and guilt exposed",
+            "TrajectoryNote": "Jurati\u2019s confession about killing Maddox and the vision she received forces a reckoning in their relationship."
+          },
+          {
+            "EpisodeID": "pics1e10",
+            "EpisodeTitle": "Et in Arcadia Ego, Part 2",
+            "Role": "Survival and the possibility of change",
+            "TrajectoryNote": "In the aftermath of the synth crisis, Rios and Jurati\u2019s shared survival leaves open the question of who they can be next."
+          },
+          {
+            "EpisodeID": "pics2e1",
+            "EpisodeTitle": "The Star Gazer",
+            "Role": "Evidence of a complicated history",
+            "TrajectoryNote": "Hints of their off-screen past suggest affection and care, but also that the relationship could not bear everything they had become."
+          }
+        ],
+        "NotableMoments": [
+          {
+            "EpisodeID": "pics1e5",
+            "EpisodeTitle": "Stardust City Rag",
+            "Description": "Reeling from the mission\u2019s brutality, Jurati and Rios share a hungry kiss and tumble into bed, choosing connection over honesty about their respective wounds."
+          },
+          {
+            "EpisodeID": "pics1e8",
+            "EpisodeTitle": "Broken Pieces",
+            "Description": "Agnes breaks down as the truth of Maddox\u2019s death comes out; Rios\u2019s shock, anger, and reluctant understanding show how deeply he has come to care about her."
+          }
+        ]
+      },
+      {
+        "RelationshipID": "AgnesJurati-BorgQueen",
+        "Name": "Agnes Jurati and the Borg Queen",
+        "Series": [
+          "PIC"
+        ],
+        "RelationshipType": [
+          "Symbiotic Fusion",
+          "Antagonist Turned Partner",
+          "Identity Transformation"
+        ],
+        "People": [
+          {
+            "Character": "Agnes Jurati",
+            "BioID": "AgnesJurati"
+          },
+          {
+            "Character": "Borg Queen",
+            "BioID": "BorgQueen"
+          }
+        ],
+        "Overview": "Jurati\u2019s relationship with the Borg Queen begins as a horror story and ends as a bizarre, hard-won partnership. The Queen preys on Agnes\u2019s deepest insecurities\u2014her fear of abandonment, her guilt over Maddox, her belief that she is always the least-important person in the room. But in the process of trying to break her, the Queen also exposes her own loneliness. What starts as parasitic manipulation evolves into a strange mutual recognition: Jurati sees a path to reshape the Borg into something new, and the Queen glimpses a way to exist that is not pure conquest. Their eventual fusion creates a new Borg entity that carries Agnes\u2019s compassion and humor alongside the Queen\u2019s power.",
+        "StartingPoint": "Stranded in an altered 2024 with a captured, incomplete Borg Queen, Jurati volunteers to mind-meld so they can extract information about the timeline. The psychic contact is like sticking her hand into a loaded power conduit: the Queen digs through her memories, humiliations, and secret fears with predatory delight. Agnes endures the invasion with terrified jokes and raw honesty, insisting on her own intellect even as the Queen dismisses her as forgettable. In these early exchanges, Jurati is very clearly the victim\u2014chained to a monster who understands all too well how to make her feel small.",
+        "Evolution": "As events spiral, Jurati begins to push back. She steals small victories\u2014planting emotional landmines in the Queen\u2019s mind, holding onto a sense of self even as they share a body. The Queen tempts her with promises of never being alone again, of having a chorus of voices in her head that will never abandon her, and Agnes recognizes that the seduction is rooted in genuine loneliness on both sides. In a crucial shift, Jurati reframes the offer: instead of letting the Queen consume her, she proposes a merger that will allow them to build a new kind of Borg, one based on consent and protection rather than assimilation and terror. By the end of the second season, the Jurati\u2013Queen hybrid appears as a masked Borg entity seeking admission to the Federation as a guardian of a mysterious anomaly. Agnes has, in a very real sense, become the Queen\u2014but on terms she helped define, and with an eye toward safeguarding others from the kind of cosmic threat that once broke her.",
+        "KeyThemes": [
+          "Loneliness as a vulnerability exploited and then transformed",
+          "Turning an invasive connection into a platform for change",
+          "Questioning what \u201cthe Borg\u201d can be if consent is introduced",
+          "Finding self-worth inside a relationship with immense power imbalance",
+          "Choosing to use monstrous power in defense of others"
+        ],
+        "KeyEpisodes": [
+          {
+            "EpisodeID": "pics2e2",
+            "EpisodeTitle": "Penance",
+            "Role": "First significant psychic contact",
+            "TrajectoryNote": "Jurati\u2019s initial mind-link with the Queen exposes her insecurities and sets up the dangerous bond between them."
+          },
+          {
+            "EpisodeID": "pics2e4",
+            "EpisodeTitle": "Watcher",
+            "Role": "Manipulation deepens",
+            "TrajectoryNote": "The Queen continues probing Jurati\u2019s fears, tightening her grip while underestimating Agnes\u2019s resilience."
+          },
+          {
+            "EpisodeID": "pics2e7",
+            "EpisodeTitle": "Monsters",
+            "Role": "Shift toward partnership",
+            "TrajectoryNote": "Jurati begins to realize she can bargain with the Queen, not just endure her, opening the door to a merger on her own terms."
+          },
+          {
+            "EpisodeID": "pics2e10",
+            "EpisodeTitle": "Farewell",
+            "Role": "Birth of the Jurati\u2013Queen collective",
+            "TrajectoryNote": "The new Borg entity that emerges is both Agnes and Queen, committed to guarding a galactic anomaly instead of consuming it."
+          }
+        ],
+        "NotableMoments": [
+          {
+            "EpisodeID": "pics2e2",
+            "EpisodeTitle": "Penance",
+            "Description": "Tethered to the Queen in a jury-rigged mind link, Agnes endures a torrent of psychological attacks, responding with tremulous humor that hides genuine terror."
+          },
+          {
+            "EpisodeID": "pics2e10",
+            "EpisodeTitle": "Farewell",
+            "Description": "Fully merged, the Jurati\u2013Queen reveals herself to Picard and Starfleet as a new kind of Borg, her voice calm and oddly hopeful as she asks for trust instead of surrender."
+          }
+        ]
+      },
+      {
+        "RelationshipID": "AgnesJurati-JeanLucPicard",
+        "Name": "Agnes Jurati and Jean-Luc Picard",
+        "Series": [
+          "PIC"
+        ],
+        "RelationshipType": [
+          "Mentor\u2013Prot\u00e9g\u00e9",
+          "Moral Anchor",
+          "Disappointed Father Figure"
+        ],
+        "People": [
+          {
+            "Character": "Agnes Jurati",
+            "BioID": "AgnesJurati"
+          },
+          {
+            "Character": "Jean-Luc Picard",
+            "BioID": "Picard"
+          }
+        ],
+        "Overview": "Picard functions in Jurati\u2019s life as a kind of moral north star and gently disappointed father figure. He sees her brilliance and nervous energy and treats her as an equal in the work of decoding synthetic life and confronting the fallout of the synth ban. She, in turn, looks to him for validation that she can still be a good person after committing an unforgivable act. Their relationship is marked by trust she often feels she doesn\u2019t deserve and by Picard\u2019s stubborn belief that even someone who has done terrible things can choose a better path going forward.",
+        "StartingPoint": "Agnes meets Picard as a renowned cyberneticist who has built her career in the shadow of Bruce Maddox and Data\u2019s legacy. When Picard approaches her about Dahj and the possibility of a new generation of synths, she is starstruck and frightened in equal measure. He treats her gently, asking for her expertise rather than issuing orders, and she responds by throwing herself into the problem\u2014while hiding the mind-implanted terror and instructions she has received from Commodore Oh. In these early stages, Picard is the ideal she wants to live up to, even as she is already on a collision course with betraying that ideal.",
+        "Evolution": "Once Jurati\u2019s crime and coercion come to light, Picard is shocked but not entirely surprised by the pressures that led her there. He insists on her receiving medical help and accountability rather than being cast out as irredeemable. Throughout their subsequent missions\u2014including the temporal crisis and the deal with the Borg Queen\u2014he continues to treat Agnes as a valued member of the team, not a convenient scapegoat. For Jurati, every moment of Picard\u2019s trust is both a gift and a burden: his faith in her forces her to ask whether she can live up to the better version of herself he seems to see. By the time she merges with the Queen and takes on the role of guardian of the anomaly, much of her resolve comes from the desire to prove that Picard\u2019s faith was not misplaced. Their relationship never fully sheds its mentor\u2013prot\u00e9g\u00e9 dynamic, but it ends with Jurati stepping into a role that requires the same kind of moral courage Picard has modeled for her.",
+        "KeyThemes": [
+          "Seeking moral validation from a trusted elder",
+          "Guilt and the possibility of ethical rehabilitation",
+          "Being seen as more than the worst thing you have done",
+          "Passing on Starfleet\u2019s values beyond formal rank",
+          "Choosing self-sacrifice to honor someone else\u2019s faith in you"
+        ],
+        "KeyEpisodes": [
+          {
+            "EpisodeID": "pics1e2",
+            "EpisodeTitle": "Maps and Legends",
+            "Role": "Recruitment and first trust",
+            "TrajectoryNote": "Picard\u2019s decision to bring Jurati into his mission signals his belief in her expertise and integrity."
+          },
+          {
+            "EpisodeID": "pics1e8",
+            "EpisodeTitle": "Broken Pieces",
+            "Role": "Confronting the crime",
+            "TrajectoryNote": "When Jurati\u2019s role in Maddox\u2019s death emerges, Picard\u2019s choice to seek treatment for her instead of punishment defines their dynamic."
+          },
+          {
+            "EpisodeID": "pics2e1",
+            "EpisodeTitle": "The Star Gazer",
+            "Role": "Professional respect endures",
+            "TrajectoryNote": "Jurati\u2019s role in the mission and Picard\u2019s continued trust reflect how far she has come from the woman nearly consumed by guilt."
+          },
+          {
+            "EpisodeID": "pics2e10",
+            "EpisodeTitle": "Farewell",
+            "Role": "Legacy of trust",
+            "TrajectoryNote": "The Jurati\u2013Queen\u2019s protective stance toward the Federation can be read as Agnes fulfilling the moral standard Picard always believed she could reach."
+          }
+        ],
+        "NotableMoments": [
+          {
+            "EpisodeID": "pics1e2",
+            "EpisodeTitle": "Maps and Legends",
+            "Description": "Agnes babbles nervously in front of Picard, who responds with patient kindness, making clear that he sees her as crucial to understanding what is happening."
+          },
+          {
+            "EpisodeID": "pics1e8",
+            "EpisodeTitle": "Broken Pieces",
+            "Description": "Picard listens as Jurati explains what was done to her mind; his mixture of horror and compassion gives her a path forward that is not pure self-condemnation."
+          }
+        ]
+      },
+      {
+        "RelationshipID": "AgnesJurati-LaSirenaCrew",
+        "Name": "Agnes Jurati and the La Sirena crew",
+        "Series": [
+          "PIC"
+        ],
+        "RelationshipType": [
+          "Found Family",
+          "Team Trust and Suspicion",
+          "Self-Worth"
+        ],
+        "People": [
+          {
+            "Character": "Agnes Jurati",
+            "BioID": "AgnesJurati"
+          },
+          {
+            "Character": "Raffi Musiker",
+            "BioID": "RaffiMusiker"
+          },
+          {
+            "Character": "Seven of Nine",
+            "BioID": "Seven"
+          },
+          {
+            "Character": "Crist\u00f3bal Rios",
+            "BioID": "CristobalRios"
+          },
+          {
+            "Character": "Elnor",
+            "BioID": "Elnor"
+          }
+        ],
+        "Overview": "For Jurati, the crew of La Sirena is the closest thing she has ever had to a found family\u2014and also the group she is most afraid of losing once they know who she really is. She comes aboard as the awkward outsider, desperate to prove useful and to be liked. When her crime and the psychic coercion behind it emerge, she expects rejection; instead, she finds a crew that insists on protecting her even as they hold her accountable. Their mix of wariness, compassion, and occasional exasperation becomes the crucible in which Agnes begins to believe that she might deserve a second chance.",
+        "StartingPoint": "At the start of the mission, Agnes is clearly not built for covert ops. She rambles, panics, and makes dark jokes at inappropriate times. Raffi eyes her with suspicion, Seven treats her professionally but distantly, Rios teases and comforts her, and Elnor regards her with guileless concern. To Agnes, they are all impossibly competent and damaged in ways she cannot quite fathom. She tries to slot herself into the role of the quirky scientist, hiding the enormity of what Commodore Oh has compelled her to do and praying that they will never have to see the worst of her.",
+        "Evolution": "When the truth surfaces\u2014that she killed Maddox and attempted to kill herself to escape her guilt\u2014the crew reacts with a mix of shock, anger, and care. They restrain and monitor her, but they also insist on medical treatment, understanding that the horror she carries was forced into her mind as much as chosen. Raffi gradually shifts from suspicion to a kind of rough-edged support; Rios continues to look out for her emotional safety even when trust is shaken; Elnor, with his absolute candor, offers forgiveness that Agnes struggles to accept; Seven fights beside her, particularly once the Borg Queen enters the picture, seeing in Agnes another woman entangled with a monstrous collective. Over time, Agnes internalizes the idea that this crew\u2019s affection is not predicated on her being perfect. By the time she chooses to merge with the Borg Queen and leave their timeline, her actions are informed by the belief\u2014learned on La Sirena\u2014that protecting others is worth the cost, and that she is capable of being more than the sum of her mistakes.",
+        "KeyThemes": [
+          "Earning and re-earning trust within a small, tight-knit crew",
+          "The fear that found family will reject you once they know the truth",
+          "Accountability balanced with compassion for coerced actions",
+          "Seeing oneself through the eyes of people who refuse to give up on you",
+          "Choosing self-sacrifice as an expression of belonging"
+        ],
+        "KeyEpisodes": [
+          {
+            "EpisodeID": "pics1e4",
+            "EpisodeTitle": "Absolute Candor",
+            "Role": "Settling into crew dynamics",
+            "TrajectoryNote": "Agnes\u2019s awkward attempts to fit in highlight her desire to belong and the crew\u2019s mix of tolerance and confusion."
+          },
+          {
+            "EpisodeID": "pics1e8",
+            "EpisodeTitle": "Broken Pieces",
+            "Role": "Confession and containment",
+            "TrajectoryNote": "The crew\u2019s reaction to Jurati\u2019s confession sets the tone for how they will balance security with compassion."
+          },
+          {
+            "EpisodeID": "pics2e4",
+            "EpisodeTitle": "Watcher",
+            "Role": "Standing with her despite the Queen",
+            "TrajectoryNote": "As Agnes becomes more entangled with the Borg Queen, the crew\u2019s determination to save her underscores how much she matters to them."
+          },
+          {
+            "EpisodeID": "pics2e10",
+            "EpisodeTitle": "Farewell",
+            "Role": "Final separation",
+            "TrajectoryNote": "The Jurati\u2013Queen\u2019s departure from their timeline closes the chapter on her time as part of the La Sirena family while honoring what they gave her."
+          }
+        ],
+        "NotableMoments": [
+          {
+            "EpisodeID": "pics1e8",
+            "EpisodeTitle": "Broken Pieces",
+            "Description": "Locked in sickbay under watch, Agnes weeps as the crew listens to her story; instead of turning away, they decide how to help her live with what has happened."
+          },
+          {
+            "EpisodeID": "pics2e4",
+            "EpisodeTitle": "Watcher",
+            "Description": "Even as the Borg Queen\u2019s influence grows, Raffi, Seven, and the others talk about Agnes as someone worth saving, not a problem to be discarded."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CharacterID": "SojiAsha",
+    "Name": "Soji Asha",
+    "Series": [
+      "PIC"
+    ],
+    "Meta": "Soji Asha is a synthetic young woman created from Data\u2019s positronic legacy, launched into the galaxy with false memories, real emotions, and no knowledge that her life is a constructed cover. Her journey from na\u00efve researcher to self-aware android forces her to confront betrayal, inherited trauma, and the question of what kind of future synthetics should claim for themselves.",
+    "Relationships": [
+      {
+        "RelationshipID": "JeanLucPicard-SojiAsha",
+        "Name": "Jean-Luc Picard and Soji Asha",
+        "Series": [
+          "PIC"
+        ],
+        "RelationshipType": [
+          "Mentor\u2013Prot\u00e9g\u00e9",
+          "Found Family",
+          "Legacy of Data"
+        ],
+        "People": [
+          {
+            "Character": "Soji Asha",
+            "BioID": "SojiAsha"
+          },
+          {
+            "Character": "Jean-Luc Picard",
+            "BioID": "Picard"
+          }
+        ],
+        "Overview": "For Soji, Jean-Luc Picard becomes the first person to look at her, fully aware of what she is, and see someone to protect rather than a threat to neutralize or a tool to exploit. To Picard, Soji is more than just another mystery to solve: she is a living piece of Data\u2019s legacy, a daughter in everything but biology, carrying the potential that his old friend never had time to explore. Their relationship is built in the ashes of betrayal\u2014after Soji\u2019s lover tries to kill her and her entire life is revealed as a fabrication\u2014and it grows into a hard-won trust in which Picard offers her both shelter and the freedom to decide what kind of synthetic person she wants to be.",
+        "StartingPoint": "When Picard first hears of Soji, he knows only that she is Dahj\u2019s twin and may hold the key to both a Romulan conspiracy and the resurrection of Data\u2019s work. Soji, meanwhile, is working on the Artifact, believing herself to be a human xB researcher with a normal childhood and a promising career. Their paths finally cross after Narek\u2019s assassination attempt forces Soji to flee through the Borg queen\u2019s spatial trajector and land, shaken and traumatized, aboard La Sirena. She meets Picard at the worst moment of her life\u2014fresh from learning that every memory she has may be a lie\u2014and initially treats him with a mixture of suspicion, anger, and exhausted curiosity. Picard, for his part, approaches her with a gentleness that makes clear he sees her as a person before an asset, even as he urgently needs her help.",
+        "Evolution": "As they travel together, Picard becomes Soji\u2019s chief advocate. He pushes back when others talk about her in terms of strategic value, insisting that her choices must matter. On Nepenthe, he places her in the care of Riker and Troi not just for safety, but to give her a taste of genuine family life untainted by deception. Soji, in turn, tests Picard\u2019s ideals: she questions whether organics can ever truly accept synthetic beings, and whether radical self-defense might be the only way to ensure her people\u2019s survival. On Coppelius, their bond is strained as she briefly aligns with Sutra\u2019s plan to summon a hyper-advanced synth alliance that could annihilate organic life. Picard challenges her without demonizing her, appealing to the compassion and curiosity he recognizes as echoes of Data. In the end, Soji chooses to trust him\u2014shutting down the beacon and allowing a fragile peace to stand. She walks away from the events of the first season with Picard as a kind of moral lodestar and surrogate grandfather, someone who proved that at least one famous human will fight for her right to exist as herself.",
+        "KeyThemes": [
+          "Carrying the legacy of Data while forging her own identity",
+          "Trust after profound betrayal and manipulation",
+          "The moral stakes of synthetic survival versus organic fear",
+          "Found-family bonds that cross generations and species",
+          "Choosing empathy over apocalyptic self-defense"
+        ],
+        "KeyEpisodes": [
+          {
+            "EpisodeID": "pics1e6",
+            "EpisodeTitle": "The Impossible Box",
+            "Role": "Soji\u2019s world collapses",
+            "TrajectoryNote": "Picard\u2019s arrival on the Artifact sets the stage for rescuing Soji once her constructed life is shattered."
+          },
+          {
+            "EpisodeID": "pics1e7",
+            "EpisodeTitle": "Nepenthe",
+            "Role": "Healing and first real trust",
+            "TrajectoryNote": "Staying with Riker and Troi, Soji watches Picard among people who love him, helping her start to trust his intentions."
+          },
+          {
+            "EpisodeID": "pics1e9",
+            "EpisodeTitle": "Et in Arcadia Ego, Part 1",
+            "Role": "Debating synth futures",
+            "TrajectoryNote": "On Coppelius, Soji listens as Picard argues for coexistence, even as she is drawn to Sutra\u2019s more radical vision."
+          },
+          {
+            "EpisodeID": "pics1e10",
+            "EpisodeTitle": "Et in Arcadia Ego, Part 2",
+            "Role": "Choosing Picard\u2019s path",
+            "TrajectoryNote": "Soji shuts down the beacon, honoring Picard\u2019s plea to avoid another genocidal war and affirming their shared belief in a better way."
+          }
+        ],
+        "NotableMoments": [
+          {
+            "EpisodeID": "pics1e7",
+            "EpisodeTitle": "Nepenthe",
+            "Description": "At Troi\u2019s table, Soji watches Picard interact with Riker\u2019s family, glimpsing the warmth and stability that underlie the legend she has been told to fear and doubt."
+          },
+          {
+            "EpisodeID": "pics1e10",
+            "EpisodeTitle": "Et in Arcadia Ego, Part 2",
+            "Description": "Standing at the beacon, Soji hesitates, looks at Picard, and chooses to shut it down\u2014trusting his belief in both synths and organics enough to risk her people\u2019s future on peace."
+          }
+        ]
+      },
+      {
+        "RelationshipID": "SojiAsha-Narek",
+        "Name": "Soji Asha and Narek",
+        "Series": [
+          "PIC"
+        ],
+        "RelationshipType": [
+          "Romantic",
+          "Betrayal",
+          "Spy and Target"
+        ],
+        "People": [
+          {
+            "Character": "Soji Asha",
+            "BioID": "SojiAsha"
+          },
+          {
+            "Character": "Narek",
+            "BioID": "Narek"
+          }
+        ],
+        "Overview": "Soji\u2019s relationship with Narek is the emotional trap at the heart of her constructed life. She falls for him as a mysterious, vulnerable Romulan who seems to be the only one on the Artifact who truly sees her. In reality, he is a Zhat Vash operative sent to uncover the truth of her origins and the location of Coppelius. The intimacy he cultivates is weaponized, and his eventual attempt to kill her turns their love story into a defining trauma that colors Soji\u2019s ability to trust anyone afterward.",
+        "StartingPoint": "On the Borg Artifact, Soji meets Narek as a fellow outsider\u2014he presents himself as an awkward, slightly lost Romulan with secrets of his own. They bond over their sense of not quite belonging: she as a human working with xBs in a place Romulans resent, he as a man at odds with his powerful sister and family expectations. Narek coaxes Soji into sharing her dreams, her doubts about her past, and her feelings of being unmoored. To her, this is the first great romance of her life; to him, it is an interrogation conducted through pillow talk, each confession a data point on the way to uncovering the synth homeworld.",
+        "Evolution": "As their relationship deepens, Narek\u2019s guilt grows, but not enough to stop him from following through on his mission. He guides Soji through a Romulan ritual meant to pry open her subconscious, then uses what he learns to set a trap\u2014locking her in a chamber and attempting to kill her with radiation. Her synthetic survival is the only reason she lives to see him again. The betrayal is total: every kiss, every comforting word, revealed as a means to an end. After she escapes through the Borg trajector with Picard\u2019s help, Soji\u2019s grief and fury over Narek\u2019s actions feed her skepticism about organic motives and make Sutra\u2019s apocalyptic proposal on Coppelius more tempting. Even if Narek later shows signs of conflicted loyalties, from Soji\u2019s point of view the relationship stands as proof that love can be a weapon\u2014and that she must be careful about who she lets close to her heart.",
+        "KeyThemes": [
+          "Weaponized intimacy and emotional manipulation",
+          "The shattering of first love through betrayal",
+          "The danger of building identity around someone else\u2019s gaze",
+          "Spycraft versus genuine feeling in a doomed romance",
+          "How trauma feeds suspicion of all future relationships"
+        ],
+        "KeyEpisodes": [
+          {
+            "EpisodeID": "pics1e3",
+            "EpisodeTitle": "The End is the Beginning",
+            "Role": "Romance under false pretenses",
+            "TrajectoryNote": "Narek deepens his involvement with Soji, blurring the line between genuine attraction and operational necessity."
+          },
+          {
+            "EpisodeID": "pics1e5",
+            "EpisodeTitle": "Stardust City Rag",
+            "Role": "Probing dreams and memories",
+            "TrajectoryNote": "Narek pushes Soji to explore her recurring dreams, all while hiding his true agenda."
+          },
+          {
+            "EpisodeID": "pics1e6",
+            "EpisodeTitle": "The Impossible Box",
+            "Role": "Assassination attempt and escape",
+            "TrajectoryNote": "Narek\u2019s attempt to kill Soji in the radiation chamber destroys any illusion that their relationship was built on mutual trust."
+          }
+        ],
+        "NotableMoments": [
+          {
+            "EpisodeID": "pics1e6",
+            "EpisodeTitle": "The Impossible Box",
+            "Description": "As the radiation fills the room, Soji hears Narek\u2019s soft words of apology over the comm, realizing in the same instant that his love and his betrayal are fatally intertwined."
+          },
+          {
+            "EpisodeID": "pics1e5",
+            "EpisodeTitle": "Stardust City Rag",
+            "Description": "Narek gently coaxes Soji through a ritual to unlock her memories, his tenderness masking the fact that he is dismantling the life she thinks is real."
+          }
+        ]
+      },
+      {
+        "RelationshipID": "SojiAsha-CoppeliusSynthCommunity",
+        "Name": "Soji Asha and the Coppelius synth community",
+        "Series": [
+          "PIC"
+        ],
+        "RelationshipType": [
+          "Found People",
+          "Ideological Conflict",
+          "Leader in Question"
+        ],
+        "People": [
+          {
+            "Character": "Soji Asha",
+            "BioID": "SojiAsha"
+          },
+          {
+            "Character": "Sutra",
+            "BioID": "Sutra"
+          },
+          {
+            "Character": "Altan Inigo Soong",
+            "BioID": "AltanInigoSoong"
+          }
+        ],
+        "Overview": "Discovering Coppelius is, for Soji, like stepping into a mirror universe where her existence is not an anomaly but the norm. The other synths\u2014Sutra, Arcana, and the rest\u2014are siblings in design if not experience, and Altan Inigo Soong is a kind of surrogate father who has known of her existence far longer than she knew of his. Among them, Soji must decide whether she will champion a path of cautious coexistence or embrace Sutra\u2019s argument that organics will always try to destroy what they fear. Her relationship with the Coppelius community is thus both familial and political, placing her at the center of a debate about what it means for synthetics to survive.",
+        "StartingPoint": "When Soji arrives on Coppelius, she is met not with suspicion but with recognition. The other androids accept her immediately as one of them; they understand her strengths, abilities, and latent code in ways no organic ever could. Soji, who has spent her life feeling like something is \u201coff\u201d without knowing why, is overwhelmed by the sudden sense of belonging. Altan Soong\u2019s revelation that she and Dahj were part of a grander experiment to continue Data\u2019s line adds a layer of destiny to that belonging. Initially, Soji leans into the relief of being around people who share her nature, allowing herself to imagine a future where she doesn\u2019t have to hide what she is.",
+        "Evolution": "The harmony cracks when Sutra, drawing on the Admonition\u2019s message, argues that organics will inevitably attempt another genocide against synthetics and that preemptive alliance with a higher synthetic power is the only rational response. Soji, still raw from Narek\u2019s betrayal and the synth ban that killed so many of her kind before they were even born, finds Sutra\u2019s logic disturbingly persuasive. For a time, she sides with the plan to activate the beacon and summon the advanced synths who may wipe out organic life. The tension between her empathy and her fear plays out in every conversation with Picard and the La Sirena crew. Ultimately, watching Picard risk his life\u2014and die\u2014to prevent another cataclysm forces Soji to re-evaluate what kind of leader she wants to be to her people. She shuts down the signal, choosing a path where Coppelius will stand as a careful, wary neighbor rather than a spark for galactic annihilation. Her bond with the synth community remains strong, but it is now grounded in her decision to steer them toward a future that rejects both annihilation and submission.",
+        "KeyThemes": [
+          "Belonging after a lifetime of feeling out of place",
+          "Balancing fear-driven self-defense against moral responsibility",
+          "Leadership emerging from trauma and difficult choices",
+          "Family defined by shared nature rather than shared memories",
+          "The risk and promise of a hidden synthetic society"
+        ],
+        "KeyEpisodes": [
+          {
+            "EpisodeID": "pics1e9",
+            "EpisodeTitle": "Et in Arcadia Ego, Part 1",
+            "Role": "Homecoming among synths",
+            "TrajectoryNote": "Soji is welcomed by the Coppelius synths and begins to see herself as part of a larger people."
+          },
+          {
+            "EpisodeID": "pics1e10",
+            "EpisodeTitle": "Et in Arcadia Ego, Part 2",
+            "Role": "Choice of path for her people",
+            "TrajectoryNote": "Faced with the beacon and the threat of galactic destruction, Soji chooses to turn it off, redefining her role in the community."
+          }
+        ],
+        "NotableMoments": [
+          {
+            "EpisodeID": "pics1e9",
+            "EpisodeTitle": "Et in Arcadia Ego, Part 1",
+            "Description": "Walking among nearly identical android faces, Soji touches the skin of another synth and feels, for the first time, that she is not alone in her nature."
+          },
+          {
+            "EpisodeID": "pics1e10",
+            "EpisodeTitle": "Et in Arcadia Ego, Part 2",
+            "Description": "Soji stands at the heart of the Coppelius settlement, surrounded by her siblings, as she tells them she has chosen a future that does not begin with the death of billions."
+          }
+        ]
+      },
+      {
+        "RelationshipID": "SojiAsha-LaSirenaCrew",
+        "Name": "Soji Asha and the La Sirena crew",
+        "Series": [
+          "PIC"
+        ],
+        "RelationshipType": [
+          "Found Family",
+          "Protectors and Skeptic",
+          "Identity Support"
+        ],
+        "People": [
+          {
+            "Character": "Soji Asha",
+            "BioID": "SojiAsha"
+          },
+          {
+            "Character": "Crist\u00f3bal Rios",
+            "BioID": "CristobalRios"
+          },
+          {
+            "Character": "Raffi Musiker",
+            "BioID": "RaffiMusiker"
+          },
+          {
+            "Character": "Agnes Jurati",
+            "BioID": "AgnesJurati"
+          },
+          {
+            "Character": "Seven of Nine",
+            "BioID": "Seven"
+          },
+          {
+            "Character": "Elnor",
+            "BioID": "Elnor"
+          }
+        ],
+        "Overview": "For Soji, the crew of La Sirena becomes the messy, imperfect found family that catches her when her life implodes. They are the first people to know the truth about her and still insist she deserves protection and choice. From Rios\u2019s cautious kindness to Raffi\u2019s sharp empathy, Jurati\u2019s scientific fascination, Seven\u2019s wary solidarity as another partially reclaimed \u201cmachine,\u201d and Elnor\u2019s open-hearted loyalty, each crewmember offers Soji a different model of how damaged people can keep moving. She does not fully trust them at first\u2014but their refusal to treat her as an object or a weapon slowly carves out space for her to see herself as more than a Romulan target or a synthetic ticking bomb.",
+        "StartingPoint": "Soji\u2019s introduction to the La Sirena crew is not gentle. She arrives via emergency escape from the Artifact, having just survived an assassination attempt and the collapse of her constructed reality. Rios is wary but provides shelter; Raffi immediately starts parsing what her existence means for the larger conspiracy; Jurati stares at her with a mixture of awe and guilt; Elnor offers wordless protection; and Seven, though not yet fully integrated into the crew, understands something of what it is to be reduced to what has been done to your body. To Soji, they are strangers who claim to be on her side, but she has just learned that someone who professed love could be a spy, so every new kindness is suspect.",
+        "Evolution": "As they travel together toward Nepenthe and then Coppelius, the La Sirena crew shifts from escorts to allies. Rios shares pieces of his own story and gives her small anchors\u2014food, conversation, the shared experience of being haunted by a past you did not choose. Raffi talks to her not as a specimen but as a young woman trying to make sense of trauma. Jurati\u2019s questions about her design and capabilities are shot through with personal stakes, as Agnes grapples with her own role in the synth crisis. Seven\u2019s presence as a part-cyborg, part-human hybrid gives Soji someone who viscerally understands the feeling of being both yourself and something built. Elnor, with his absolute candor, offers unconditional defense without hidden motives. By the time they reach Coppelius, Soji still questions organic motives, but she cannot deny that these particular organics keep risking themselves for her. Whether she is traveling with them or standing apart among other synths, their example remains a constant counterweight to the narrative that organics will always turn on her kind.",
+        "KeyThemes": [
+          "Found family formed in crisis rather than comfort",
+          "Learning to trust specific people even when institutions feel hostile",
+          "Seeing different models of coping with trauma and guilt",
+          "Refusing to treat a synthetic person as an object or weapon",
+          "Letting others hold space for your identity when you cannot"
+        ],
+        "KeyEpisodes": [
+          {
+            "EpisodeID": "pics1e6",
+            "EpisodeTitle": "The Impossible Box",
+            "Role": "Rescue and first contact",
+            "TrajectoryNote": "Picard and La Sirena pull Soji from the Artifact, throwing her into the orbit of a crew that knows more about her than she does."
+          },
+          {
+            "EpisodeID": "pics1e7",
+            "EpisodeTitle": "Nepenthe",
+            "Role": "Integration into the group",
+            "TrajectoryNote": "Travel and downtime allow Soji to see how the La Sirena crew operates as a flawed but loyal unit."
+          },
+          {
+            "EpisodeID": "pics1e8",
+            "EpisodeTitle": "Broken Pieces",
+            "Role": "Shared truths",
+            "TrajectoryNote": "As everyone\u2019s secrets spill out, Soji sees that she is not the only one whose life has been wrecked by forces beyond her control."
+          },
+          {
+            "EpisodeID": "pics1e9",
+            "EpisodeTitle": "Et in Arcadia Ego, Part 1",
+            "Role": "Crew as advocates on Coppelius",
+            "TrajectoryNote": "The La Sirena crew argues on Soji\u2019s behalf and on behalf of the synths, reinforcing their commitment to her people\u2019s survival."
+          }
+        ],
+        "NotableMoments": [
+          {
+            "EpisodeID": "pics1e7",
+            "EpisodeTitle": "Nepenthe",
+            "Description": "On the trip to Nepenthe, Soji sits quietly among the La Sirena crew, observing their banter and conflicts and realizing that, for all their scars, they have chosen to stand together."
+          },
+          {
+            "EpisodeID": "pics1e8",
+            "EpisodeTitle": "Broken Pieces",
+            "Description": "As confessions ripple through the ship, Soji watches each member of the crew confront their own failures, recognizing that she is not uniquely broken among them."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CharacterID": "JackCrusher",
+    "Name": "Jack Crusher",
+    "Series": [
+      "PIC"
+    ],
+    "Meta": "Jack Crusher is the son of Jean-Luc Picard and Beverly Crusher, raised off the grid as a medic and troublemaker on the fringes of Federation space. Haunted by a sense of not belonging, gifted with a strange Borg-derived ability to slip into and influence other minds, he hides his vulnerability behind sarcasm, bravado, and a fierce drive to help people on his own terms.",
+    "Relationships": [
+      {
+        "RelationshipID": "JeanLucPicard-JackCrusher",
+        "Name": "Jean-Luc Picard and Jack Crusher",
+        "Series": [
+          "PIC"
+        ],
+        "RelationshipType": [
+          "Father\u2013Son",
+          "Estrangement and Reconciliation",
+          "Shared Borg Trauma"
+        ],
+        "People": [
+          {
+            "Character": "Jack Crusher",
+            "BioID": "JackCrusher"
+          },
+          {
+            "Character": "Jean-Luc Picard",
+            "BioID": "Picard"
+          }
+        ],
+        "Overview": "The relationship between Jean-Luc Picard and Jack Crusher is the emotional spine of Picard\u2019s final adventure. Jack grows up knowing Picard only as a famous name on a screen and the man his mother chose not to bring into his life; Picard spends decades unaware he has a son at all. When they finally meet, Jack greets him with contemptuous humor and a wall of resentment\u2014why seek him out now, after a lifetime of absence? As the truth of Jack\u2019s origins and Borg-linked abilities comes to light, their dynamic shifts from wary antagonism to desperate mutual protection. Picard fights not just to save the galaxy from the threat Jack represents as Vox, but to convince his son that he was never unwanted. Jack, in turn, must decide whether he will define himself by abandonment and inherited darkness, or by the connection and sacrifice his father offers.",
+        "StartingPoint": "When Jack first crosses Picard\u2019s path, it is under fire\u2014literally. He is the charismatic, sharp-tongued smuggler who has been running relief operations with Beverly, crashing into Picard\u2019s quiet retirement with a trail of enemies behind him. The early revelation that he is Beverly\u2019s son but not yet confirmed as Picard\u2019s ignites immediate tension: Jack insists he doesn\u2019t care who his father is, and he mocks the idea of some heartfelt reunion. Picard, blindsided, is stunned by how much of himself he sees in the young man\u2019s stubbornness and risk-taking. Their first real conversations are bristling exchanges where Jack pokes at Picard\u2019s reputation and choices, while Picard cautiously probes the edges of this new bond, trying not to claim a role he has not earned.",
+        "Evolution": "As the Changeling conspiracy and the truth about Jack\u2019s Borg inheritance unfold, father and son are forced into brutal honesty. Picard learns that Beverly hid Jack\u2019s existence because repeated attempts on his life convinced her that staying away was the only way to keep him safe; Jack learns that Picard\u2019s absence was not indifference but ignorance and then misplaced restraint. The discovery that Jack can slip into other minds and that the Borg Queen intends to use him as Vox\u2014a mouthpiece and control node for a new Collective\u2014raises the stakes from personal drama to existential threat. When Jack flees to the Borg cube, ready to surrender to the only presence that has ever made him feel wholly understood, Picard follows not as an admiral, but as a father. He literally plugs into the Borg network, steps into the shared psychic space, and tells Jack that he would rather die with him than go on without him. In that moment, Jack accepts that he is loved for who he is, not as an obligation or a mistake. After the crisis, their relationship settles into something more relaxed and teasing\u2014Picard proud and bemused, Jack still irreverent but no longer running from the word \u201cfather.\u201d",
+        "KeyThemes": [
+          "Late-in-life discovery of family and the grief over lost years",
+          "Resentment and anger giving way to painful understanding",
+          "Fathers and sons confronting inherited trauma and violence",
+          "Choosing connection over the seductive certainty of the Collective",
+          "Redefining legacy as something shared, not imposed"
+        ],
+        "KeyEpisodes": [
+          {
+            "EpisodeID": "pics3e1",
+            "EpisodeTitle": "The Next Generation",
+            "Role": "First collisions",
+            "TrajectoryNote": "Picard meets Jack as a stranger with familiar eyes, setting up a conflict fueled by secrets and suppressed history."
+          },
+          {
+            "EpisodeID": "pics3e2",
+            "EpisodeTitle": "Disengage",
+            "Role": "Revelation and resistance",
+            "TrajectoryNote": "The truth that Jack is Picard\u2019s son surfaces, and both men react with anger\u2014Jack at perceived abandonment, Picard at years stolen."
+          },
+          {
+            "EpisodeID": "pics3e9",
+            "EpisodeTitle": "Vox",
+            "Role": "Inheritance revealed",
+            "TrajectoryNote": "Jack\u2019s Borg connection and role as Vox reframe their bond as the key to either saving or dooming Starfleet."
+          },
+          {
+            "EpisodeID": "pics3e10",
+            "EpisodeTitle": "The Last Generation",
+            "Role": "Rescue at the heart of the cube",
+            "TrajectoryNote": "Picard\u2019s psychic plea to Jack breaks the Queen\u2019s hold, transforming their relationship from estranged strangers to true father and son."
+          }
+        ],
+        "NotableMoments": [
+          {
+            "EpisodeID": "pics3e2",
+            "EpisodeTitle": "Disengage",
+            "Description": "Jack snarls that he never needed a father, while Picard\u2014reeling\u2014has to accept that, from Jack\u2019s point of view, he simply wasn\u2019t there."
+          },
+          {
+            "EpisodeID": "pics3e10",
+            "EpisodeTitle": "The Last Generation",
+            "Description": "Connected inside the Borg\u2019s mental landscape, Picard tells Jack he will stay with him even if it means dying, finally proving with action that his love is unconditional."
+          }
+        ]
+      },
+      {
+        "RelationshipID": "BeverlyCrusher-JackCrusher",
+        "Name": "Beverly Crusher and Jack Crusher",
+        "Series": [
+          "PIC"
+        ],
+        "RelationshipType": [
+          "Mother\u2013Son",
+          "Protective Secrecy",
+          "Partners on the Fringe"
+        ],
+        "People": [
+          {
+            "Character": "Jack Crusher",
+            "BioID": "JackCrusher"
+          },
+          {
+            "Character": "Beverly Crusher",
+            "BioID": "BeverlyCrusher"
+          }
+        ],
+        "Overview": "Beverly and Jack Crusher share a bond forged in constant motion, danger, and mutual dependence. Beverly raises Jack alone after deciding that the safest course is to keep his existence secret from Jean-Luc Picard and from the enemies who might target the son of a famous admiral. Jack grows up knowing only his mother\u2019s version of their history, deeply loved but constantly uprooted, working side by side with her on humanitarian missions that double as a way of staying ahead of those who might be hunting them. Their relationship is marked by fierce loyalty, simmering resentment over secrets, and the painful realization that Beverly\u2019s attempts to protect her son may also have deprived him of a fuller life.",
+        "StartingPoint": "For Jack, Beverly is the center of the universe: doctor, captain, and parent all in one. He knows that she left Starfleet and cut ties with many old friends, but he doesn\u2019t fully understand how much of that choice was about keeping him alive. They travel from hotspot to hotspot, offering medical aid to those neglected by the Federation, and Jack learns to fight, smuggle, and heal in equal measure. Beverly\u2019s love is unquestionable\u2014she teaches him ethics as much as medicine\u2014but her refusal to talk about his father, beyond vague references, plants a seed of frustration. Jack senses there is some missing piece of his story, and Beverly\u2019s tight-lipped protection ensures that when the truth finally comes out, it lands with explosive force.",
+        "Evolution": "When Beverly is gravely injured and sends a desperate message to Picard, she drags their shared secrets into the open. Jack\u2019s exposure to Starfleet, to Picard, and to the truth about his parentage forces mother and son to renegotiate what honesty looks like between them. Jack confronts Beverly about her choices\u2014about deciding alone that Picard would be kept away, about making him complicit in a life on the run. Beverly, in turn, explains the assassination attempts and the calculus of a mother who believed that distance was the only way to keep her child breathing. As Jack\u2019s Borg abilities surface and the scope of the threat expands, their partnership in crisis work is strained by the fear that Beverly might have passed on not just a dangerous name, but a literal ticking time bomb inside her son\u2019s mind. Surviving the Frontier Day catastrophe together, and watching Jack choose Starfleet and service aboard the Enterprise-G, allows them to rebuild on a foundation of shared purpose and newly honest communication. Beverly remains his fiercest advocate\u2014but now as part of a larger family rather than his only shield.",
+        "KeyThemes": [
+          "Single parenthood under constant threat",
+          "The cost of secrecy even when motivated by love",
+          "Children inheriting both danger and ideals from their parents",
+          "Partners in humanitarian work as well as family",
+          "Learning to let go enough for a child to choose their own path"
+        ],
+        "KeyEpisodes": [
+          {
+            "EpisodeID": "pics3e1",
+            "EpisodeTitle": "The Next Generation",
+            "Role": "Life on the run revealed",
+            "TrajectoryNote": "Beverly and Jack\u2019s medical ship and long history together are introduced amid immediate danger."
+          },
+          {
+            "EpisodeID": "pics3e2",
+            "EpisodeTitle": "Disengage",
+            "Role": "Secret parentage detonates",
+            "TrajectoryNote": "The truth about Jack\u2019s father and Beverly\u2019s decision to keep him away cracks open old wounds and new questions."
+          },
+          {
+            "EpisodeID": "pics3e5",
+            "EpisodeTitle": "Imposters",
+            "Role": "Working together under suspicion",
+            "TrajectoryNote": "Mother and son operate as a tight team even while Starfleet questions their actions and allegiances."
+          },
+          {
+            "EpisodeID": "pics3e10",
+            "EpisodeTitle": "The Last Generation",
+            "Role": "Aftermath and new beginnings",
+            "TrajectoryNote": "With Jack surviving Vox and taking his place in Starfleet, Beverly must accept that her son\u2019s life will no longer orbit solely around her."
+          }
+        ],
+        "NotableMoments": [
+          {
+            "EpisodeID": "pics3e1",
+            "EpisodeTitle": "The Next Generation",
+            "Description": "Jack and Beverly wordlessly coordinate under fire in sickbay, moving with the ease of partners who have spent years keeping each other alive."
+          },
+          {
+            "EpisodeID": "pics3e2",
+            "EpisodeTitle": "Disengage",
+            "Description": "Confronted by Picard and Jack, Beverly quietly admits that every attempt on Jean-Luc\u2019s life made her more certain that keeping father and son apart was the only way to protect Jack."
+          }
+        ]
+      },
+      {
+        "RelationshipID": "JackCrusher-BorgQueenCollective",
+        "Name": "Jack Crusher and the Borg Queen",
+        "Series": [
+          "PIC"
+        ],
+        "RelationshipType": [
+          "Psychic Entanglement",
+          "Temptation of Belonging",
+          "Antagonist and Heir"
+        ],
+        "People": [
+          {
+            "Character": "Jack Crusher",
+            "BioID": "JackCrusher"
+          },
+          {
+            "Character": "Borg Queen",
+            "BioID": "BorgQueen"
+          }
+        ],
+        "Overview": "Jack\u2019s connection to the Borg Queen is less a relationship by choice than an inherited curse, yet it becomes one of the most defining bonds of his life. Born with a latent Borg transmitter woven into his DNA, Jack has spent years hearing thoughts he shouldn\u2019t and slipping into other minds without understanding why. The Queen represents both the source of those terrifying abilities and the first presence that makes him feel entirely seen. To her, Jack is a long-awaited weapon and heir: the child of Locutus, uniquely suited to serve as Vox, the voice of a new, more insidious Collective. Their connection tempts Jack with the promise of absolute belonging even as it threatens to erase him.",
+        "StartingPoint": "Long before he knows the word \u201cBorg\u201d in any personal sense, Jack experiences flashes of perception and control that make no sense\u2014sudden awareness of others\u2019 positions, the ability to nudge minds and bodies around him, half-heard whispers in crowded rooms. He assumes he is simply strange, maybe gifted, certainly out of step with the people around him. Only when the Titan\u2019s crew and Beverly begin to piece together the pattern do Jack learn that these experiences are symptoms of an inherited connection to the Collective. The Queen\u2019s influence creeps in as a voice and a doorway in his mind, calling him toward something that feels unnervingly like home.",
+        "Evolution": "As the Changeling\u2013Borg conspiracy reaches its climax, the Queen tightens her grip. She offers Jack not just power but relief: an end to loneliness, a chorus of voices that will never leave him, the removal of the eternal question of where he belongs. Jack, worn down by guilt over the deaths occurring around him and convinced he is the problem, gives in and follows the psychic breadcrumb trail to the Borg cube. There, the Queen completes what biology began, fully integrating him as Vox. In that role, Jack becomes both victim and instrument\u2014his will bent to hers even as flickers of his personality and doubt remain. The Queen exults in finally having the child of Locutus at her command, using his abilities to seize control of Starfleet\u2019s young officers. The connection is only broken when Picard enters the Borg network and chooses to stay with Jack, offering love instead of coercion. Jack\u2019s rejection of the Queen and the destruction of the cube sever their bond, but the experience leaves enduring scars: he will always know what it felt like to be part of the Collective, and to walk away from it.",
+        "KeyThemes": [
+          "The seduction of belonging to something larger than oneself",
+          "Inherited trauma and guilt from a parent\u2019s assimilation",
+          "Power as both a gift and a violation of autonomy",
+          "The struggle to define selfhood apart from a predatory collective",
+          "Breaking a generational pattern of Borg control"
+        ],
+        "KeyEpisodes": [
+          {
+            "EpisodeID": "pics3e7",
+            "EpisodeTitle": "Dominion",
+            "Role": "Abilities escalate",
+            "TrajectoryNote": "Jack\u2019s uncontrolled powers grow stronger, hinting at an external intelligence pushing from the shadows."
+          },
+          {
+            "EpisodeID": "pics3e8",
+            "EpisodeTitle": "Surrender",
+            "Role": "Call of the Queen",
+            "TrajectoryNote": "The voice in Jack\u2019s mind becomes more insistent, drawing him toward the truth of his connection."
+          },
+          {
+            "EpisodeID": "pics3e9",
+            "EpisodeTitle": "Vox",
+            "Role": "Revelation and assimilation",
+            "TrajectoryNote": "Jack\u2019s identity as Vox and the Queen\u2019s plan for Starfleet\u2019s youth are fully revealed."
+          },
+          {
+            "EpisodeID": "pics3e10",
+            "EpisodeTitle": "The Last Generation",
+            "Role": "Bond severed",
+            "TrajectoryNote": "Picard\u2019s intervention allows Jack to reject the Queen\u2019s control and help end the new Collective."
+          }
+        ],
+        "NotableMoments": [
+          {
+            "EpisodeID": "pics3e9",
+            "EpisodeTitle": "Vox",
+            "Description": "Standing before the Borg Queen on the ruined cube, Jack hears her call him \u201cmy child\u201d and feels, for one horrible moment, that he has finally found where he belongs."
+          },
+          {
+            "EpisodeID": "pics3e10",
+            "EpisodeTitle": "The Last Generation",
+            "Description": "As the Queen\u2019s voice roars in his head, Jack clings to Picard\u2019s words and memories of his own choices, choosing selfhood over the seductive unity of the Collective."
+          }
+        ]
+      },
+      {
+        "RelationshipID": "JackCrusher-LegacyTNGCrew",
+        "Name": "Jack Crusher and the legacy TNG crew",
+        "Series": [
+          "PIC"
+        ],
+        "RelationshipType": [
+          "Extended Found Family",
+          "Skeptical Heir",
+          "Generational Bridge"
+        ],
+        "People": [
+          {
+            "Character": "Jack Crusher",
+            "BioID": "JackCrusher"
+          },
+          {
+            "Character": "William Riker",
+            "BioID": "Riker"
+          },
+          {
+            "Character": "Deanna Troi",
+            "BioID": "Troi"
+          },
+          {
+            "Character": "Worf",
+            "BioID": "Worf"
+          },
+          {
+            "Character": "Geordi La Forge",
+            "BioID": "GeordiLaForge"
+          },
+          {
+            "Character": "Data",
+            "BioID": "Data"
+          }
+        ],
+        "Overview": "To Jack, the legendary Enterprise-D crew starts out as a collection of stories and faces from the past\u2014his mother\u2019s old comrades and his father\u2019s chosen family, people he has never met but who loom large in his inheritance. Over the course of the Frontier Day crisis, those legends become flesh-and-blood aunts and uncles who risk their lives alongside him. They are alternately exasperated, amused, and deeply protective, offering Jack a crash course in what it means to stand in the lineage of heroes without letting that lineage define or crush him.",
+        "StartingPoint": "Jack meets Riker and Troi first as extensions of Picard\u2019s world: Riker recruits him for daring maneuvers, Troi senses the turmoil roiling inside him. Worf, Geordi, and Data enter his life as the crisis escalates, each bringing their own history with Picard and Beverly. Initially, Jack keeps them all at arm\u2019s length with jokes and skepticism. He sees them as an older generation whose glory days are behind them, and he\u2019s wary of being swallowed by their nostalgia. They, in turn, recognize pieces of both Beverly and Picard in him\u2014the charm, the impulsiveness, the stubborn moral core\u2014and respond with a mix of curiosity and instant, quiet affection.",
+        "Evolution": "As they board the restored Enterprise-D and fly into the teeth of the Borg-controlled armada, Jack becomes not just a passenger but an integral part of the team. Riker barks orders and offers wry encouragement; Worf provides gruff wisdom and very real protection; Geordi treats Jack as both a young officer and the future that his own daughters share; Data brings an almost childlike enthusiasm to having this new link to Beverly and Picard\u2019s story. Troi reaches out across the psychic distance when Jack is lost in the Collective. Through shared danger, Jack experiences what it means to belong to a multigenerational family that doesn\u2019t care about bloodlines so much as shared choices. By the end of the crisis, he is no longer orbiting the TNG crew as distant icons; he is teasing them over poker, taking assignments that build on their legacy, and preparing to chart his own path aboard the Enterprise-G with their blessing.",
+        "KeyThemes": [
+          "Found family that predates your birth but still claims you",
+          "Living up to a legendary legacy without being crushed by it",
+          "Generational handoff from TNG heroes to a new crew",
+          "Respect growing out of shared danger and survival",
+          "Blending irreverence and genuine admiration"
+        ],
+        "KeyEpisodes": [
+          {
+            "EpisodeID": "pics3e3",
+            "EpisodeTitle": "Seventeen Seconds",
+            "Role": "Connections begin",
+            "TrajectoryNote": "Interactions with Riker and Troi start to sketch Jack\u2019s place within Picard\u2019s extended family."
+          },
+          {
+            "EpisodeID": "pics3e6",
+            "EpisodeTitle": "The Bounty",
+            "Role": "Full crew gathers",
+            "TrajectoryNote": "Jack meets more of the legacy crew as the stakes rise, seeing firsthand the bonds that have held them together for decades."
+          },
+          {
+            "EpisodeID": "pics3e9",
+            "EpisodeTitle": "Vox",
+            "Role": "Family versus the Collective",
+            "TrajectoryNote": "The older crew\u2019s horror and determination to save Jack underscore how completely they have embraced him as one of their own."
+          },
+          {
+            "EpisodeID": "pics3e10",
+            "EpisodeTitle": "The Last Generation",
+            "Role": "Handoff to the future",
+            "TrajectoryNote": "Celebrations and farewells set the stage for Jack\u2019s future aboard the Enterprise-G, blessed by the crew that defined his father\u2019s era."
+          }
+        ],
+        "NotableMoments": [
+          {
+            "EpisodeID": "pics3e6",
+            "EpisodeTitle": "The Bounty",
+            "Description": "On the repaired Enterprise-D, Jack listens to the old crew reminisce and bicker, realizing that behind the legends are very human, very flawed people who still show up for each other."
+          },
+          {
+            "EpisodeID": "pics3e10",
+            "EpisodeTitle": "The Last Generation",
+            "Description": "As Jack boards the Enterprise-G with Seven and Raffi, the looks and quiet words from Riker, Troi, Worf, Geordi, and Data make it clear that he carries their hopes into the next generation of Starfleet."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CharacterID": "Q",
+    "Name": "Q",
+    "Series": [
+      "PIC"
+    ],
+    "Meta": "Q is an omnipotent, reality-warping being from the Q Continuum who has spent decades testing, provoking, and ultimately guiding Jean-Luc Picard. In the Picard era, his games take on a new urgency as he confronts his own mortality and chooses to use his vast power one last time to offer Picard a chance at emotional healing rather than cosmic humiliation.",
+    "Relationships": [
+      {
+        "RelationshipID": "Q-JeanLucPicard-PICFinalTest",
+        "Name": "Q and Jean-Luc Picard (final test)",
+        "Series": [
+          "PIC"
+        ],
+        "RelationshipType": [
+          "Cosmic Trickster and Subject",
+          "Found Family",
+          "End-of-Life Reckoning"
+        ],
+        "People": [
+          {
+            "Character": "Q",
+            "BioID": "Q"
+          },
+          {
+            "Character": "Jean-Luc Picard",
+            "BioID": "Picard"
+          }
+        ],
+        "Overview": "In Picard\u2019s second season, Q\u2019s relationship with Jean-Luc shifts from antagonistic examiner to something closer to a dying god\u2019s last gift. Instead of putting humanity on trial, he narrows his focus to one mortal man and the emotional wound that has shaped Picard\u2019s entire life: the childhood trauma and self-blame surrounding his mother\u2019s illness and death. Q engineers a nightmare future, a temporal jump to 2024, and a chain of crises not to destroy Picard, but to force him to finally look inward. Their interactions are tinged with genuine grief on Q\u2019s side and wary curiosity on Picard\u2019s, culminating in a farewell that reframes decades of cruelty as a deeply alien, clumsy kind of love.",
+        "StartingPoint": "When Q first appears to Picard in this era, it is in a moment of apparent triumph: the launch of the new Stargazer and a renewed sense of purpose. Q snaps that reality into the Confederation timeline, slaps Picard awake in a fascist nightmare, and taunts him about how little he has truly changed inside. Picard reacts with anger and disgust\u2014this feels like yet another Q trial, only crueler for arriving so late in his life. But there are cracks in Q\u2019s performance from the start: flashes of temper, glitches in his power, and a desperate insistence that time is running out. The godling who once toyed with Picard from a position of absolute invulnerability is now racing his own mortality, determined that his \u201cfavorite human\u201d not die locked behind emotional walls.",
+        "Evolution": "Over the course of the season, Q pulls strings rather than standing constantly at center stage. He nudges Adam Soong, manipulates the Europa mission, and throws up obstacles that force Picard and his crew to confront past and present. Each encounter between Q and Picard becomes more raw: Picard demands to know why Q is doing this, and Q, uncharacteristically, cannot quite hide that he is afraid\u2014not of punishment, but of leaving something unfinished. When Picard finally pieces together that Q is dying and that the entire convoluted scenario has been about helping him accept his younger self, the tone between them changes. In the ch\u00e2teau, amid memories of locks and shadows, Q appears not as judge but as confessor, telling Picard that he deserves love and that he was never responsible for his mother\u2019s death. Their final hug is astonishingly simple: no grand speeches, just an immortal being choosing to spend his last moments making sure his oldest adversary does not die alone. Q\u2019s end transforms their relationship from cosmic cat-and-mouse game into a story about an impossible friendship that outlasted the universe\u2019s jokes.",
+        "KeyThemes": [
+          "Using godlike power to engineer personal healing instead of punishment",
+          "Late-life confrontation with childhood trauma and self-blame",
+          "The ambiguity of love expressed as decades of tests and trials",
+          "Mortality coming even for beings who once seemed eternal",
+          "Closure between adversaries who have become something like family"
+        ],
+        "KeyEpisodes": [
+          {
+            "EpisodeID": "pics2e1",
+            "EpisodeTitle": "The Star Gazer",
+            "Role": "Reality rewritten and the game begins",
+            "TrajectoryNote": "Q snaps Picard into the Confederation timeline, announcing a new and deeply personal trial."
+          },
+          {
+            "EpisodeID": "pics2e2",
+            "EpisodeTitle": "Penance",
+            "Role": "First confrontation in a fascist mirror",
+            "TrajectoryNote": "Picard realizes that Q\u2019s latest scenario is less about humanity and more pointedly about him."
+          },
+          {
+            "EpisodeID": "pics2e7",
+            "EpisodeTitle": "Monsters",
+            "Role": "Focus on Picard\u2019s inner child",
+            "TrajectoryNote": "Therapy sequences and Q\u2019s interventions push Picard toward facing his mother\u2019s illness and his guilt."
+          },
+          {
+            "EpisodeID": "pics2e10",
+            "EpisodeTitle": "Farewell",
+            "Role": "Final goodbye",
+            "TrajectoryNote": "Q reveals his impending death and offers Picard emotional closure, ending their long dance with a hug rather than a trial."
+          }
+        ],
+        "NotableMoments": [
+          {
+            "EpisodeID": "pics2e2",
+            "EpisodeTitle": "Penance",
+            "Description": "Q slaps Picard in the Confederation study, voice cracking with barely contained emotion as he accuses Picard of never truly changing where it counts."
+          },
+          {
+            "EpisodeID": "pics2e10",
+            "EpisodeTitle": "Farewell",
+            "Description": "Standing in the ch\u00e2teau, Q tells Picard that even gods have favorites and draws him into an embrace, using the last of his power to send the crew home."
+          }
+        ]
+      },
+      {
+        "RelationshipID": "Q-Guinan-PIC",
+        "Name": "Q and Guinan (Picard era)",
+        "Series": [
+          "PIC"
+        ],
+        "RelationshipType": [
+          "Ancient Rivals",
+          "Reluctant Allies",
+          "Cold War Veterans"
+        ],
+        "People": [
+          {
+            "Character": "Q",
+            "BioID": "Q"
+          },
+          {
+            "Character": "Guinan",
+            "BioID": "Guinan"
+          }
+        ],
+        "Overview": "Q and Guinan share a relationship that predates and complicates their mutual connection to Picard. Where TNG hinted at a mysterious hostility between them, Picard\u2019s second season fills in the outlines: the El-Aurians and the Q once fought a kind of cold war, leaving scars and grudging respect on both sides. In 2024, Q encounters a younger Guinan on Earth and treats her as both an old adversary and someone whose perspective on humanity he knows matters. Their exchanges are loaded with barbs, shared history, and the sense that each understands the other\u2019s power better than anyone else in the room.",
+        "StartingPoint": "In the altered 2024 timeline, Guinan has given up on humanity and is preparing to leave Earth when Picard and his crew stumble into her bar. Q, watching events unfold from the sidelines, visits her himself. He appears not as bombastic ringmaster but as a weary manipulator pushing her toward a crossroads. He taunts her about abandoning humanity, reminding her of how long she has watched them and how much she once believed in them. Guinan bristles, responding with the same cool defiance she will one day show him on Ten Forward, but the encounter makes clear that Q values\u2014perhaps resents\u2014her capacity for empathy and long-view judgment in a way he does not with most mortals.",
+        "Evolution": "Throughout the season, Guinan and Q remain mostly on opposite sides of the board, moving around Picard rather than directly colliding. Yet Guinan\u2019s role as listener and guide to Picard mirrors, in a gentler key, Q\u2019s role as provocateur. Both want Jean-Luc to change; both understand that humanity is at a hinge point. When Guinan finally meets the elder Q again\u2014through the resonance between her younger self and her 25th-century bar\u2014their interactions carry layers of unspoken history. She recognizes his impending death and the vulnerability it exposes; he, in turn, seems almost amused that one of the few beings who ever challenged him is here to witness his final play. Their relationship in this era crystallizes as a long, uneasy truce between powers who have tried to shape the same species in very different ways.",
+        "KeyThemes": [
+          "Ancient conflicts evolving into wary respect",
+          "Different philosophies of how to \u201ctest\u201d humanity",
+          "Immortals watching mortals at a turning point",
+          "Rival mentors circling the same human focal point",
+          "Letting old grudges soften in the face of mortality"
+        ],
+        "KeyEpisodes": [
+          {
+            "EpisodeID": "pics2e4",
+            "EpisodeTitle": "Watcher",
+            "Role": "Q visits young Guinan",
+            "TrajectoryNote": "Q confronts Guinan about leaving Earth, needling her over her loss of faith in humanity."
+          },
+          {
+            "EpisodeID": "pics2e8",
+            "EpisodeTitle": "Mercy",
+            "Role": "Shared understanding of Picard\u2019s trial",
+            "TrajectoryNote": "Guinan\u2019s conversations with Picard clarify how Q\u2019s latest game is aimed squarely at Jean-Luc\u2019s heart."
+          },
+          {
+            "EpisodeID": "pics2e10",
+            "EpisodeTitle": "Farewell",
+            "Role": "Aftermath and perspective",
+            "TrajectoryNote": "The effects of Q\u2019s choices are filtered through Guinan\u2019s long memory as she explains the ripples to Picard and his friends."
+          }
+        ],
+        "NotableMoments": [
+          {
+            "EpisodeID": "pics2e4",
+            "EpisodeTitle": "Watcher",
+            "Description": "In a nearly empty bar, Q needles Guinan about packing up to leave Earth, his casual cruelty hiding a real concern that she is quitting the very species he has spent eons testing."
+          },
+          {
+            "EpisodeID": "pics2e8",
+            "EpisodeTitle": "Mercy",
+            "Description": "Guinan explains to Picard that beings like Q and herself have watched humanity for a long time, hinting that even his cosmic tormentor is acting from motives more complex than simple malice."
+          }
+        ]
+      },
+      {
+        "RelationshipID": "Q-AdamSoong-PIC",
+        "Name": "Q and Adam Soong",
+        "Series": [
+          "PIC"
+        ],
+        "RelationshipType": [
+          "Devil\u2019s Bargain",
+          "Manipulator and Pawn",
+          "Soong Line Entanglement"
+        ],
+        "People": [
+          {
+            "Character": "Q",
+            "BioID": "Q"
+          },
+          {
+            "Character": "Adam Soong",
+            "BioID": "AdamSoong"
+          }
+        ],
+        "Overview": "Q\u2019s relationship with Adam Soong in 2024 is that of a devil offering exactly the temptation a desperate man cannot refuse. Adam is a disgraced geneticist whose experiments have ruined his reputation and endangered his daughter Kore; Q arrives with money, influence, and the promise of saving her in exchange for Soong\u2019s help sabotaging the Europa mission. To Q, Adam is a convenient, predictable piece on the board\u2014another Soong whose ego and fear make him easy to steer. To Adam, Q is both benefactor and nightmare, the personification of his own willingness to compromise ethics for personal salvation and legacy.",
+        "StartingPoint": "Q approaches Adam Soong at the moment when his career and personal life are collapsing. Banned from practicing, stripped of respect, and watching Kore suffer from the consequences of his work, Adam is primed for a miracle. Q appears with a dossier and a cure, framing himself as an ally who believes in Soong\u2019s genius and is willing to bankroll his research. The price is simple and horrifying: ensure that Ren\u00e9e Picard does not make it to space. Their first dealings are all about leverage\u2014Q flattering Adam\u2019s ego, Adam testing how far he can push this mysterious patron\u2014yet underneath is an immediate awareness that they are both playing with lives on a planetary scale.",
+        "Evolution": "As Adam repeatedly fails to stop Ren\u00e9e and loses pieces of his life\u2014his funding, his daughter\u2019s trust\u2014he becomes more unhinged. Q oscillates between smug amusement and genuine frustration, boxed in by his own diminishing powers and by the need for Soong\u2019s all-too-human ruthlessness. The more Adam clings to the idea that he is destined to shape the future, the easier it is for Q to shove him toward increasingly desperate acts: attempted murder, sabotage, and the willingness to risk Earth\u2019s future for his own name. Yet Q\u2019s ultimate goal is not Adam\u2019s triumph; it is Picard\u2019s growth. When the dust settles, Adam is left with the barest scraps of what Q promised and a video file that will seed the next generation of Soongs. Q moves on, his interest in the line more about narrative continuity than personal affection. Their relationship stands as one of the starkest examples of Q\u2019s willingness to exploit human weakness as part of a larger, opaque design.",
+        "KeyThemes": [
+          "Temptation and the ease of corrupting a desperate man",
+          "Scientific ego overriding ethical responsibility",
+          "The Soong family\u2019s recurring entanglement with cosmic forces",
+          "Being used as a pawn in someone else\u2019s test",
+          "Legacy built on morally compromised choices"
+        ],
+        "KeyEpisodes": [
+          {
+            "EpisodeID": "pics2e4",
+            "EpisodeTitle": "Watcher",
+            "Role": "Deal offered",
+            "TrajectoryNote": "Q approaches Adam Soong with money and influence, offering a cure for Kore in exchange for sabotage."
+          },
+          {
+            "EpisodeID": "pics2e5",
+            "EpisodeTitle": "Fly Me to the Moon",
+            "Role": "Bargain deepens",
+            "TrajectoryNote": "Adam accepts Q\u2019s terms and begins actively working to derail Ren\u00e9e\u2019s mission, revealing how far he will go."
+          },
+          {
+            "EpisodeID": "pics2e6",
+            "EpisodeTitle": "Two of One",
+            "Role": "Escalation to violence",
+            "TrajectoryNote": "Soong attempts to assassinate Ren\u00e9e under Q\u2019s shadowy encouragement, intertwining their fates more tightly."
+          },
+          {
+            "EpisodeID": "pics2e10",
+            "EpisodeTitle": "Farewell",
+            "Role": "Aftermath and legacy seed",
+            "TrajectoryNote": "With Q\u2019s larger plan resolved, Adam is left to pick up the pieces, setting in motion future Soong endeavors."
+          }
+        ],
+        "NotableMoments": [
+          {
+            "EpisodeID": "pics2e4",
+            "EpisodeTitle": "Watcher",
+            "Description": "Q slides dossiers and bank accounts across Adam\u2019s desk, speaking softly of opportunity as he tests just how much the scientist will trade for a second chance."
+          },
+          {
+            "EpisodeID": "pics2e6",
+            "EpisodeTitle": "Two of One",
+            "Description": "Watching from the shadows as Adam moves in on Ren\u00e9e, Q\u2019s expression mixes satisfaction and impatience, revealing how transactional his supposed patronage truly is."
+          }
+        ]
+      }
+    ]
   }
 ]
