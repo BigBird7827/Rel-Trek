@@ -1225,8 +1225,9 @@
     "CharacterID": "Riker",
     "Name": "William Riker",
     "Series": [
-      "TNG",
-      "Films"
+      "Films",
+      "PIC",
+      "TNG"
     ],
     "Meta": "First officer, USS Enterprise (NCC-1701-D)",
     "Relationships": [
@@ -1437,6 +1438,79 @@
             "EpisodeID": "tngs4e1",
             "EpisodeTitle": "The Best of Both Worlds, Part II",
             "Description": "On the bridge during the final assault on the Borg cube, Riker\u2019s calm acceptance of Shelby\u2019s aggressive plan shows how their adversarial dynamic has evolved into a functional division of labor under fire."
+          }
+        ]
+      },
+      {
+        "RelationshipID": "Riker-Troi-PIC",
+        "Name": "William Riker and Deanna Troi (Picard-era)",
+        "Series": [
+          "PIC"
+        ],
+        "RelationshipType": [
+          "Long-term marriage",
+          "Shared grief and renewed partnership"
+        ],
+        "People": [
+          {
+            "Character": "William Riker",
+            "BioID": "Riker"
+          },
+          {
+            "Character": "Deanna Troi",
+            "BioID": "Troi"
+          }
+        ],
+        "Overview": "Riker and Troi in the Picard era are a couple who have survived everything from starship crises to the death of a child, and are still doing the work of staying together. The light, teasing chemistry from their Enterprise days is still there, but it sits on top of a much heavier foundation: raising a family, losing their son Thad, and navigating the clash between Starfleet duty and emotional survival. Their scenes in the series reveal a marriage that has known distance and strain, yet keeps choosing to pull back toward connection rather than quietly drift apart.",
+        "StartingPoint": "The relationship is reintroduced on Nepenthe, where Riker and Troi have retreated after leaving active starship duty. Their house is full of warmth, cooking smells and their daughter Kestra\u2019s chaotic energy, but the absence of Thad is everywhere. They have built a life designed to protect what remains of their family, putting space and trees between themselves and the constant emergencies of the Federation. Welcoming Picard and Soji, they slip naturally into old roles\u2014Riker the tactical thinker, Troi the emotional compass\u2014yet the conversation about Thad\u2019s illness and death makes clear that grief has reshaped how they see Starfleet, risk and each other. Riker\u2019s willingness to return to a bridge again is tempered by Troi\u2019s need to keep at least one piece of their world safe.",
+        "Evolution": "By the time of the Titan-A mission years later, the marriage has weathered waves of unspoken pain. Riker accepts Picard\u2019s call to adventure in part because he feels stuck in his grief, while Troi is left to manage her own mourning and the empathic overload of living with a husband who seems emotionally numb. Their reunion aboard the Titan during the Frontier Day crisis brings those tensions into the open. They argue about risk, about Thad, about whether Riker\u2019s instinct to back away from danger is caution or fear. Troi makes it clear that she needs him present, not just physically nearby but emotionally reachable; Riker has to admit that retreating into work, even at the edge of another catastrophe, is easier than sitting with his pain at home. As the crisis escalates, they start to find their rhythm again: trading strategic insights, protecting their crew and family, and allowing themselves to joke even as the stakes climb. By the time they stand together on the repaired Enterprise-D bridge and later on Ten Forward in the finale, their body language and quiet exchanges show two people who have walked through the worst a family can face and chosen to keep loving each other anyway.",
+        "KeyThemes": [
+          "Marriage after shared trauma",
+          "Balancing duty with family",
+          "Grief, numbness and reconnection",
+          "Carrying TNG-era love into late life"
+        ],
+        "KeyEpisodes": [
+          {
+            "EpisodeID": "pics1e7",
+            "EpisodeTitle": "Nepenthe",
+            "Role": "Family refuge",
+            "TrajectoryNote": "Life on Nepenthe reveals how Riker and Troi have shifted into parental and caretaker roles, carrying grief for Thad while trying to create a safe haven for Kestra."
+          },
+          {
+            "EpisodeID": "pics3e3",
+            "EpisodeTitle": "Seventeen Seconds",
+            "Role": "Fault lines exposed",
+            "TrajectoryNote": "On the Titan-A, arguments about risk and command decisions bring buried pain about Thad and Riker\u2019s emotional withdrawal to the surface."
+          },
+          {
+            "EpisodeID": "pics3e8",
+            "EpisodeTitle": "Surrender",
+            "Role": "Choosing each other again",
+            "TrajectoryNote": "Facing danger to their crew and daughter, Riker and Troi fall back into a familiar tactical and emotional partnership, showing that their bond still works under pressure."
+          },
+          {
+            "EpisodeID": "pics3e10",
+            "EpisodeTitle": "The Last Generation",
+            "Role": "Quiet aftermath",
+            "TrajectoryNote": "In the celebrations after Frontier Day, small moments between them\u2014touches, looks, shared jokes\u2014confirm that the marriage has bent but not broken."
+          }
+        ],
+        "NotableMoments": [
+          {
+            "EpisodeID": "pics1e7",
+            "EpisodeTitle": "Nepenthe",
+            "Description": "Cooking in the Nepenthe kitchen and trading easy banter, Riker and Troi let their guard down just enough for Picard to see the cost of Thad\u2019s loss and the depth of the love that remains."
+          },
+          {
+            "EpisodeID": "pics3e3",
+            "EpisodeTitle": "Seventeen Seconds",
+            "Description": "After a sharp argument about Picard and Jack, Troi\u2019s hurt expression and Riker\u2019s admission that he feels hollow expose how much of their grief they have been carrying separately."
+          },
+          {
+            "EpisodeID": "pics3e10",
+            "EpisodeTitle": "The Last Generation",
+            "Description": "Standing among old friends on the Enterprise-D and later in Ten Forward, a quiet exchange of smiles between them says more about survival and forgiveness than any speech could."
           }
         ]
       }
@@ -1996,8 +2070,9 @@
     "CharacterID": "Beverly",
     "Name": "Beverly Crusher",
     "Series": [
-      "TNG",
-      "Films"
+      "Films",
+      "PIC",
+      "TNG"
     ],
     "Meta": "Chief medical officer, USS Enterprise (NCC-1701-D)",
     "Relationships": [
@@ -2147,6 +2222,85 @@
             "Description": "As Wesley departs with the Traveller, Beverly masks her heartbreak with a smile, offering a mother\u2019s blessing even as she privately grapples with the realization that his path has diverged permanently from the one she knew."
           }
         ]
+      },
+      {
+        "RelationshipID": "Beverly-JackCrusher-PIC",
+        "Name": "Beverly Crusher and Jack Crusher",
+        "Series": [
+          "PIC"
+        ],
+        "RelationshipType": [
+          "Mother and son",
+          "Protection and secrecy"
+        ],
+        "People": [
+          {
+            "Character": "Beverly Crusher",
+            "BioID": "BeverlyCrusher"
+          },
+          {
+            "Character": "Jack Crusher",
+            "BioID": "JackCrusher"
+          }
+        ],
+        "Overview": "Beverly and Jack are defined by a bond that is fiercely loving and deeply compromised by secrecy. After losing Jack\u2019s father and watching Jean-Luc Picard nearly die time and again, Beverly chooses to raise her child far from Starfleet and the Enterprise legacy. To the outside world they are a small, self-contained family operating on the fringes of Federation space; to Jack, his mother is a brilliant physician who saves lives in the places the Federation forgets. What he does not know for most of his life is that she has built that world on a withheld truth about who he is and why she keeps running.",
+        "StartingPoint": "Jack grows up knowing Beverly as a doctor who goes where she is needed most, patching up refugees, smugglers and civilians in crises that Starfleet never officially acknowledges. Their relationship is a partnership as much as a traditional parent\u2013child dynamic: he carries supplies, reads situations, and learns to navigate danger with a mix of charm and improvisation. Beverly relies on his quick thinking and street instincts, treating him like a capable ally because circumstances demand it. Underneath that equality is a quiet, unspoken tension. Whenever the subject of his father or Starfleet comes too close, Beverly shuts down the conversation or redirects it. Her choice to keep Picard\u2019s identity from Jack is rooted in fear\u2014of enemies targeting their son, of Jack feeling abandoned when duty inevitably calls Picard away again, and of having to relive the cycle of loss that started with Jack\u2019s namesake.",
+        "Evolution": "The charade ruptures when Beverly is critically injured and sends a desperate message to Picard. Jack\u2019s world collides with the life his mother tried to keep separate, and the lies that once felt protective suddenly look like betrayals. On the Titan-A, Beverly is forced into the most painful conversations of her life, explaining to Jack why she chose to disappear and why she decided he was better off without his father. Her explanations\u2014that every attempt on Picard\u2019s life, every kidnapping and assassination plot made their child a target\u2014are true, but they do not erase Jack\u2019s anger at having his choices made for him. Even while they clash, their instinctive teamwork resurfaces in triage situations and tactical improvisation, reminding both of them that whatever else is broken, the core of their relationship has always been trust in each other\u2019s competence. When Jack\u2019s connection to the Borg comes to light, Beverly\u2019s fear shifts from psychological harm to existential threat. She must accept that the thing she cannot protect him from has been inside him since birth. Through the Frontier Day crisis, she walks a razor\u2019s edge between doctor, mother and officer\u2014running weapons diagnostics one moment and standing by her son the next as he confronts the horror of what he has been turned into. After the cube is destroyed and Jack is freed, there is no simple reset. Their bond moves into a more honest phase, with Jack setting his own course and Beverly learning to support him without controlling the narrative of his life.",
+        "KeyThemes": [
+          "Maternal protection taken too far",
+          "Autonomy versus safety",
+          "Living in the shadow of Starfleet history",
+          "Facing the consequences of withheld truth"
+        ],
+        "KeyEpisodes": [
+          {
+            "EpisodeID": "pics3e1",
+            "EpisodeTitle": "The Next Generation",
+            "Role": "Mother and son against the galaxy",
+            "TrajectoryNote": "Life aboard the Eleos shows Beverly and Jack functioning as a seamless team, hinting at years of shared danger and mutual reliance."
+          },
+          {
+            "EpisodeID": "pics3e3",
+            "EpisodeTitle": "Seventeen Seconds",
+            "Role": "Secrets exposed",
+            "TrajectoryNote": "Beverly finally tells Picard\u2014and Jack\u2014why she hid their son, forcing the family to confront decades of unilateral decisions."
+          },
+          {
+            "EpisodeID": "pics3e4",
+            "EpisodeTitle": "No Win Scenario",
+            "Role": "Tension under pressure",
+            "TrajectoryNote": "Trapped in the nebula, Beverly and Jack work flawlessly in sickbay even as unresolved resentment simmers beneath their professional focus."
+          },
+          {
+            "EpisodeID": "pics3e9",
+            "EpisodeTitle": "V\u00f5x",
+            "Role": "The terrible inheritance revealed",
+            "TrajectoryNote": "Learning the full extent of Jack\u2019s connection to the Borg forces Beverly to face the limits of her ability to protect him."
+          },
+          {
+            "EpisodeID": "pics3e10",
+            "EpisodeTitle": "The Last Generation",
+            "Role": "Letting him go and getting him back",
+            "TrajectoryNote": "After risking everything to help rescue Jack from the Borg, Beverly must accept that her son is now an adult choosing his own path in Starfleet."
+          }
+        ],
+        "NotableMoments": [
+          {
+            "EpisodeID": "pics3e1",
+            "EpisodeTitle": "The Next Generation",
+            "Description": "Moving through the corridors of the Eleos with unspoken coordination, Beverly and Jack trade practiced instructions and dry jokes that reveal how many crises they have survived together."
+          },
+          {
+            "EpisodeID": "pics3e3",
+            "EpisodeTitle": "Seventeen Seconds",
+            "Description": "In sickbay, Beverly quietly tells Picard that she chose to raise Jack alone because she could not bear to watch their child become another casualty of his dangerous life, knowing Jack will eventually hear every word."
+          },
+          {
+            "EpisodeID": "pics3e10",
+            "EpisodeTitle": "The Last Generation",
+            "Description": "Watching Jack in a Starfleet uniform on the Enterprise-G, Beverly feels pride and fear intertwine, recognizing that her son is finally living a life she once tried to keep far away from him."
+          }
+        ]
       }
     ]
   },
@@ -2154,9 +2308,10 @@
     "CharacterID": "Worf",
     "Name": "Worf",
     "Series": [
-      "TNG",
       "DS9",
-      "Films"
+      "Films",
+      "PIC",
+      "TNG"
     ],
     "Meta": "Klingon Starfleet officer; security/tactical on Enterprise-D, later strategic operations on Deep Space 9",
     "Relationships": [
@@ -2564,6 +2719,79 @@
             "EpisodeID": "ds9s7e8",
             "EpisodeTitle": "The Siege of AR-558",
             "Description": "In the trenches, Worf watches Ezri face terror and exhaustion without retreat, prompting him to acknowledge that her bravery belongs to her, not just to the memories she carries."
+          }
+        ]
+      },
+      {
+        "RelationshipID": "Worf-Raffi-PIC",
+        "Name": "Worf and Raffi Musiker",
+        "Series": [
+          "PIC"
+        ],
+        "RelationshipType": [
+          "Unlikely partners",
+          "Intelligence mentors with clashing methods"
+        ],
+        "People": [
+          {
+            "Character": "Worf",
+            "BioID": "Worf"
+          },
+          {
+            "Character": "Raffi Musiker",
+            "BioID": "RaffiMusiker"
+          }
+        ],
+        "Overview": "The working partnership between Worf and Raffi Musiker is built on contrast: a serene, deadly ex-Starfleet warrior and a frantic, self-doubting former officer who has burned through most of her second chances. Thrown together by intelligence work in the Picard era, they become an odd but effective team. Raffi brings raw instincts, street contacts and a willingness to crawl through the ugliest corners of the quadrant; Worf brings discipline, patience and a moral center that refuses to accept that the only way to fight corruption is to become just as ruthless. Over time, each pushes the other toward a more balanced way of operating.",
+        "StartingPoint": "Their connection surfaces in the shadows, not on a Starfleet bridge. Raffi, convinced she is chasing a conspiracy no one else will acknowledge, is working alone as a barely tolerated asset, digging into stolen Daystrom technology and terrorist attacks that look like false flags. Her handlers keep her at arm\u2019s length, feeding just enough information to keep her useful while leaving her isolated. The mysterious contact who has been directing her turns out to be Worf, now operating in a quiet, almost monk-like mode as an intelligence operative. He saves her life in a flash of controlled violence and then calmly offers tea, setting the tone for a partnership in which he will not only back her play but also challenge her self-destructive habits.",
+        "Evolution": "At first, Raffi resents Worf\u2019s calm and his riddling hints; she feels patronized by a man who seems to float above the mess she is drowning in. Worf, for his part, finds her methods chaotic and her pain dangerously close to the surface, but he sees the sharp mind and fierce loyalty under the anger. Working together on M\u2019Talas Prime, at Daystrom Station and in the corridors of compromised Starfleet command, they learn to synchronize their strengths. Raffi\u2019s ability to read informants and improvise on the fly complements Worf\u2019s strategic patience and surgical brutality when force is required. He pushes her to see herself as more than a broken officer begging for relevance, insisting that she deserves a role because she is capable, not because she is desperate. She, in turn, pulls honesty out of him about the cost of the path he has chosen and needles him whenever his serenity slips into avoidance. By the time they are infiltrating enemy-held ships and coordinating with the reunited TNG crew, their banter has settled into the easy rhythm of partners who trust each other to watch the other\u2019s blind spots.",
+        "KeyThemes": [
+          "Finding balance between fury and restraint",
+          "Recovery and self-worth after disgrace",
+          "Honor in covert work",
+          "Chosen partnership beyond traditional chains of command"
+        ],
+        "KeyEpisodes": [
+          {
+            "EpisodeID": "pics3e2",
+            "EpisodeTitle": "Disengage",
+            "Role": "Revealing the handler",
+            "TrajectoryNote": "Worf rescues Raffi from a deadly confrontation and reveals himself as the enigmatic contact behind her investigation, resetting the power dynamic of her mission."
+          },
+          {
+            "EpisodeID": "pics3e3",
+            "EpisodeTitle": "Seventeen Seconds",
+            "Role": "Setting terms of partnership",
+            "TrajectoryNote": "Training sequences and sharp conversations establish Worf\u2019s expectations for discipline and Raffi\u2019s refusal to be treated as a disposable asset."
+          },
+          {
+            "EpisodeID": "pics3e6",
+            "EpisodeTitle": "The Bounty",
+            "Role": "Infiltration and trust",
+            "TrajectoryNote": "Their joint work around Daystrom Station shows how Worf\u2019s calm planning and Raffi\u2019s improvisation have fused into a single, effective operation style."
+          },
+          {
+            "EpisodeID": "pics3e9",
+            "EpisodeTitle": "V\u00f5x",
+            "Role": "Standing against a hijacked Starfleet",
+            "TrajectoryNote": "As Starfleet falls under enemy control, the Worf\u2013Raffi team operates as a crucial independent cell, relying on each other when larger institutions cannot be trusted."
+          }
+        ],
+        "NotableMoments": [
+          {
+            "EpisodeID": "pics3e2",
+            "EpisodeTitle": "Disengage",
+            "Description": "After dispatching Raffi\u2019s attackers with effortless efficiency, Worf calmly introduces himself and offers her tea, leaving her stunned by the juxtaposition of lethal force and quiet courtesy."
+          },
+          {
+            "EpisodeID": "pics3e3",
+            "EpisodeTitle": "Seventeen Seconds",
+            "Description": "During training, Worf reminds Raffi that she is more than her addictions and failures, telling her that she fights not because she is broken, but because she still cares enough to try."
+          },
+          {
+            "EpisodeID": "pics3e10",
+            "EpisodeTitle": "The Last Generation",
+            "Description": "In the aftermath of the Frontier Day crisis, their dry, affectionate banter makes it clear that the unlikely partnership has solidified into a lasting bond built on mutual respect."
           }
         ]
       }
