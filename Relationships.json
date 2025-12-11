@@ -5512,7 +5512,7 @@
           },
           {
             "Character": "Seven of Nine",
-            "BioID": "SevenOfNine"
+            "BioID": "Seven"
           }
         ],
         "Overview": "Janeway\u2019s relationship with Seven of Nine is the emotional and ethical core of Voyager\u2019s later years. She forcibly severs Seven from the Borg Collective, then spends the rest of the journey trying to help her reclaim an individual identity. Their connection is volatile and intense: Janeway oscillates between captain, parent, teacher, and adversary, while Seven challenges her assumptions about humanity, utilitarian choices, and what it means to belong to a crew. Their bond is marked by arguments as often as by trust, but both women repeatedly stake their lives and futures on the other\u2019s growth.",
@@ -6017,7 +6017,7 @@
           },
           {
             "Character": "B'Elanna Torres",
-            "BioID": "BElannaTorres"
+            "BioID": "Torres"
           }
         ],
         "Overview": "Chakotay\u2019s relationship with B'Elanna Torres is rooted in their shared Maquis past and his decision to see potential where others saw only volatility. As her former captain and later her first officer, he plays an older-brother and mentor role, helping her channel rage and self-loathing into engineering genius and leadership. Their bond is marked by blunt honesty: he does not coddle her or excuse her outbursts, but he consistently stands up for her value to the crew and her right to define herself beyond Starfleet prejudices and Klingon stereotypes.",
@@ -6092,7 +6092,7 @@
           },
           {
             "Character": "Tom Paris",
-            "BioID": "TomParis"
+            "BioID": "Paris"
           }
         ],
         "Overview": "Chakotay\u2019s relationship with Tom Paris moves from deep mistrust to grudging respect and finally to a stable, if understated, friendship. As a Maquis commander who once saw Paris as a traitor and opportunist, Chakotay initially regards him with open contempt. Over time, he watches Paris earn the crew\u2019s trust, take responsibility for his mistakes, and grow into a reliable pilot and officer. Their dynamic tracks Voyager\u2019s broader theme of second chances and the possibility of genuine change under pressure.",
@@ -6333,7 +6333,7 @@
           },
           {
             "Character": "Seven of Nine",
-            "BioID": "SevenOfNine"
+            "BioID": "Seven"
           }
         ],
         "Overview": "Tuvok and Seven of Nine share a quiet kinship as highly disciplined outsiders aboard Voyager. Both rely on rigorous mental control\u2014Vulcan logic and Borg-honed efficiency\u2014to navigate a crew that often leads with emotion. While Janeway and the Doctor handle most of Seven\u2019s emotional and social development, Tuvok offers a model of how to live with intense mental discipline without surrendering individuality, and he treats Seven as a capable officer rather than a project in need of constant correction.",
@@ -6457,7 +6457,7 @@
     ]
   },
   {
-    "CharacterID": "BElannaTorres",
+    "CharacterID": "Torres",
     "Name": "B'Elanna Torres",
     "Series": [
       "VOY"
@@ -6478,7 +6478,7 @@
         "People": [
           {
             "Character": "B'Elanna Torres",
-            "BioID": "BElannaTorres"
+            "BioID": "Torres"
           },
           {
             "Character": "Kathryn Janeway",
@@ -6559,7 +6559,7 @@
         "People": [
           {
             "Character": "B'Elanna Torres",
-            "BioID": "BElannaTorres"
+            "BioID": "Torres"
           },
           {
             "Character": "Chakotay",
@@ -6634,11 +6634,11 @@
         "People": [
           {
             "Character": "B'Elanna Torres",
-            "BioID": "BElannaTorres"
+            "BioID": "Torres"
           },
           {
             "Character": "Tom Paris",
-            "BioID": "TomParis"
+            "BioID": "Paris"
           }
         ],
         "Overview": "From B'Elanna\u2019s point of view, Tom Paris is the infuriatingly persistent pilot who refuses to be scared off by her temper or her walls\u2014and eventually becomes the partner she never believed she deserved. Their relationship is where B'Elanna tests whether someone can see her at her most volatile and still choose to stay. Tom\u2019s humor and goofiness initially read to her as irresponsibility, but over time she learns to trust that beneath the jokes is a man who knows what it means to be broken and who still wants a life, a marriage, and a child with her in all her complexity.",
@@ -6704,7 +6704,7 @@
     ]
   },
   {
-    "CharacterID": "SevenOfNine",
+    "CharacterID": "Seven",
     "Name": "Seven of Nine",
     "Series": [
       "VOY"
@@ -6726,7 +6726,7 @@
         "People": [
           {
             "Character": "Seven of Nine",
-            "BioID": "SevenOfNine"
+            "BioID": "Seven"
           },
           {
             "Character": "Kathryn Janeway",
@@ -6812,7 +6812,7 @@
         "People": [
           {
             "Character": "Seven of Nine",
-            "BioID": "SevenOfNine"
+            "BioID": "Seven"
           },
           {
             "Character": "The Doctor",
@@ -6887,7 +6887,7 @@
         "People": [
           {
             "Character": "Seven of Nine",
-            "BioID": "SevenOfNine"
+            "BioID": "Seven"
           },
           {
             "Character": "Naomi Wildman",
@@ -6962,7 +6962,7 @@
         "People": [
           {
             "Character": "Seven of Nine",
-            "BioID": "SevenOfNine"
+            "BioID": "Seven"
           },
           {
             "Character": "Icheb",
@@ -7049,7 +7049,7 @@
         "People": [
           {
             "Character": "Seven of Nine",
-            "BioID": "SevenOfNine"
+            "BioID": "Seven"
           },
           {
             "Character": "Borg Queen",
@@ -7107,7 +7107,7 @@
     ]
   },
   {
-    "CharacterID": "TomParis",
+    "CharacterID": "Paris",
     "Name": "Tom Paris",
     "Series": [
       "VOY"
@@ -7129,11 +7129,11 @@
         "People": [
           {
             "Character": "Tom Paris",
-            "BioID": "TomParis"
+            "BioID": "Paris"
           },
           {
             "Character": "B'Elanna Torres",
-            "BioID": "BElannaTorres"
+            "BioID": "Torres"
           }
         ],
         "Overview": "Tom Paris and B'Elanna Torres evolve from prickly colleagues and reluctant allies into one of Voyager\u2019s most grounded, messy, and believable marriages. Their relationship is anchored in shared damage: Tom\u2019s history of failure and self-loathing meets B'Elanna\u2019s anger and fear of rejection. What begins as sniping across engineering consoles and away missions slowly gives way to mutual recognition that each sees past the other\u2019s defenses. As they grow closer, Tom becomes one of the few people B'Elanna trusts with her vulnerability, while she forces him to confront whether his charm and jokes hide a man who still expects to fail or someone finally willing to fight for a life and family.",
@@ -7210,7 +7210,7 @@
         "People": [
           {
             "Character": "Tom Paris",
-            "BioID": "TomParis"
+            "BioID": "Paris"
           },
           {
             "Character": "Harry Kim",
@@ -7285,7 +7285,7 @@
         "People": [
           {
             "Character": "Tom Paris",
-            "BioID": "TomParis"
+            "BioID": "Paris"
           },
           {
             "Character": "Kathryn Janeway",
@@ -7360,7 +7360,7 @@
         "People": [
           {
             "Character": "Tom Paris",
-            "BioID": "TomParis"
+            "BioID": "Paris"
           },
           {
             "Character": "Tuvok",
