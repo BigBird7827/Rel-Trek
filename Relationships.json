@@ -3336,5 +3336,1009 @@
         ]
       }
     ]
+  },
+  {
+    "CharacterID": "Odo",
+    "Name": "Odo",
+    "Series": [
+      "DS9"
+    ],
+    "Meta": "Changeling constable of Deep Space 9; former security chief under Cardassian and Federation/Bajoran command",
+    "Relationships": [
+      {
+        "RelationshipID": "Kira-Odo",
+        "Name": "Odo and Kira Nerys",
+        "Series": [
+          "DS9"
+        ],
+        "RelationshipType": [
+          "Colleagues to deep friendship",
+          "Late-blooming romance"
+        ],
+        "People": [
+          {
+            "Character": "Odo",
+            "BioID": "Odo"
+          },
+          {
+            "Character": "Kira Nerys",
+            "BioID": "Kira"
+          }
+        ],
+        "Overview": "From Odo\u2019s point of view, his relationship with Kira Nerys is the one constant that humanizes him in a world where he is always the outsider. He first knows her as a terrorist, then as a liaison officer and finally as his closest friend and commanding officer. Through every shift in her role, his feelings deepen from wary respect to a love he hides for years behind gruff professionalism. Kira is the person who pushes him to examine not only his loyalties but his own capacity for attachment, proving to him that a being of liquid form can still have a solid center.",
+        "StartingPoint": "Odo meets Kira during the occupation, when she is a resistance operative and he is an investigator appointed by the Cardassians to keep order on Terok Nor. He tells himself he is neutral, serving \u2018justice\u2019 rather than Cardassia, but Kira\u2019s presence tests that claim. She is reckless, angry and utterly committed to Bajor\u2019s freedom, and Odo finds himself quietly bending rules to avoid handing her over to certain execution. When the Federation and Bajor take over the station, Kira becomes his superior in the new, hybrid command structure. Odo is suspicious of everyone in uniform, but Kira\u2019s history in the resistance and her refusal to be intimidated by either Sisko or Starfleet convince him that she is still the same woman he once chose not to condemn. Their early arguments about how to police the Promenade and deal with former collaborators lay the groundwork for a partnership built on honesty sharp enough to wound and strong enough to heal.",
+        "Evolution": "Over time, Odo\u2019s respect for Kira crystallizes into love he does not know how to express. He watches her navigate Bajoran politics, confront old cell comrades and struggle with faith, always positioning himself as the reliable constable who will back her play. His confession in the false-stone crisis, later revealed to have been wrung out of him by a Founders\u2019 ruse, exposes feelings he can no longer fully deny even to himself. Kira\u2019s initial inability to respond romantically hurts, but it does not break their bond. Their relationship is further strained when Odo temporarily sides with the Dominion and the Great Link, abandoning his duties on the station and leaving Kira to lead the resistance against the occupation. His return and remorse mark a turning point: Kira forgives him, but not without forcing him to confront the damage he has done. When they finally become a couple, Odo experiences something close to peace\u2014sharing late-night walks on the Promenade and holosuite dances that would once have mortified him. In the end, his decision to return to the Great Link to cure his people is made in full awareness of what he is leaving behind. Kira\u2019s willingness to let him go, and his trust that she understands why he must, confirm for Odo that their love is rooted in respect for each other\u2019s duties, not in possession.",
+        "KeyThemes": [
+          "Trust forged under occupation",
+          "Unspoken love turning mutual",
+          "Duty to a people versus duty to a partner",
+          "Letting go without breaking the bond"
+        ],
+        "KeyEpisodes": [
+          {
+            "EpisodeID": "ds9s2e8",
+            "EpisodeTitle": "Necessary Evil",
+            "Role": "Rewriting the past",
+            "TrajectoryNote": "Revisiting an old murder case forces Odo to admit that he once chose not to frame Kira, cementing his sense that she has always been the person he could not betray."
+          },
+          {
+            "EpisodeID": "ds9s3e14",
+            "EpisodeTitle": "Heart of Stone",
+            "Role": "Forced confession",
+            "TrajectoryNote": "Believing Kira trapped and dying, Odo confesses his love; although the scenario is a Changeling trap, the truth of his feelings cannot be taken back."
+          },
+          {
+            "EpisodeID": "ds9s6e20",
+            "EpisodeTitle": "His Way",
+            "Role": "Becoming a couple",
+            "TrajectoryNote": "With awkward help from Vic Fontaine, Odo finally lowers his guard enough to reach for Kira as more than a colleague, transforming years of tension into open affection."
+          },
+          {
+            "EpisodeID": "ds9s7e25",
+            "EpisodeTitle": "What You Leave Behind",
+            "Role": "Parting and promise",
+            "TrajectoryNote": "Odo\u2019s choice to join the Great Link, and Kira\u2019s support, define their relationship as one strong enough to survive separation and change."
+          }
+        ],
+        "NotableMoments": [
+          {
+            "EpisodeID": "ds9s2e8",
+            "EpisodeTitle": "Necessary Evil",
+            "Description": "Realizing that Kira lied to him during the occupation, Odo feels both anger and understanding, recognizing that his concept of \u2018justice\u2019 was always tangled up with his feelings for her."
+          },
+          {
+            "EpisodeID": "ds9s6e20",
+            "EpisodeTitle": "His Way",
+            "Description": "On the Promenade, after a hesitant kiss turns into something sure, Odo experiences the unfamiliar sensation of his usually guarded form relaxing into joy."
+          },
+          {
+            "EpisodeID": "ds9s7e25",
+            "EpisodeTitle": "What You Leave Behind",
+            "Description": "As he walks into the sea to merge with the Link, Odo looks back at Kira one last time, committing her face to memory in a way even a Changeling cannot alter."
+          }
+        ]
+      },
+      {
+        "RelationshipID": "Odo-Quark",
+        "Name": "Odo and Quark",
+        "Series": [
+          "DS9"
+        ],
+        "RelationshipType": [
+          "Law vs crime",
+          "Grudging friendship"
+        ],
+        "People": [
+          {
+            "Character": "Odo",
+            "BioID": "Odo"
+          },
+          {
+            "Character": "Quark",
+            "BioID": "Quark"
+          }
+        ],
+        "Overview": "Odo\u2019s relationship with Quark is, on the surface, a perpetual battle between constable and crook. Beneath the arrests, threats and insults, however, lies one of Odo\u2019s most enduring and reluctantly cherished bonds. Quark is a constant in a life full of shifting allegiances and species; he is always scheming, often lying and yet strangely reliable when it truly matters. For Odo, sparring with Quark is both a job and a form of companionship he would never admit to needing.",
+        "StartingPoint": "During the occupation, Quark runs his bar under Cardassian oversight while Odo maintains security. Their roles set them at odds: Quark pushes every rule to its breaking point, while Odo insists on upholding order according to his own idiosyncratic code. Yet even then, they develop an odd rhythm\u2014Quark expects to be shaken down, Odo expects Quark to complain about it, and both understand that the game keeps the station from sliding into even worse corruption. When the Federation arrives, the uniforms change but the dynamic remains. Odo continues to threaten to throw Quark in a cell; Quark continues to insist he is a simple businessman. Underneath, Odo recognizes that Quark\u2019s bar is the heart of the Promenade\u2019s social life and that closing it down would hurt the very civilians he wants to protect.",
+        "Evolution": "As years pass, shared crises reveal the depth of their begrudging loyalty. Quark repeatedly risks himself to save Odo or the station, whether by uncovering plots, sheltering fugitives or, on rare occasions, telling the truth when a lie would be easier. Odo, in turn, bends the rules to keep Quark from being crushed by larger forces\u2014Grand Nagus schemes, Dominion crackdowns, or overzealous Starfleet officers. Their time stranded together on a barren world in \u2018The Ascent\u2019 strips away the bar, the constable\u2019s office and the usual distractions, forcing both men to confront the fact that they have become friends of a sort. Odo would never use the word lightly, but he cannot ignore that Quark understands his moods and vulnerabilities better than most humanoids. By the end of the series, even as Odo prepares to leave for the Great Link, there is an unspoken recognition: he will miss chasing Quark, and Quark will miss being chased.",
+        "KeyThemes": [
+          "Order versus opportunism",
+          "Respect forged through conflict",
+          "Friendship hidden behind insults",
+          "Outsiders finding common ground"
+        ],
+        "KeyEpisodes": [
+          {
+            "EpisodeID": "ds9s1e1",
+            "EpisodeTitle": "Emissary",
+            "Role": "Dynamic reestablished under new management",
+            "TrajectoryNote": "Even as Starfleet takes over, Odo and Quark slip easily back into their familiar pattern of threats and evasions, signaling that some relationships transcend politics."
+          },
+          {
+            "EpisodeID": "ds9s3e22",
+            "EpisodeTitle": "Explorers",
+            "Role": "Quiet loyalty",
+            "TrajectoryNote": "Moments when Quark passes Odo information without demanding payment highlight the way their rivalry masks genuine concern for the station\u2019s safety."
+          },
+          {
+            "EpisodeID": "ds9s5e9",
+            "EpisodeTitle": "The Ascent",
+            "Role": "Stranded honesty",
+            "TrajectoryNote": "Forced to survive together on a desolate planet, Odo and Quark drop many of their pretenses, admitting that they might actually care whether the other lives or dies."
+          },
+          {
+            "EpisodeID": "ds9s7e8",
+            "EpisodeTitle": "The Siege of AR-558",
+            "Role": "War\u2019s impact on the station",
+            "TrajectoryNote": "Odo\u2019s awareness of how the war affects Quark\u2019s business and family underscores how intertwined their fortunes have become."
+          }
+        ],
+        "NotableMoments": [
+          {
+            "EpisodeID": "ds9s5e9",
+            "EpisodeTitle": "The Ascent",
+            "Description": "Half-frozen and exhausted, Odo and Quark bicker even as they lean on each other for support, their insults barely disguising a mutual will to keep the other alive."
+          },
+          {
+            "EpisodeID": "ds9s7e17",
+            "EpisodeTitle": "Penumbra",
+            "Description": "When Quark laments that peace might mean fewer customers and fewer schemes, Odo\u2019s dry retort hides a hint of amusement\u2014and the knowledge that he would not mind having one less thing to worry about."
+          }
+        ]
+      },
+      {
+        "RelationshipID": "Odo-Sisko",
+        "Name": "Odo and Benjamin Sisko",
+        "Series": [
+          "DS9"
+        ],
+        "RelationshipType": [
+          "Commander and security chief",
+          "Trust in an outsider"
+        ],
+        "People": [
+          {
+            "Character": "Odo",
+            "BioID": "Odo"
+          },
+          {
+            "Character": "Benjamin Sisko",
+            "BioID": "Sisko"
+          }
+        ],
+        "Overview": "Odo\u2019s relationship with Benjamin Sisko is built on a level of professional trust he has rarely received from any humanoid authority. Sisko arrives as yet another commander who could have treated Odo as a tool or a liability; instead, he respects Odo\u2019s independence and instincts. For a changeling who has spent decades being used by occupiers and feared by civilians, Sisko\u2019s willingness to rely on him without constant suspicion earns a loyalty Odo seldom articulates but consistently demonstrates.",
+        "StartingPoint": "When the Cardassians withdraw and Starfleet arrives, Odo fully expects to be replaced. He has served under Gul Dukat and other prefects; there is no reason to believe a Federation commander will want a former occupation-era security chief on staff. Sisko\u2019s decision to keep him on\u2014and to refer to him simply as \u2018Constable\u2019 rather than as a thing\u2014catches Odo off guard. Early conflicts over jurisdiction and procedure are colored by this unexpected respect. Sisko does not hesitate to question Odo\u2019s methods, but he also backs Odo when others challenge his authority, signaling that he sees him as part of the command team, not as a tolerated relic.",
+        "Evolution": "Over time, Odo becomes one of Sisko\u2019s most reliable advisors on matters of station security, underworld politics and the Dominion threat. Sisko\u2019s reaction to the discovery that Odo is a Changeling is cautious but not panicked; he tightens security but does not strip Odo of his position, a decision that means more to Odo than he lets on. When Odo is taken to the Great Link, tried and punished for killing another Changeling, Sisko\u2019s efforts to retrieve him and accommodate his resulting \u2018solid\u2019 state demonstrate a rare willingness to adapt. Later, during the station\u2019s occupation by Dominion forces, Odo\u2019s temporary alignment with the Link strains their relationship; Sisko feels betrayed, and Odo knows he has broken the commander\u2019s trust. His eventual return to duty and atonement restore much of what was lost, but Odo never forgets how close he came to losing Sisko\u2019s faith entirely. By the series\u2019 end, Odo sees Sisko as one of the few captains who allowed him to define himself on his own terms\u2014a gift he carries with him even as Sisko joins the Prophets.",
+        "KeyThemes": [
+          "Trusting an ex-occupation official",
+          "Respect for unconventional methods",
+          "Strain under divided loyalties",
+          "Command that recognizes personhood"
+        ],
+        "KeyEpisodes": [
+          {
+            "EpisodeID": "ds9s1e1",
+            "EpisodeTitle": "Emissary",
+            "Role": "Keeping the constable",
+            "TrajectoryNote": "Sisko\u2019s choice to retain Odo as security chief, despite his past under Cardassian rule, sets the foundation for a relationship based on cautious trust."
+          },
+          {
+            "EpisodeID": "ds9s3e1",
+            "EpisodeTitle": "The Search, Part I",
+            "Role": "Supporting Odo\u2019s origins",
+            "TrajectoryNote": "Allowing Odo to join the Defiant\u2019s mission to the Gamma Quadrant, Sisko shows that he respects Odo\u2019s need to learn where he comes from."
+          },
+          {
+            "EpisodeID": "ds9s4e24",
+            "EpisodeTitle": "The Quickening",
+            "Role": "Shared moral weight",
+            "TrajectoryNote": "Episodes where Sisko must make hard calls about civilian lives highlight how much he relies on Odo\u2019s blunt assessments of security and justice."
+          },
+          {
+            "EpisodeID": "ds9s6e6",
+            "EpisodeTitle": "Sacrifice of Angels",
+            "Role": "After betrayal",
+            "TrajectoryNote": "Following Odo\u2019s flirtation with the Link, Sisko\u2019s wary reintegration of him into the command structure reflects both disappointment and a willingness to give him another chance."
+          }
+        ],
+        "NotableMoments": [
+          {
+            "EpisodeID": "ds9s1e1",
+            "EpisodeTitle": "Emissary",
+            "Description": "When Sisko tells Odo he wants him to stay on as constable, Odo masks his surprise with gruffness, privately acknowledging that this new commander may be different from the rest."
+          },
+          {
+            "EpisodeID": "ds9s6e6",
+            "EpisodeTitle": "Sacrifice of Angels",
+            "Description": "After the station is retaken, Odo feels the full force of Sisko\u2019s disappointment in his recent choices, a judgment that stings precisely because he values the man\u2019s opinion."
+          }
+        ]
+      },
+      {
+        "RelationshipID": "Odo-Founders",
+        "Name": "Odo and the Founders / The Great Link",
+        "Series": [
+          "DS9"
+        ],
+        "RelationshipType": [
+          "Exile and home",
+          "Belonging versus conscience"
+        ],
+        "People": [
+          {
+            "Character": "Odo",
+            "BioID": "Odo"
+          },
+          {
+            "Character": "The Founders",
+            "BioID": "Founders"
+          }
+        ],
+        "Overview": "Odo\u2019s relationship with the Founders and the Great Link is a lifelong tug-of-war between his need to belong and his refusal to accept their moral compromises. They are his people\u2014those who created him, shaped his early understanding of his own nature and can offer a kind of union no solid being can match. They are also architects of a ruthless empire built on fear and control. For Odo, every contact with the Link is both comfort and contamination.",
+        "StartingPoint": "Before he finds the Link, Odo knows only that he is alone. As a \u2018sample\u2019 given to Bajoran scientists, he is prodded, tested and treated as an object, not a person. His discovery of other Changelings in the Gamma Quadrant feels at first like a miracle: he is no longer unique. The Founders welcome him, explain his shapeshifting abilities and invite him into the Link, where individual edges dissolve into a sea of shared thought and feeling. The experience is intoxicating, but Odo quickly realizes that this unity comes with an expectation of obedience. The Founders\u2019 paranoia toward \u2018solids\u2019 and their justification for ruling the Dominion clash with the sense of justice he has developed on his own.",
+        "Evolution": "As the Dominion War unfolds, Odo is torn between the Link\u2019s call and his life on DS9. The Founders both manipulate and punish him: they infect the Great Link with a fatal disease that he unknowingly carries, judge him for killing one of their own and temporarily strip him of his shapeshifting as a lesson. They also use his feelings for Kira to draw him back, exploiting his desire for acceptance. Encounters with other rogue Changelings, such as Laas, further complicate Odo\u2019s thinking; Laas\u2019s anger at solid prejudice resonates with him, even as he recoils from Laas\u2019s willingness to lash out. Ultimately, Odo decides that he cannot abandon either side of his identity. In the final act of the war, he chooses to rejoin the Great Link permanently\u2014not to submit, but to heal his people and change them from within. Carrying with him the values he learned among solids, Odo hopes to turn the Link away from conquest and toward something less defined by fear. The cost is exile from the life he built on DS9, but for Odo, it is the only way to reconcile his origins with his conscience.",
+        "KeyThemes": [
+          "Searching for a people",
+          "Collective identity versus individual ethics",
+          "Exile by choice and by design",
+          "Trying to reform a flawed home from within"
+        ],
+        "KeyEpisodes": [
+          {
+            "EpisodeID": "ds9s3e1",
+            "EpisodeTitle": "The Search, Part I",
+            "Role": "Finding the Link",
+            "TrajectoryNote": "Odo\u2019s discovery of the Founders and his first experience of the Link fulfill his longing for connection even as they introduce new doubts about his place among solids."
+          },
+          {
+            "EpisodeID": "ds9s4e1",
+            "EpisodeTitle": "The Way of the Warrior",
+            "Role": "Living with divided loyalties",
+            "TrajectoryNote": "As the Dominion threat grows, Odo feels the strain of being both a member of the species behind it and a defender of the station it targets."
+          },
+          {
+            "EpisodeID": "ds9s5e26",
+            "EpisodeTitle": "Call to Arms",
+            "Role": "Choosing the station",
+            "TrajectoryNote": "Odo\u2019s decision to stay with DS9 through the Dominion advance underscores his commitment to the found family he has among solids."
+          },
+          {
+            "EpisodeID": "ds9s7e14",
+            "EpisodeTitle": "Chimera",
+            "Role": "Alternative path",
+            "TrajectoryNote": "Laas\u2019s invitation to abandon solids and embrace a life of pure shapeshifting forces Odo to articulate why he will not turn his back on Kira and the station."
+          },
+          {
+            "EpisodeID": "ds9s7e25",
+            "EpisodeTitle": "What You Leave Behind",
+            "Role": "Return to the Link",
+            "TrajectoryNote": "Odo\u2019s final choice to rejoin the Great Link, cure the disease and try to change his people completes his long struggle to define what kind of Changeling he will be."
+          }
+        ],
+        "NotableMoments": [
+          {
+            "EpisodeID": "ds9s3e2",
+            "EpisodeTitle": "The Search, Part II",
+            "Description": "Immersed in the Link, Odo feels an intoxicating sense of unity, only to recoil as he understands that this oneness is wielded to justify domination of solids."
+          },
+          {
+            "EpisodeID": "ds9s7e14",
+            "EpisodeTitle": "Chimera",
+            "Description": "Watching Laas drift through the plasma of the Defiant\u2019s nacelles, Odo is tempted by the freedom it represents, but Kira\u2019s presence anchors him to the life he has chosen."
+          },
+          {
+            "EpisodeID": "ds9s7e25",
+            "EpisodeTitle": "What You Leave Behind",
+            "Description": "Merging into the Link for the last time, Odo carries Kira\u2019s final touch like a memory encoded in his very substance, bringing a piece of DS9 into the ocean of his people."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CharacterID": "Quark",
+    "Name": "Quark",
+    "Series": [
+      "DS9"
+    ],
+    "Meta": "Ferengi bartender, trader and sometime smuggler on Deep Space 9",
+    "Relationships": [
+      {
+        "RelationshipID": "Quark-Odo",
+        "Name": "Quark and Odo",
+        "Series": [
+          "DS9"
+        ],
+        "RelationshipType": [
+          "Law vs crime",
+          "Grudging friendship"
+        ],
+        "People": [
+          {
+            "Character": "Quark",
+            "BioID": "Quark"
+          },
+          {
+            "Character": "Odo",
+            "BioID": "Odo"
+          }
+        ],
+        "Overview": "From Quark\u2019s perspective, his relationship with Odo is a never-ending game of cat and mouse that accidentally turned into one of the most important connections of his life. Odo is the constable who has spent decades breathing down his neck, shutting down his best schemes and threatening to toss him in a cell. Yet Odo is also the one person on the station who sees Quark exactly as he is and never pretends otherwise. Their constant sparring\u2014inspections, interrogations, sarcastic jabs\u2014becomes a rhythm Quark counts on. In a universe where alliances shift and empires rise and fall, there is comfort in knowing that Odo will always be there to growl his name and accuse him of something.",
+        "StartingPoint": "Quark first knew Odo under Cardassian rule, when both of them were trying to survive Terok Nor in their own ways. Quark ran his bar, made his deals and looked out for his own profit; Odo enforced \u2018order\u2019 for the Cardassians but with a pesky tendency to follow his own sense of justice instead of bribes. Quark noticed that Odo could not be bought like most officials, which made him both irritating and oddly reassuring. When the Federation came in and Sisko took command, Quark expected the rules to change completely. They did\u2014but not the part where Odo kept dragging him in for questioning. The uniforms might have changed, but the constable with the scowl and the keen eye stayed the same, and Quark secretly took that as a sign that the station might still be good for business.",
+        "Evolution": "Over time, Quark realizes that his back-and-forth with Odo has become more than just occupational hazard. Whenever something truly dangerous threatens the station\u2014the Dominion, Klingon incursions, rogue Ferengi, even time travel\u2014Odo turns to him for information, and Quark finds himself giving it, sometimes without even demanding payment. Stranded together on a frozen mountainside or trapped in a turbolift, they strip away some of the usual insults and admit, grudgingly, that they would miss each other if the other were gone. Quark comes to rely on Odo\u2019s integrity, counting on him to keep the worst predators off the Promenade, even as he complains about every new regulation. When Odo briefly joins his people and distances himself from the solids, Quark feels the loss more deeply than he will ever admit. And when Odo leaves for the Great Link for good, Quark is left with a hole behind the bar where an ever-watchful pair of eyes used to be. He keeps telling himself that business will be easier without Odo\u2014but he knows some part of the game is gone.",
+        "KeyThemes": [
+          "Order versus opportunism",
+          "Respect hiding behind rivalry",
+          "Dependence on a moral constant",
+          "Friendship expressed as antagonism"
+        ],
+        "KeyEpisodes": [
+          {
+            "EpisodeID": "ds9s1e1",
+            "EpisodeTitle": "Emissary",
+            "Role": "Old roles under new management",
+            "TrajectoryNote": "As Starfleet takes control of the station, Quark realizes with mixed annoyance and relief that Odo will continue to police him just as zealously as before."
+          },
+          {
+            "EpisodeID": "ds9s3e22",
+            "EpisodeTitle": "Explorers",
+            "Role": "Quiet cooperation",
+            "TrajectoryNote": "Moments when Quark passes Odo information without bargaining remind Quark that their contest sometimes shifts into genuine collaboration for the station\u2019s sake."
+          },
+          {
+            "EpisodeID": "ds9s5e9",
+            "EpisodeTitle": "The Ascent",
+            "Role": "Stranded honesty",
+            "TrajectoryNote": "Forced to survive together after a crash, Quark and Odo can no longer hide behind their usual routines, leading Quark to admit to himself that the constable\u2019s opinion matters."
+          },
+          {
+            "EpisodeID": "ds9s7e25",
+            "EpisodeTitle": "What You Leave Behind",
+            "Role": "Losing the game",
+            "TrajectoryNote": "When Odo departs to rejoin the Great Link, Quark is left to confront how much of his daily life and identity was wrapped up in having the constable to spar with."
+          }
+        ],
+        "NotableMoments": [
+          {
+            "EpisodeID": "ds9s5e9",
+            "EpisodeTitle": "The Ascent",
+            "Description": "Half-frozen and exhausted, Quark listens as Odo admits he will miss their \u2018little talks\u2019 if Quark dies; Quark scoffs, but the admission lodges itself where his lobes meet his heart."
+          },
+          {
+            "EpisodeID": "ds9s7e25",
+            "EpisodeTitle": "What You Leave Behind",
+            "Description": "Watching Odo walk into the glowing lake on the Founder homeworld, Quark jokes about finally being free of the constable, even as a part of him quietly counts all the schemes he will never again get to brag about being caught at."
+          }
+        ]
+      },
+      {
+        "RelationshipID": "Quark-Rom",
+        "Name": "Quark and Rom",
+        "Series": [
+          "DS9"
+        ],
+        "RelationshipType": [
+          "Brothers",
+          "Exploitation to respect"
+        ],
+        "People": [
+          {
+            "Character": "Quark",
+            "BioID": "Quark"
+          },
+          {
+            "Character": "Rom",
+            "BioID": "Rom"
+          }
+        ],
+        "Overview": "To Quark, his brother Rom starts out as a disappointment and ends up as one of the greatest surprises of his life. Rom is terrible at being a traditional Ferengi: bad with numbers, soft-hearted, far too concerned with unions, engineering and family. Quark spends years underestimating him, using him as cheap labor and scolding him for every flash of decency. Yet beneath the insults, Rom is also the one person Quark instinctively expects to be there when things go wrong. As Rom grows into his own, Quark is forced to admit that there is more than one way to be Ferengi\u2014and that his \u2018idiot\u2019 brother might actually be brilliant.",
+        "StartingPoint": "When we first see them on DS9, Quark treats Rom as an employee more than as family: underpaid, overworked and admonished for every act that doesn\u2019t directly increase profit. Quark assumes Rom will always follow his lead, whether that means helping skim from customers or staying quiet about shadier deals. He is baffled and irritated whenever Rom shows reluctance to cheat or hurt others. At this stage, Quark thinks he is helping Rom by pushing him to be a \u2018proper\u2019 Ferengi, convinced that anything else will get his brother crushed by the galaxy.",
+        "Evolution": "The turning point comes when Rom begins to assert himself\u2014first over labor rights in the bar, then in his engineering work for the station and ultimately in his political choices. Quark is outraged when Rom organizes a union and even more stunned when he proves indispensable to Starfleet\u2019s efforts against the Dominion. Watching his brother fix the station\u2019s critical systems, fall in love, and finally be chosen as Grand Nagus, Quark has to reevaluate everything he thought he knew. Rom\u2019s success does not come from ruthless acquisition but from loyalty, competence and a willingness to break Ferengi norms in ways that actually save Ferengi culture from itself. By the time Rom leaves to take over the Alliance, Quark\u2019s bluster about being the one who \u2018really\u2019 understands business is undercut by a genuine pride. He may never say it plainly, but Quark knows his brother has done something he never could: turned Ferenginar toward a future where profit and compassion might coexist.",
+        "KeyThemes": [
+          "Family taken for granted",
+          "Recognizing hidden talent",
+          "Redefining cultural success",
+          "Resentment giving way to pride"
+        ],
+        "KeyEpisodes": [
+          {
+            "EpisodeID": "ds9s4e16",
+            "EpisodeTitle": "Bar Association",
+            "Role": "Unionizing the bar",
+            "TrajectoryNote": "Rom\u2019s decision to form a union forces Quark to confront his own exploitative habits and signals that his brother will no longer be an unquestioning subordinate."
+          },
+          {
+            "EpisodeID": "ds9s3e25",
+            "EpisodeTitle": "Facets",
+            "Role": "Glimpses of potential",
+            "TrajectoryNote": "Moments where Rom shows unexpected insight into engineering and people hint at a depth Quark is not ready to acknowledge."
+          },
+          {
+            "EpisodeID": "ds9s7e24",
+            "EpisodeTitle": "The Dogs of War",
+            "Role": "Rom becomes Grand Nagus",
+            "TrajectoryNote": "Learning that Rom has been chosen to lead the Ferengi Alliance forces Quark to admit that his brother\u2019s values are shaping the future of their people."
+          }
+        ],
+        "NotableMoments": [
+          {
+            "EpisodeID": "ds9s4e16",
+            "EpisodeTitle": "Bar Association",
+            "Description": "Faced with a workers\u2019 strike led by Rom, Quark sputters and threatens\u2014but deep down, he grudgingly recognizes the courage it takes for his brother to stand up to him."
+          },
+          {
+            "EpisodeID": "ds9s7e24",
+            "EpisodeTitle": "The Dogs of War",
+            "Description": "When Rom is named Grand Nagus, Quark\u2019s initial outrage gives way to stunned admiration; for once, the younger brother has out-Ferengi\u2019d him by changing what Ferenginar rewards."
+          }
+        ]
+      },
+      {
+        "RelationshipID": "Quark-Nog",
+        "Name": "Quark and Nog",
+        "Series": [
+          "DS9"
+        ],
+        "RelationshipType": [
+          "Uncle and nephew",
+          "Profit vs Starfleet ideals"
+        ],
+        "People": [
+          {
+            "Character": "Quark",
+            "BioID": "Quark"
+          },
+          {
+            "Character": "Nog",
+            "BioID": "Nog"
+          }
+        ],
+        "Overview": "Quark\u2019s relationship with his nephew Nog takes him through every stage of denial a Ferengi uncle can experience when a boy chooses Starfleet over business. At first, Nog is the perfect project: a young Ferengi he can teach the Rules of Acquisition, initiate into mild scams and groom as future bar staff. When Nog decides to pursue a Starfleet career instead, Quark feels personally betrayed\u2014not just by Nog, but by the universe for dangling such promise and then handing it to the humans. Over time, however, Nog\u2019s courage and competence force Quark to see that there is more than one way for a Ferengi to succeed, and that his nephew\u2019s achievements reflect well on the family in ways even he can appreciate.",
+        "StartingPoint": "On early DS9, Nog is a mischievous kid who gets into trouble with Jake and occasionally helps around the bar. Quark indulges him, delivers lectures about profit and expects that once the boy gets past childish curiosity, he will settle into a proper Ferengi path. Nog\u2019s struggles with school and authority confirm Quark\u2019s belief that the station\u2019s human influences are a problem. The idea that Nog might actually thrive in that environment, rather than in the bar, does not occur to him.",
+        "Evolution": "When Nog asks Sisko for a recommendation to Starfleet Academy, Quark is stunned and furious. He leads family opposition, insists Nog is abandoning his heritage and tries to sabotage the plan. But Nog\u2019s persistence\u2014and his clear reasons for wanting a different life\u2014slowly crack Quark\u2019s certainty. As Nog progresses from cadet to officer, serving with distinction during the Dominion War and surviving traumatic injury, Quark cannot help tracking his accomplishments. He complains loudly about Starfleet corrupting Ferengi youth while quietly boasting to customers about his nephew the war hero. Nog\u2019s growth forces Quark to admit that traits he values\u2014cleverness, adaptability, a willingness to negotiate\u2014can also serve ideals beyond profit. By the time Nog returns to the station to recover from his injuries and work in Vic\u2019s holosuite lounge, Quark\u2019s concern for him is pure family, with no business angle at all. He may never stop teasing Nog for wearing a uniform, but he is undeniably proud that the boy from his bar has earned a place among the \u2018hew-mons\u2019 on his own terms.",
+        "KeyThemes": [
+          "Generational change",
+          "Conflicting definitions of success",
+          "Family pride hidden behind bluster",
+          "Ferengi identity in a larger galaxy"
+        ],
+        "KeyEpisodes": [
+          {
+            "EpisodeID": "ds9s3e16",
+            "EpisodeTitle": "Prophet Motive",
+            "Role": "Questioning Ferengi destiny",
+            "TrajectoryNote": "As Quark grapples with changes to the Rules of Acquisition, Nog\u2019s growing interest in Starfleet hints at how the younger generation will challenge traditional Ferengi paths."
+          },
+          {
+            "EpisodeID": "ds9s3e15",
+            "EpisodeTitle": "Destiny",
+            "Role": "Nog\u2019s ambitions emerge",
+            "TrajectoryNote": "Nog\u2019s request for Sisko\u2019s sponsorship shows Quark that his nephew\u2019s dreams extend far beyond the bar\u2014and that he cannot control them."
+          },
+          {
+            "EpisodeID": "ds9s7e10",
+            "EpisodeTitle": "It\u2019s Only a Paper Moon",
+            "Role": "Aftermath of war",
+            "TrajectoryNote": "Watching Nog struggle with trauma, Quark\u2019s concern has nothing to do with business; he just wants his nephew to find his way back from the damage the war has done."
+          }
+        ],
+        "NotableMoments": [
+          {
+            "EpisodeID": "ds9s3e15",
+            "EpisodeTitle": "Heart of Stone",
+            "Description": "When Nog insists that he wants to join Starfleet because it offers him opportunities Ferenginar never will, Quark hears, for the first time, how limited his nephew has felt under the old rules."
+          },
+          {
+            "EpisodeID": "ds9s7e10",
+            "EpisodeTitle": "It\u2019s Only a Paper Moon",
+            "Description": "Seeing Nog retreat into a holosuite fantasy, Quark\u2019s frustration masks genuine fear that the boy he helped raise might never fully come back from the war."
+          }
+        ]
+      },
+      {
+        "RelationshipID": "Quark-Zek",
+        "Name": "Quark and Grand Nagus Zek (and Ferengi power)",
+        "Series": [
+          "DS9"
+        ],
+        "RelationshipType": [
+          "Ambition and mentorship",
+          "Changing Ferengi culture"
+        ],
+        "People": [
+          {
+            "Character": "Quark",
+            "BioID": "Quark"
+          },
+          {
+            "Character": "Grand Nagus Zek",
+            "BioID": "Zek"
+          }
+        ],
+        "Overview": "Quark\u2019s relationship with Grand Nagus Zek is half hero worship, half exasperation. Zek represents everything a Ferengi is supposed to aspire to: wealth, power, a lifetime of cunning deals. Being noticed by the Nagus flatters Quark\u2019s ego and gives him access to opportunities he could never create on his own. At the same time, Zek\u2019s eccentricities and late-in-life reforms force Quark to confront uncomfortable questions about what Ferengi culture should be, not just what it has always been.",
+        "StartingPoint": "When Zek first arrives on DS9 and names Quark his temporary successor, Quark thinks he has achieved the ultimate Ferengi dream. For a brief, glorious period, he imagines himself as the future of Ferengi commerce, barking orders and collecting bribes with impunity. The experience is intoxicating\u2014and terrifying. By the time Zek reveals that this was a test, Quark has learned how quickly power paints a target on one\u2019s lobes. Still, he treasures the memory of having been Nagus, even temporarily, and the connection to Zek becomes a central pillar of his self-image: he is the Ferengi the Nagus trusts.",
+        "Evolution": "As Zek becomes involved with Ishka and begins introducing reforms\u2014women wearing clothes, profit-sharing, loosening of old restrictions\u2014Quark feels as if the floor has dropped out from under him. The Ferengi Alliance he grew up with is changing into something that sounds suspiciously\u2026nice. Quark fights these changes at every step, convinced they will ruin Ferengi society and his own business. Yet he also cannot ignore the tangible benefits: a more stable economy, happier workers, fewer plots to overthrow the Nagus. Through countless schemes, rescues and arguments, Quark oscillates between trying to preserve the old ways and reluctantly helping usher in the new, usually because it means saving Zek or Ishka from their own misadventures. By the time Zek retires and names Rom as his successor, Quark is left reeling. The Alliance\u2019s future belongs to people who think more like his brother than like him. Even so, the fact that Zek trusted the bar owner from a backwater station to play a role in that transition is a point of pride Quark will never entirely stop boasting about.",
+        "KeyThemes": [
+          "Ambition tested by responsibility",
+          "Cultural change from the top",
+          "Loyalty to a flawed mentor",
+          "Reconciling tradition with reform"
+        ],
+        "KeyEpisodes": [
+          {
+            "EpisodeID": "ds9s1e10",
+            "EpisodeTitle": "The Nagus",
+            "Role": "First taste of power",
+            "TrajectoryNote": "Zek\u2019s \u2018promotion\u2019 of Quark to acting Nagus lets Quark experience the dangers and temptations of high office, shaping how he views Ferengi power structures thereafter."
+          },
+          {
+            "EpisodeID": "ds9s3e20",
+            "EpisodeTitle": "Family Business",
+            "Role": "Ishka and changing rules",
+            "TrajectoryNote": "Zek\u2019s involvement with Ishka and exposure to her ideas about profit start pushing Ferengi society\u2014and Quark\u2019s assumptions\u2014toward uncomfortable reform."
+          },
+          {
+            "EpisodeID": "ds9s7e24",
+            "EpisodeTitle": "The Dogs of War",
+            "Role": "Succession surprise",
+            "TrajectoryNote": "Zek\u2019s decision to name Rom as his successor forces Quark to accept that the future of Ferenginar will be shaped by new values he has spent years resisting."
+          }
+        ],
+        "NotableMoments": [
+          {
+            "EpisodeID": "ds9s1e10",
+            "EpisodeTitle": "The Nagus",
+            "Description": "Strutting through his bar as acting Nagus, Quark revels in the deference of others\u2014right up until he realizes that most of that deference is fear, not respect."
+          },
+          {
+            "EpisodeID": "ds9s7e24",
+            "EpisodeTitle": "The Dogs of War",
+            "Description": "Learning that Zek has chosen Rom, not him, Quark blusters about the injustice of it all while secretly grappling with the possibility that the Nagus may have been right."
+          }
+        ]
+      },
+      {
+        "RelationshipID": "Quark-Sisko",
+        "Name": "Quark and Benjamin Sisko (and Starfleet)",
+        "Series": [
+          "DS9"
+        ],
+        "RelationshipType": [
+          "Civilian vs authority",
+          "Reluctant mutual reliance"
+        ],
+        "People": [
+          {
+            "Character": "Quark",
+            "BioID": "Quark"
+          },
+          {
+            "Character": "Benjamin Sisko",
+            "BioID": "Sisko"
+          }
+        ],
+        "Overview": "From Quark\u2019s point of view, Captain Benjamin Sisko is the embodiment of everything exasperating about Starfleet\u2014and one of the main reasons he and his bar are still around. Sisko represents rules, regulations and moral speeches about doing the right thing, all of which give Quark hives. But Sisko also keeps the station protected, the wormhole open and the traffic flowing. That means customers, opportunities and the kind of stability no Ferengi can afford to ignore. Quark spends years testing how far he can push the captain, only to realize that somewhere along the way, he started to care whether Sisko walks back into the bar after each mission.",
+        "StartingPoint": "Their relationship begins with a threat: if Quark does not keep his bar open and behave himself, Sisko will shut him down and toss him off the station. Quark interprets this as an invitation to negotiate. He quickly learns that Sisko is not as gullible as some Starfleet officers\u2014he sees through transparent scams and is perfectly willing to call Quark\u2019s bluff. Still, Sisko lets him keep operating, provided he stays within certain boundaries. Quark complains about the curfews and security checks but recognizes that DS9 under Sisko is better for business than DS9 in ruins.",
+        "Evolution": "As Bajor, the wormhole and the Dominion War pull the station into larger conflicts, Quark watches Sisko juggle responsibilities that would crush most \u2018hew-mons.\u2019 He may roll his eyes at Starfleet idealism, but he cannot deny results: trade routes stay open, the station remains standing and, more often than not, Sisko finds a way to protect civilians when war comes knocking. In tense moments, Sisko sometimes turns to Quark\u2019s Ferengi perspective to cut through Federation assumptions\u2014about profit, negotiations or how other powers think. Quark never lets him forget how naive humans can be about greed, and occasionally Sisko even listens. By the end of the series, Quark still pretends that the captain is just an obstacle between him and easy latinum, but when Sisko disappears into the Prophets, Quark feels the loss like a shift in gravity. The man who once threatened to drag him off the station has become part of what makes the bar feel like home.",
+        "KeyThemes": [
+          "Authority versus entrepreneurial freedom",
+          "Pragmatism and idealism in tension",
+          "Mutual benefit beneath mutual annoyance",
+          "Civilian stake in grand events"
+        ],
+        "KeyEpisodes": [
+          {
+            "EpisodeID": "ds9s1e1",
+            "EpisodeTitle": "Emissary",
+            "Role": "Terms of coexistence",
+            "TrajectoryNote": "Sisko\u2019s ultimatum about staying on the station sets the baseline for their relationship: Quark can profit, but only if he plays by rules stricter than he would like."
+          },
+          {
+            "EpisodeID": "ds9s2e22",
+            "EpisodeTitle": "The Maquis, Part II",
+            "Role": "Trading perspectives",
+            "TrajectoryNote": "Quark\u2019s explanation of how profit motives shape political decisions gives Sisko a cynical but useful lens on Federation and Cardassian tensions."
+          },
+          {
+            "EpisodeID": "ds9s5e25",
+            "EpisodeTitle": "In the Cards",
+            "Role": "Holding morale together",
+            "TrajectoryNote": "As Sisko faces looming war, Quark\u2019s bar becomes a barometer of the station\u2019s mood, reminding both men how much ordinary life depends on the captain\u2019s decisions."
+          }
+        ],
+        "NotableMoments": [
+          {
+            "EpisodeID": "ds9s2e22",
+            "EpisodeTitle": "The Maquis, Part II",
+            "Description": "Over root beer, Quark describes the Federation\u2019s expansion in Ferengi terms, watching Sisko squirm as he recognizes uncomfortable truths about his own people."
+          },
+          {
+            "EpisodeID": "ds9s7e25",
+            "EpisodeTitle": "What You Leave Behind",
+            "Description": "After the end of the war, Quark insists that nothing on DS9 will really change\u2014his bar will be here, the drinks will flow\u2014but the empty chair where Sisko once sat says otherwise to him, even if he never admits it aloud."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CharacterID": "Bashir",
+    "Name": "Julian Bashir",
+    "Series": [
+      "DS9"
+    ],
+    "Meta": "Chief medical officer of Deep Space 9; genetically enhanced human hiding and then confronting that truth",
+    "Relationships": [
+      {
+        "RelationshipID": "Bashir-OBrien",
+        "Name": "Julian Bashir and Miles O\u2019Brien",
+        "Series": [
+          "DS9"
+        ],
+        "RelationshipType": [
+          "Bromance",
+          "From irritation to deep friendship"
+        ],
+        "People": [
+          {
+            "Character": "Julian Bashir",
+            "BioID": "Bashir"
+          },
+          {
+            "Character": "Miles O\u2019Brien",
+            "BioID": "OBrien"
+          }
+        ],
+        "Overview": "From Bashir\u2019s perspective, his relationship with Miles O\u2019Brien is the best proof that first impressions can be spectacularly wrong. He arrives on Deep Space 9 as a young, idealistic doctor who talks too much about frontier medicine; O\u2019Brien sees him as an overeager rookie who does not understand hardship. Bashir, in turn, initially reads Miles as a gruff, unimaginative engineer. Years of shared crises, near-death experiences and low-stakes holosuite adventures gradually strip away those misjudgments, leaving behind one of the most important friendships of Bashir\u2019s life.",
+        "StartingPoint": "Early on, Bashir keeps trying to bond with O\u2019Brien over medicine, Cardassian trauma and the thrill of being on the frontier, only to run into polite walls. O\u2019Brien is married, has a child and has already survived one brutal posting on the Enterprise; he has no desire to be the young doctor\u2019s new best friend. Bashir\u2019s tendency to overshare and romanticize danger grates on Miles, and Bashir can feel that rejection even when he pretends not to. Their first real breakthrough comes when they are forced to work together under fire\u2014repairing systems, dodging phaser bolts and keeping one another alive. Bashir realizes that beneath O\u2019Brien\u2019s sarcasm is someone he can rely on absolutely when things go wrong.",
+        "Evolution": "Over time, shared danger turns into shared routine. Bashir and O\u2019Brien bond over darts, holosuite war programs and late-night drinks that Miles probably should not be having before going home. Bashir learns to appreciate the depth of O\u2019Brien\u2019s competence and the toll that years of service have taken; O\u2019Brien gradually sees past Bashir\u2019s polished charm to the insecure, determined man underneath. When Bashir\u2019s genetic enhancement is exposed, O\u2019Brien\u2019s initial sense of betrayal gives way to staunch defense; he might grumble about \u2018cheating,\u2019 but he will not let Starfleet discard his friend. Conversely, when O\u2019Brien endures psychological torture and crushing guilt, Bashir is the one who refuses to let him sink, offering medical help and quiet, persistent support. By the time the Dominion War reaches its peak, Bashir no longer dreams of grand romantic heroics\u2014he dreams of surviving the next crisis with his best friend at his side, and of a future where they can argue about darts instead of casualties.",
+        "KeyThemes": [
+          "Misjudgment turning into loyalty",
+          "Shared trauma and healing",
+          "Masculine friendship that allows vulnerability",
+          "Finding family far from home"
+        ],
+        "KeyEpisodes": [
+          {
+            "EpisodeID": "ds9s1e14",
+            "EpisodeTitle": "The Storyteller",
+            "Role": "Early friction",
+            "TrajectoryNote": "Bashir\u2019s earnest attempts to bond and O\u2019Brien\u2019s irritation highlight how far apart they are at the beginning of their relationship."
+          },
+          {
+            "EpisodeID": "ds9s2e13",
+            "EpisodeTitle": "Armageddon Game",
+            "Role": "Life-or-death bonding",
+            "TrajectoryNote": "Stranded and believing they are doomed, Bashir and O\u2019Brien share fears and regrets, laying the groundwork for genuine friendship."
+          },
+          {
+            "EpisodeID": "ds9s4e4",
+            "EpisodeTitle": "Hippocratic Oath",
+            "Role": "Clashing principles",
+            "TrajectoryNote": "Their argument over how to treat a group of Jem\u2019Hadar soldiers tests the limits of their loyalty and exposes differences in their moral instincts."
+          },
+          {
+            "EpisodeID": "ds9s4e19",
+            "EpisodeTitle": "Hard Time",
+            "Role": "Supporting a broken friend",
+            "TrajectoryNote": "After O\u2019Brien\u2019s implanted prison trauma, Bashir\u2019s persistent care and refusal to let him self-destruct deepen their bond beyond jokes and holosuite runs."
+          }
+        ],
+        "NotableMoments": [
+          {
+            "EpisodeID": "ds9s2e13",
+            "EpisodeTitle": "Armageddon Game",
+            "Description": "Huddled in a ruined building, convinced they will die of radiation poisoning, Bashir listens as O\u2019Brien grudgingly admits that he misjudged the doctor, and for once Bashir lets the moment sit without deflecting it with charm."
+          },
+          {
+            "EpisodeID": "ds9s4e19",
+            "EpisodeTitle": "Hard Time",
+            "Description": "Stopping O\u2019Brien from taking his own life, Bashir firmly but gently reminds him that he is not alone\u2014that the chief\u2019s worth is not defined by the torture he endured."
+          }
+        ]
+      },
+      {
+        "RelationshipID": "Bashir-Garak",
+        "Name": "Julian Bashir and Elim Garak",
+        "Series": [
+          "DS9"
+        ],
+        "RelationshipType": [
+          "Doctor and ex-spy",
+          "Curiosity, friendship and moral tension"
+        ],
+        "People": [
+          {
+            "Character": "Julian Bashir",
+            "BioID": "Bashir"
+          },
+          {
+            "Character": "Elim Garak",
+            "BioID": "Garak"
+          }
+        ],
+        "Overview": "To Bashir, Garak is initially a puzzle\u2014a charming, infuriating Cardassian exile who seems to delight in telling half-truths over lunch. What begins as na\u00efve curiosity from a young Federation idealist toward a suspected spy slowly becomes one of his most challenging and meaningful friendships. Through Garak, Bashir confronts the reality of Cardassian brutality, the murky ethics of intelligence work and the limits of his own belief that everyone can be saved with enough empathy and medicine.",
+        "StartingPoint": "Bashir\u2019s first lunches with Garak are driven by equal parts fascination and arrogance. He thinks he can outtalk or outdiagnose whatever this enigmatic tailor is hiding, treating their conversations as a kind of game. Garak encourages this, spinning stories that may or may not be true, watching to see how far the doctor\u2019s innocence will stretch. Bashir assumes that if he just asks the right question, the mystery will resolve neatly. Instead, every answer opens more questions, and he gradually realizes that Garak has lived through horrors his Academy training never prepared him for.",
+        "Evolution": "Their relationship deepens dramatically during \u2018The Wire,\u2019 when Garak\u2019s implanted device fails and Bashir is forced to treat not only physical withdrawal but the avalanche of guilt and trauma it unleashes. Listening to contradictory confessions and half-confessions, Bashir begins to grasp how badly Garak\u2019s past in the Obsidian Order has scarred him. He cannot cure that with a hypospray, but he refuses to walk away. Over the years, Garak pulls Bashir into increasingly gray areas: decoding messages, analyzing plots, and navigating Cardassian and Dominion politics. Bashir\u2019s later brushes with Section 31 give him a grim mirror for Garak\u2019s world, and he understands more clearly why Garak scoffs at pure Federation idealism. Yet the friendship survives on a strange trust\u2014Bashir trusts that Garak, for all his lies, cares about him and about Cardassia\u2019s future; Garak trusts that Bashir will judge him but still show up when he is needed. By the time Cardassia burns at the end of the war, Bashir sees his friend not just as a charming liar, but as a damaged survivor trying, in his own crooked way, to build something better out of the ruins.",
+        "KeyThemes": [
+          "Na\u00efvet\u00e9 confronted by realpolitik",
+          "The ethics of espionage and medicine",
+          "Trust built from lies and loyalty",
+          "Seeing humanity in a former enemy"
+        ],
+        "KeyEpisodes": [
+          {
+            "EpisodeID": "ds9s1e3",
+            "EpisodeTitle": "Past Prologue",
+            "Role": "First lunch, first mystery",
+            "TrajectoryNote": "Bashir\u2019s invitation to lunch sets the pattern: Garak teases him with hints of a spy\u2019s past, and Bashir decides this Cardassian exile is the most interesting puzzle on the station."
+          },
+          {
+            "EpisodeID": "ds9s2e22",
+            "EpisodeTitle": "The Wire",
+            "Role": "Facing Garak\u2019s damage",
+            "TrajectoryNote": "Treating Garak\u2019s failing implant forces Bashir to witness the depth of his friend\u2019s guilt and pain, shattering his romantic notions about spies and redemption."
+          },
+          {
+            "EpisodeID": "ds9s5e14",
+            "EpisodeTitle": "In Purgatory\u2019s Shadow",
+            "Role": "Shared peril",
+            "TrajectoryNote": "Captured together in a Dominion prison, Bashir and Garak\u2019s survival depends on mutual reliance, underscoring how far their relationship has moved past intellectual games."
+          },
+          {
+            "EpisodeID": "ds9s5e24",
+            "EpisodeTitle": "Empok Nor",
+            "Role": "The dangerous side of Garak",
+            "TrajectoryNote": "Under the influence of a psychotropic agent, Garak turns violently on the away team, forcing Bashir to confront just how lethal his friend can be when pushed."
+          }
+        ],
+        "NotableMoments": [
+          {
+            "EpisodeID": "ds9s2e22",
+            "EpisodeTitle": "The Wire",
+            "Description": "As Garak writhes in pain and throws ugly pieces of his past in Bashir\u2019s face, Bashir stays, choosing to believe that the man beneath the lies is worth saving even if the full truth never emerges."
+          },
+          {
+            "EpisodeID": "ds9s7e8",
+            "EpisodeTitle": "The Siege of AR-558",
+            "Description": "Talking with Garak about the cost of war, Bashir hears a bitter, honest assessment of how ideals erode under fire, and realizes that his Cardassian friend understands his growing disillusionment all too well."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CharacterID": "Jadzia",
+    "Name": "Jadzia Dax",
+    "Series": [
+      "DS9"
+    ],
+    "Meta": "Joined Trill science officer on Deep Space 9; eighth host of the Dax symbiont",
+    "Relationships": [
+      {
+        "RelationshipID": "Sisko-Dax",
+        "Name": "Jadzia Dax and Benjamin Sisko",
+        "Series": [
+          "DS9"
+        ],
+        "RelationshipType": [
+          "Old friendship renewed",
+          "Spiritual and command support"
+        ],
+        "People": [
+          {
+            "Character": "Jadzia Dax",
+            "BioID": "JadziaDax"
+          },
+          {
+            "Character": "Benjamin Sisko",
+            "BioID": "Sisko"
+          }
+        ],
+        "Overview": "From Jadzia\u2019s point of view, her relationship with Benjamin Sisko is a rare gift: a friendship that spans lifetimes but refuses to trap her in the past. As Curzon\u2019s successor, she inherits a bond forged over years of mentorship, hard drinking and political intrigue. Sisko initially sees her as the continuation of his old friend, calling her \u2018Old Man\u2019 and leaning on that history. Jadzia embraces the affection but insists on being seen as her own person\u2014a young Trill woman, a scientist and an officer who brings new perspectives to problems Curzon never faced. Their connection becomes a balance between nostalgia and growth, each helping the other carry the weight of destiny on the edge of the wormhole.",
+        "StartingPoint": "When Jadzia arrives on Deep Space 9, she walks into a reunion she remembers from the wrong side. Sisko greets her with the warmth and grief of a man seeing a dead mentor returned, while she remembers him as the earnest young officer Curzon took under his wing. Jadzia feels the dissonance immediately: she is both that old friend and a different person entirely. She lets Sisko keep the nickname and the comfortable banter because she knows how much Curzon meant to him, but she also gently pushes back\u2014asserting her authority as science officer, challenging his assumptions and making it clear that she will not simply reenact Curzon\u2019s opinions. When Sisko is chosen as the Emissary, Jadzia becomes one of the few people who can speak to both the spiritual and scientific implications of his role, anchoring him with a perspective that spans decades of Bajoran politics and Starfleet service.",
+        "Evolution": "Over the years, Jadzia and Sisko settle into an easy rhythm of teasing, counsel and mutual rescue. She takes seriously her role as the person who can remind him of who he was before the wormhole prophets and the Dominion War, occasionally dragging him into lighter adventures or challenging him to accept happiness where he can find it. In return, Sisko trusts her with sensitive missions, personal doubts and the frustrations of being both commander and religious figure. Jadzia feels free to disagree with him\u2014about the Prime Directive, about Klingon politics, about how much risk to take\u2014because she knows he values her judgment. As the war darkens everything around them, their shared history becomes a lifeline: a reminder that they have survived upheavals before. Jadzia is not granted the chance to see how the story ends; her death cuts the relationship short, leaving her last chapter with Sisko written in grief on his side. But from her perspective, up until that final moment in the temple, she stands with him as friend, officer and witness to the strange, sacred task the Prophets have laid on his shoulders.",
+        "KeyThemes": [
+          "Friendship across lifetimes",
+          "Balancing inherited bonds with new identity",
+          "Spiritual and scientific support",
+          "Sharing the weight of command and destiny"
+        ],
+        "KeyEpisodes": [
+          {
+            "EpisodeID": "ds9s1e1",
+            "EpisodeTitle": "Emissary",
+            "Role": "Reunion across hosts",
+            "TrajectoryNote": "Jadzia\u2019s arrival and Sisko\u2019s delighted reaction to seeing \u2018Dax\u2019 again establish the unusual dynamic of an old friendship filtered through a new, younger host."
+          },
+          {
+            "EpisodeID": "ds9s1e8",
+            "EpisodeTitle": "Dax",
+            "Role": "Defining who is responsible",
+            "TrajectoryNote": "Accused of a crime committed by Curzon, Jadzia relies on Sisko\u2019s determination to defend her, clarifying for both of them where Curzon ends and Jadzia begins."
+          },
+          {
+            "EpisodeID": "ds9s4e7",
+            "EpisodeTitle": "Little Green Men",
+            "Role": "Shared misadventure",
+            "TrajectoryNote": "Lighthearted escapades involving Ferengi time travel highlight the relaxed camaraderie between Sisko and Jadzia beneath the station\u2019s mounting pressures."
+          },
+          {
+            "EpisodeID": "ds9s6e26",
+            "EpisodeTitle": "Tears of the Prophets",
+            "Role": "Final chapter from Jadzia\u2019s side",
+            "TrajectoryNote": "Jadzia\u2019s death in the Bajoran temple ends her part of their story abruptly, leaving promises unfulfilled and underscoring how deeply intertwined Dax is with Sisko\u2019s fate."
+          }
+        ],
+        "NotableMoments": [
+          {
+            "EpisodeID": "ds9s1e1",
+            "EpisodeTitle": "Emissary",
+            "Description": "Sisko\u2019s spontaneous grin and use of \u2018Old Man\u2019 when he recognizes Dax in Jadzia\u2019s face reassure her that their bond survived the joining, even if they must renegotiate its terms."
+          },
+          {
+            "EpisodeID": "ds9s3e22",
+            "EpisodeTitle": "Explorers",
+            "Description": "Sharing stories aboard Sisko\u2019s Bajoran lightship, Jadzia offers a perspective that spans Curzon\u2019s wild youth and her own more measured curiosity, helping Ben see his life as part of a longer arc."
+          }
+        ]
+      },
+      {
+        "RelationshipID": "Worf-Jadzia",
+        "Name": "Jadzia Dax and Worf",
+        "Series": [
+          "DS9"
+        ],
+        "RelationshipType": [
+          "Romance",
+          "War-time partnership"
+        ],
+        "People": [
+          {
+            "Character": "Jadzia Dax",
+            "BioID": "JadziaDax"
+          },
+          {
+            "Character": "Worf",
+            "BioID": "Worf"
+          }
+        ],
+        "Overview": "Jadzia\u2019s relationship with Worf is a love story built on mutual fascination, shared battle and a stubborn refusal to compromise who they are. She is a joined Trill with centuries of experience, a playful streak and a deep respect for Klingon honor; he is a stoic warrior haunted by disgrace and loss. Where others tiptoe around Worf\u2019s intensity, Jadzia meets it head-on\u2014teasing him, challenging him and showing him that joy and honor are not opposites. For Jadzia, being with Worf means embracing rituals and expectations that would have terrified some of her past hosts, while also insisting that their marriage make room for her own history and independence.",
+        "StartingPoint": "When Worf first arrives on DS9, Jadzia is immediately intrigued. She knows him by reputation from the Enterprise and from Curzon\u2019s long love affair with Klingon culture. At first, she approaches him like a particularly interesting tactical problem: a Klingon raised by humans, bound by strict notions of duty, who has no idea what to do with someone as forward and free-spirited as she is. Their early interactions are playful but pointed\u2014Jadzia presses his buttons, flirts past his defenses and proves that she understands Klingon customs as well as, or better than, he does. Underneath the mischief is genuine admiration: she respects his loyalty, his courage and his unshakeable sense of self, even when she thinks he is being maddeningly rigid.",
+        "Evolution": "As their connection deepens, Jadzia discovers how much space Worf\u2019s rigid honor code still has for tenderness. They fight side by side on missions, argue about tactics and laugh over bloodwine-fueled stories with Kor, Kang and Koloth. Accepting his proposal and facing the gauntlet of Klingon wedding trials, she realizes that their union is as much about reconciling cultures as it is about romance. Jadzia refuses to disappear into the role of a traditional Klingon wife; she insists on keeping her own friends, her career and her sense of adventure. Worf, in turn, learns to bend\u2014at least a little\u2014recognizing that loving Jadzia means honoring Curzon\u2019s legacy, her Trill identity and her refusal to shy away from risk. War tests them brutally: dangerous assignments, the prospect of parenthood cut short and the ever-present chance that one of them will not come back. In \u2018Change of Heart,\u2019 when Worf abandons a mission to save her life, Jadzia understands the magnitude of the sacrifice, even as she teases him about the consequences. Her death in \u2018Tears of the Prophets\u2019 ends their story on-screen, but from Jadzia\u2019s side, the relationship is defined not by that final tragedy, but by the fierce, joyful years they stole from a wartime galaxy.",
+        "KeyThemes": [
+          "Love woven with shared battle",
+          "Cross-cultural marriage and compromise",
+          "Redefining honor to include happiness",
+          "Joy and playfulness inside a warrior\u2019s life"
+        ],
+        "KeyEpisodes": [
+          {
+            "EpisodeID": "ds9s5e3",
+            "EpisodeTitle": "Looking for par'Mach in All the Wrong Places",
+            "Role": "Romantic turning point",
+            "TrajectoryNote": "Helping another couple navigate Klingon courtship crystallizes Jadzia\u2019s realization that what she feels for Worf is more than playful attraction."
+          },
+          {
+            "EpisodeID": "ds9s6e7",
+            "EpisodeTitle": "You Are Cordially Invited",
+            "Role": "Marriage under trial",
+            "TrajectoryNote": "Klingon wedding rituals force Jadzia to confront what she is willing to sacrifice for this partnership\u2014and what she refuses to give up."
+          },
+          {
+            "EpisodeID": "ds9s6e16",
+            "EpisodeTitle": "Change of Heart",
+            "Role": "Choosing love over mission",
+            "TrajectoryNote": "When Worf abandons a critical mission to save her, Jadzia must reckon with the cost of their bond in Starfleet terms and what it reveals about his priorities."
+          },
+          {
+            "EpisodeID": "ds9s6e26",
+            "EpisodeTitle": "Tears of the Prophets",
+            "Role": "Abrupt end",
+            "TrajectoryNote": "Jadzia\u2019s death freezes their story mid-sentence, turning their marriage into a memory that will drive Worf\u2019s grief and need for meaning."
+          }
+        ],
+        "NotableMoments": [
+          {
+            "EpisodeID": "ds9s5e3",
+            "EpisodeTitle": "Looking for par'Mach in All the Wrong Places",
+            "Description": "Coaching Worf through another\u2019s courtship while clearly enjoying his discomfort, Jadzia realizes that his awkward passion is directed as much at her as at the Klingon ideals he clings to."
+          },
+          {
+            "EpisodeID": "ds9s6e7",
+            "EpisodeTitle": "You Are Cordially Invited",
+            "Description": "Bruised, exhausted and laughing through the final wedding rites, Jadzia feels the strange rightness of binding her multi-lived self to this intensely traditional warrior."
+          },
+          {
+            "EpisodeID": "ds9s6e26",
+            "EpisodeTitle": "Tears of the Prophets",
+            "Description": "In the quiet before her final trip to the Bajoran temple, Jadzia looks toward a future with Worf and the family they plan, unaware that this will be their last shared day."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CharacterID": "Nog",
+    "Name": "Nog",
+    "Series": [
+      "DS9"
+    ],
+    "Meta": "First Ferengi to join Starfleet; nephew of Quark, son of Rom, and best friend of Jake Sisko",
+    "Relationships": [
+      {
+        "RelationshipID": "Nog-Jake",
+        "Name": "Nog and Jake Sisko",
+        "Series": [
+          "DS9"
+        ],
+        "RelationshipType": [
+          "Best friends",
+          "Cross-cultural coming-of-age"
+        ],
+        "People": [
+          {
+            "Character": "Nog",
+            "BioID": "Nog"
+          },
+          {
+            "Character": "Jake Sisko",
+            "BioID": "JakeSisko"
+          }
+        ],
+        "Overview": "From Nog\u2019s point of view, his relationship with Jake Sisko is the rope that pulls him out of the narrow future Ferenginar had planned for him. Jake is everything a young Ferengi is warned to avoid: idealistic, uninterested in profit and far too willing to share things without a contract. Yet from the moment they start getting into trouble together on Deep Space 9, Nog feels seen in a way he never did in the bar. Jake doesn\u2019t treat him as cheap labor or a walking stereotype\u2014he treats him as a friend, someone worth sneaking off with, studying with and dreaming alongside. Through Jake, Nog discovers that he can want more than latinum and that the galaxy is bigger than the Rules of Acquisition.",
+        "StartingPoint": "When Nog first meets Jake, he is a Ferengi kid doing what Ferengi kids are expected to do: learning to hustle, cut corners and impress his uncle Quark. Jake is the station commander's son, surrounded by Starfleet officers and Federation ideals that might as well be from another universe. Their friendship starts in mischief\u2014skipping school, stealing, and annoying adults who wish they would behave. When Keiko\u2019s school clashes with Bajoran religious sensitivities, Nog is the one who gets expelled, and he feels the old, familiar message rising: the rules are stacked against Ferengi like him, so why bother trying? Jake is the one who refuses to accept that. Sneaking study sessions in cargo bays, he shows Nog that learning can be a tool instead of a punishment. For Nog, this is the first hint that someone outside his family might actually care whether he has a future.",
+        "Evolution": "As they grow older, the paths Jake and Nog choose threaten to pull them apart. Nog shocks his family\u2014and himself\u2014by deciding to join Starfleet, chasing a life of service and structure instead of bartering and scheming. Jake, who could easily have followed his father into uniform, instead embraces writing and civilian life. Nog worries that this split will end their friendship: what does a Starfleet cadet have in common with a reporter who dislikes the military life? Yet time and again, they find themselves back in each other\u2019s orbit\u2014sharing quarters on the station, trading stories on leave, or arguing over the choices they and their leaders make during the Dominion War. The tension comes to a head on the Valiant, where Nog\u2019s faith in Starfleet\u2019s chain of command clashes with Jake\u2019s instincts to question authority gone wrong. In the aftermath, Nog is forced to admit that Jake\u2019s skepticism saved both their lives. Later, after Nog loses his leg and retreats into Vic Fontaine\u2019s holosuite lounge, Jake\u2019s concern is real and raw, even when Nog cannot face him. Climbing out of that trauma, Nog realizes that his best friend has always been the one who refuses to let him disappear into whatever role\u2014Ferengi hustler, perfect cadet, war hero\u2014the galaxy tries to trap him in. By war\u2019s end, their lives are on different tracks, but their bond has been tempered by everything they survived together: childhood pranks, career choices, moral disagreements and the brutal cost of a galaxy at war.",
+        "KeyThemes": [
+          "Cross-cultural friendship",
+          "Redefining success beyond profit",
+          "Questioning authority versus trusting institutions",
+          "Growing up under the shadow of war"
+        ],
+        "KeyEpisodes": [
+          {
+            "EpisodeID": "ds9s1e10",
+            "EpisodeTitle": "The Nagus",
+            "Role": "School, expulsion and secret studying",
+            "TrajectoryNote": "After Nog is expelled from Keiko\u2019s school, Jake\u2019s decision to tutor him in secret plants the seed for Nog\u2019s belief that he can excel at \u2018human\u2019 education."
+          },
+          {
+            "EpisodeID": "ds9s3e14",
+            "EpisodeTitle": "Heart of Stone",
+            "Role": "Starfleet dream declared",
+            "TrajectoryNote": "Nog\u2019s request for a Starfleet recommendation marks the moment he chooses a path Jake never expected, forcing both of them to renegotiate what their future friendship will look like."
+          },
+          {
+            "EpisodeID": "ds9s6e22",
+            "EpisodeTitle": "Valiant",
+            "Role": "Clash over blind loyalty",
+            "TrajectoryNote": "Nog\u2019s initial faith in Red Squad and the Valiant\u2019s captain collides with Jake\u2019s alarm at their recklessness, testing whether Nog\u2019s loyalty is to a uniform or to his own conscience."
+          },
+          {
+            "EpisodeID": "ds9s7e10",
+            "EpisodeTitle": "It\u2019s Only a Paper Moon",
+            "Role": "Aftermath and distance",
+            "TrajectoryNote": "In the wake of Nog\u2019s injury, Jake\u2019s attempts to reach his friend from outside the holosuite highlight both the limits and the resilience of their bond under trauma."
+          }
+        ],
+        "NotableMoments": [
+          {
+            "EpisodeID": "ds9s1e10",
+            "EpisodeTitle": "The Nagus",
+            "Description": "Sitting in a cargo bay surrounded by padds, Nog struggles with Federation texts while Jake quietly encourages him, giving Nog his first taste of pride in academic success."
+          },
+          {
+            "EpisodeID": "ds9s6e22",
+            "EpisodeTitle": "Valiant",
+            "Description": "Trapped on a doomed ship, Nog finally hears the fear in Jake\u2019s voice and recognizes that his friend\u2019s refusal to worship Red Squad is not cowardice but clarity."
+          },
+          {
+            "EpisodeID": "ds9s7e10",
+            "EpisodeTitle": "It\u2019s Only a Paper Moon",
+            "Description": "Watching Jake\u2019s concern from a distance, Nog realizes that withdrawing into Vic\u2019s lounge has not severed their friendship\u2014it has simply put another hard chapter between them that they will have to work through."
+          }
+        ]
+      }
+    ]
   }
 ]
