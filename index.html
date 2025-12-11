@@ -477,9 +477,6 @@
       { CharacterID: "Spock", Name: "Spock", Series: ["TOS"], Meta: "Science officer, first officer" },
       { CharacterID: "McCoy", Name: "Leonard McCoy", Series: ["TOS"], Meta: "Chief medical officer" },
       { CharacterID: "Scotty", Name: "Montgomery Scott", Series: ["TOS"], Meta: "Chief engineer, miracle worker" },
-      { CharacterID: "Chapel", Name: "Christine Chapel", Series: ["TOS"], Meta: "Nurse, later doctor" },
-      { CharacterID: "Sarek", Name: "Sarek", Series: ["TOS"], Meta: "Vulcan ambassador, Spock's father" },
-
       { CharacterID: "Picard", Name: "Jean-Luc Picard", Series: ["TNG"], Meta: "Captain, USS Enterprise (NCC-1701-D)" },
       { CharacterID: "Riker", Name: "William Riker", Series: ["TNG"], Meta: "First officer" },
       { CharacterID: "Data", Name: "Data", Series: ["TNG"], Meta: "Operations officer, android" },
@@ -618,6 +615,7 @@
       loadRelationshipsForCharacter(charId);
     }
 
+    
     async function loadRelationshipsForCharacter(charId) {
       const cfg = characterConfig[charId];
       const grid = document.getElementById("relationship-grid");
@@ -638,7 +636,7 @@
 
       showView("relationships");
 
-      const url = REL_BASE_URL + charId + ".json";
+      const url = REL_BASE_URL + "Relationships.json";
 
       try {
         const resp = await fetch(url);
@@ -647,7 +645,15 @@
           return;
         }
         const data = await resp.json();
-        const rels = (data && Array.isArray(data.Relationships)) ? data.Relationships : [];
+
+        let characterData = null;
+        if (Array.isArray(data)) {
+          characterData = data.find(c => c && c.CharacterID === charId) || null;
+        } else if (data && data.CharacterID === charId) {
+          characterData = data;
+        }
+
+        const rels = (characterData && Array.isArray(characterData.Relationships)) ? characterData.Relationships : [];
         currentRelationships = rels;
 
         if (!rels.length) {
@@ -655,14 +661,14 @@
           return;
         }
 
-        if (subtitle) subtitle.textContent = "Relationships for " + (cfg ? cfg.name : (data.Name || charId)) + ".";
+        if (subtitle) subtitle.textContent = "Relationships for " + (cfg ? cfg.name : (characterData.Name || charId)) + ".";
         renderRelationshipGrid(rels);
       } catch (e) {
         if (subtitle) subtitle.textContent = "Error loading relationships data.";
       }
     }
 
-    function renderRelationshipGrid(rels) {
+function renderRelationshipGrid(rels) {
       const grid = document.getElementById("relationship-grid");
       const subtitle = document.getElementById("relationships-subtitle");
       if (!grid) return;
