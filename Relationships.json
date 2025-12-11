@@ -6455,5 +6455,961 @@
         ]
       }
     ]
+  },
+  {
+    "CharacterID": "BElannaTorres",
+    "Name": "B'Elanna Torres",
+    "Series": [
+      "VOY"
+    ],
+    "Meta": "B'Elanna Torres is Voyager\u2019s half-Klingon, half-human chief engineer, a former Maquis whose brilliance is matched only by her temper. Stranded in the Delta Quadrant, she is forced to confront her anger, shame about her heritage, and fear of rejection while keeping a fragile starship flying and slowly building a home among people she never expected to call family.",
+    "Relationships": [
+      {
+        "RelationshipID": "Janeway-BElannaTorres",
+        "Name": "B'Elanna Torres and Kathryn Janeway",
+        "Series": [
+          "VOY"
+        ],
+        "RelationshipType": [
+          "Captain-Crew",
+          "Mentor/Prot\u00e9g\u00e9",
+          "Former Maquis/Starfleet"
+        ],
+        "People": [
+          {
+            "Character": "B'Elanna Torres",
+            "BioID": "BElannaTorres"
+          },
+          {
+            "Character": "Kathryn Janeway",
+            "BioID": "Janeway"
+          }
+        ],
+        "Overview": "For B'Elanna, Janeway is both the Starfleet authority she once fought against and the captain who decides she is worth trusting with the beating heart of Voyager. Their relationship is a constant negotiation between discipline and empathy: Janeway expects professionalism from her chief engineer, but she also recognizes the trauma and rage B'Elanna carries. In turn, B'Elanna both chafes under and craves Janeway\u2019s respect, measuring her own progress by whether she has disappointed or made the captain proud. Across the years, they move from wary accommodation to a mentor\u2013prot\u00e9g\u00e9 bond that shapes B'Elanna\u2019s growth into a leader and, eventually, a mother.",
+        "StartingPoint": "When Voyager is stranded in the Delta Quadrant, B'Elanna is still a Maquis officer who views Starfleet with suspicion and resentment. In \u201cParallax,\u201d after B'Elanna assaults a Starfleet engineer, Janeway\u2019s senior staff question whether she belongs on the ship at all. Chakotay advocates for her, but Janeway makes her own assessment: she brings B'Elanna into the problem-solving process, watches how she approaches a difficult singularity crisis, and ultimately offers her the position of chief engineer. For B'Elanna, accepting means agreeing to live under the command of a Starfleet captain whose principles stranded them\u2014and choosing to believe that Janeway sees more in her than a liability.",
+        "Evolution": "As chief engineer, B'Elanna spends years in tension with Janeway\u2019s expectations and Starfleet protocol. In episodes like \u201cPrime Factors\u201d and \u201cPrototype,\u201d B'Elanna\u2019s willingness to break rules in pursuit of a technical solution forces Janeway to draw firm lines, delivering reprimands grounded in concern as much as anger. \u201cDreadnought\u201d confronts both women with the consequences of B'Elanna\u2019s Maquis past, and Janeway\u2019s decision to let her take the lead on neutralizing the missile signals trust rather than mere oversight. Later, in \u201cExtreme Risk\u201d and \u201cLineage,\u201d Janeway responds to B'Elanna\u2019s self-destructive behavior and fear over her child\u2019s genetic heritage as both captain and surrogate elder, steering her toward help and hard conversations rather than simple punishment. By the time Voyager nears home, B'Elanna no longer defines herself in opposition to Starfleet; Janeway\u2019s belief in her has become one of the pillars of her identity.",
+        "KeyThemes": [
+          "Turning a former enemy into a trusted senior officer",
+          "Balancing empathy for trauma with the demands of command",
+          "Learning to trust Starfleet ideals without losing Maquis fire",
+          "A captain\u2019s belief as a catalyst for self-acceptance",
+          "Women in leadership navigating anger, vulnerability, and duty"
+        ],
+        "KeyEpisodes": [
+          {
+            "EpisodeID": "voys1e2",
+            "EpisodeTitle": "Parallax",
+            "Role": "Choosing B'Elanna as chief engineer",
+            "TrajectoryNote": "Janeway\u2019s decision to promote B'Elanna despite her disciplinary record sets the foundation for their mentor\u2013prot\u00e9g\u00e9 bond."
+          },
+          {
+            "EpisodeID": "voys2e13",
+            "EpisodeTitle": "Prototype",
+            "Role": "Ethics versus engineering curiosity",
+            "TrajectoryNote": "B'Elanna\u2019s desire to help a robotic civilization forces Janeway to intervene when her ingenuity crosses ethical lines."
+          },
+          {
+            "EpisodeID": "voys2e17",
+            "EpisodeTitle": "Dreadnought",
+            "Role": "Confronting Maquis choices",
+            "TrajectoryNote": "Janeway lets B'Elanna take point on stopping a Cardassian missile she once reprogrammed, reflecting profound operational trust."
+          },
+          {
+            "EpisodeID": "voys5e3",
+            "EpisodeTitle": "Extreme Risk",
+            "Role": "Responding to self-destructive behavior",
+            "TrajectoryNote": "Janeway\u2019s response to B'Elanna\u2019s dangerous holodeck habits mixes disciplinary concern with genuine worry for her well-being."
+          },
+          {
+            "EpisodeID": "voys7e12",
+            "EpisodeTitle": "Lineage",
+            "Role": "Fear and heritage during pregnancy",
+            "TrajectoryNote": "Janeway\u2019s counsel helps B'Elanna face deeply rooted pain about her Klingon features and what they mean for her child."
+          }
+        ],
+        "NotableMoments": [
+          {
+            "EpisodeID": "voys1e2",
+            "EpisodeTitle": "Parallax",
+            "Description": "Janeway announces B'Elanna as chief engineer in Engineering, signaling to the crew that this former Maquis is now central to Voyager\u2019s survival."
+          },
+          {
+            "EpisodeID": "voys2e17",
+            "EpisodeTitle": "Dreadnought",
+            "Description": "Trusting B'Elanna to disarm the deadly missile she built, Janeway quietly acknowledges her engineer\u2019s ownership of both past mistakes and present courage."
+          },
+          {
+            "EpisodeID": "voys5e3",
+            "EpisodeTitle": "Extreme Risk",
+            "Description": "Janeway\u2019s insistence that B'Elanna confront what is driving her reckless holodeck behavior shows a captain unwilling to lose a valued officer to unspoken pain."
+          }
+        ]
+      },
+      {
+        "RelationshipID": "Chakotay-BElannaTorres",
+        "Name": "B'Elanna Torres and Chakotay",
+        "Series": [
+          "VOY"
+        ],
+        "RelationshipType": [
+          "Mentor/Prot\u00e9g\u00e9",
+          "Former Maquis",
+          "Older Brother\u2013Younger Sister"
+        ],
+        "People": [
+          {
+            "Character": "B'Elanna Torres",
+            "BioID": "BElannaTorres"
+          },
+          {
+            "Character": "Chakotay",
+            "BioID": "Chakotay"
+          }
+        ],
+        "Overview": "Chakotay is the first commanding officer who truly believes B'Elanna is more than her anger. For her, he is a mentor, former captain, and older brother figure who saw a brilliant engineer where Starfleet saw a disciplinary problem. Their relationship is built on blunt honesty and loyalty: Chakotay expects B'Elanna to control her temper and own her choices, but he also stands up for her when others want to write her off. Even after they join Janeway\u2019s crew, B'Elanna measures her behavior against Chakotay\u2019s quiet standards, knowing he will call her out when she crosses lines.",
+        "StartingPoint": "Before Voyager, B'Elanna leaves Starfleet Academy and finds a home in Chakotay\u2019s Maquis cell, where he gives her responsibility and trust she never felt from Starfleet. That history carries into Voyager\u2019s early episodes, especially \u201cParallax,\u201d where Chakotay insists that Janeway consider B'Elanna for chief engineer despite her having struck a superior officer. From B'Elanna\u2019s perspective, Chakotay\u2019s advocacy is both validating and terrifying: if she fails, she not only proves Starfleet right about her, she also undermines the man who vouched for her.",
+        "Evolution": "On Voyager, the shift from Maquis ship to Starfleet hierarchy changes their dynamic but not its emotional core. In \u201cLearning Curve,\u201d Chakotay\u2019s approach to integrating Maquis methods into Starfleet protocol reflects lessons he learned with officers like B'Elanna, who need structure that does not erase who they were. \u201cDreadnought\u201d forces both to confront the consequences of their Maquis choices, with Chakotay backing B'Elanna as she risks her life to stop the missile she once helped program. Later, in \u201cExtreme Risk,\u201d B'Elanna\u2019s depression and thrill-seeking worry Chakotay, who presses her to admit that she is not fine and to accept support. Even as her primary emotional life shifts toward Tom Paris, B'Elanna continues to treat Chakotay as a trusted confidant whose opinion of her matters in a way few others do.",
+        "KeyThemes": [
+          "Seeing potential in someone others label as trouble",
+          "Navigating the transition from rebel cell to Starfleet chain of command",
+          "Mentorship that combines tough expectations with deep loyalty",
+          "Coming to terms with the moral cost of Maquis actions",
+          "Sibling-like bonds within a small, isolated crew"
+        ],
+        "KeyEpisodes": [
+          {
+            "EpisodeID": "voys1e2",
+            "EpisodeTitle": "Parallax",
+            "Role": "Chakotay\u2019s advocacy for B'Elanna",
+            "TrajectoryNote": "Chakotay\u2019s push for B'Elanna to become chief engineer shapes how she sees herself under Janeway\u2019s command."
+          },
+          {
+            "EpisodeID": "voys1e15",
+            "EpisodeTitle": "Learning Curve",
+            "Role": "Adjusting Maquis behavior to Starfleet norms",
+            "TrajectoryNote": "The broader Maquis integration arc reflects patterns already established in Chakotay\u2019s bond with B'Elanna."
+          },
+          {
+            "EpisodeID": "voys2e17",
+            "EpisodeTitle": "Dreadnought",
+            "Role": "Facing the past together",
+            "TrajectoryNote": "B'Elanna\u2019s mission to stop the missile is supported by Chakotay, who understands the weight of their shared Maquis history."
+          },
+          {
+            "EpisodeID": "voys5e3",
+            "EpisodeTitle": "Extreme Risk",
+            "Role": "Calling out self-destructive behavior",
+            "TrajectoryNote": "Chakotay confronts B'Elanna over her reckless holodeck programs, pushing her toward acknowledging her emotional crisis."
+          }
+        ],
+        "NotableMoments": [
+          {
+            "EpisodeID": "voys1e2",
+            "EpisodeTitle": "Parallax",
+            "Description": "Hearing Chakotay argue fiercely for her promotion, B'Elanna realizes someone in authority is willing to stake their career on her potential."
+          },
+          {
+            "EpisodeID": "voys2e17",
+            "EpisodeTitle": "Dreadnought",
+            "Description": "As B'Elanna prepares to face the missile alone, Chakotay\u2019s concern and trust highlight their bond as former Maquis now carrying Starfleet responsibilities."
+          },
+          {
+            "EpisodeID": "voys5e3",
+            "EpisodeTitle": "Extreme Risk",
+            "Description": "Chakotay\u2019s refusal to accept B'Elanna\u2019s \u201cI\u2019m fine\u201d front marks a turning point in her willingness to confront her grief."
+          }
+        ]
+      },
+      {
+        "RelationshipID": "TomParis-BElannaTorres",
+        "Name": "B'Elanna Torres and Tom Paris",
+        "Series": [
+          "VOY"
+        ],
+        "RelationshipType": [
+          "Romantic",
+          "Marriage",
+          "Found Family"
+        ],
+        "People": [
+          {
+            "Character": "B'Elanna Torres",
+            "BioID": "BElannaTorres"
+          },
+          {
+            "Character": "Tom Paris",
+            "BioID": "TomParis"
+          }
+        ],
+        "Overview": "From B'Elanna\u2019s point of view, Tom Paris is the infuriatingly persistent pilot who refuses to be scared off by her temper or her walls\u2014and eventually becomes the partner she never believed she deserved. Their relationship is where B'Elanna tests whether someone can see her at her most volatile and still choose to stay. Tom\u2019s humor and goofiness initially read to her as irresponsibility, but over time she learns to trust that beneath the jokes is a man who knows what it means to be broken and who still wants a life, a marriage, and a child with her in all her complexity.",
+        "StartingPoint": "Early in Voyager\u2019s run, B'Elanna experiences Tom as a mixture of charming nuisance and surprising ally. He flirts, pushes boundaries, and cracks jokes in Engineering, while she responds with eye-rolls and sharp retorts, determined not to become another of his stories. Yet episodes like \u201cFaces\u201d and \u201cThe Chute\u201d show Tom\u2019s willingness to stand beside her in pain and danger. The emotional breakthrough arrives in \u201cDay of Honor,\u201d when, drifting in space with oxygen running out, B'Elanna finally blurts out that she is in love with him\u2014a confession that terrifies her as much as the impending death. Survival forces her to live with that admission and see what happens if she doesn\u2019t run.",
+        "Evolution": "As romance turns into partnership, B'Elanna must confront the ingrained belief that people will leave or reject her once they see the full extent of her anger and self-doubt. Episodes like \u201cExtreme Risk\u201d reveal a dark period where she withdraws into dangerous holodeck programs; Tom\u2019s concern is one of the catalysts that brings her pain to the surface. In \u201cDrive,\u201d B'Elanna has to decide whether Tom\u2019s impulsive proposal represents another ill-considered whim or a genuine, sustained commitment; choosing to marry him is as much about trusting herself as trusting him. \u201cLineage\u201d digs into her deepest fear\u2014that a Klingon appearance will doom their daughter to the misery she endured\u2014and Tom becomes the one who insists that their child should not have to pay for her pain. By the end of Voyager\u2019s journey, their marriage is not free of conflict, but it is a space where B'Elanna can be fully herself without waiting for the other shoe to drop.",
+        "KeyThemes": [
+          "Letting someone see and love the parts of yourself you hate",
+          "Choosing vulnerability over defensive anger",
+          "Redefining \u201cfamily\u201d after a painful childhood",
+          "Balancing impulsivity with the work of long-term commitment",
+          "Building a future under circumstances where there may be no homecoming"
+        ],
+        "KeyEpisodes": [
+          {
+            "EpisodeID": "voys1e13",
+            "EpisodeTitle": "Faces",
+            "Role": "Tom\u2019s early support in crisis",
+            "TrajectoryNote": "Tom\u2019s care when B'Elanna is split into human and Klingon halves foreshadows his later ability to accept all sides of her."
+          },
+          {
+            "EpisodeID": "voys4e3",
+            "EpisodeTitle": "Day of Honor",
+            "Role": "First open declaration of love",
+            "TrajectoryNote": "Facing death, B'Elanna\u2019s spontaneous confession forces her to confront feelings she has been hiding even from herself."
+          },
+          {
+            "EpisodeID": "voys5e3",
+            "EpisodeTitle": "Extreme Risk",
+            "Role": "Tom as a witness to her depression",
+            "TrajectoryNote": "Tom\u2019s insistence that something is wrong helps push B'Elanna toward acknowledging and addressing her internal collapse."
+          },
+          {
+            "EpisodeID": "voys7e3",
+            "EpisodeTitle": "Drive",
+            "Role": "Deciding to marry",
+            "TrajectoryNote": "B'Elanna\u2019s choice to accept Tom\u2019s proposal marks a turning point in her willingness to believe in a shared future."
+          },
+          {
+            "EpisodeID": "voys7e12",
+            "EpisodeTitle": "Lineage",
+            "Role": "Conflict over their child\u2019s genetics",
+            "TrajectoryNote": "The fight over altering their unborn daughter crystallizes B'Elanna\u2019s unresolved trauma and Tom\u2019s determination to stand by her and their child."
+          }
+        ],
+        "NotableMoments": [
+          {
+            "EpisodeID": "voys4e3",
+            "EpisodeTitle": "Day of Honor",
+            "Description": "Hearing herself admit she loves Tom while believing she is about to die forces B'Elanna to reconsider the walls she has built around her heart."
+          },
+          {
+            "EpisodeID": "voys7e3",
+            "EpisodeTitle": "Drive",
+            "Description": "B'Elanna\u2019s reluctant, emotional agreement to marry Tom shows her choosing faith in their relationship over the safety of distance."
+          },
+          {
+            "EpisodeID": "voys7e12",
+            "EpisodeTitle": "Lineage",
+            "Description": "After Tom discovers her attempt to change their baby\u2019s genome, B'Elanna breaks down and reveals how profoundly her childhood shame still shapes her fears."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CharacterID": "SevenOfNine",
+    "Name": "Seven of Nine",
+    "Series": [
+      "VOY"
+    ],
+    "Meta": "Former Borg drone Seven of Nine, Tertiary Adjunct of Unimatrix 01, is severed from the Collective and forced to live as an individual aboard the USS Voyager. Brilliant, blunt, and often abrasive, she struggles to reconcile Borg efficiency with human emotion and autonomy, gradually building bonds that challenge her understanding of identity, loyalty, and freedom.",
+    "Relationships": [
+      {
+        "RelationshipID": "Janeway-SevenOfNine",
+        "Name": "Kathryn Janeway and Seven of Nine",
+        "Series": [
+          "VOY"
+        ],
+        "RelationshipType": [
+          "Mentor/Student",
+          "Found Family",
+          "Command Dynamic",
+          "Rehabilitation"
+        ],
+        "People": [
+          {
+            "Character": "Seven of Nine",
+            "BioID": "SevenOfNine"
+          },
+          {
+            "Character": "Kathryn Janeway",
+            "BioID": "Janeway"
+          }
+        ],
+        "Overview": "From Seven\u2019s perspective, Janeway is both liberator and jailer, the individual who tears her away from the Collective and then insists she learn to live by Federation values. Their relationship is intensely ambivalent: Seven resents being forced into individuality, yet she also comes to rely on Janeway as the one constant in a terrifyingly chaotic universe. Janeway pushes her to explore art, friendship, and choice; Seven pushes back when she feels her autonomy being shaped to fit Starfleet ideals. Over time, their clashes and reconciliations forge a bond that resembles a fraught mother\u2013daughter relationship, built on mutual dependence, disappointment, and a deep, often unspoken care that neither is comfortable naming directly.",
+        "StartingPoint": "Seven\u2019s integration begins in \u201cScorpion, Part II,\u201d when she is selected as the Borg representative to work with Janeway against Species 8472. Initially, she sees Janeway as just another obstacle to perfection, arrogantly dismissing the captain\u2019s authority and attempting to seize the ship. In \u201cThe Gift,\u201d when Janeway severs her link to the Collective, Seven experiences it as amputation: a violent stripping away of the only identity she has ever known. Confined to sickbay and then the cargo bay, surrounded by organics she neither trusts nor understands, she views Janeway as the individual responsible for her exile\u2014someone who claims to have \u201csaved\u201d her while ignoring that Seven never asked to be saved.",
+        "Evolution": "As months turn into years, their dynamic oscillates between open conflict and genuine connection. Episodes like \u201cThe Raven\u201d and \u201cOne\u201d force Seven to confront buried trauma and crippling isolation, with Janeway insisting that she does not have to face these experiences alone. In \u201cDark Frontier,\u201d Seven\u2019s capture by the Borg Queen tests whether she truly believes she belongs on Voyager; Janeway\u2019s reckless rescue attempt confirms that Seven is not merely a project but someone the captain is willing to risk everything for. Yet Seven continues to question Janeway\u2019s ethics\u2014challenging her alliances, temporal gambits, and paternalistic control. By \u201cEndgame,\u201d the future Admiral Janeway\u2019s willingness to rewrite history to spare Seven\u2019s suffering reveals how profoundly this ex-drone has shaped her life. For Seven, the relationship never becomes simple or entirely comfortable, but it gives her a framework to define herself in opposition to and in alignment with Janeway\u2019s example.",
+        "KeyThemes": [
+          "Autonomy versus benevolent control in \u201csaving\u201d someone",
+          "The pain and possibility of rebuilding identity after assimilation",
+          "Found family bonds that do not erase conflict or resentment",
+          "Trust earned through repeated crises and mutual risk",
+          "A captain\u2019s ideals refracted through the eyes of a former enemy"
+        ],
+        "KeyEpisodes": [
+          {
+            "EpisodeID": "voys4e1",
+            "EpisodeTitle": "Scorpion, Part II",
+            "Role": "Seven\u2019s arrival as Borg liaison",
+            "TrajectoryNote": "Seven\u2019s initial contempt for Janeway and attempt to seize Voyager define the adversarial start of their connection."
+          },
+          {
+            "EpisodeID": "voys4e2",
+            "EpisodeTitle": "The Gift",
+            "Role": "Severing from the Collective",
+            "TrajectoryNote": "Janeway\u2019s decision to cut Seven off from the Borg leaves Seven feeling mutilated and enraged, setting the tone for years of conflict."
+          },
+          {
+            "EpisodeID": "voys4e6",
+            "EpisodeTitle": "The Raven",
+            "Role": "Confronting childhood trauma",
+            "TrajectoryNote": "As memories of her human past surface, Seven relies on Janeway\u2019s insistence that she has a place on Voyager as herself."
+          },
+          {
+            "EpisodeID": "voys5e15",
+            "EpisodeTitle": "Dark Frontier, Part I",
+            "Role": "Borg Queen\u2019s attempt to reclaim Seven",
+            "TrajectoryNote": "Seven\u2019s tug-of-war between Janeway and the Queen crystallizes the competing visions of who she should be."
+          },
+          {
+            "EpisodeID": "voys7e25",
+            "EpisodeTitle": "Endgame, Part I",
+            "Role": "Future Janeway\u2019s remorse and resolve",
+            "TrajectoryNote": "Admiral Janeway\u2019s plan to change history is driven in part by grief over Seven\u2019s fate, revealing the depth of their bond."
+          }
+        ],
+        "NotableMoments": [
+          {
+            "EpisodeID": "voys4e2",
+            "EpisodeTitle": "The Gift",
+            "Description": "Screaming that she is being \u201cmurdered,\u201d Seven is cut off from the Collective while Janeway promises that she will not face her new life alone."
+          },
+          {
+            "EpisodeID": "voys4e25",
+            "EpisodeTitle": "One",
+            "Description": "Alone while the crew is in stasis, Seven endures crushing isolation to keep Voyager safe, haunted by Janeway\u2019s expectations and her own emerging sense of responsibility."
+          },
+          {
+            "EpisodeID": "voys5e15",
+            "EpisodeTitle": "Dark Frontier, Part I",
+            "Description": "Seven must choose between returning to the Collective and trusting Janeway\u2019s risky plan, a choice that defines how she understands loyalty and freedom."
+          },
+          {
+            "EpisodeID": "voys7e25",
+            "EpisodeTitle": "Endgame, Part I",
+            "Description": "Learning how badly Seven suffered in the original timeline pushes Admiral Janeway to gamble the timeline itself, a testament to how central Seven has become to her."
+          }
+        ]
+      },
+      {
+        "RelationshipID": "SevenOfNine-TheDoctor",
+        "Name": "Seven of Nine and The Doctor",
+        "Series": [
+          "VOY"
+        ],
+        "RelationshipType": [
+          "Mentor/Student",
+          "Teacher/Subject",
+          "Personhood Exploration"
+        ],
+        "People": [
+          {
+            "Character": "Seven of Nine",
+            "BioID": "SevenOfNine"
+          },
+          {
+            "Character": "The Doctor",
+            "BioID": "TheDoctor"
+          }
+        ],
+        "Overview": "Seven\u2019s relationship with the Doctor is a layered mix of medical oversight, social coaching, and mutual experimentation in humanity. He initially treats her as a demanding and fascinating patient whose physiology and psychology defy his programming; she regards him as an efficient tool that happens to talk too much. As he takes on the role of tutor, guiding her through etiquette, romance, and individual expression, Seven forces him to confront his own limitations, biases, and vanity. Their bond becomes one of Voyager\u2019s most complex explorations of what it means to be a person when both parties stand outside the biological norm.",
+        "StartingPoint": "The Doctor is among the first to interact with Seven after she is severed from the Collective. In \u201cThe Gift,\u201d he manages her implants and monitors her adjustment, facing a patient who openly questions his competence and demands efficiency. Seven initially sees him as a useful subroutine attached to a medical interface, not as an individual. Their early exchanges are clipped and transactional, with the Doctor annoyed by her lack of bedside manners and Seven irritated by his attempts at small talk. It is only when he begins designing specialized treatments and protocols for her that she starts to recognize his adaptability and creativity.",
+        "Evolution": "As Seven integrates into the crew, the Doctor repositions himself as her cultural tutor, using holodeck lessons to teach her social nuance, humor, and even romance, as in \u201cSomeone to Watch Over Me.\u201d These lessons reveal as much about him as about her: his surprise at her blunt feedback and his wounded pride when she critiques his instructional methods highlight his own desire for approval. Seven, for her part, learns to see the Doctor as more than a program\u2014someone whose artistic ambitions, insecurities, and ethical struggles mirror her own. In episodes like \u201cBody and Soul,\u201d where the Doctor takes over her body, their trust is tested and ultimately strengthened as they negotiate consent, identity, and embarrassment. By the later seasons, their conversations about music, individuality, and rights in \u201cAuthor, Author\u201d show them as peers who have helped each other grow into something much larger than what either was designed to be.",
+        "KeyThemes": [
+          "Learning humanity through an artificial mentor who is still learning himself",
+          "Negotiating consent and boundaries between two atypical beings",
+          "Mutual recognition of personhood beyond programming or implants",
+          "The comedy and pain of social missteps and romantic experiments",
+          "Parallel arcs of self-determination for a hologram and an ex-Borg"
+        ],
+        "KeyEpisodes": [
+          {
+            "EpisodeID": "voys4e2",
+            "EpisodeTitle": "The Gift",
+            "Role": "Initial medical and psychological care",
+            "TrajectoryNote": "The Doctor manages Seven\u2019s separation from the Collective, establishing a clinical but crucial connection."
+          },
+          {
+            "EpisodeID": "voys5e22",
+            "EpisodeTitle": "Someone to Watch Over Me",
+            "Role": "Social lessons and unexpected feelings",
+            "TrajectoryNote": "The Doctor\u2019s attempt to coach Seven in romance leads both to confront their expectations and vulnerabilities."
+          },
+          {
+            "EpisodeID": "voys7e7",
+            "EpisodeTitle": "Body and Soul",
+            "Role": "Sharing a body, testing trust",
+            "TrajectoryNote": "The Doctor\u2019s control of Seven\u2019s body forces them to renegotiate boundaries and respect in a deeply uncomfortable situation."
+          },
+          {
+            "EpisodeID": "voys7e20",
+            "EpisodeTitle": "Author, Author",
+            "Role": "Advocating for holographic rights together",
+            "TrajectoryNote": "Seven\u2019s support for the Doctor\u2019s claim to authorship reflects her belief in his personhood and parallels her own fight for recognition."
+          }
+        ],
+        "NotableMoments": [
+          {
+            "EpisodeID": "voys5e22",
+            "EpisodeTitle": "Someone to Watch Over Me",
+            "Description": "Seven\u2019s brutally honest questions and the Doctor\u2019s flustered responses turn a simple etiquette lesson into a revealing exploration of both their hearts."
+          },
+          {
+            "EpisodeID": "voys7e7",
+            "EpisodeTitle": "Body and Soul",
+            "Description": "After enduring the Doctor\u2019s flamboyant use of her body, Seven demands accountability, making clear that even friends must respect her autonomy."
+          },
+          {
+            "EpisodeID": "voys7e20",
+            "EpisodeTitle": "Author, Author",
+            "Description": "Seven\u2019s calm, principled defense of the Doctor\u2019s status as an author underscores the solidarity between two beings still fighting for recognition."
+          }
+        ]
+      },
+      {
+        "RelationshipID": "SevenOfNine-NaomiWildman",
+        "Name": "Seven of Nine and Naomi Wildman",
+        "Series": [
+          "VOY"
+        ],
+        "RelationshipType": [
+          "Mentor/Prot\u00e9g\u00e9",
+          "Found Family",
+          "Child\u2013Adult Bond"
+        ],
+        "People": [
+          {
+            "Character": "Seven of Nine",
+            "BioID": "SevenOfNine"
+          },
+          {
+            "Character": "Naomi Wildman",
+            "BioID": "NaomiWildman"
+          }
+        ],
+        "Overview": "Naomi Wildman is the first person on Voyager to treat Seven not as a threat, a project, or a curiosity, but as a hero. The child\u2019s unfiltered admiration disrupts Seven\u2019s expectations about how organics see her. What begins as an awkward, unwanted attachment becomes a gentle, protective bond in which Seven learns to moderate her bluntness, model responsibility, and accept that someone might simply enjoy her company. Naomi offers Seven a glimpse of family that is neither collective nor hierarchical, but rooted in stories, games, and small acts of trust.",
+        "StartingPoint": "Naomi\u2019s fascination with Seven grows out of stories and observation rather than duty. In \u201cInfinite Regress\u201d and other early encounters, Naomi tracks Seven\u2019s movements and asks direct questions that bypass adult politeness. Seven initially responds with confusion and irritation\u2014children do not fit into her categories of efficient use of time. However, Naomi\u2019s refusal to be frightened away by implants or curt replies starts to chip at Seven\u2019s assumptions. The turning point comes when Seven realizes that Naomi has chosen her, specifically, as a role model, and that this admiration carries a responsibility Seven never anticipated taking on.",
+        "Evolution": "As their relationship develops, Seven begins to consciously adjust her behavior around Naomi, softening her tone and explaining complex concepts with a patience she does not always extend to adults. \u201cOnce Upon a Time\u201d and \u201cBliss\u201d show Naomi seeking out Seven for comfort and guidance, not just entertainment; Seven, in turn, advocates for Naomi\u2019s safety and emotional needs with a protectiveness that echoes a parent or older sibling. Seven\u2019s willingness to participate in Naomi\u2019s games and stories, including the fictional \u201cCaptain Proton\u201d-style adventures, marks a quiet revolution in how seriously she takes play and imagination. By the later seasons, Naomi\u2019s casual inclusion of Seven in her idea of \u201cfamily\u201d demonstrates that, for at least one member of the crew\u2019s next generation, Seven has always been one of them.",
+        "KeyThemes": [
+          "Being seen as a hero rather than a monster or experiment",
+          "Learning gentleness and patience through caring for a child",
+          "The power of simple, unconditional admiration to reshape identity",
+          "Found family across generational and cultural divides",
+          "Responsibility that arises from being chosen as a role model"
+        ],
+        "KeyEpisodes": [
+          {
+            "EpisodeID": "voys5e8",
+            "EpisodeTitle": "Nothing Human",
+            "Role": "Early indications of Naomi\u2019s interest",
+            "TrajectoryNote": "Naomi\u2019s curiosity about Seven\u2019s work hints at the admiration that will blossom into a deeper bond."
+          },
+          {
+            "EpisodeID": "voys5e9",
+            "EpisodeTitle": "Thirty Days",
+            "Role": "Naomi\u2019s reliance on Seven while others are distracted",
+            "TrajectoryNote": "Seven steps into a quiet caretaking role as the crew deals with Tom\u2019s punishment and other crises."
+          },
+          {
+            "EpisodeID": "voys5e21",
+            "EpisodeTitle": "Juggernaut",
+            "Role": "Protectiveness in dangerous situations",
+            "TrajectoryNote": "Seven\u2019s concern for Naomi\u2019s safety underscores how seriously she takes her unofficial guardian role."
+          },
+          {
+            "EpisodeID": "voys6e14",
+            "EpisodeTitle": "Memorial",
+            "Role": "Helping Naomi process trauma",
+            "TrajectoryNote": "Seven\u2019s matter-of-fact support when Naomi experiences disturbing memories shows her growth as an emotional anchor."
+          }
+        ],
+        "NotableMoments": [
+          {
+            "EpisodeID": "voys5e9",
+            "EpisodeTitle": "Thirty Days",
+            "Description": "Seven indulges Naomi\u2019s questions and company in the Mess Hall, awkwardly but earnestly stepping into the role of a mentor figure."
+          },
+          {
+            "EpisodeID": "voys6e14",
+            "EpisodeTitle": "Memorial",
+            "Description": "When Naomi is shaken by implanted war memories, Seven provides calm, honest reassurance rather than dismissing the child\u2019s distress."
+          },
+          {
+            "EpisodeID": "voys7e4",
+            "EpisodeTitle": "Repression",
+            "Description": "Naomi\u2019s casual inclusion of Seven in her sense of who \u201cthe crew\u201d are highlights how fully the ex-Borg has become part of her family map."
+          }
+        ]
+      },
+      {
+        "RelationshipID": "SevenOfNine-IchebAndBorgChildren",
+        "Name": "Seven of Nine and the ex-Borg children",
+        "Series": [
+          "VOY"
+        ],
+        "RelationshipType": [
+          "Found Family",
+          "Parental",
+          "Mentor/Prot\u00e9g\u00e9 Group"
+        ],
+        "People": [
+          {
+            "Character": "Seven of Nine",
+            "BioID": "SevenOfNine"
+          },
+          {
+            "Character": "Icheb",
+            "BioID": "Icheb"
+          },
+          {
+            "Character": "Mezoti",
+            "BioID": "Mezoti"
+          },
+          {
+            "Character": "Azan",
+            "BioID": "Azan"
+          },
+          {
+            "Character": "Rebi",
+            "BioID": "Rebi"
+          }
+        ],
+        "Overview": "The ex-Borg children\u2014especially Icheb\u2014force Seven to confront what it means to be responsible for someone else\u2019s journey out of the Collective. Initially seeing them as a logistical problem and a test case, she soon finds herself acting as a parent and teacher, recreating aspects of her own transition from drone to individual but trying to make it gentler and more supportive than her experience. Through the children, Seven learns to balance structure with compassion, discipline with warmth, and to accept that caring for others will inevitably expose her own unresolved pain.",
+        "StartingPoint": "In \u201cCollective,\u201d Seven and the Voyager crew encounter a damaged Borg cube controlled by a small group of child drones. Seven initially approaches them as malfunctioning units in need of repair or reintegration, but quickly realizes they are being used and abandoned by the Collective. Her decision\u2014and Janeway\u2019s\u2014to bring them aboard Voyager and sever their links to the hive places Seven in an unexpected role: she is the only individual on the ship who truly understands what they are losing and how terrifying individuality can be. Her early lessons to them mirror the rigid structures she knows best: schedules, efficiency, and precise tasks designed to replace the drone\u2019s sense of order.",
+        "Evolution": "As the children adjust, especially Icheb, Seven is forced to adapt. Episodes like \u201cChild\u2019s Play\u201d reveal the horrors of Icheb\u2019s past and the depth of betrayal by his biological parents, triggering Seven\u2019s protective instincts and her anger at anyone who treats ex-drones as expendable. In \u201cImperfection,\u201d Seven\u2019s cortical node failure and Icheb\u2019s willingness to sacrifice himself for her turn their dynamic into one of mutual care\u2014she must accept that being a parental figure means allowing others to endanger themselves for love, just as she has repeatedly risked herself for them. The departures of Mezoti, Azan, and Rebi to other homes, and Icheb\u2019s eventual path, underscore that Seven\u2019s success as a guardian is measured not by keeping them near, but by preparing them to build lives beyond her.",
+        "KeyThemes": [
+          "Breaking cycles of exploitation and instrumentalization of ex-drones",
+          "Learning to parent without a model beyond the Collective",
+          "Sacrifice and mutual care between survivor and prot\u00e9g\u00e9s",
+          "Teaching identity, autonomy, and ethics to those who knew only obedience",
+          "Letting go as an act of love, not abandonment"
+        ],
+        "KeyEpisodes": [
+          {
+            "EpisodeID": "voys6e16",
+            "EpisodeTitle": "Collective",
+            "Role": "Rescuing and adopting the Borg children",
+            "TrajectoryNote": "Seven\u2019s decision to support bringing the children onto Voyager begins her reluctant journey into guardianship."
+          },
+          {
+            "EpisodeID": "voys6e19",
+            "EpisodeTitle": "Child's Play",
+            "Role": "Confronting Icheb\u2019s past and exploitation",
+            "TrajectoryNote": "Learning that Icheb was bred as a weapon, Seven fiercely opposes returning him to parents who see him as expendable."
+          },
+          {
+            "EpisodeID": "voys7e2",
+            "EpisodeTitle": "Imperfection",
+            "Role": "Icheb\u2019s sacrifice for Seven",
+            "TrajectoryNote": "Icheb\u2019s offer of his cortical node forces Seven to accept that her \u201cchild\u201d would risk everything for her, echoing her own choices for him."
+          },
+          {
+            "EpisodeID": "voys7e21",
+            "EpisodeTitle": "Friendship One",
+            "Role": "Measuring the children\u2019s growth from afar",
+            "TrajectoryNote": "References to the former Borg children\u2019s progress reinforce Seven\u2019s impact on their development even after they leave Voyager."
+          }
+        ],
+        "NotableMoments": [
+          {
+            "EpisodeID": "voys6e16",
+            "EpisodeTitle": "Collective",
+            "Description": "Seven calmly, firmly instructs the terrified child drones on individual tasks, offering structure as a bridge between the hive and individuality."
+          },
+          {
+            "EpisodeID": "voys6e19",
+            "EpisodeTitle": "Child's Play",
+            "Description": "Seven openly condemns Icheb\u2019s parents for treating him as a weapon, making clear that she claims him as something more than an asset."
+          },
+          {
+            "EpisodeID": "voys7e2",
+            "EpisodeTitle": "Imperfection",
+            "Description": "Seven\u2019s emotional struggle to accept Icheb\u2019s cortical node, and his determination to save her, lay bare their mutual devotion."
+          }
+        ]
+      },
+      {
+        "RelationshipID": "SevenOfNine-BorgQueen",
+        "Name": "Seven of Nine and the Borg Queen",
+        "Series": [
+          "VOY"
+        ],
+        "RelationshipType": [
+          "Adversaries",
+          "Abusive Parent/Child",
+          "Ideological Conflict"
+        ],
+        "People": [
+          {
+            "Character": "Seven of Nine",
+            "BioID": "SevenOfNine"
+          },
+          {
+            "Character": "Borg Queen",
+            "BioID": "BorgQueen"
+          }
+        ],
+        "Overview": "For Seven, the Borg Queen embodies the worst of the Collective: a seductive, terrifying voice that insists she belongs nowhere but in the hive. Their relationship is an abusive parent\u2013child dynamic wrapped in ideology. The Queen alternates between cajoling and threatening, trying to lure Seven back with promises of belonging and power while punishing any assertion of individuality. Seven\u2019s refusal to comply turns their encounters into psychological warfare, where each choice Seven makes to stand with Voyager becomes another act of rebellion against the system that once defined her.",
+        "StartingPoint": "Seven\u2019s bond with the Queen predates Voyager; as a drone, she served as a node of the Collective and an instrument of the Queen\u2019s will. On-screen, this connection crystallizes around \u201cDark Frontier,\u201d where the Queen targets Seven specifically as a former favorite who has strayed. By orchestrating Seven\u2019s abduction and confronting her with sanitized memories of her assimilation, the Queen positions herself as the only one who truly understands Seven\u2019s nature. She frames Janeway and Voyager as temporary anomalies, insisting that Seven will inevitably return to the perfection of the hive.",
+        "Evolution": "As Seven\u2019s individuality strengthens, the Queen escalates her tactics. In \u201cUnimatrix Zero,\u201d when Seven aids drones who dream of a secret resistance, the Queen attempts to use Seven as a wedge\u2014punishing others to force Seven\u2019s compliance. Seven\u2019s refusal to betray the nascent rebellion marks a shift: she is no longer a wayward child to be corrected, but a genuine ideological enemy. By \u201cEndgame,\u201d Seven\u2019s existence as a fully self-directed person is one of many factors driving Admiral Janeway\u2019s plan to cripple the Collective permanently. For Seven, each confrontation with the Queen reaffirms that the Collective\u2019s vision of perfection is built on annihilating everything she has fought to reclaim\u2014her memories, her relationships, and her right to choose.",
+        "KeyThemes": [
+          "Escaping an abusive, totalizing system that claims to be \u201cfamily\u201d",
+          "The seduction of belonging versus the cost of individuality",
+          "Psychological manipulation as a weapon of control",
+          "Turning trauma into resistance against the former abuser",
+          "The personal face of a galactic-scale enemy"
+        ],
+        "KeyEpisodes": [
+          {
+            "EpisodeID": "voys5e15",
+            "EpisodeTitle": "Dark Frontier, Part I",
+            "Role": "Queen\u2019s attempt to reclaim Seven",
+            "TrajectoryNote": "The Queen uses Seven\u2019s memories and lingering connection to the Collective to try to lure her back into the hive."
+          },
+          {
+            "EpisodeID": "voys6e26",
+            "EpisodeTitle": "Unimatrix Zero, Part I",
+            "Role": "Seven\u2019s solidarity with Borg resistance",
+            "TrajectoryNote": "Seven\u2019s support for a secret community of dreaming drones turns her into a symbol of defiance the Queen is determined to crush."
+          },
+          {
+            "EpisodeID": "voys7e25",
+            "EpisodeTitle": "Endgame, Part I",
+            "Role": "Final moves in a long conflict",
+            "TrajectoryNote": "Seven\u2019s ongoing existence as an individual helps motivate Admiral Janeway\u2019s final plan to cripple the Collective and defeat the Queen."
+          }
+        ],
+        "NotableMoments": [
+          {
+            "EpisodeID": "voys5e15",
+            "EpisodeTitle": "Dark Frontier, Part I",
+            "Description": "The Queen caresses Seven\u2019s face and speaks of her as a wayward favorite, exposing how personal the Collective\u2019s hold on her has been."
+          },
+          {
+            "EpisodeID": "voys6e26",
+            "EpisodeTitle": "Unimatrix Zero, Part I",
+            "Description": "Seven stands with the dreaming drones rather than betray them to the Queen, openly choosing the messy freedom of resistance over enforced perfection."
+          },
+          {
+            "EpisodeID": "voys7e25",
+            "EpisodeTitle": "Endgame, Part I",
+            "Description": "Seven\u2019s presence on the board during Admiral Janeway\u2019s infiltration underscores how fully she has shifted from instrument of the Queen to agent of the Queen\u2019s downfall."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CharacterID": "TomParis",
+    "Name": "Tom Paris",
+    "Series": [
+      "VOY"
+    ],
+    "Meta": "Tom Paris is a gifted pilot and former disgraced Starfleet officer whose second chance aboard the USS Voyager becomes a long, messy journey from self-sabotage to responsibility. A sarcastic romantic with a love of 20th\u2011century pop culture and fast vehicles, he slowly rebuilds his sense of worth through friendship, duty, and eventually family in the Delta Quadrant.",
+    "Relationships": [
+      {
+        "RelationshipID": "TomParis-BElannaTorres",
+        "Name": "Tom Paris and B'Elanna Torres",
+        "Series": [
+          "VOY"
+        ],
+        "RelationshipType": [
+          "Romantic",
+          "Marriage",
+          "Former Maquis/Starfleet",
+          "Found Family"
+        ],
+        "People": [
+          {
+            "Character": "Tom Paris",
+            "BioID": "TomParis"
+          },
+          {
+            "Character": "B'Elanna Torres",
+            "BioID": "BElannaTorres"
+          }
+        ],
+        "Overview": "Tom Paris and B'Elanna Torres evolve from prickly colleagues and reluctant allies into one of Voyager\u2019s most grounded, messy, and believable marriages. Their relationship is anchored in shared damage: Tom\u2019s history of failure and self-loathing meets B'Elanna\u2019s anger and fear of rejection. What begins as sniping across engineering consoles and away missions slowly gives way to mutual recognition that each sees past the other\u2019s defenses. As they grow closer, Tom becomes one of the few people B'Elanna trusts with her vulnerability, while she forces him to confront whether his charm and jokes hide a man who still expects to fail or someone finally willing to fight for a life and family.",
+        "StartingPoint": "Their dynamic is seeded early in Voyager\u2019s journey when Tom, a Starfleet pilot with a checkered past, and B'Elanna, a volatile former Maquis engineer, clash over authority and attitude. Episodes like \u201cParallax\u201d and \u201cFaces\u201d show Tom consistently extending good\u2011natured support even as B'Elanna pushes him away, unwilling to be seen as weak or broken. The turning point toward romance comes in \u201cDay of Honor,\u201d when a near\u2011death experience in open space strips away pretense and forces them to admit feelings they have been dodging behind sarcasm and irritation. From that moment on, their banter carries an undercurrent of intimacy that both excites and unnerves them.",
+        "Evolution": "As their relationship deepens, Tom and B'Elanna must renegotiate who they are to each other through trauma, depression, and the prospect of parenthood. In \u201cExtreme Risk,\u201d Tom\u2019s concern for B'Elanna\u2019s self\u2011destructive behavior pushes her to confront grief she has been burying, while \u201cDrive\u201d frames their love story against Tom\u2019s impulsive grand gestures and B'Elanna\u2019s fear of being abandoned or misunderstood. Marriage does not magically smooth their conflicts; \u201cLineage\u201d exposes deep anxieties about identity and heritage when B'Elanna attempts to alter their unborn child\u2019s genetics. Tom\u2019s insistence that their daughter be allowed to define herself, and his willingness to listen when B'Elanna explains her terror of repeating her own childhood, show how far he has come from the self\u2011absorbed young man we met in the pilot. By the time Voyager reaches home, their relationship represents not a fairy\u2011tale romance, but a partnership forged through repeated choices to stay, talk, and grow up together.",
+        "KeyThemes": [
+          "Finding love through shared damage and second chances",
+          "Learning to trust someone with your worst fears and failures",
+          "Negotiating identity and heritage in an interspecies family",
+          "Balancing impulsive grand gestures with day\u2011to\u2011day commitment",
+          "Transforming workplace friction into enduring partnership"
+        ],
+        "KeyEpisodes": [
+          {
+            "EpisodeID": "voys1e13",
+            "EpisodeTitle": "Faces",
+            "Role": "Early glimpse of Tom\u2019s concern for B'Elanna",
+            "TrajectoryNote": "Tom\u2019s support during B'Elanna\u2019s literal split into human and Klingon halves hints at deeper empathy beneath the banter."
+          },
+          {
+            "EpisodeID": "voys4e3",
+            "EpisodeTitle": "Day of Honor",
+            "Role": "Confession of feelings in crisis",
+            "TrajectoryNote": "Facing death in open space, Tom and B'Elanna finally admit their attraction, shifting their relationship toward open romance."
+          },
+          {
+            "EpisodeID": "voys5e3",
+            "EpisodeTitle": "Extreme Risk",
+            "Role": "Confronting depression and self\u2011destruction",
+            "TrajectoryNote": "Tom\u2019s alarm at B'Elanna\u2019s reckless holodeck behavior pushes her toward acknowledging and addressing her grief."
+          },
+          {
+            "EpisodeID": "voys7e3",
+            "EpisodeTitle": "Drive",
+            "Role": "Proposal and commitment",
+            "TrajectoryNote": "A high\u2011speed shuttle race and Tom\u2019s impulsive proposal crystallize their decision to build a future together."
+          },
+          {
+            "EpisodeID": "voys7e12",
+            "EpisodeTitle": "Lineage",
+            "Role": "Conflict over their child\u2019s genetics",
+            "TrajectoryNote": "A painful clash over altering their unborn daughter forces both to articulate fears about identity, prejudice, and family."
+          }
+        ],
+        "NotableMoments": [
+          {
+            "EpisodeID": "voys4e3",
+            "EpisodeTitle": "Day of Honor",
+            "Description": "Drifting in space with oxygen dwindling, Tom confesses that he is in love with B'Elanna, and she admits she feels the same."
+          },
+          {
+            "EpisodeID": "voys7e3",
+            "EpisodeTitle": "Drive",
+            "Description": "Tom\u2019s bungled, enthusiastic proposal and B'Elanna\u2019s eventual acceptance capture the chaotic, heartfelt nature of their bond."
+          },
+          {
+            "EpisodeID": "voys7e12",
+            "EpisodeTitle": "Lineage",
+            "Description": "After discovering B'Elanna secretly altered their baby\u2019s genome, Tom\u2019s hurt gives way to understanding as he realizes how deeply her childhood scars run."
+          }
+        ]
+      },
+      {
+        "RelationshipID": "TomParis-HarryKim",
+        "Name": "Tom Paris and Harry Kim",
+        "Series": [
+          "VOY"
+        ],
+        "RelationshipType": [
+          "Friendship",
+          "Found Family",
+          "Bad Influence/Good Influence"
+        ],
+        "People": [
+          {
+            "Character": "Tom Paris",
+            "BioID": "TomParis"
+          },
+          {
+            "Character": "Harry Kim",
+            "BioID": "HarryKim"
+          }
+        ],
+        "Overview": "Tom Paris and Harry Kim are Voyager\u2019s core best\u2011friend duo: the jaded veteran screw\u2011up and the idealistic rookie who adopt each other as family the moment their lives are thrown off course. Tom gives Harry a crash course in bending rules, flirting badly, and surviving Starfleet hypocrisy, while Harry offers Tom unconditional loyalty and belief that he can be more than his rap sheet. Their friendship is where Tom is most unguarded, trading sarcasm and holodeck adventures for late\u2011night conversations about fear, love, and the future they might never reach.",
+        "StartingPoint": "In \u201cCaretaker,\u201d Tom meets Harry as the nervous, by\u2011the\u2011book ensign who has been warned to stay away from him. Tom\u2019s decision to help Harry when he is being hassled at Quark\u2019s sets the tone: he refuses to exploit the kid\u2019s naivet\u00e9 and instead takes him under his wing. Their first days aboard Voyager show Tom poking fun at Harry\u2019s earnestness while also defending him from ridicule, and Harry pushing Tom to accept that someone can see value in him despite his past. Being stranded together in the Delta Quadrant cements their bond; neither expected to end up here, and both quickly realize the other is the closest thing they have to a brother.",
+        "Evolution": "Across seven years, Tom and Harry\u2019s friendship weathers prison sentences, alternate timelines, doomed crushes, and promotions that never come. \u201cThe Chute\u201d strips their dynamic down to raw survival, as Tom refuses to let Harry give up in a brutal alien prison, even when it means sacrificing his own hope. Later episodes like \u201cNon Sequitur\u201d show that even in skewed realities, Tom gravitates toward helping Harry, while \u201cThirty Days\u201d and \u201cNightingale\u201d highlight how each reacts when the other stumbles in duty: there is frustration, but never abandonment. By the end of Voyager\u2019s journey, their friendship has matured from barroom escapades and holodeck fantasies into a bond where each has watched the other fail, grow, and keep going.",
+        "KeyThemes": [
+          "Brother\u2011like loyalty forged far from home",
+          "Second chances made possible by someone else\u2019s belief in you",
+          "Navigating adulthood, romance, and career disappointment together",
+          "Balancing bad influence with genuine care and accountability",
+          "Finding humor and hope in an impossible situation"
+        ],
+        "KeyEpisodes": [
+          {
+            "EpisodeID": "voys1e1",
+            "EpisodeTitle": "Caretaker",
+            "Role": "Origin of their friendship",
+            "TrajectoryNote": "Tom stands up for Harry on Deep Space 9 and later aboard Voyager, choosing to become his ally rather than live up to his bad reputation."
+          },
+          {
+            "EpisodeID": "voys3e3",
+            "EpisodeTitle": "The Chute",
+            "Role": "Survival and refusal to give up",
+            "TrajectoryNote": "Imprisoned together, Tom fights to keep Harry alive and sane, proving the depth of his loyalty."
+          },
+          {
+            "EpisodeID": "voys2e5",
+            "EpisodeTitle": "Non Sequitur",
+            "Role": "Bond across altered timelines",
+            "TrajectoryNote": "In an altered reality, Tom is still the one who believes Harry and helps him restore the proper timeline."
+          },
+          {
+            "EpisodeID": "voys5e9",
+            "EpisodeTitle": "Thirty Days",
+            "Role": "Dealing with Tom\u2019s punishment",
+            "TrajectoryNote": "Harry\u2019s visits while Tom serves time in the brig underscore a friendship that endures even when Tom\u2019s choices disappoint."
+          }
+        ],
+        "NotableMoments": [
+          {
+            "EpisodeID": "voys1e1",
+            "EpisodeTitle": "Caretaker",
+            "Description": "Tom intervenes when Harry is being cheated by Quark, setting the template for a friendship built on looking out for each other."
+          },
+          {
+            "EpisodeID": "voys3e3",
+            "EpisodeTitle": "The Chute",
+            "Description": "In the hellish prison, Tom, wounded and exhausted, still pushes Harry to keep fighting, choosing his friend\u2019s survival over his own despair."
+          },
+          {
+            "EpisodeID": "voys2e5",
+            "EpisodeTitle": "Non Sequitur",
+            "Description": "Even as a disillusioned civilian in an altered timeline, Tom chooses to believe Harry\u2019s impossible story and helps him put things right."
+          }
+        ]
+      },
+      {
+        "RelationshipID": "TomParis-Janeway",
+        "Name": "Tom Paris and Kathryn Janeway",
+        "Series": [
+          "VOY"
+        ],
+        "RelationshipType": [
+          "Captain-Crew",
+          "Redemption Arc",
+          "Mentor/Disciplinary"
+        ],
+        "People": [
+          {
+            "Character": "Tom Paris",
+            "BioID": "TomParis"
+          },
+          {
+            "Character": "Kathryn Janeway",
+            "BioID": "Janeway"
+          }
+        ],
+        "Overview": "Janeway is the officer who pulls Tom Paris out of a penal colony and gives him the one thing he no longer expects: a genuine second chance. Their relationship is defined by that wager. She sees a talented pilot and a fundamentally decent man buried under guilt and self\u2011sabotage; he sees a captain whose respect he desperately wants but is terrified of losing. Over time, their dynamic shifts from wary transactional arrangement to a more complex bond in which Janeway alternates between stern disciplinarian, disappointed parent, and quiet supporter of Tom\u2019s growth into a husband, father, and officer who can finally live up to his own potential.",
+        "StartingPoint": "In the series pilot \u201cCaretaker,\u201d Janeway visits Tom at the penal colony in New Zealand and offers him a deal: help her track down a Maquis ship in the Badlands in exchange for a temporary reprieve. Tom\u2019s initial attitude is cynical\u2014he assumes Starfleet simply wants to use him again\u2014but Janeway\u2019s directness and willingness to acknowledge his past mistakes set her apart from the officers who condemned him. When Voyager and Chakotay\u2019s ship are stranded in the Delta Quadrant, Janeway makes Tom the ship\u2019s helmsman, signaling to the crew that she is willing to stake her authority on his rehabilitation.",
+        "Evolution": "Janeway\u2019s faith in Tom is repeatedly tested as he relapses into old patterns of defiance and risk\u2011taking. Episodes like \u201cThe Chute\u201d and \u201cInvestigations\u201d show her using Tom in dangerous undercover operations, trusting his improvisational skills and willingness to take hits to his reputation for the greater good. In \u201cThirty Days,\u201d his decision to disobey orders in an attempt to save an ocean world forces Janeway to demote and imprison him, a punishment that hurts them both but reaffirms her commitment to consistent standards. Over time, as Tom matures, marries B'Elanna, and becomes a father, Janeway\u2019s interactions with him soften: she still calls him to account, but there is a clear pride in how far he has come from the bitter convict she met on Earth.",
+        "KeyThemes": [
+          "Redemption offered by someone who refuses to write you off",
+          "The tension between compassion and consistent discipline in command",
+          "Trusting a flawed officer with critical responsibilities",
+          "Living up to the expectations of a commander you respect",
+          "Balancing individual conscience against Starfleet orders"
+        ],
+        "KeyEpisodes": [
+          {
+            "EpisodeID": "voys1e1",
+            "EpisodeTitle": "Caretaker",
+            "Role": "Beginning of the second chance",
+            "TrajectoryNote": "Janeway\u2019s decision to free Tom from prison and assign him to Voyager establishes the stakes of his redemption."
+          },
+          {
+            "EpisodeID": "voys2e20",
+            "EpisodeTitle": "Investigations",
+            "Role": "Risking reputation for an undercover mission",
+            "TrajectoryNote": "Tom plays the malcontent to expose a traitor, relying on Janeway\u2019s trust that he is still on her side."
+          },
+          {
+            "EpisodeID": "voys3e3",
+            "EpisodeTitle": "The Chute",
+            "Role": "Enduring hardship as part of her crew",
+            "TrajectoryNote": "Tom\u2019s suffering in prison alongside Harry underscores the personal cost of the risks Janeway asks him to take."
+          },
+          {
+            "EpisodeID": "voys5e9",
+            "EpisodeTitle": "Thirty Days",
+            "Role": "Demotion and consequences",
+            "TrajectoryNote": "Janeway\u2019s choice to strip Tom of rank and confine him for disobeying orders is a harsh reaffirmation of her trust\u2019s limits."
+          }
+        ],
+        "NotableMoments": [
+          {
+            "EpisodeID": "voys1e1",
+            "EpisodeTitle": "Caretaker",
+            "Description": "Janeway\u2019s blunt offer of a temporary reprieve from prison, coupled with her insistence that Tom own his past, sets the tone for their relationship."
+          },
+          {
+            "EpisodeID": "voys2e20",
+            "EpisodeTitle": "Investigations",
+            "Description": "Tom silently accepts the crew\u2019s scorn as part of his undercover role, trusting that Janeway and a few others know the truth."
+          },
+          {
+            "EpisodeID": "voys5e9",
+            "EpisodeTitle": "Thirty Days",
+            "Description": "Janeway visits Tom in the brig after his demotion; her disappointment is clear, but so is the expectation that he can come back from this."
+          }
+        ]
+      },
+      {
+        "RelationshipID": "TomParis-Tuvok",
+        "Name": "Tom Paris and Tuvok",
+        "Series": [
+          "VOY"
+        ],
+        "RelationshipType": [
+          "Discipline and Irreverence",
+          "Professional Tension",
+          "Mutual Respect"
+        ],
+        "People": [
+          {
+            "Character": "Tom Paris",
+            "BioID": "TomParis"
+          },
+          {
+            "Character": "Tuvok",
+            "BioID": "Tuvok"
+          }
+        ],
+        "Overview": "Tom Paris and Tuvok embody a classic Star Trek pairing: the irreverent, rule\u2011bending human and the rigorously logical Vulcan forced to serve side by side. Tuvok sees Tom as undisciplined and prone to unnecessary risk; Tom sees Tuvok as humorless and inflexible. Their relationship is a long negotiation over where the line lies between creativity and recklessness, with both men slowly learning to value what the other brings to Voyager\u2019s survival.",
+        "StartingPoint": "From Voyager\u2019s early missions, Tuvok\u2019s role as security chief puts him in constant evaluation mode over Tom\u2019s choices as helmsman and away\u2011team member. Tom\u2019s sarcastic asides and casual attitude rub directly against Tuvok\u2019s expectations of Vulcan discipline. In training scenarios and daily operations, Tuvok treats Tom as an officer who must be monitored and corrected, while Tom responds with jokes that fail to move the Vulcan\u2019s unimpressed eyebrow. Beneath the friction lies a basic professional reality: Tuvok cannot ignore Tom\u2019s skill at the helm, and Tom cannot ignore that Tuvok is usually right about risks.",
+        "Evolution": "As Voyager\u2019s ordeal drags on, Tom and Tuvok find themselves relying on each other in ways that make simple mockery impossible. Episodes like \u201cWorst Case Scenario\u201d use a holographic mutiny simulation to air out tensions between Maquis and Starfleet, with Tom\u2019s fascination for the program highlighting his awareness of how officers like Tuvok see him. In \u201cGravity,\u201d being stranded together forces Tom to adapt to Tuvok\u2019s methodical survival strategies while still advocating for emotional considerations. Over time, Tuvok\u2019s criticisms of Tom\u2019s behavior shift from dismissive to more measured, reflecting growing confidence in Tom\u2019s maturity. Their discussions in crisis situations increasingly sound like two professionals disagreeing on tactics rather than a schoolteacher scolding a wayward student.",
+        "KeyThemes": [
+          "Rules versus improvisation in high\u2011risk situations",
+          "Earning respect from someone who values discipline above charm",
+          "The role of criticism in professional growth",
+          "Bridging cultural and temperamental extremes on a small crew",
+          "Finding common ground in commitment to Voyager\u2019s survival"
+        ],
+        "KeyEpisodes": [
+          {
+            "EpisodeID": "voys3e25",
+            "EpisodeTitle": "Worst Case Scenario",
+            "Role": "Simulated mutiny as pressure release",
+            "TrajectoryNote": "Tom\u2019s interest in the mutiny holoprogram reflects his awareness of command tensions, including how Tuvok views officers like him."
+          },
+          {
+            "EpisodeID": "voys5e13",
+            "EpisodeTitle": "Gravity",
+            "Role": "Stranded together in hostile conditions",
+            "TrajectoryNote": "Tuvok and Tom must align their very different approaches to survival, learning to respect each other\u2019s instincts."
+          },
+          {
+            "EpisodeID": "voys5e9",
+            "EpisodeTitle": "Thirty Days",
+            "Role": "Discipline and consequences observed",
+            "TrajectoryNote": "Tuvok\u2019s perspective on Tom\u2019s punishment underscores how Starfleet discipline frames their relationship."
+          }
+        ],
+        "NotableMoments": [
+          {
+            "EpisodeID": "voys3e25",
+            "EpisodeTitle": "Worst Case Scenario",
+            "Description": "Tom\u2019s enthusiastic tinkering with Tuvok\u2019s training program leads to chaos, but also to an honest look at how the crew views command and loyalty."
+          },
+          {
+            "EpisodeID": "voys5e13",
+            "EpisodeTitle": "Gravity",
+            "Description": "Working under Tuvok\u2019s calm, methodical leadership while stranded, Tom recognizes that logic and restraint can be as lifesaving as daring maneuvers."
+          }
+        ]
+      }
+    ]
   }
 ]
