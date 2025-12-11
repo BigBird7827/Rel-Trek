@@ -1,0 +1,908 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Rel-Trek · Relationship Console</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@500;700&display=swap" rel="stylesheet"/>
+  <style>
+    :root {
+      --bg: #02030a;
+      --bg-alt: #050818;
+      --bg-panel: #0b1024;
+      --bg-panel-soft: #101632;
+      --accent-gold: #f8c66a;
+      --accent-blue: #64d3ff;
+      --border-soft: #2a3556;
+      --text-main: #f7f8ff;
+      --text-muted: #b3bee4;
+      --text-soft: #8c94b7;
+    }
+    body {
+      margin: 0;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background:
+        radial-gradient(circle at -10% 0%, rgba(255,123,156,0.28), transparent 55%),
+        radial-gradient(circle at 110% 100%, rgba(100,211,255,0.26), transparent 55%),
+        linear-gradient(155deg, #02030a 0%, #04061a 40%, #02030a 100%);
+      color: var(--text-main);
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 10px;
+      box-sizing: border-box;
+    }
+    .shell {
+      max-width: 1400px;
+      width: 100%;
+      min-height: 600px;
+      background:
+        radial-gradient(circle at 0% 0%, rgba(100,211,255,0.16), transparent 60%),
+        radial-gradient(circle at 100% 100%, rgba(242,151,92,0.2), transparent 60%),
+        linear-gradient(145deg, #050920, #050717);
+      border-radius: 26px;
+      border: 2px solid rgba(112,138,235,0.85);
+      box-shadow:
+        0 24px 80px rgba(0,0,0,0.96),
+        0 0 0 1px rgba(0,0,0,0.85);
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+    }
+    .shell-header {
+      display: grid;
+      grid-template-columns: minmax(0, 1.7fr) minmax(0, 1.1fr);
+      gap: 18px;
+      padding: 10px 18px 6px;
+      border-bottom: 1px solid rgba(71,84,135,0.85);
+      background:
+        linear-gradient(180deg, rgba(10,14,39,0.96), rgba(6,8,24,0.96));
+    }
+    .brand-block {
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+    .brand-row {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+    .brand-dot {
+      width: 14px;
+      height: 14px;
+      border-radius: 999px;
+      background:
+        radial-gradient(circle at 30% 20%, #ffffff, transparent 55%),
+        radial-gradient(circle at 70% 80%, #f8c66a, transparent 60%);
+      box-shadow:
+        0 0 16px rgba(248,198,106,0.8),
+        0 0 4px rgba(0,0,0,0.9);
+      border: 1px solid rgba(255,255,255,0.5);
+    }
+    .brand-pill {
+      padding: 3px 12px 5px;
+      border-radius: 999px;
+      border: 1px solid rgba(248,198,106,0.7);
+      background:
+        radial-gradient(circle at 0% 0%, rgba(255,255,255,0.35), transparent 55%),
+        linear-gradient(135deg, #21140a, #543216);
+      font-family: "Orbitron", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      font-size: 11px;
+      letter-spacing: 0.18em;
+      text-transform: uppercase;
+      color: var(--accent-gold);
+      text-shadow:
+        0 0 2px rgba(0,0,0,0.9),
+        0 0 12px rgba(0,0,0,0.9);
+      white-space: nowrap;
+    }
+    .brand-caption {
+      font-size: 13px;
+      color: var(--text-soft);
+    }
+    .brand-title {
+      margin-top: 2px;
+      font-family: "Orbitron", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      font-size: 26px;
+      letter-spacing: 0.22em;
+      text-transform: uppercase;
+      color: var(--accent-gold);
+      text-shadow:
+        0 0 2px rgba(0,0,0,0.9),
+        0 0 12px rgba(0,0,0,0.9);
+    }
+    .brand-sub {
+      font-size: 15px;
+      color: #f5f5fa;
+      max-width: 640px;
+    }
+    .brand-nav {
+      margin-top: 6px;
+      display: flex;
+      gap: 10px;
+      align-items: center;
+      flex-wrap: wrap;
+    }
+    .back-link {
+      padding: 4px 10px 5px;
+      border-radius: 999px;
+      border: 1px solid var(--border-soft);
+      background-color: rgba(3,6,25,0.96);
+      color: var(--text-soft);
+      font-size: 11px;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      cursor: pointer;
+    }
+    .back-link:hover {
+      border-color: var(--accent-gold);
+      color: var(--accent-gold);
+    }
+    .brand-image-wrap {
+      justify-self: end;
+      align-self: center;
+    }
+    .brand-image {
+      max-width: 260px;
+      height: auto;
+      display: block;
+      border-radius: 18px;
+      border: 1px solid rgba(255,255,255,0.16);
+      box-shadow:
+        0 18px 40px rgba(0,0,0,0.9),
+        0 0 0 1px rgba(0,0,0,0.9);
+      background:
+        radial-gradient(circle at 20% 0%, rgba(255,255,255,0.4), transparent 60%),
+        linear-gradient(135deg, #050816, #040312);
+    }
+    main {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      background:
+        linear-gradient(180deg, rgba(10,14,38,0.96), rgba(6,9,30,0.96));
+    }
+    .view {
+      display: none;
+      flex: 1;
+      padding: 6px 18px 8px;
+      box-sizing: border-box;
+      overflow: auto;
+    }
+    .view.active {
+      display: block;
+    }
+    .view-header-row {
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      gap: 10px;
+      margin-bottom: 8px;
+    }
+    .view-label-main {
+      font-size: 12px;
+      text-transform: uppercase;
+      letter-spacing: 0.22em;
+      color: var(--text-muted);
+    }
+    .view-label-sub {
+      font-size: 12px;
+      color: var(--text-soft);
+    }
+    .view-actions {
+      display: flex;
+      gap: 8px;
+      align-items: center;
+    }
+    .btn-ghost {
+      padding: 4px 10px 5px;
+      border-radius: 999px;
+      border: 1px solid var(--border-soft);
+      background-color: rgba(3,6,25,0.96);
+      color: var(--text-soft);
+      font-size: 11px;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      cursor: pointer;
+    }
+    .btn-ghost:hover {
+      border-color: var(--accent-gold);
+      color: var(--accent-gold);
+    }
+    .character-grid {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      padding-top: 4px;
+    }
+    .character-card {
+      position: relative;
+      flex: 0 1 calc(16.66% - 8px);
+      min-width: 150px;
+      max-width: 180px;
+      padding: 8px 9px 9px;
+      border-radius: 20px;
+      background: linear-gradient(135deg, #050814, #0b1024);
+      border: 2px solid #fbd77a;
+      box-shadow:
+        0 10px 24px rgba(0, 0, 0, 0.9);
+      cursor: pointer;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      transition:
+        transform 0.16s,
+        box-shadow 0.16s,
+        border-color 0.16s,
+        background 0.16s;
+    }
+    .character-card:hover {
+      transform: translateY(-2px);
+      box-shadow:
+        0 18px 32px rgba(0,0,0,0.94),
+        0 0 24px rgba(248,198,106,0.75);
+      border-color: #ffe6a8;
+    }
+    .character-series {
+      font-size: 9px;
+      text-transform: uppercase;
+      letter-spacing: 0.16em;
+      color: var(--accent-blue);
+      margin-bottom: 1px;
+    }
+    .character-name {
+      font-size: 14px;
+      font-weight: 600;
+      color: var(--accent-gold);
+      margin-bottom: 2px;
+    }
+    .character-meta {
+      font-size: 10px;
+      color: var(--text-soft);
+    }
+    .relationship-grid {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      padding-top: 4px;
+    }
+    .relationship-card {
+      position: relative;
+      flex: 0 1 calc(25% - 10px);
+      min-width: 210px;
+      padding: 10px 11px 11px;
+      border-radius: 22px;
+      background: linear-gradient(135deg, #050814, #0b1024);
+      border: 2px solid #fbd77a;
+      box-shadow:
+        0 10px 24px rgba(0, 0, 0, 0.9);
+      cursor: pointer;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      transition:
+        transform 0.16s,
+        box-shadow 0.16s,
+        border-color 0.16s,
+        background 0.16s;
+    }
+    .relationship-card:hover {
+      transform: translateY(-2px);
+      box-shadow:
+        0 18px 32px rgba(0,0,0,0.94),
+        0 0 24px rgba(248,198,106,0.75);
+      border-color: #ffe6a8;
+    }
+    .relationship-series {
+      font-size: 11px;
+      text-transform: uppercase;
+      letter-spacing: 0.16em;
+      color: var(--accent-blue);
+      margin-bottom: 2px;
+    }
+    .relationship-name {
+      font-size: 15px;
+      font-weight: 600;
+      color: var(--accent-gold);
+      margin-bottom: 3px;
+    }
+    .relationship-type {
+      font-size: 11px;
+      color: var(--text-soft);
+      margin-bottom: 4px;
+    }
+    .relationship-people {
+      font-size: 11px;
+      color: var(--text-soft);
+    }
+    .relationship-people span {
+      color: var(--text-main);
+    }
+    .detail-body {
+      display: grid;
+      grid-template-columns: minmax(0, 1.4fr) minmax(0, 1fr);
+      gap: 14px;
+      padding-top: 4px;
+    }
+    .detail-column {
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+    .detail-block {
+      background: linear-gradient(135deg, #050818, #0e1434);
+      border-radius: 16px;
+      border: 1px solid var(--border-soft);
+      padding: 8px 10px 9px;
+      font-size: 13px;
+      line-height: 1.5;
+      color: var(--text-main);
+    }
+    .detail-label {
+      font-size: 11px;
+      text-transform: uppercase;
+      letter-spacing: 0.18em;
+      color: var(--accent-gold);
+      margin-bottom: 4px;
+    }
+    .detail-block p {
+      margin: 0 0 4px 0;
+    }
+    .detail-block ul {
+      margin: 0;
+      padding-left: 18px;
+    }
+    .detail-block li {
+      margin-bottom: 3px;
+    }
+    .episode-title {
+      font-weight: 600;
+      color: var(--accent-blue);
+    }
+    .empty-detail {
+      font-size: 13px;
+      color: var(--text-soft);
+      padding-top: 4px;
+    }
+    @media (max-width: 960px) {
+      .shell-header {
+        grid-template-columns: minmax(0, 1fr);
+      }
+      .brand-image-wrap {
+        justify-self: flex-start;
+      }
+      .character-card {
+        flex: 0 1 calc(25% - 10px);
+      }
+      .relationship-card {
+        flex: 0 1 calc(50% - 10px);
+      }
+      .detail-body {
+        grid-template-columns: minmax(0, 1fr);
+      }
+    }
+    @media (max-width: 640px) {
+      body {
+        padding: 10px;
+      }
+      .shell {
+        border-radius: 18px;
+      }
+      .character-card,
+      .relationship-card {
+        flex: 1 1 100%;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="shell">
+    <header class="shell-header">
+      <div class="brand-block">
+        <div class="brand-row">
+          <div class="brand-dot"></div>
+          <div class="brand-pill">Star Trek Relationship Console</div>
+        </div>
+        <div class="brand-caption">Rel-Trek</div>
+        <div id="brand-title" class="brand-title">Relationship console</div>
+        <div id="brand-sub" class="brand-sub">
+          Select a key character, then drill down into their most important relationships.
+        </div>
+        <div class="brand-nav">
+          <button type="button" class="back-link" onclick="window.location.href='https://bigbird7827.github.io/Bio-Trek/'">← Bio-Trek</button>
+          <button type="button" class="back-link" onclick="window.location.href='https://bigbird7827.github.io/Epi-Trek/'">← Epi-Trek</button>
+        </div>
+      </div>
+      <div class="brand-image-wrap">
+        <img class="brand-image" src="https://raw.githubusercontent.com/BigBird7827/Epi-Trek/main/Enterprise%20NCC-1701.png" alt="USS Enterprise NCC-1701">
+      </div>
+    </header>
+    <main>
+      <!-- View 1: key characters -->
+      <section id="view-characters" class="view active">
+        <div class="view-header-row">
+          <div>
+            <div class="view-label-main">Key characters</div>
+            <div id="characters-subtitle" class="view-label-sub">
+              Select a character card to open their relationship page.
+            </div>
+          </div>
+        </div>
+        <div id="character-grid" class="character-grid"></div>
+      </section>
+
+      <!-- View 2: relationships for one character -->
+      <section id="view-relationships" class="view">
+        <div class="view-header-row">
+          <div>
+            <div class="view-label-main">Relationships</div>
+            <div id="relationships-subtitle" class="view-label-sub">
+              No character selected.
+            </div>
+          </div>
+          <div class="view-actions">
+            <button type="button" class="btn-ghost" onclick="showCharacters()">← Back to key characters</button>
+          </div>
+        </div>
+        <div id="relationship-grid" class="relationship-grid"></div>
+      </section>
+
+      <!-- View 3: details for one relationship -->
+      <section id="view-details" class="view">
+        <div class="view-header-row">
+          <div>
+            <div class="view-label-main">Relationship details</div>
+            <div id="details-subtitle" class="view-label-sub">
+              No relationship selected.
+            </div>
+          </div>
+          <div class="view-actions">
+            <button type="button" class="btn-ghost" onclick="showRelationships()">← Back to relationships</button>
+          </div>
+        </div>
+        <div id="detail-body" class="detail-body">
+          <div class="empty-detail">Choose a relationship on the previous page to see its overview, evolution, key episodes, and notable moments.</div>
+        </div>
+      </section>
+    </main>
+  </div>
+  <script>
+    const characters = [
+      { CharacterID: "Kirk", Name: "James T. Kirk", Series: ["TOS"], Meta: "Captain, USS Enterprise (NCC-1701)" },
+      { CharacterID: "Spock", Name: "Spock", Series: ["TOS"], Meta: "Science officer, first officer" },
+      { CharacterID: "McCoy", Name: "Leonard McCoy", Series: ["TOS"], Meta: "Chief medical officer" },
+      { CharacterID: "Scotty", Name: "Montgomery Scott", Series: ["TOS"], Meta: "Chief engineer, miracle worker" },
+      { CharacterID: "Chapel", Name: "Christine Chapel", Series: ["TOS"], Meta: "Nurse, later doctor" },
+      { CharacterID: "Sarek", Name: "Sarek", Series: ["TOS"], Meta: "Vulcan ambassador, Spock's father" },
+
+      { CharacterID: "Picard", Name: "Jean-Luc Picard", Series: ["TNG"], Meta: "Captain, USS Enterprise (NCC-1701-D)" },
+      { CharacterID: "Riker", Name: "William Riker", Series: ["TNG"], Meta: "First officer" },
+      { CharacterID: "Data", Name: "Data", Series: ["TNG"], Meta: "Operations officer, android" },
+      { CharacterID: "Troi", Name: "Deanna Troi", Series: ["TNG"], Meta: "Ship counselor" },
+      { CharacterID: "Geordi", Name: "Geordi La Forge", Series: ["TNG"], Meta: "Chief engineer" },
+      { CharacterID: "Crusher", Name: "Beverly Crusher", Series: ["TNG"], Meta: "Chief medical officer" },
+      { CharacterID: "Worf", Name: "Worf", Series: ["TNG", "DS9"], Meta: "Klingon officer, security and tactical" },
+
+      { CharacterID: "Sisko", Name: "Benjamin Sisko", Series: ["DS9"], Meta: "Commander and Captain, Deep Space Nine" },
+      { CharacterID: "Kira", Name: "Kira Nerys", Series: ["DS9"], Meta: "Bajoran liaison, later station commander" },
+      { CharacterID: "Odo", Name: "Odo", Series: ["DS9"], Meta: "Constable, Changeling" },
+      { CharacterID: "Quark", Name: "Quark", Series: ["DS9"], Meta: "Ferengi bartender" },
+      { CharacterID: "Bashir", Name: "Julian Bashir", Series: ["DS9"], Meta: "Chief medical officer" },
+      { CharacterID: "Jadzia", Name: "Jadzia Dax", Series: ["DS9"], Meta: "Joined Trill science officer" },
+      { CharacterID: "Nog", Name: "Nog", Series: ["DS9"], Meta: "First Ferengi in Starfleet" },
+
+      { CharacterID: "Janeway", Name: "Kathryn Janeway", Series: ["VOY"], Meta: "Captain, USS Voyager" },
+      { CharacterID: "Chakotay", Name: "Chakotay", Series: ["VOY"], Meta: "First officer, former Maquis" },
+      { CharacterID: "Tuvok", Name: "Tuvok", Series: ["VOY"], Meta: "Chief of security, Vulcan" },
+      { CharacterID: "Paris", Name: "Tom Paris", Series: ["VOY"], Meta: "Helmsman" },
+      { CharacterID: "Torres", Name: "B'Elanna Torres", Series: ["VOY"], Meta: "Chief engineer" },
+      { CharacterID: "Seven", Name: "Seven of Nine", Series: ["VOY"], Meta: "Former Borg drone" },
+
+      { CharacterID: "Archer", Name: "Jonathan Archer", Series: ["ENT"], Meta: "Captain, Enterprise NX-01" },
+      { CharacterID: "TPol", Name: "T'Pol", Series: ["ENT"], Meta: "Vulcan science officer" },
+      { CharacterID: "Trip", Name: "Charles Trip Tucker III", Series: ["ENT"], Meta: "Chief engineer" },
+      { CharacterID: "Phlox", Name: "Phlox", Series: ["ENT"], Meta: "Denobulan doctor" },
+      { CharacterID: "Reed", Name: "Malcolm Reed", Series: ["ENT"], Meta: "Armory officer" }
+    ];
+
+    const characterConfig = {
+      "Kirk": {
+        name: "James T. Kirk",
+        description: "Key command, friendship, and rivalry relationships that define Kirk's career aboard the Enterprise.",
+        bioId: "Kirk"
+      },
+      "Spock": {
+        name: "Spock",
+        description: "Core relationships that explore Spock's balance of Vulcan logic, human emotion, and family ties.",
+        bioId: "Spock"
+      },
+      "McCoy": {
+        name: "Leonard McCoy",
+        description: "Kirk's moral conscience and Spock's foil, often voicing the human cost of Starfleet decisions.",
+        bioId: "McCoy"
+      },
+      "Odo": {
+        name: "Odo",
+        description: "Relationships that highlight Odo's struggle between order, identity, and connection on Deep Space Nine.",
+        bioId: "Odo"
+      }
+    };
+
+    const relationships = [
+      {
+        RelationshipID: "Kirk-Spock",
+        Name: "James T. Kirk and Spock",
+        Series: ["TOS"],
+        RelationshipType: ["Command partnership", "Friendship"],
+        People: [
+          { Character: "James T. Kirk", BioID: "Kirk" },
+          { Character: "Spock", BioID: "Spock" }
+        ],
+        Overview: "The relationship between Captain James T. Kirk and his first officer Spock is the central partnership of the original Enterprise era. What begins as a professional command dynamic between an intuitive, instinct driven human captain and a logical, disciplined Vulcan science officer evolves into a deep trust that anchors the crew and often the fate of the ship. Kirk relies on Spock's analytical precision and emotional restraint to challenge and refine his own impulses, while Spock depends on Kirk's intuition and moral certainty to navigate situations where logic alone offers no satisfying answer. Together, they form a complementary pair whose combined strengths consistently resolve crises that neither could solve alone.",
+        StartingPoint: "Early in the five year mission, Kirk views Spock primarily as an indispensable officer, highly competent, occasionally exasperating, and clearly different from the rest of his mostly human crew. Spock, for his part, treats Kirk as a respected commanding officer whose decisions he supports even when they diverge from the most strictly logical course. Episodes like The Galileo Seven reveal the initial tensions in this dynamic, as Kirk struggles with the possibility of losing his science officer while Spock's command decisions under pressure expose gaps between pure logic and crew morale. At this stage, their bond is strong but still framed in terms of duty, rank, and mutual reliability rather than explicit friendship.",
+        Evolution: "Over time, shared crises push Kirk and Spock beyond simple captain and officer roles into something closer to family. In Amok Time, Kirk risks his career and even his life to help Spock through plak tow, demonstrating that his loyalty is not limited to Starfleet protocol. Spock's reactions in episodes like The Tholian Web show how deeply Kirk's apparent loss affects him, cracking the surface of Vulcan control. Their ongoing interactions reveal a growing ease, as Spock increasingly challenges Kirk's assumptions in ways only a true confidant could, while Kirk openly admits how vital Spock's presence is to his command. By the end of the series and into the films, the two men have forged a bond that survives death, resurrection, and separation, defining each other's sense of identity and purpose.",
+        KeyThemes: [
+          "Loyalty",
+          "Logic versus emotion",
+          "Command and responsibility",
+          "Friendship and found family",
+          "Sacrifice"
+        ],
+        KeyEpisodes: [
+          {
+            EpisodeID: "toss1e16",
+            EpisodeTitle: "The Galileo Seven",
+            Role: "Foundational",
+            TrajectoryNote: "Kirk's determination to recover Spock's stranded shuttle highlights how much he already values Spock personally, while Spock's first command test exposes the limits of purely logical leadership."
+          },
+          {
+            EpisodeID: "toss2e1",
+            EpisodeTitle: "Amok Time",
+            Role: "Turning point",
+            TrajectoryNote: "Kirk defies Starfleet orders and risks his career to bring Spock to Vulcan, making explicit that their bond far exceeds normal captain and officer loyalty."
+          },
+          {
+            EpisodeID: "toss3e9",
+            EpisodeTitle: "The Tholian Web",
+            Role: "Emotional revelation",
+            TrajectoryNote: "Believing Kirk lost, Spock's struggle to follow his captain's recorded instructions reveals how profoundly he is affected by Kirk's apparent death."
+          }
+        ],
+        NotableMoments: [
+          {
+            EpisodeID: "toss2e1",
+            EpisodeTitle: "Amok Time",
+            Description: "Spock's joyful reaction when he realizes Kirk is alive briefly strips away his Vulcan reserve and crystallizes how essential Kirk is to him."
+          },
+          {
+            EpisodeID: "toss3e9",
+            EpisodeTitle: "The Tholian Web",
+            Description: "Spock's quiet toast to Kirk after playing his recorded message captures the depth of his respect and affection under a controlled exterior."
+          }
+        ]
+      },
+      {
+        RelationshipID: "Odo-Kira",
+        Name: "Odo and Kira Nerys",
+        Series: ["DS9"],
+        RelationshipType: ["Friendship", "Romantic", "Professional"],
+        People: [
+          { Character: "Odo", BioID: "Odo" },
+          { Character: "Kira Nerys", BioID: "KiraNerys" }
+        ],
+        Overview: "Odo and Kira begin as colleagues on Deep Space Nine, linked by their shared history in the Bajoran resistance and a mutual commitment to protecting the station. Odo's long hidden romantic feelings for Kira deepen over years of working alongside her as first officer, while Kira initially sees him primarily as a trusted friend and ally. Their relationship weaves through political upheavals, personal losses, and the Dominion War, gradually evolving into a complex blend of loyalty, affection, and tension. Together, they embody the intersection of law and rebellion, order and passion, as they navigate both station security and the shifting politics of Bajor and the Alpha Quadrant.",
+        StartingPoint: "When Deep Space Nine's story begins, Kira is a fiery former resistance fighter serving as Bajoran liaison officer, while Odo is the station's enigmatic constable, respected and slightly feared. Their bond is rooted in shared struggle against Cardassian occupation, but they approach the present differently: Kira is openly emotional and defiant, Odo reserved and rule focused. Early episodes show a deep trust already in place, with Kira respecting Odo's integrity even when his methods are stern and Odo valuing Kira's courage and moral clarity. At this stage, only Odo and the audience glimpse his deeper romantic feelings, which he keeps tightly concealed beneath his professional manner.",
+        Evolution: "Over the seasons, their relationship is tested by secrets, shifting allegiances, and the mounting pressures of the Dominion War. Odo's discovery of his people and temporary alignment with the Founders fractures Kira's trust, while her relationships with others force him to confront jealousy and regret. Through reconciliation and shared battles, they rebuild their bond on more honest terms. When they finally acknowledge their romantic feelings in the later seasons, the relationship shifts from unspoken longing to a mature partnership that must still function within Deep Space Nine's command structure. By the end of the series, their connection is one of the emotional pillars of the station's story, even as Odo's decision to rejoin the Great Link forces them into a painful separation defined by love and duty.",
+        KeyThemes: [
+          "Unspoken love",
+          "Trust and betrayal",
+          "War and occupation",
+          "Duty versus desire",
+          "Forgiveness"
+        ],
+        KeyEpisodes: [
+          {
+            EpisodeID: "ds9s3e25",
+            EpisodeTitle: "Facets",
+            Role: "Revelation",
+            TrajectoryNote: "During Jadzia's zhian'tara, Curzon and Odo openly declare love for Kira, exposing feelings Odo has carefully hidden and altering the undercurrent of their dynamic."
+          },
+          {
+            EpisodeID: "ds9s4e14",
+            EpisodeTitle: "Crossfire",
+            Role: "Emotional crisis",
+            TrajectoryNote: "Odo's heartbreak over Kira's relationship with Shakaar pushes him to a breaking point, briefly shattering his self control and redefining the distance between them."
+          },
+          {
+            EpisodeID: "ds9s7e25",
+            EpisodeTitle: "What You Leave Behind",
+            Role: "Coda",
+            TrajectoryNote: "Odo's choice to return to the Great Link and Kira's decision to support him, even at the cost of their future together, crystallize their blend of love, sacrifice, and duty."
+          }
+        ],
+        NotableMoments: [
+          {
+            EpisodeID: "ds9s4e14",
+            EpisodeTitle: "Crossfire",
+            Description: "Odo watches Kira and Shakaar in the turbolift and later destroys his quarters in private, exposing the depth of pain behind his controlled exterior."
+          },
+          {
+            EpisodeID: "ds9s7e25",
+            EpisodeTitle: "What You Leave Behind",
+            Description: "On the edge of the Great Link, Odo and Kira share a final embrace and goodbye, a quiet culmination of years of shared history and hard won intimacy."
+          }
+        ]
+      }
+    ];
+
+    let currentCharacterId = null;
+    let currentRelationships = [];
+    let currentRelationshipId = null;
+
+    function showView(name) {
+      const views = document.querySelectorAll(".view");
+      views.forEach(v => v.classList.remove("active"));
+      const el = document.getElementById("view-" + name);
+      if (el) el.classList.add("active");
+    }
+
+    function showCharacters() {
+      const brandTitle = document.getElementById("brand-title");
+      const brandSub = document.getElementById("brand-sub");
+      if (brandTitle) brandTitle.textContent = "Relationship console";
+      if (brandSub) {
+        brandSub.textContent = "Select a key character, then drill down into their most important relationships.";
+      }
+      showView("characters");
+    }
+
+    function showRelationships() {
+      const cfg = characterConfig[currentCharacterId];
+      const sub = document.getElementById("relationships-subtitle");
+      const brandTitle = document.getElementById("brand-title");
+      const brandSub = document.getElementById("brand-sub");
+      if (cfg) {
+        if (sub) sub.textContent = "Relationships for " + cfg.name + ".";
+        if (brandTitle) brandTitle.textContent = cfg.name + " relationships";
+        if (brandSub) brandSub.textContent = cfg.description;
+      } else {
+        if (sub) sub.textContent = "Relationships for this character.";
+      }
+      showView("relationships");
+    }
+
+    function renderCharacterGrid() {
+      const grid = document.getElementById("character-grid");
+      const subtitle = document.getElementById("characters-subtitle");
+      if (!grid) return;
+      grid.innerHTML = "";
+      if (!characters.length) {
+        if (subtitle) subtitle.textContent = "No characters available.";
+        return;
+      }
+      characters.forEach(char => {
+        const card = document.createElement("div");
+        card.className = "character-card";
+        card.dataset.id = char.CharacterID;
+
+        const series = document.createElement("div");
+        series.className = "character-series";
+        series.textContent = (char.Series || []).join(" • ");
+
+        const name = document.createElement("div");
+        name.className = "character-name";
+        name.textContent = char.Name;
+
+        card.appendChild(series);
+        card.appendChild(name);
+
+        card.addEventListener("click", function () {
+          selectCharacter(char.CharacterID);
+        });
+
+        grid.appendChild(card);
+      });
+    }
+
+    function selectCharacter(charId) {
+      currentCharacterId = charId;
+
+      const cards = document.querySelectorAll(".character-card");
+      cards.forEach(card => {
+        if (card.dataset.id === charId) {
+          card.classList.add("active");
+        } else {
+          card.classList.remove("active");
+        }
+      });
+
+      const cfg = characterConfig[charId];
+      currentRelationships = filterRelationshipsForCharacter(cfg || { bioId: charId });
+      renderRelationshipGrid(currentRelationships);
+      showRelationships();
+    }
+
+    function filterRelationshipsForCharacter(cfg) {
+      if (!cfg || !cfg.bioId) return [];
+      return relationships.filter(rel =>
+        rel.People && rel.People.some(p => p.BioID === cfg.bioId)
+      );
+    }
+
+    function renderRelationshipGrid(rels) {
+      const grid = document.getElementById("relationship-grid");
+      const subtitle = document.getElementById("relationships-subtitle");
+      if (!grid) return;
+      grid.innerHTML = "";
+      if (!rels.length) {
+        if (subtitle) subtitle.textContent = "No relationships defined yet for this character.";
+        return;
+      }
+      rels.forEach(rel => {
+        const card = document.createElement("div");
+        card.className = "relationship-card";
+        card.dataset.id = rel.RelationshipID;
+
+        const series = document.createElement("div");
+        series.className = "relationship-series";
+        series.textContent = rel.Series.join(", ");
+
+        const name = document.createElement("div");
+        name.className = "relationship-name";
+        name.textContent = rel.Name;
+
+        const type = document.createElement("div");
+        type.className = "relationship-type";
+        type.textContent = rel.RelationshipType.join(" • ");
+
+        const people = document.createElement("div");
+        people.className = "relationship-people";
+        const peopleNames = rel.People.map(p => p.Character).join(" • ");
+        people.innerHTML = "People: <span>" + peopleNames + "</span>";
+
+        card.appendChild(series);
+        card.appendChild(name);
+        card.appendChild(type);
+        card.appendChild(people);
+
+        card.addEventListener("click", function () {
+          selectRelationship(rel.RelationshipID);
+        });
+
+        grid.appendChild(card);
+      });
+    }
+
+    function selectRelationship(id) {
+      currentRelationshipId = id;
+      const rel = currentRelationships.find(r => r.RelationshipID === id);
+      const detailSubtitle = document.getElementById("details-subtitle");
+      const body = document.getElementById("detail-body");
+      if (!rel || !body) {
+        showRelationships();
+        return;
+      }
+      if (detailSubtitle) {
+        detailSubtitle.textContent = rel.Name;
+      }
+
+      const leftCol = document.createElement("div");
+      leftCol.className = "detail-column";
+      const rightCol = document.createElement("div");
+      rightCol.className = "detail-column";
+
+      const overviewBlock = document.createElement("div");
+      overviewBlock.className = "detail-block";
+      const overviewLabel = document.createElement("div");
+      overviewLabel.className = "detail-label";
+      overviewLabel.textContent = "Overview";
+      const overviewBody = document.createElement("p");
+      overviewBody.textContent = rel.Overview;
+      overviewBlock.appendChild(overviewLabel);
+      overviewBlock.appendChild(overviewBody);
+
+      const startBlock = document.createElement("div");
+      startBlock.className = "detail-block";
+      const startLabel = document.createElement("div");
+      startLabel.className = "detail-label";
+      startLabel.textContent = "Starting point";
+      const startBody = document.createElement("p");
+      startBody.textContent = rel.StartingPoint;
+      startBlock.appendChild(startLabel);
+      startBlock.appendChild(startBody);
+
+      const evolutionBlock = document.createElement("div");
+      evolutionBlock.className = "detail-block";
+      const evolutionLabel = document.createElement("div");
+      evolutionLabel.className = "detail-label";
+      evolutionLabel.textContent = "Evolution";
+      const evolutionBody = document.createElement("p");
+      evolutionBody.textContent = rel.Evolution;
+      evolutionBlock.appendChild(evolutionLabel);
+      evolutionBlock.appendChild(evolutionBody);
+
+      leftCol.appendChild(overviewBlock);
+      leftCol.appendChild(startBlock);
+      leftCol.appendChild(evolutionBlock);
+
+      const themesBlock = document.createElement("div");
+      themesBlock.className = "detail-block";
+      const themesLabel = document.createElement("div");
+      themesLabel.className = "detail-label";
+      themesLabel.textContent = "Key themes";
+      const themesList = document.createElement("ul");
+      (rel.KeyThemes || []).forEach(t => {
+        const li = document.createElement("li");
+        li.textContent = t;
+        themesList.appendChild(li);
+      });
+      themesBlock.appendChild(themesLabel);
+      themesBlock.appendChild(themesList);
+
+      const episodesBlock = document.createElement("div");
+      episodesBlock.className = "detail-block";
+      const episodesLabel = document.createElement("div");
+      episodesLabel.className = "detail-label";
+      episodesLabel.textContent = "Key episodes";
+      const episodesList = document.createElement("ul");
+      (rel.KeyEpisodes || []).forEach(ep => {
+        const li = document.createElement("li");
+        const titleSpan = document.createElement("span");
+        titleSpan.className = "episode-title";
+        titleSpan.textContent = ep.EpisodeTitle + " ";
+        const metaSpan = document.createElement("span");
+        metaSpan.textContent = "(" + ep.Role + ") – " + ep.TrajectoryNote;
+        li.appendChild(titleSpan);
+        li.appendChild(metaSpan);
+        episodesList.appendChild(li);
+      });
+      episodesBlock.appendChild(episodesLabel);
+      episodesBlock.appendChild(episodesList);
+
+      const momentsBlock = document.createElement("div");
+      momentsBlock.className = "detail-block";
+      const momentsLabel = document.createElement("div");
+      momentsLabel.className = "detail-label";
+      momentsLabel.textContent = "Notable moments";
+      const momentsList = document.createElement("ul");
+      (rel.NotableMoments || []).forEach(m => {
+        const li = document.createElement("li");
+        const titleSpan = document.createElement("span");
+        titleSpan.className = "episode-title";
+        titleSpan.textContent = m.EpisodeTitle + ": ";
+        const descSpan = document.createElement("span");
+        descSpan.textContent = m.Description;
+        li.appendChild(titleSpan);
+        li.appendChild(descSpan);
+        momentsList.appendChild(li);
+      });
+      momentsBlock.appendChild(momentsLabel);
+      momentsBlock.appendChild(momentsList);
+
+      rightCol.appendChild(themesBlock);
+      rightCol.appendChild(episodesBlock);
+      rightCol.appendChild(momentsBlock);
+
+      body.innerHTML = "";
+      body.appendChild(leftCol);
+      body.appendChild(rightCol);
+
+      const brandTitle = document.getElementById("brand-title");
+      const brandSub = document.getElementById("brand-sub");
+      if (brandTitle) brandTitle.textContent = rel.Name;
+      if (brandSub) brandSub.textContent = "Detailed view of this relationship across its most important episodes.";
+
+      showView("details");
+    }
+
+    document.addEventListener("DOMContentLoaded", function () {
+      renderCharacterGrid();
+      showCharacters();
+    });
+  </script>
+</body>
+</html>
