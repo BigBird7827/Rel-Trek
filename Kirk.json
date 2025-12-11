@@ -28,9 +28,9 @@
           "BioID": "Spock"
         }
       ],
-      "Overview": "The relationship between Captain James T. Kirk and his first officer Spock is the central partnership of the original Enterprise\u2019s five-year mission and the subsequent film era. What begins as a crisp, professional dynamic between an instinct-driven human captain and a rigorously logical Vulcan science officer deepens into a bond that anchors the crew and often the fate of the ship. Kirk relies on Spock\u2019s analytical precision to challenge his impulses and sharpen his decisions, while Spock depends on Kirk\u2019s moral certainty and intuitive leaps when logic alone cannot provide a satisfying path. Across crises that range from planetary threats to deeply personal trials, their interplay becomes a living example of how human passion and Vulcan discipline, taken together, can solve problems neither could handle alone.",
-      "StartingPoint": "Early in the mission, Kirk primarily views Spock as an indispensable but somewhat enigmatic officer, whose alien perspective and cool demeanor are valuable assets on the bridge. Spock, in turn, treats Kirk as a respected commanding officer whose orders he executes with efficiency, even when he privately questions their strict logical soundness. Episodes like \u201cThe Galileo Seven\u201d reveal the initial strain points in this arrangement: Kirk struggles with the possibility of losing his science officer, while Spock\u2019s first command decisions provoke conflict with human subordinates unused to his purely rational approach. Their connection at this stage is rooted in mutual reliability, rank, and duty rather than openly acknowledged friendship.",
-      "Evolution": "Over time, shared dangers erode the formal distance between captain and first officer. In \u201cAmok Time,\u201d Kirk risks his career and his life to take Spock to Vulcan and then to fight him in ritual combat, demonstrating that his loyalty extends far beyond Starfleet protocol. Spock\u2019s reactions in \u201cThe Tholian Web,\u201d where he must face Kirk\u2019s apparent death and honor his final recorded orders, crack the surface of Vulcan control and show how deeply Kirk matters to him. In the film era, that bond is pushed even further: Kirk\u2019s decision to steal the Enterprise and violate orders in \u201cStar Trek III: The Search for Spock\u201d shows how central Spock is to his sense of family and identity. By the time of \u201cStar Trek VI: The Undiscovered Country,\u201d their relationship has matured into a quiet, enduring partnership between older men who have repeatedly risked everything for one another and for the Federation.",
+      "Overview": "The relationship between Captain James T. Kirk and his first officer Spock is the central partnership of the original Enterprise’s five-year mission and the subsequent film era. What begins as a crisp, professional dynamic between an instinct-driven human captain and a rigorously logical Vulcan science officer deepens into a bond that anchors the crew and often the fate of the ship. Kirk relies on Spock’s analytical precision to challenge his impulses and sharpen his decisions, while Spock depends on Kirk’s moral certainty and intuitive leaps when logic alone cannot provide a satisfying path. Across crises that range from planetary threats to deeply personal trials, their interplay becomes a living example of how human passion and Vulcan discipline, taken together, can solve problems neither could handle alone.",
+      "StartingPoint": "Early in the mission, Kirk primarily views Spock as an indispensable but somewhat enigmatic officer, whose alien perspective and cool demeanor are valuable assets on the bridge. Spock, in turn, treats Kirk as a respected commanding officer whose orders he executes with efficiency, even when he privately questions their strict logical soundness. Episodes like “The Galileo Seven” reveal the initial strain points in this arrangement: Kirk struggles with the possibility of losing his science officer, while Spock’s first command decisions provoke conflict with human subordinates unused to his purely rational approach. Their connection at this stage is rooted in mutual reliability, rank, and duty rather than openly acknowledged friendship.",
+      "Evolution": "Over time, shared dangers erode the formal distance between captain and first officer. In “Amok Time,” Kirk risks his career and his life to take Spock to Vulcan and then to fight him in ritual combat, demonstrating that his loyalty extends far beyond Starfleet protocol. Spock’s reactions in “The Tholian Web,” where he must face Kirk’s apparent death and honor his final recorded orders, crack the surface of Vulcan control and show how deeply Kirk matters to him. In the film era, that bond is pushed even further: Kirk’s decision to steal the Enterprise and violate orders in “Star Trek III: The Search for Spock” shows how central Spock is to his sense of family and identity. By the time of “Star Trek VI: The Undiscovered Country,” their relationship has matured into a quiet, enduring partnership between older men who have repeatedly risked everything for one another and for the Federation.",
       "KeyThemes": [
         "Loyalty",
         "Logic versus emotion",
@@ -43,42 +43,42 @@
           "EpisodeID": "toss1e16",
           "EpisodeTitle": "The Galileo Seven",
           "Role": "Foundational",
-          "TrajectoryNote": "Kirk\u2019s determination to recover Spock\u2019s stranded shuttle underscores how much he already values Spock personally, while Spock\u2019s first experience in command exposes the limits of purely logical leadership."
+          "TrajectoryNote": "Kirk’s determination to recover Spock’s stranded shuttle underscores how much he already values Spock personally, while Spock’s first experience in command exposes the limits of purely logical leadership."
         },
         {
           "EpisodeID": "toss2e1",
           "EpisodeTitle": "Amok Time",
           "Role": "Turning point",
-          "TrajectoryNote": "Kirk defies orders and risks both his career and his life to aid Spock during pon farr, making clear that their bond far exceeds standard captain\u2013officer loyalty."
+          "TrajectoryNote": "Kirk defies orders and risks both his career and his life to aid Spock during pon farr, making clear that their bond far exceeds standard captain–officer loyalty."
         },
         {
           "EpisodeID": "toss3e9",
           "EpisodeTitle": "The Tholian Web",
           "Role": "Emotional revelation",
-          "TrajectoryNote": "Believing Kirk lost, Spock\u2019s struggle to honor his captain\u2019s final instructions reveals how profoundly he is affected by Kirk\u2019s apparent death."
+          "TrajectoryNote": "Believing Kirk lost, Spock’s struggle to honor his captain’s final instructions reveals how profoundly he is affected by Kirk’s apparent death."
         },
         {
           "EpisodeID": "film-ST3",
           "EpisodeTitle": "Star Trek III: The Search for Spock",
           "Role": "Family-level risk",
-          "TrajectoryNote": "Kirk\u2019s choice to steal the Enterprise and sacrifice his career and even his son\u2019s life in the cascade of events underscores how central Spock is to his sense of family."
+          "TrajectoryNote": "Kirk’s choice to steal the Enterprise and sacrifice his career and even his son’s life in the cascade of events underscores how central Spock is to his sense of family."
         }
       ],
       "NotableMoments": [
         {
           "EpisodeID": "toss2e1",
           "EpisodeTitle": "Amok Time",
-          "Description": "After believing he has killed Kirk in ritual combat, Spock\u2019s unguarded joy when he discovers Kirk alive briefly strips away his Vulcan reserve and crystallizes how essential Kirk is to him."
+          "Description": "After believing he has killed Kirk in ritual combat, Spock’s unguarded joy when he discovers Kirk alive briefly strips away his Vulcan reserve and crystallizes how essential Kirk is to him."
         },
         {
           "EpisodeID": "toss3e9",
           "EpisodeTitle": "The Tholian Web",
-          "Description": "Spock and McCoy\u2019s quiet toast to Kirk after playing his recorded message captures the depth of Spock\u2019s respect and affection beneath his controlled exterior."
+          "Description": "Spock and McCoy’s quiet toast to Kirk after playing his recorded message captures the depth of Spock’s respect and affection beneath his controlled exterior."
         },
         {
           "EpisodeID": "film-ST3",
           "EpisodeTitle": "Star Trek III: The Search for Spock",
-          "Description": "Kirk\u2019s calm acceptance of the Enterprise\u2019s destruction to save Spock shows how far he is willing to go to restore his friend, even at the cost of his ship and career."
+          "Description": "Kirk’s calm acceptance of the Enterprise’s destruction to save Spock shows how far he is willing to go to restore his friend, even at the cost of his ship and career."
         }
       ]
     },
@@ -103,9 +103,9 @@
           "BioID": "McCoy"
         }
       ],
-      "Overview": "Kirk and Dr. Leonard McCoy share an old-fashioned, almost terrestrial kind of friendship in the middle of a starship command. McCoy is Kirk\u2019s physician, confidant, and moral conscience, the one who will say what others will not when the captain pushes himself or the crew too hard. He challenges Kirk on the human cost of Starfleet decisions, often voicing fears, doubts, and ethical concerns that Kirk cannot easily admit. For his part, Kirk trusts McCoy enough to be vulnerable with him, allowing the doctor to see the strain of command and the loneliness of leadership. Their banter, arguments, and late-night conversations form a crucial emotional outlet that keeps the captain grounded and reminds him of his responsibilities not just to the mission, but to the people under his command.",
-      "StartingPoint": "By the time viewers meet them, Kirk and McCoy are already established friends, with a shared history that predates the Enterprise\u2019s televised adventures. McCoy teases Kirk about his habits and romantic entanglements, and Kirk tolerates a level of informality from the doctor that he would never permit from most officers. Early episodes show McCoy stepping into the role of outspoken critic when he believes Kirk is taking too great a risk, while Kirk pushes back but almost always hears him out. The foundation of their relationship is the understanding that McCoy\u2019s first duty is to his patients and to his conscience, even when that means confronting the captain.",
-      "Evolution": "As the series progresses, their friendship deepens through repeated crises where McCoy must advocate for the vulnerable while Kirk wrestles with tactical necessity. In episodes like \u201cThe Devil in the Dark,\u201d McCoy\u2019s insistence on seeing an alien creature as a patient rather than a threat influences Kirk\u2019s decision-making and helps avert a massacre. During emotionally charged stories such as \u201cThe City on the Edge of Forever,\u201d McCoy\u2019s own trauma tests Kirk\u2019s loyalty and resolve in reverse, forcing the captain to balance his friend\u2019s life against the integrity of history itself. In the films, McCoy becomes an anchor as Kirk confronts aging, loss, and the consequences of long service, pushing him to face fears about obsolescence and purpose. Their bond persists as one of the constants that carry Kirk through personal and professional upheaval.",
+      "Overview": "Kirk and Dr. Leonard McCoy share an old-fashioned, almost terrestrial kind of friendship in the middle of a starship command. McCoy is Kirk’s physician, confidant, and moral conscience, the one who will say what others will not when the captain pushes himself or the crew too hard. He challenges Kirk on the human cost of Starfleet decisions, often voicing fears, doubts, and ethical concerns that Kirk cannot easily admit. For his part, Kirk trusts McCoy enough to be vulnerable with him, allowing the doctor to see the strain of command and the loneliness of leadership. Their banter, arguments, and late-night conversations form a crucial emotional outlet that keeps the captain grounded and reminds him of his responsibilities not just to the mission, but to the people under his command.",
+      "StartingPoint": "By the time viewers meet them, Kirk and McCoy are already established friends, with a shared history that predates the Enterprise’s televised adventures. McCoy teases Kirk about his habits and romantic entanglements, and Kirk tolerates a level of informality from the doctor that he would never permit from most officers. Early episodes show McCoy stepping into the role of outspoken critic when he believes Kirk is taking too great a risk, while Kirk pushes back but almost always hears him out. The foundation of their relationship is the understanding that McCoy’s first duty is to his patients and to his conscience, even when that means confronting the captain.",
+      "Evolution": "As the series progresses, their friendship deepens through repeated crises where McCoy must advocate for the vulnerable while Kirk wrestles with tactical necessity. In episodes like “The Devil in the Dark,” McCoy’s insistence on seeing an alien creature as a patient rather than a threat influences Kirk’s decision-making and helps avert a massacre. During emotionally charged stories such as “The City on the Edge of Forever,” McCoy’s own trauma tests Kirk’s loyalty and resolve in reverse, forcing the captain to balance his friend’s life against the integrity of history itself. In the films, McCoy becomes an anchor as Kirk confronts aging, loss, and the consequences of long service, pushing him to face fears about obsolescence and purpose. Their bond persists as one of the constants that carry Kirk through personal and professional upheaval.",
       "KeyThemes": [
         "Friendship",
         "Conscience versus duty",
@@ -117,31 +117,31 @@
           "EpisodeID": "toss1e26",
           "EpisodeTitle": "The Devil in the Dark",
           "Role": "Ethical inflection point",
-          "TrajectoryNote": "McCoy\u2019s insistence on treating the Horta as a patient helps steer Kirk from extermination toward understanding, highlighting McCoy\u2019s influence on the captain\u2019s choices."
+          "TrajectoryNote": "McCoy’s insistence on treating the Horta as a patient helps steer Kirk from extermination toward understanding, highlighting McCoy’s influence on the captain’s choices."
         },
         {
           "EpisodeID": "toss1e28",
           "EpisodeTitle": "The City on the Edge of Forever",
           "Role": "Reversed dependence",
-          "TrajectoryNote": "McCoy\u2019s accidental trip into the past and subsequent instability force Kirk into a position where rescuing his friend conflicts with preserving history."
+          "TrajectoryNote": "McCoy’s accidental trip into the past and subsequent instability force Kirk into a position where rescuing his friend conflicts with preserving history."
         },
         {
           "EpisodeID": "film-ST2",
           "EpisodeTitle": "Star Trek II: The Wrath of Khan",
           "Role": "Later-life support",
-          "TrajectoryNote": "McCoy\u2019s candor about Kirk\u2019s fear of aging and obsolescence reinforces his position as the person who forces Kirk to face truths he would rather evade."
+          "TrajectoryNote": "McCoy’s candor about Kirk’s fear of aging and obsolescence reinforces his position as the person who forces Kirk to face truths he would rather evade."
         }
       ],
       "NotableMoments": [
         {
           "EpisodeID": "toss1e1",
           "EpisodeTitle": "The Man Trap",
-          "Description": "McCoy\u2019s emotional turmoil over Nancy Crater\u2019s true nature and Kirk\u2019s need to stop the creature illustrates how personal connections can complicate their professional roles."
+          "Description": "McCoy’s emotional turmoil over Nancy Crater’s true nature and Kirk’s need to stop the creature illustrates how personal connections can complicate their professional roles."
         },
         {
           "EpisodeID": "film-ST2",
           "EpisodeTitle": "Star Trek II: The Wrath of Khan",
-          "Description": "McCoy\u2019s quiet conversations with Kirk about growing older and being back in command underscore his role as the one person who can openly question the captain\u2019s self-image."
+          "Description": "McCoy’s quiet conversations with Kirk about growing older and being back in command underscore his role as the one person who can openly question the captain’s self-image."
         }
       ]
     },
@@ -170,9 +170,9 @@
           "BioID": "McCoy"
         }
       ],
-      "Overview": "Together, Kirk, Spock, and McCoy form the philosophical heart of the original Enterprise. Their dynamic is often described as a living debate between will, mind, and heart, with Kirk at the center balancing Spock\u2019s logic and McCoy\u2019s emotion. Many of the show\u2019s most memorable moral and tactical dilemmas play out through arguments among the three men, with each bringing a distinct perspective that challenges the others. As a unit, they embody Starfleet\u2019s struggle to reconcile rational analysis, ethical responsibility, and decisive action. Their scenes in Kirk\u2019s quarters, in sickbay, and on alien worlds provide the series with a recurring framework for exploring what \u201cthe right decision\u201d really means when lives, principles, and political consequences collide.",
+      "Overview": "Together, Kirk, Spock, and McCoy form the philosophical heart of the original Enterprise. Their dynamic is often described as a living debate between will, mind, and heart, with Kirk at the center balancing Spock’s logic and McCoy’s emotion. Many of the show’s most memorable moral and tactical dilemmas play out through arguments among the three men, with each bringing a distinct perspective that challenges the others. As a unit, they embody Starfleet’s struggle to reconcile rational analysis, ethical responsibility, and decisive action. Their scenes in Kirk’s quarters, in sickbay, and on alien worlds provide the series with a recurring framework for exploring what “the right decision” really means when lives, principles, and political consequences collide.",
       "StartingPoint": "Early in the series, the three-way dynamic is less codified but already present: Spock offers the strictly logical assessment, McCoy voices the humanistic or emotional concern, and Kirk chooses a course between them. Their exchanges can be prickly, with Spock and McCoy clashing over methodology and values while Kirk listens and adjudicates. At this stage, the pattern is emerging rather than fully articulated, but viewers can already see that Kirk depends on their opposing viewpoints to test his own reasoning. The seeds of their later, more explicitly thematic debates are planted in these early mission briefings and debriefings.",
-      "Evolution": "Over time, the triad becomes more self-aware and comfortable, with Spock and McCoy\u2019s verbal sparring framed increasingly as a form of affection. Kirk grows more willing to invite open disagreement from both men, knowing that their arguments will help refine his judgment rather than undermine his authority. Episodes such as \u201cThe Immunity Syndrome\u201d and \u201cA Private Little War\u201d highlight how the three balance one another under extreme pressure, with Kirk often pushed toward compassion by McCoy and toward restraint or caution by Spock. In the films, the triad is tested by aging, political change, and loss, but remains intact as a core emotional unit; even when Spock dies and returns, the triad reasserts itself as the emotional spine of their stories.",
+      "Evolution": "Over time, the triad becomes more self-aware and comfortable, with Spock and McCoy’s verbal sparring framed increasingly as a form of affection. Kirk grows more willing to invite open disagreement from both men, knowing that their arguments will help refine his judgment rather than undermine his authority. Episodes such as “The Immunity Syndrome” and “A Private Little War” highlight how the three balance one another under extreme pressure, with Kirk often pushed toward compassion by McCoy and toward restraint or caution by Spock. In the films, the triad is tested by aging, political change, and loss, but remains intact as a core emotional unit; even when Spock dies and returns, the triad reasserts itself as the emotional spine of their stories.",
       "KeyThemes": [
         "Mind, heart and will",
         "Debate as decision-making",
@@ -184,26 +184,26 @@
           "EpisodeID": "toss2e19",
           "EpisodeTitle": "A Private Little War",
           "Role": "Moral triangulation",
-          "TrajectoryNote": "Kirk\u2019s agonizing decision about arming both sides in a planetary conflict is shaped by Spock\u2019s strategic analysis and McCoy\u2019s outrage at the human cost, showcasing the triad at its most thematically explicit."
+          "TrajectoryNote": "Kirk’s agonizing decision about arming both sides in a planetary conflict is shaped by Spock’s strategic analysis and McCoy’s outrage at the human cost, showcasing the triad at its most thematically explicit."
         },
         {
           "EpisodeID": "toss2e18",
           "EpisodeTitle": "The Immunity Syndrome",
           "Role": "Crisis equilibrium",
-          "TrajectoryNote": "As the Enterprise confronts a deadly space organism, Kirk relies on Spock and McCoy\u2019s competing recommendations to balance risk, sacrifice, and crew welfare."
+          "TrajectoryNote": "As the Enterprise confronts a deadly space organism, Kirk relies on Spock and McCoy’s competing recommendations to balance risk, sacrifice, and crew welfare."
         },
         {
           "EpisodeID": "film-ST3",
           "EpisodeTitle": "Star Trek III: The Search for Spock",
           "Role": "Family-level loyalty",
-          "TrajectoryNote": "Kirk and McCoy\u2019s willingness to sacrifice careers and risk their lives to restore Spock underlines how inseparable the triad has become."
+          "TrajectoryNote": "Kirk and McCoy’s willingness to sacrifice careers and risk their lives to restore Spock underlines how inseparable the triad has become."
         }
       ],
       "NotableMoments": [
         {
           "EpisodeID": "toss2e19",
           "EpisodeTitle": "A Private Little War",
-          "Description": "Kirk listens to Spock\u2019s cold assessment of the balance of power and McCoy\u2019s furious objections before choosing a deeply compromised course, illustrating how their debates forge his final decisions."
+          "Description": "Kirk listens to Spock’s cold assessment of the balance of power and McCoy’s furious objections before choosing a deeply compromised course, illustrating how their debates forge his final decisions."
         },
         {
           "EpisodeID": "film-ST6",
@@ -233,9 +233,9 @@
           "BioID": "Scotty"
         }
       ],
-      "Overview": "Kirk and Montgomery \u201cScotty\u201d Scott represent the bridge and the engine room halves of the Enterprise\u2019s command structure. Kirk depends on Scotty\u2019s ingenuity and conservative engineering instincts to keep the ship together in impossible situations, while Scotty treats the Enterprise as a beloved responsibility he will defend at any cost. Their relationship is built on mutual trust: Kirk gives Scotty freedom to improvise and stretch the ship to its limits, and Scotty delivers the miracles the captain\u2019s bold strategies require. Beneath their professional roles is a shared sense of pride in the Enterprise as more than hardware, with Scotty\u2019s fierce loyalty often reflecting what Kirk feels but cannot always express.",
+      "Overview": "Kirk and Montgomery “Scotty” Scott represent the bridge and the engine room halves of the Enterprise’s command structure. Kirk depends on Scotty’s ingenuity and conservative engineering instincts to keep the ship together in impossible situations, while Scotty treats the Enterprise as a beloved responsibility he will defend at any cost. Their relationship is built on mutual trust: Kirk gives Scotty freedom to improvise and stretch the ship to its limits, and Scotty delivers the miracles the captain’s bold strategies require. Beneath their professional roles is a shared sense of pride in the Enterprise as more than hardware, with Scotty’s fierce loyalty often reflecting what Kirk feels but cannot always express.",
       "StartingPoint": "From early in the series, Kirk regards Scotty as the man who can make or break his tactical plans. When Kirk orders more speed or sustained power than the engines are rated for, Scotty protests loudly but then finds a way to make it work. The famous rhythm of Kirk demanding the impossible and Scotty warning about limits is already present, part warning and part ritual. For his part, Scotty sees Kirk as a captain who will listen to engineering concerns but who ultimately expects his chief engineer to rise to the occasion.",
-      "Evolution": "As the mission continues, their mutual reliance is tested in episodes where the Enterprise is pushed to the brink or Scotty himself is under suspicion or strain. In \u201cThe Doomsday Machine,\u201d Scotty\u2019s desperate efforts to keep the crippled Constellation intact give Kirk enough time to execute his plan, reinforcing the captain\u2019s faith in his engineer\u2019s abilities under pressure. Later, in the films, Scotty remains at Kirk\u2019s side as the Enterprise is retired, destroyed, and reborn, symbolizing how their shared devotion to the ship endures through change. Over time, Scotty\u2019s grumbling resistance to Kirk\u2019s demands becomes more performative than confrontational, a familiar pattern that masks the engineer\u2019s willingness to stake everything on his captain\u2019s judgment.",
+      "Evolution": "As the mission continues, their mutual reliance is tested in episodes where the Enterprise is pushed to the brink or Scotty himself is under suspicion or strain. In “The Doomsday Machine,” Scotty’s desperate efforts to keep the crippled Constellation intact give Kirk enough time to execute his plan, reinforcing the captain’s faith in his engineer’s abilities under pressure. Later, in the films, Scotty remains at Kirk’s side as the Enterprise is retired, destroyed, and reborn, symbolizing how their shared devotion to the ship endures through change. Over time, Scotty’s grumbling resistance to Kirk’s demands becomes more performative than confrontational, a familiar pattern that masks the engineer’s willingness to stake everything on his captain’s judgment.",
       "KeyThemes": [
         "Trust in expertise",
         "Risk versus safety",
@@ -247,25 +247,25 @@
           "EpisodeID": "toss2e6",
           "EpisodeTitle": "The Doomsday Machine",
           "Role": "Crisis collaboration",
-          "TrajectoryNote": "Scotty\u2019s frantic repairs aboard the Constellation underpin Kirk\u2019s entire strategy, showing how crucial engineering is to the captain\u2019s ability to outthink a vastly superior weapon."
+          "TrajectoryNote": "Scotty’s frantic repairs aboard the Constellation underpin Kirk’s entire strategy, showing how crucial engineering is to the captain’s ability to outthink a vastly superior weapon."
         },
         {
           "EpisodeID": "toss3e5",
           "EpisodeTitle": "Is There in Truth No Beauty?",
           "Role": "Engineering strain",
-          "TrajectoryNote": "Scotty\u2019s attempts to accommodate extraordinary conditions again illustrate how often Kirk\u2019s plans depend on stretching the Enterprise beyond her limits."
+          "TrajectoryNote": "Scotty’s attempts to accommodate extraordinary conditions again illustrate how often Kirk’s plans depend on stretching the Enterprise beyond her limits."
         }
       ],
       "NotableMoments": [
         {
           "EpisodeID": "toss2e15",
           "EpisodeTitle": "The Trouble with Tribbles",
-          "Description": "Scotty\u2019s decision to start a bar fight only when the Enterprise is insulted, not when Kirk is, underlines where his deepest loyalties lie and how Kirk\u2019s ship-centered pride is shared by his engineer."
+          "Description": "Scotty’s decision to start a bar fight only when the Enterprise is insulted, not when Kirk is, underlines where his deepest loyalties lie and how Kirk’s ship-centered pride is shared by his engineer."
         },
         {
           "EpisodeID": "film-ST4",
           "EpisodeTitle": "Star Trek IV: The Voyage Home",
-          "Description": "Kirk\u2019s easy reliance on Scotty\u2019s technical improvisation on 20th-century Earth reflects decades of trust in the engineer\u2019s ability to bend technology to his will."
+          "Description": "Kirk’s easy reliance on Scotty’s technical improvisation on 20th-century Earth reflects decades of trust in the engineer’s ability to bend technology to his will."
         }
       ]
     },
@@ -290,9 +290,9 @@
           "BioID": "KhanNoonienSingh"
         }
       ],
-      "Overview": "Kirk\u2019s relationship with Khan Noonien Singh is one of Star Trek\u2019s defining hero\u2013villain rivalries. It begins as a confrontation between a Starfleet captain and a revived tyrant from Earth\u2019s Eugenics Wars, but evolves into a multi-decade grudge that tests Kirk\u2019s judgment, mercy, and sense of responsibility for the consequences of his decisions. In \u201cSpace Seed,\u201d Kirk chooses exile over imprisonment for Khan and his followers, hoping they will build a new life on Ceti Alpha V. Years later, the aftermath of that choice fuels Khan\u2019s obsessive vendetta in \u201cStar Trek II: The Wrath of Khan,\u201d where he holds Kirk personally accountable for the suffering that followed a planetary catastrophe.",
-      "StartingPoint": "When Kirk first encounters Khan aboard the Enterprise, he is dealing with an unknown quantity: a charismatic, physically superior human leader with a history of authoritarian rule. Kirk initially admires Khan\u2019s potential while recognizing the danger he represents, allowing him a measure of freedom before his true ambitions become clear. Once Khan\u2019s attempt to seize the ship is exposed, Kirk treats him as a serious but containable threat, ultimately defeating him through a combination of tactical ingenuity and crew loyalty. The decision to maroon Khan and his people on Ceti Alpha V, with supplies and the possibility of building a new society, reflects Kirk\u2019s belief in giving even dangerous adversaries a chance to redeem themselves.",
-      "Evolution": "The relationship turns into a deadly rivalry when Khan escapes his exile and discovers what has happened to Ceti Alpha VI. In \u201cThe Wrath of Khan,\u201d his rage is sharpened by years of hardship and loss, and he fixates on Kirk as the architect of his suffering. Kirk, older and confronting his own fears about aging and relevance, must face the consequences of a past command decision that seemed fair at the time. Their cat-and-mouse duel through the Mutara Nebula pits Khan\u2019s raw intellect and hatred against Kirk\u2019s experience and adaptability. By the end, Khan\u2019s destruction and Spock\u2019s sacrifice leave Kirk deeply changed, having paid a terrible personal price to end a conflict he never intended to create.",
+      "Overview": "Kirk’s relationship with Khan Noonien Singh is one of Star Trek’s defining hero–villain rivalries. It begins as a confrontation between a Starfleet captain and a revived tyrant from Earth’s Eugenics Wars, but evolves into a multi-decade grudge that tests Kirk’s judgment, mercy, and sense of responsibility for the consequences of his decisions. In “Space Seed,” Kirk chooses exile over imprisonment for Khan and his followers, hoping they will build a new life on Ceti Alpha V. Years later, the aftermath of that choice—the devastation of Ceti Alpha V after a nearby planet’s destruction and the death of Khan’s wife during their exile—fuels an obsessive vendetta. By the time of “Star Trek II: The Wrath of Khan,” Khan holds Kirk personally accountable not only for his people’s suffering but for his most intimate loss, sharpening a conflict that is as emotional as it is tactical.",
+      "StartingPoint": "When Kirk first encounters Khan aboard the Enterprise, he is dealing with an unknown quantity: a charismatic, physically superior human leader with a history of authoritarian rule. Kirk initially admires Khan’s potential while recognizing the danger he represents, allowing him a measure of freedom before his true ambitions become clear. Once Khan’s attempt to seize the ship is exposed, Kirk treats him as a serious but containable threat, ultimately defeating him through a combination of tactical ingenuity and crew loyalty. The decision to maroon Khan and his people on Ceti Alpha V, with supplies and the possibility of building a new society, reflects Kirk’s belief in giving even dangerous adversaries a chance to redeem themselves.",
+      "Evolution": "The relationship turns into a deadly rivalry when Khan escapes his exile and discovers what has happened to Ceti Alpha VI and, by extension, to Ceti Alpha V. Years of hardship, the deaths of many of his followers, and the loss of his wife harden Khan’s sense of injustice until he fixates on Kirk as the architect of all his pain. In “The Wrath of Khan,” that rage drives him to pursue Kirk with single-minded intensity, turning starship engagements into personal duels. Kirk, older and confronting his own fears about aging and relevance, must face the consequences of a past command decision that seemed fair at the time but left him unaware of the catastrophe that followed. Their cat-and-mouse duel through the Mutara Nebula pits Khan’s raw intellect and hatred against Kirk’s experience and adaptability. By the end, Khan’s destruction and Spock’s sacrifice leave Kirk deeply changed, having paid a terrible personal price to end a conflict he never intended to create.",
       "KeyThemes": [
         "Consequences of command decisions",
         "Revenge",
@@ -304,25 +304,25 @@
           "EpisodeID": "toss1e22",
           "EpisodeTitle": "Space Seed",
           "Role": "Origin",
-          "TrajectoryNote": "Kirk\u2019s choice to exile rather than imprison Khan establishes both the captain\u2019s belief in second chances and the seed of the later vendetta."
+          "TrajectoryNote": "Kirk’s choice to exile rather than imprison Khan establishes both the captain’s belief in second chances and the seed of the later vendetta."
         },
         {
           "EpisodeID": "film-ST2",
           "EpisodeTitle": "Star Trek II: The Wrath of Khan",
           "Role": "Climactic confrontation",
-          "TrajectoryNote": "Kirk\u2019s long-distance duel with Khan forces him to confront the cost of past decisions, the reality of aging, and the loss of Spock."
+          "TrajectoryNote": "Kirk’s long-distance duel with Khan forces him to confront the cost of past decisions, the reality of aging, and the loss of Spock."
         }
       ],
       "NotableMoments": [
         {
           "EpisodeID": "toss1e22",
           "EpisodeTitle": "Space Seed",
-          "Description": "Kirk\u2019s final conversation with Khan, offering him a world to conquer and build rather than a prison cell, shows his mix of pragmatism, idealism, and calculated risk-taking."
+          "Description": "Kirk’s final conversation with Khan, offering him a world to conquer and build rather than a prison cell, shows his mix of pragmatism, idealism, and calculated risk-taking."
         },
         {
           "EpisodeID": "film-ST2",
           "EpisodeTitle": "Star Trek II: The Wrath of Khan",
-          "Description": "Kirk\u2019s realization that Khan is fighting a two-dimensional battle, and his decision to take the Enterprise into the nebula, demonstrates the seasoned tactical thinking that ultimately outmaneuvers his vengeful opponent."
+          "Description": "Kirk’s realization that Khan is fighting a two-dimensional battle, and his decision to take the Enterprise into the nebula, demonstrates the seasoned tactical thinking that ultimately outmaneuvers his vengeful opponent."
         }
       ]
     },
@@ -350,9 +350,9 @@
           "BioID": "DavidMarcus"
         }
       ],
-      "Overview": "Kirk\u2019s relationship with Dr. Carol Marcus and their son David reveals a quieter, more personal side of the famed captain. Carol represents a life and career Kirk might have pursued outside Starfleet: focused scientific research and a more stable existence planetside. David, whom Kirk did not help raise, embodies the cost of Kirk\u2019s choice to remain in space. When they reunite in \u201cStar Trek II: The Wrath of Khan,\u201d Kirk is forced to confront the consequences of his absence and the ambivalence both mother and son feel toward him. Their interactions show Kirk wrestling with regrets about the family he never fully had and the tension between his identity as a starship captain and his role as a father.",
-      "StartingPoint": "Before their on-screen reunion, Kirk and Carol\u2019s history is sketched in implication: they had a serious relationship in the past, and Carol chose to raise David away from Kirk and Starfleet. When Kirk arrives at Regula I, Carol is wary and defensive, knowing that his presence represents the Starfleet interests she wants to keep at bay. David, having grown up hearing a particular version of Kirk, initially regards him with hostility and distrust. At this stage, Kirk\u2019s connection to both is defined more by past choices and missed opportunities than by present intimacy.",
-      "Evolution": "Over the course of \u201cThe Wrath of Khan,\u201d Kirk and David move from mutual suspicion to a fragile but genuine bond. David comes to see the difference between the myth of James T. Kirk and the aging, self-questioning man in front of him, while Kirk begins to imagine a place for fatherhood in his life even at this late stage. Carol, meanwhile, recognizes that Kirk\u2019s presence complicates their work on the Genesis Project but also gives David something she could not provide alone. In \u201cStar Trek III: The Search for Spock,\u201d David\u2019s death at the hands of Klingons becomes a devastating consequence of the larger geopolitical struggle in which Kirk lives, adding another layer of loss and regret. The relationship is marked not by neat resolution but by the lingering sense of what might have been.",
+      "Overview": "Kirk’s relationship with Dr. Carol Marcus and their son David reveals a quieter, more personal side of the famed captain. Carol represents a life and career Kirk might have pursued outside Starfleet: focused scientific research and a more stable existence planetside. David, whom Kirk did not help raise, embodies the cost of Kirk’s choice to remain in space. When they reunite in “Star Trek II: The Wrath of Khan,” Kirk is forced to confront the consequences of his absence and the ambivalence both mother and son feel toward him. Their interactions show Kirk wrestling with regrets about the family he never fully had and the tension between his identity as a starship captain and his role as a father.",
+      "StartingPoint": "Before their on-screen reunion, Kirk and Carol’s history is sketched in implication: they had a serious relationship in the past, and Carol chose to raise David away from Kirk and Starfleet. When Kirk arrives at Regula I, Carol is wary and defensive, knowing that his presence represents the Starfleet interests she wants to keep at bay. David, having grown up hearing a particular version of Kirk, initially regards him with hostility and distrust. At this stage, Kirk’s connection to both is defined more by past choices and missed opportunities than by present intimacy.",
+      "Evolution": "Over the course of “The Wrath of Khan,” Kirk and David move from mutual suspicion to a fragile but genuine bond. David comes to see the difference between the myth of James T. Kirk and the aging, self-questioning man in front of him, while Kirk begins to imagine a place for fatherhood in his life even at this late stage. Carol, meanwhile, recognizes that Kirk’s presence complicates their work on the Genesis Project but also gives David something she could not provide alone. In “Star Trek III: The Search for Spock,” David’s death at the hands of Klingons becomes a devastating consequence of the larger geopolitical struggle in which Kirk lives, adding another layer of loss and regret. The relationship is marked not by neat resolution but by the lingering sense of what might have been.",
       "KeyThemes": [
         "Family and absence",
         "Career versus personal life",
@@ -364,25 +364,25 @@
           "EpisodeID": "film-ST2",
           "EpisodeTitle": "Star Trek II: The Wrath of Khan",
           "Role": "Reunion",
-          "TrajectoryNote": "Kirk\u2019s awkward, gradual reconnection with Carol and David forces him to confront the personal cost of a life spent in command."
+          "TrajectoryNote": "Kirk’s awkward, gradual reconnection with Carol and David forces him to confront the personal cost of a life spent in command."
         },
         {
           "EpisodeID": "film-ST3",
           "EpisodeTitle": "Star Trek III: The Search for Spock",
           "Role": "Tragedy",
-          "TrajectoryNote": "David\u2019s death at the hands of Klingons leaves Kirk with profound grief and guilt, forever coloring his feelings about family and sacrifice."
+          "TrajectoryNote": "David’s death at the hands of Klingons leaves Kirk with profound grief and guilt, forever coloring his feelings about family and sacrifice."
         }
       ],
       "NotableMoments": [
         {
           "EpisodeID": "film-ST2",
           "EpisodeTitle": "Star Trek II: The Wrath of Khan",
-          "Description": "David\u2019s revelation that he is Kirk\u2019s son and their quiet conversation afterward allow Kirk to drop his command persona and admit his regrets about not being there."
+          "Description": "David’s revelation that he is Kirk’s son and their quiet conversation afterward allow Kirk to drop his command persona and admit his regrets about not being there."
         },
         {
           "EpisodeID": "film-ST3",
           "EpisodeTitle": "Star Trek III: The Search for Spock",
-          "Description": "Kirk\u2019s stunned collapse after hearing of David\u2019s death is one of the few times he is visibly broken, underscoring the depth of feeling beneath his usually controlled exterior."
+          "Description": "Kirk’s stunned collapse after hearing of David’s death is one of the few times he is visibly broken, underscoring the depth of feeling beneath his usually controlled exterior."
         }
       ]
     },
@@ -416,9 +416,9 @@
           "BioID": "Kang"
         }
       ],
-      "Overview": "Kirk\u2019s encounters with Klingon captains such as Kor, Koloth, and Kang chart the evolution of Federation\u2013Klingon relations from open hostility to grudging respect. In the original series, these commanders embody the warrior culture and expansionist ambitions of the Klingon Empire, clashing with Kirk\u2019s duty to defend Federation worlds and principles. Yet even in conflict, there are hints of shared values: courage, tactical skill, and respect for a worthy opponent. By the time of the later films, especially \u201cStar Trek VI: The Undiscovered Country,\u201d Kirk\u2019s long experience with Klingons and his personal losses inform a complex mix of prejudice, anger, and the capacity to change.",
-      "StartingPoint": "Early clashes, such as those with Kor in \u201cErrand of Mercy,\u201d position Kirk as a defender of peaceful worlds facing covert Klingon occupation. Kirk sees the Klingons as ruthless and treacherous, willing to use intimidation and violence to hold power. At this stage, his perspective is shaped by Cold War\u2013style tensions, and he treats Klingon commanders as dangerous adversaries to be outwitted or defeated. The grudging recognition of their courage is present but buried beneath the immediate tactical stakes.",
-      "Evolution": "Later encounters, particularly those involving Kang in \u201cDay of the Dove,\u201d force Kirk to acknowledge how external forces can exploit existing hostilities. When an alien entity feeds on their mutual hatred, Kirk and Kang must step back from violence and recognize their shared manipulation, opening the door to a more nuanced understanding. In \u201cStar Trek VI: The Undiscovered Country,\u201d the assassination of Gorkon and the subsequent conspiracy push Kirk to confront his own prejudice following David\u2019s death. By choosing to help expose the plot and support a fragile peace, Kirk moves from a purely adversarial stance toward a role in reshaping Federation\u2013Klingon relations, even if some of his bitterness never fully disappears.",
+      "Overview": "Kirk’s encounters with Klingon captains such as Kor, Koloth, and Kang chart the evolution of Federation–Klingon relations from open hostility to grudging respect. In the original series, these commanders embody the warrior culture and expansionist ambitions of the Klingon Empire, clashing with Kirk’s duty to defend Federation worlds and principles. Yet even in conflict, there are hints of shared values: courage, tactical skill, and respect for a worthy opponent. By the time of the later films, especially “Star Trek VI: The Undiscovered Country,” Kirk’s long experience with Klingons and his personal losses inform a complex mix of prejudice, anger, and the capacity to change.",
+      "StartingPoint": "Early clashes, such as those with Kor in “Errand of Mercy,” position Kirk as a defender of peaceful worlds facing covert Klingon occupation. Kirk sees the Klingons as ruthless and treacherous, willing to use intimidation and violence to hold power. At this stage, his perspective is shaped by Cold War–style tensions, and he treats Klingon commanders as dangerous adversaries to be outwitted or defeated. The grudging recognition of their courage is present but buried beneath the immediate tactical stakes.",
+      "Evolution": "Later encounters, particularly those involving Kang in “Day of the Dove,” force Kirk to acknowledge how external forces can exploit existing hostilities. When an alien entity feeds on their mutual hatred, Kirk and Kang must step back from violence and recognize their shared manipulation, opening the door to a more nuanced understanding. In “Star Trek VI: The Undiscovered Country,” the assassination of Gorkon and the subsequent conspiracy push Kirk to confront his own prejudice following David’s death. By choosing to help expose the plot and support a fragile peace, Kirk moves from a purely adversarial stance toward a role in reshaping Federation–Klingon relations, even if some of his bitterness never fully disappears.",
       "KeyThemes": [
         "Enemy perception",
         "War and peace",
@@ -430,7 +430,7 @@
           "EpisodeID": "toss1e26b",
           "EpisodeTitle": "Errand of Mercy",
           "Role": "First major clash",
-          "TrajectoryNote": "Kirk\u2019s confrontation with Kor highlights the sharp ideological divide between the Federation and the Klingon Empire, even as both men display mutual recognition of each other\u2019s resolve."
+          "TrajectoryNote": "Kirk’s confrontation with Kor highlights the sharp ideological divide between the Federation and the Klingon Empire, even as both men display mutual recognition of each other’s resolve."
         },
         {
           "EpisodeID": "toss3e7",
@@ -442,24 +442,24 @@
           "EpisodeID": "film-ST6",
           "EpisodeTitle": "Star Trek VI: The Undiscovered Country",
           "Role": "Political shift",
-          "TrajectoryNote": "Kirk\u2019s role in preventing the assassination plot at Khitomer and supporting peace talks marks a turning point in how he relates to Klingon leadership."
+          "TrajectoryNote": "Kirk’s role in preventing the assassination plot at Khitomer and supporting peace talks marks a turning point in how he relates to Klingon leadership."
         }
       ],
       "NotableMoments": [
         {
           "EpisodeID": "toss1e26b",
           "EpisodeTitle": "Errand of Mercy",
-          "Description": "Kirk and Kor\u2019s tense exchanges on Organia show two commanders testing each other\u2019s resolve, each convinced of the rightness of his cause."
+          "Description": "Kirk and Kor’s tense exchanges on Organia show two commanders testing each other’s resolve, each convinced of the rightness of his cause."
         },
         {
           "EpisodeID": "toss3e7",
           "EpisodeTitle": "Day of the Dove",
-          "Description": "Kirk and Kang agreeing to lay down arms and reject the entity\u2019s influence, while their crews laugh together, offers a brief glimpse of what peace might look like."
+          "Description": "Kirk and Kang agreeing to lay down arms and reject the entity’s influence, while their crews laugh together, offers a brief glimpse of what peace might look like."
         },
         {
           "EpisodeID": "film-ST6",
           "EpisodeTitle": "Star Trek VI: The Undiscovered Country",
-          "Description": "Kirk\u2019s final remarks at the peace conference, and his willingness to move beyond his hatred of Klingons, show a man choosing growth over resentment."
+          "Description": "Kirk’s final remarks at the peace conference, and his willingness to move beyond his hatred of Klingons, show a man choosing growth over resentment."
         }
       ]
     },
@@ -483,9 +483,9 @@
           "BioID": "RomulanCommander"
         }
       ],
-      "Overview": "In \u201cBalance of Terror,\u201d Kirk\u2019s duel with the unnamed Romulan Commander introduces the Romulans as formidable adversaries and establishes a relationship defined by tactical brilliance and mutual respect. Though the two men never meet face to face until the final moments, their cat-and-mouse battle across the Neutral Zone reveals how similar they are in temperament and skill. Kirk must protect Federation outposts and avoid triggering a wider war, while the Commander is caught between loyalty to the Romulan state and his own doubts about the mission. Their encounter becomes less a simple good-versus-evil conflict and more a tragic confrontation between two capable officers bound by duty on opposite sides.",
+      "Overview": "In “Balance of Terror,” Kirk’s duel with the unnamed Romulan Commander introduces the Romulans as formidable adversaries and establishes a relationship defined by tactical brilliance and mutual respect. Though the two men never meet face to face until the final moments, their cat-and-mouse battle across the Neutral Zone reveals how similar they are in temperament and skill. Kirk must protect Federation outposts and avoid triggering a wider war, while the Commander is caught between loyalty to the Romulan state and his own doubts about the mission. Their encounter becomes less a simple good-versus-evil conflict and more a tragic confrontation between two capable officers bound by duty on opposite sides.",
       "StartingPoint": "When the Enterprise responds to the destruction of Federation outposts, Kirk approaches the threat with a mix of caution and determination, aware that any misstep could re-ignite a devastating war. He knows little about the Romulans beyond old war records and speculation, and initial crew reactions reveal prejudice and fear. At this stage, Kirk sees the Romulan vessel primarily as a dangerous unknown that must be stopped to protect the border, not as the expression of a commander very much like himself.",
-      "Evolution": "As the engagement unfolds, Kirk and the Romulan Commander probe each other\u2019s tactics, each recognizing the other\u2019s competence. The Commander acknowledges Kirk\u2019s skill to his own crew, while Kirk must continually adapt to Romulan cloak-and-strike strategies. By the time the Romulan ship is crippled, the tone of their interaction has shifted from impersonal battle to something akin to a tragic encounter between peers. The Commander\u2019s final admission that, in another reality, he could have called Kirk friend crystallizes the episode\u2019s core idea: that the enemy across the border is not fundamentally different, but shaped by circumstance and allegiance.",
+      "Evolution": "As the engagement unfolds, Kirk and the Romulan Commander probe each other’s tactics, each recognizing the other’s competence. The Commander acknowledges Kirk’s skill to his own crew, while Kirk must continually adapt to Romulan cloak-and-strike strategies. By the time the Romulan ship is crippled, the tone of their interaction has shifted from impersonal battle to something akin to a tragic encounter between peers. The Commander’s final admission that, in another reality, he could have called Kirk friend crystallizes the episode’s core idea: that the enemy across the border is not fundamentally different, but shaped by circumstance and allegiance.",
       "KeyThemes": [
         "Duty in wartime",
         "The humanity of the enemy",
@@ -497,19 +497,19 @@
           "EpisodeID": "toss1e14",
           "EpisodeTitle": "Balance of Terror",
           "Role": "Complete arc",
-          "TrajectoryNote": "Kirk\u2019s entire relationship with the Romulan Commander plays out in one story, offering a nuanced look at command and conflict across the Neutral Zone."
+          "TrajectoryNote": "Kirk’s entire relationship with the Romulan Commander plays out in one story, offering a nuanced look at command and conflict across the Neutral Zone."
         }
       ],
       "NotableMoments": [
         {
           "EpisodeID": "toss1e14",
           "EpisodeTitle": "Balance of Terror",
-          "Description": "Kirk\u2019s careful, almost submarine-like pursuit of the cloaked Romulan ship showcases his tactical instincts and his awareness of how close he is to starting a war."
+          "Description": "Kirk’s careful, almost submarine-like pursuit of the cloaked Romulan ship showcases his tactical instincts and his awareness of how close he is to starting a war."
         },
         {
           "EpisodeID": "toss1e14",
           "EpisodeTitle": "Balance of Terror",
-          "Description": "The Romulan Commander\u2019s final words about how he could have called Kirk friend, had circumstances been different, frame the entire battle as a tragedy of politics and timing."
+          "Description": "The Romulan Commander’s final words about how he could have called Kirk friend, had circumstances been different, frame the entire battle as a tragedy of politics and timing."
         }
       ]
     },
@@ -533,9 +533,9 @@
           "BioID": "EdithKeeler"
         }
       ],
-      "Overview": "Kirk\u2019s relationship with Edith Keeler in \u201cThe City on the Edge of Forever\u201d is one of the most poignant romances in Star Trek. Stranded in 1930s New York after a time-travel accident, Kirk meets Keeler, a compassionate social worker whose optimism and pacifist beliefs impress him. Unlike many of his more casual relationships, this connection develops slowly and sincerely, revealing a side of Kirk that can imagine a life outside Starfleet. However, the mission\u2019s stakes make their love story tragically unsustainable: Keeler\u2019s survival would alter history and ultimately lead to a Nazi victory in World War II, forcing Kirk into an impossible position where his duty to history and billions of lives conflicts directly with his feelings for her.",
-      "StartingPoint": "Initially, Kirk approaches Keeler as part of the environment he must navigate to survive in the past and locate McCoy. Her intelligence, curiosity, and forward-looking ideals quickly distinguish her from others around them. As Kirk and Spock work on their equipment in her mission, Keeler offers them employment, trust, and a sense of community that eases the dislocation of being trapped in another time. Kirk\u2019s attraction grows as he sees how her vision of humanity\u2019s future aligns with Starfleet\u2019s ideals, making her feel like someone who truly belongs in his world, despite the chronological gulf between them.",
-      "Evolution": "As Kirk falls in love with Keeler, he begins to imagine staying with her in the past, or at least struggles with the idea of returning to his own time without her. The revelation that her survival will lead to a devastating alteration of history shatters that possibility. In the final act, Kirk is forced to allow events to unfold as they originally did, physically restraining McCoy from saving Keeler\u2019s life. The choice leaves Kirk emotionally devastated, having sacrificed a deeply personal happiness for the sake of the timeline and the greater good. The experience reinforces how heavy the burden of command can be when abstract duty collides with intimate, human connection.",
+      "Overview": "Kirk’s relationship with Edith Keeler in “The City on the Edge of Forever” is one of the most poignant romances in Star Trek. Stranded in 1930s New York after a time-travel accident, Kirk meets Keeler, a compassionate social worker whose optimism and pacifist beliefs impress him. Unlike many of his more casual relationships, this connection develops slowly and sincerely, revealing a side of Kirk that can imagine a life outside Starfleet. However, the mission’s stakes make their love story tragically unsustainable: Keeler’s survival would alter history and ultimately lead to a Nazi victory in World War II, forcing Kirk into an impossible position where his duty to history and billions of lives conflicts directly with his feelings for her.",
+      "StartingPoint": "Initially, Kirk approaches Keeler as part of the environment he must navigate to survive in the past and locate McCoy. Her intelligence, curiosity, and forward-looking ideals quickly distinguish her from others around them. As Kirk and Spock work on their equipment in her mission, Keeler offers them employment, trust, and a sense of community that eases the dislocation of being trapped in another time. Kirk’s attraction grows as he sees how her vision of humanity’s future aligns with Starfleet’s ideals, making her feel like someone who truly belongs in his world, despite the chronological gulf between them.",
+      "Evolution": "As Kirk falls in love with Keeler, he begins to imagine staying with her in the past, or at least struggles with the idea of returning to his own time without her. The revelation that her survival will lead to a devastating alteration of history shatters that possibility. In the final act, Kirk is forced to allow events to unfold as they originally did, physically restraining McCoy from saving Keeler’s life. The choice leaves Kirk emotionally devastated, having sacrificed a deeply personal happiness for the sake of the timeline and the greater good. The experience reinforces how heavy the burden of command can be when abstract duty collides with intimate, human connection.",
       "KeyThemes": [
         "Sacrifice for the greater good",
         "Love and duty",
@@ -547,14 +547,14 @@
           "EpisodeID": "toss1e28",
           "EpisodeTitle": "The City on the Edge of Forever",
           "Role": "Complete arc",
-          "TrajectoryNote": "Kirk\u2019s entire relationship with Edith Keeler\u2014from first meeting to heartbreaking loss\u2014plays out within this single story, leaving a lasting mark on his understanding of what duty can demand."
+          "TrajectoryNote": "Kirk’s entire relationship with Edith Keeler—from first meeting to heartbreaking loss—plays out within this single story, leaving a lasting mark on his understanding of what duty can demand."
         }
       ],
       "NotableMoments": [
         {
           "EpisodeID": "toss1e28",
           "EpisodeTitle": "The City on the Edge of Forever",
-          "Description": "Kirk and Keeler\u2019s quiet conversations about the future and humanity\u2019s potential show how deeply he connects with her ideals, making the eventual sacrifice far more painful."
+          "Description": "Kirk and Keeler’s quiet conversations about the future and humanity’s potential show how deeply he connects with her ideals, making the eventual sacrifice far more painful."
         },
         {
           "EpisodeID": "toss1e28",
