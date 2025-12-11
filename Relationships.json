@@ -2568,5 +2568,773 @@
         ]
       }
     ]
+  },
+  {
+    "CharacterID": "Sisko",
+    "Name": "Benjamin Sisko",
+    "Series": [
+      "DS9"
+    ],
+    "Meta": "Commanding officer of Deep Space 9; Emissary of the Prophets",
+    "Relationships": [
+      {
+        "RelationshipID": "Sisko-Jake",
+        "Name": "Benjamin Sisko and Jake Sisko",
+        "Series": [
+          "DS9"
+        ],
+        "RelationshipType": [
+          "Father and son",
+          "Family at the station\u2019s heart"
+        ],
+        "People": [
+          {
+            "Character": "Benjamin Sisko",
+            "BioID": "Sisko"
+          },
+          {
+            "Character": "Jake Sisko",
+            "BioID": "JakeSisko"
+          }
+        ],
+        "Overview": "From Benjamin Sisko\u2019s point of view, his relationship with Jake is the single fixed point in a life defined by war, politics and prophecy. Jake is the reason he accepts the assignment to Deep Space 9 instead of fleeing Starfleet after Wolf 359; the station may be his post, but Jake is his home. Every choice Sisko makes about the Bajoran sector, the Dominion War and even his own role as Emissary is filtered, at least in part, through the question of what kind of future he is creating for his son. Their bond grounds Sisko in ordinary joys\u2014baseball, shared meals, quiet conversations\u2014amid forces that keep trying to turn him into a symbol rather than a man.",
+        "StartingPoint": "When Sisko arrives on Deep Space 9, he is still raw from Jennifer\u2019s death, and Jake is a living reminder of both his loss and his responsibility. He worries that dragging his son to a battered former Cardassian station on the edge of a wormhole is unfair, yet he also believes that staying together is non-negotiable. Early scenes of them exploring the Promenade, talking about school and negotiating holosuite time show Sisko learning to be a single parent in a hostile environment. He insists that Jake call him \u2018sir\u2019 in public but relaxes into \u2018Dad\u2019 in private, drawing a line between his role as commanding officer and his role as father. Even before Bajor accepts him as Emissary, Jake accepts him as the center of his universe, and Sisko clings to that uncomplicated trust.",
+        "Evolution": "As Jake grows into a teenager and then a young man, Sisko must repeatedly adjust his instincts. He wants to protect Jake from the worst of Bajoran politics and the Dominion threat, but Jake\u2019s decision to become a writer and war correspondent pulls him toward the very dangers Sisko most fears. Episodes that separate them\u2014whether through subspace anomalies, wartime assignments or alternate timelines\u2014force Sisko to confront how much of his identity is wrapped up in being Jake\u2019s father. In the haunting future Jake creates in \u2018The Visitor,\u2019 Sisko gets a glimpse of the cost his absence would exact, not just on the Federation but on one young man\u2019s life. That knowledge deepens his resolve to be present whenever he can, to listen when Jake challenges his decisions, and to treat his son\u2019s calling as real work, not a hobby. By the end of the series, even as Sisko steps into a destiny that takes him away, he does so with a promise\u2014spoken and unspoken\u2014that he will not abandon Jake forever. The awareness of Jake waiting on the station remains his strongest tie back to linear time.",
+        "KeyThemes": [
+          "Parenting in a war zone",
+          "Grief and rebuilding after loss",
+          "Letting a child choose his own path",
+          "Ordinary love in extraordinary circumstances"
+        ],
+        "KeyEpisodes": [
+          {
+            "EpisodeID": "ds9s1e1",
+            "EpisodeTitle": "Emissary",
+            "Role": "Starting over together",
+            "TrajectoryNote": "Sisko\u2019s decision to take the DS9 post with Jake, and his insistence on giving his son a stable life on the station, sets the foundation for their bond."
+          },
+          {
+            "EpisodeID": "ds9s3e22",
+            "EpisodeTitle": "Explorers",
+            "Role": "Shared adventure",
+            "TrajectoryNote": "The Bajoran lightship voyage becomes a rare moment where Sisko can simply be Jake\u2019s father, unburdened by politics, deepening their sense of mutual trust."
+          },
+          {
+            "EpisodeID": "ds9s4e3",
+            "EpisodeTitle": "The Visitor",
+            "Role": "The cost of losing him",
+            "TrajectoryNote": "In an alternate future shaped by Sisko\u2019s apparent death, he witnesses how Jake\u2019s entire life is warped by grief, reinforcing Sisko\u2019s understanding of his importance to his son."
+          },
+          {
+            "EpisodeID": "ds9s5e25",
+            "EpisodeTitle": "In the Cards",
+            "Role": "Family amid looming war",
+            "TrajectoryNote": "As Jake schemes to cheer his father up with a vintage baseball card, Sisko sees how much his own morale affects his son and the station\u2019s emotional climate."
+          }
+        ],
+        "NotableMoments": [
+          {
+            "EpisodeID": "ds9s3e22",
+            "EpisodeTitle": "Explorers",
+            "Description": "Listening to Jake confess that he wants to be a writer, not a Starfleet officer, Sisko feels a moment of disappointment give way to pride as he realizes his son is brave enough to chart his own course."
+          },
+          {
+            "EpisodeID": "ds9s4e3",
+            "EpisodeTitle": "The Visitor",
+            "Description": "Seeing the older Jake prepared to sacrifice his own life to free him from a temporal trap, Sisko understands with painful clarity how deeply their lives are entwined."
+          }
+        ]
+      },
+      {
+        "RelationshipID": "Sisko-Kira",
+        "Name": "Benjamin Sisko and Kira Nerys",
+        "Series": [
+          "DS9"
+        ],
+        "RelationshipType": [
+          "Commander and first officer",
+          "Faith and politics"
+        ],
+        "People": [
+          {
+            "Character": "Benjamin Sisko",
+            "BioID": "Sisko"
+          },
+          {
+            "Character": "Kira Nerys",
+            "BioID": "Kira"
+          }
+        ],
+        "Overview": "Sisko\u2019s relationship with Kira begins as an uneasy alliance between a Starfleet officer and a former resistance fighter and grows into a partnership built on hard-earned respect. To Sisko, Kira represents Bajor\u2019s trauma and its fierce desire to stay free; she is never shy about telling him when his orders or Federation assumptions conflict with what Bajor needs. Over time, he comes to rely on her uncompromising honesty as a compass, even when it means hearing that he is wrong.",
+        "StartingPoint": "When Sisko first arrives, Kira makes it clear that she does not want Starfleet there. Her loyalty is to Bajor, not to the Federation, and she tells him so in blunt terms. Sisko recognizes in her the same intensity he once felt as a young officer in crisis; rather than push her out, he decides to win her trust by listening. Early conflicts over Bajoran politics, Militia loyalty and how to deal with old resistance comrades force Sisko to choose between imposing Starfleet authority and working through Kira to understand local realities. His choice to back her play more often than not signals to Kira that he is not just another occupier with a different uniform.",
+        "Evolution": "As Bajor edges toward Federation membership and then is pulled into the Dominion War, Sisko and Kira\u2019s relationship becomes one of mutual dependence. He needs her insight into Bajoran religion and politics; she needs his stability when prophets and politicians alike demand impossible things. When Sisko is hailed as the Emissary, Kira\u2019s faith puts her in a complicated position: she must reconcile her military chain of command with a spiritual hierarchy that places her former skeptic of a CO at the center. Sisko responds by refusing to exploit that reverence, repeatedly asking Kira to treat him as \u2018just a man\u2019 even when prophecy says otherwise. Their shared experiences\u2014defending the station, retaking it from the Dominion, navigating coups and cults\u2014forge a trust that allows for genuine disagreement without rupture. By the end, Sisko sees Kira as the person best suited to hold DS9 and Bajor together in his absence, a testament to how fully she has become his partner rather than his subordinate.",
+        "KeyThemes": [
+          "Colonial politics and shared command",
+          "Faith intersecting with chain of command",
+          "Trust built through disagreement",
+          "Preparing a successor"
+        ],
+        "KeyEpisodes": [
+          {
+            "EpisodeID": "ds9s1e1",
+            "EpisodeTitle": "Emissary",
+            "Role": "Clashing loyalties",
+            "TrajectoryNote": "Kira\u2019s blunt opposition to Starfleet\u2019s presence forces Sisko to address Bajoran resentment honestly rather than pretend that his command is universally welcome."
+          },
+          {
+            "EpisodeID": "ds9s2e1",
+            "EpisodeTitle": "The Homecoming",
+            "Role": "Backing her resistance ties",
+            "TrajectoryNote": "Sisko\u2019s willingness to support Kira\u2019s risky mission to rescue a Bajoran hero shows that he trusts her judgment even when it leads into messy local politics."
+          },
+          {
+            "EpisodeID": "ds9s6e6",
+            "EpisodeTitle": "Sacrifice of Angels",
+            "Role": "Shared liberation of the station",
+            "TrajectoryNote": "The joint effort to retake DS9 from Dominion control cements their partnership as co-defenders of Bajor and the wormhole."
+          },
+          {
+            "EpisodeID": "ds9s7e25",
+            "EpisodeTitle": "What You Leave Behind",
+            "Role": "Passing the torch",
+            "TrajectoryNote": "Sisko\u2019s effective handoff of the station to Kira reflects his confidence that she can balance Bajoran needs and Federation responsibilities without him."
+          }
+        ],
+        "NotableMoments": [
+          {
+            "EpisodeID": "ds9s2e3",
+            "EpisodeTitle": "The Siege",
+            "Description": "Holding DS9 against a Bajoran coup alongside Kira, Sisko risks his career to stand with her and with the provisional government\u2019s fragile legitimacy."
+          },
+          {
+            "EpisodeID": "ds9s7e25",
+            "EpisodeTitle": "What You Leave Behind",
+            "Description": "In one of their final scenes together, Sisko\u2019s quiet, trusting look as Kira assumes command shows how far they have traveled from reluctant colleagues to true partners."
+          }
+        ]
+      },
+      {
+        "RelationshipID": "Sisko-Dax",
+        "Name": "Benjamin Sisko and Dax (Jadzia and Ezri)",
+        "Series": [
+          "DS9"
+        ],
+        "RelationshipType": [
+          "Old friendship renewed",
+          "Spiritual and command support"
+        ],
+        "People": [
+          {
+            "Character": "Benjamin Sisko",
+            "BioID": "Sisko"
+          },
+          {
+            "Character": "Jadzia Dax",
+            "BioID": "JadziaDax"
+          },
+          {
+            "Character": "Ezri Dax",
+            "BioID": "EzriDax"
+          }
+        ],
+        "Overview": "For Sisko, Dax is the rare friend who bridges his past and present lives. Through Curzon, Dax helped shape the young officer Sisko once was; through Jadzia and later Ezri, that same symbiont becomes his peer, advisor and confidant on Deep Space 9. Sisko\u2019s insistence on calling Jadzia \u2018Old Man\u2019 signals how little he cares about outward form: to him, Dax is Dax, a continuous presence who can tease him, challenge him and, when necessary, remind the Emissary that he is still just Ben.",
+        "StartingPoint": "Meeting Jadzia on DS9 is disorienting for Sisko. He is prepared to see his old mentor Curzon again; instead he finds a young Trill science officer carrying Curzon\u2019s memories. Once the initial surprise fades, Sisko quickly slips into old rhythms: he jokes, confides and spars with Jadzia as if picking up a conversation paused mid-sentence. Her easy familiarity with his history and her willingness to call him out when he is being stubborn make her invaluable as he adjusts to command, parenthood on the station and his emerging role as Emissary.",
+        "Evolution": "With Jadzia, Sisko balances nostalgia with present-day respect. He trusts her scientific judgment in crises involving the wormhole and temporal anomalies, and he leans on her social insight when Bajoran politics or Klingon rituals intersect with his responsibilities. Her death devastates him; losing Jadzia means losing both a beloved officer and the living link to Curzon. When Ezri arrives, unprepared for joining, Sisko wrestles with his grief and confusion. He wants the comfort of his \u2018Old Man\u2019 but recognizes that Ezri is a new person who needs space to define herself. Over time, he comes to value Ezri\u2019s fresh perspective and counsel, especially as the Dominion War reaches its climax and his role as Emissary becomes heavier. Across hosts, Dax remains one of the few people who can speak to Sisko as both captain and friend, reminding him that the man Ben Sisko matters as much as the titles he carries.",
+        "KeyThemes": [
+          "Friendship across lifetimes",
+          "Balancing past and present identities",
+          "Support during spiritual and political crises",
+          "Grief and adaptation after loss"
+        ],
+        "KeyEpisodes": [
+          {
+            "EpisodeID": "ds9s1e8",
+            "EpisodeTitle": "Dax",
+            "Role": "Defending the Old Man",
+            "TrajectoryNote": "Sisko\u2019s determination to protect Jadzia from extradition reflects his long history with Dax and his belief that identity cannot be reduced to one lifetime\u2019s crimes."
+          },
+          {
+            "EpisodeID": "ds9s4e7",
+            "EpisodeTitle": "Little Green Men",
+            "Role": "Shared misadventure",
+            "TrajectoryNote": "Lighter episodes like this one show Sisko and Jadzia enjoying the kind of relaxed camaraderie rarely afforded to a station commander."
+          },
+          {
+            "EpisodeID": "ds9s6e26",
+            "EpisodeTitle": "Tears of the Prophets",
+            "Role": "Losing Jadzia",
+            "TrajectoryNote": "Jadzia\u2019s death and the closing of the wormhole deal Sisko a double blow, intensifying his sense of isolation as both Emissary and commander."
+          },
+          {
+            "EpisodeID": "ds9s7e2",
+            "EpisodeTitle": "Shadows and Symbols",
+            "Role": "Meeting Ezri and restoration",
+            "TrajectoryNote": "Encountering Ezri and restoring contact with the Prophets mark a turning point in Sisko\u2019s grieving process and his evolving bond with Dax."
+          }
+        ],
+        "NotableMoments": [
+          {
+            "EpisodeID": "ds9s1e1",
+            "EpisodeTitle": "Emissary",
+            "Description": "Sisko\u2019s delighted reaction to realizing that the poised young science officer is actually \u2018Old Man\u2019 Dax reveals how deeply Curzon\u2019s friendship still lives in him."
+          },
+          {
+            "EpisodeID": "ds9s7e2",
+            "EpisodeTitle": "Shadows and Symbols",
+            "Description": "As Ezri struggles with her new identity, Sisko\u2019s mixture of awkwardness and affection shows his effort to honor both the Dax he knew and the person Ezri is becoming."
+          }
+        ]
+      },
+      {
+        "RelationshipID": "Sisko-Kasidy",
+        "Name": "Benjamin Sisko and Kasidy Yates",
+        "Series": [
+          "DS9"
+        ],
+        "RelationshipType": [
+          "Romantic partnership",
+          "Civilian and Starfleet"
+        ],
+        "People": [
+          {
+            "Character": "Benjamin Sisko",
+            "BioID": "Sisko"
+          },
+          {
+            "Character": "Kasidy Yates",
+            "BioID": "KasidyYates"
+          }
+        ],
+        "Overview": "Sisko experiences his relationship with Kasidy Yates as a second chance at building a family life he thought he had lost with Jennifer. Kasidy is not a Starfleet officer; she is an independent freighter captain with her own responsibilities, opinions and moral lines. That independence attracts Sisko and unnerves him. With her, he cannot retreat behind rank or protocol\u2014she expects honesty, compromise and a willingness to treat her as an equal partner, even when their duties pull them in opposite directions.",
+        "StartingPoint": "Their relationship begins with small, almost ordinary moments: baseball games, shared meals, quiet walks on the Promenade. Sisko is hesitant at first, wary of letting someone new into the life he has built around Jake and the station. Kasidy\u2019s warmth, humor and refusal to be intimidated by the \u2018Emissary\u2019 gradually wear down his defenses. He finds himself looking forward to her visits and to Jake\u2019s obvious approval. The fact that she has her own ship and career is both a relief\u2014she understands the demands of space work\u2014and a warning sign that neither of them will be able to prioritize the relationship all the time.",
+        "Evolution": "The revelation that Kasidy has been smuggling supplies for the Maquis nearly ends everything. Sisko feels betrayed not only as a Starfleet officer but as someone who believed they shared core values. Turning her in is one of the hardest choices he makes, yet he does it because he cannot separate his duty from his personal life. When Kasidy returns from prison and chooses to rebuild their relationship, Sisko must confront his own capacity for forgiveness and vulnerability. Over time, they find a rhythm that accommodates both her civilian independence and his intertwined roles as captain and Emissary. Marrying Kasidy, despite the Prophets\u2019 dark warning about his future, is a decisive moment: Sisko chooses to embrace love and domestic hope even knowing it will complicate his destiny. For him, Kasidy represents the possibility that he can be both a mythic figure to Bajor and a husband who worries about schedules, shipments and family dinners.",
+        "KeyThemes": [
+          "Love after loss",
+          "Duty versus personal loyalty",
+          "Trust rebuilt after betrayal",
+          "Balancing prophecy with personal choice"
+        ],
+        "KeyEpisodes": [
+          {
+            "EpisodeID": "ds9s4e11",
+            "EpisodeTitle": "Homefront",
+            "Role": "Early connection and separation",
+            "TrajectoryNote": "Sisko\u2019s budding relationship with Kasidy is interrupted by his recall to Earth, highlighting how Starfleet demands repeatedly intrude on his personal life."
+          },
+          {
+            "EpisodeID": "ds9s4e22",
+            "EpisodeTitle": "For the Cause",
+            "Role": "Betrayal and duty",
+            "TrajectoryNote": "Discovering Kasidy\u2019s Maquis smuggling forces Sisko to choose between his feelings and his responsibilities, straining their bond to the breaking point."
+          },
+          {
+            "EpisodeID": "ds9s7e17",
+            "EpisodeTitle": "Penumbra",
+            "Role": "Commitment under a shadow",
+            "TrajectoryNote": "Despite prophetic warnings, Sisko proposes to Kasidy, signaling his decision to prioritize the life they can build together over his fears about destiny."
+          },
+          {
+            "EpisodeID": "ds9s7e18",
+            "EpisodeTitle": "\u2019Til Death Do Us Part",
+            "Role": "Marriage and prophecy",
+            "TrajectoryNote": "Their wedding, carried out in the face of ominous visions, crystallizes Sisko\u2019s belief that embracing love is itself part of the path the Prophets intend."
+          }
+        ],
+        "NotableMoments": [
+          {
+            "EpisodeID": "ds9s4e22",
+            "EpisodeTitle": "For the Cause",
+            "Description": "Confronting Kasidy about her Maquis activities, Sisko\u2019s hurt is palpable; turning her in feels like tearing out a piece of the normal life he had begun to imagine."
+          },
+          {
+            "EpisodeID": "ds9s7e18",
+            "EpisodeTitle": "\u2019Til Death Do Us Part",
+            "Description": "Standing with Kasidy at their wedding, Sisko chooses to accept joy and uncertainty together rather than retreat into the safety of solitary duty."
+          }
+        ]
+      },
+      {
+        "RelationshipID": "Sisko-Dukat",
+        "Name": "Benjamin Sisko and Gul Dukat",
+        "Series": [
+          "DS9"
+        ],
+        "RelationshipType": [
+          "Hero and dark mirror",
+          "Obsession and destiny"
+        ],
+        "People": [
+          {
+            "Character": "Benjamin Sisko",
+            "BioID": "Sisko"
+          },
+          {
+            "Character": "Gul Dukat",
+            "BioID": "Dukat"
+          }
+        ],
+        "Overview": "Sisko\u2019s relationship with Dukat is a prolonged confrontation with the kind of man he might have become under different circumstances: charismatic, capable and utterly willing to rewrite history to cast himself as the hero. To Sisko, Dukat embodies the worst of Cardassian occupation\u2014its cruelty, its self-justifications and its lingering claim over Bajor. Over time, their conflict escalates beyond military opposition into something intensely personal and eventually spiritual, as Dukat aligns himself with the Pah-wraiths as a dark counterpoint to Sisko\u2019s role with the Prophets.",
+        "StartingPoint": "Early encounters cast Dukat as the smug former prefect of Bajor, eager to appear reasonable while deflecting responsibility for atrocities. Sisko recognizes the danger in Dukat\u2019s charm: he is a man who genuinely believes he tried to be \u2018kind\u2019 as an occupier, and who expects gratitude for marginal mercies. While Sisko can acknowledge Dukat\u2019s tactical skill and occasional usefulness, he never forgets that this is the man who oversaw Bajor\u2019s suffering. The discovery that Dukat\u2019s daughter Ziyal is alive complicates matters; seeing Dukat\u2019s genuine love for her forces Sisko to confront the unsettling fact that monstrous political choices can coexist with real personal affection.",
+        "Evolution": "As the Dominion War intensifies, Dukat\u2019s arc bends from uneasy ally to open enemy. His command of the Dominion/Cardassian forces during the occupation of DS9 and his gloating over Bajor\u2019s jeopardy harden Sisko\u2019s resolve to stop him at any cost. The destruction of the Klingon fleet, the loss and eventual retaking of the station, and Jadzia\u2019s death in the temple all deepen Sisko\u2019s sense that Dukat is not just another adversary but a focal point of malevolent will in the quadrant. Their psychological confrontation in \u2018Waltz\u2019 strips away pretense: alone with a wounded Dukat, Sisko witnesses the full extent of his delusion and hatred. By the time Dukat becomes a vessel for the Pah-wraiths, Sisko understands that their struggle has moved onto mythic ground. Their final battle in the Fire Caves is not just captain versus war criminal, but Emissary versus false prophet, and Sisko accepts that ending Dukat\u2019s threat may require sacrificing his own place in linear time.",
+        "KeyThemes": [
+          "Confronting evil that believes it is good",
+          "Occupation, collaboration and historical memory",
+          "Personalizing the enemy in war",
+          "Mythic escalation of political conflict"
+        ],
+        "KeyEpisodes": [
+          {
+            "EpisodeID": "ds9s4e5",
+            "EpisodeTitle": "Indiscretion",
+            "Role": "Dukat\u2019s divided loyalties",
+            "TrajectoryNote": "Sisko\u2019s later knowledge of Dukat\u2019s choices regarding Ziyal colors his understanding of a man who can show tenderness toward one Bajoran while brutalizing millions."
+          },
+          {
+            "EpisodeID": "ds9s6e6",
+            "EpisodeTitle": "Sacrifice of Angels",
+            "Role": "Occupation and loss",
+            "TrajectoryNote": "The Dominion\u2019s seizure of DS9 under Dukat\u2019s command, and the subsequent liberation, frame their conflict as a struggle for the station\u2019s and Bajor\u2019s soul."
+          },
+          {
+            "EpisodeID": "ds9s6e11",
+            "EpisodeTitle": "Waltz",
+            "Role": "Psychological unmasking",
+            "TrajectoryNote": "Stranded with Dukat, Sisko witnesses his enemy\u2019s descent into open madness and genocidal hatred, erasing any lingering ambiguity about Dukat\u2019s nature."
+          },
+          {
+            "EpisodeID": "ds9s7e25",
+            "EpisodeTitle": "What You Leave Behind",
+            "Role": "Final confrontation",
+            "TrajectoryNote": "Their battle in the Fire Caves, culminating in Dukat\u2019s defeat and Sisko\u2019s passage to the Prophets, resolves their intertwined destinies on a spiritual plane."
+          }
+        ],
+        "NotableMoments": [
+          {
+            "EpisodeID": "ds9s6e11",
+            "EpisodeTitle": "Waltz",
+            "Description": "Listening to Dukat rant about Bajorans as \u2018ungrateful,\u2019 Sisko realizes that his enemy\u2019s need to be loved by those he oppressed is as dangerous as his capacity for violence."
+          },
+          {
+            "EpisodeID": "ds9s7e25",
+            "EpisodeTitle": "What You Leave Behind",
+            "Description": "Sisko\u2019s decision to tackle Dukat into the abyss with the Pah-wraiths is both a tactical move and a personal acceptance that their conflict can only end with one of them removed from the universe."
+          }
+        ]
+      },
+      {
+        "RelationshipID": "Sisko-KaiWinn",
+        "Name": "Benjamin Sisko and Kai Winn",
+        "Series": [
+          "DS9"
+        ],
+        "RelationshipType": [
+          "Emissary vs religious authority",
+          "Church and state tension"
+        ],
+        "People": [
+          {
+            "Character": "Benjamin Sisko",
+            "BioID": "Sisko"
+          },
+          {
+            "Character": "Kai Winn Adami",
+            "BioID": "KaiWinn"
+          }
+        ],
+        "Overview": "From Sisko\u2019s perspective, his relationship with Kai Winn is a constant negotiation between his duty as a Starfleet officer, his role as Emissary and his personal distrust of her ambition. Winn claims to serve the Prophets and Bajor, but Sisko repeatedly sees her prioritize her own power and image. Their interactions force him to grapple with the fact that being the Emissary means working alongside religious leaders whose motives are far from pure, even when they speak in the Prophets\u2019 name.",
+        "StartingPoint": "Winn enters Sisko\u2019s life as a firebrand Vedek attacking the Federation\u2019s influence in Bajoran schools. Sisko quickly realizes that she is dangerous not because she is a fanatic, but because she knows how to harness fear and resentment for political gain. When she becomes Kai, Sisko watches Bajor place immense spiritual authority in the hands of someone he does not trust. Yet he cannot simply oppose her; as Emissary, undermining the Kai could destabilize Bajor\u2019s fragile unity. From the start, Sisko\u2019s dealings with Winn are marked by a careful balance of politeness, skepticism and strategic cooperation.",
+        "Evolution": "Over the years, Sisko and Winn clash over everything from school curricula to treaties and prophecies. He sees flashes of genuine faith in her\u2014moments when she seems to long for a real encounter with the Prophets\u2014but those moments are consistently undercut by her jealousy of his role as Emissary. Winn\u2019s inability to accept that the Prophets chose a non-Bajoran leads her into increasingly dark alliances, ultimately with Dukat and the Pah-wraiths. Sisko watches this progression with mounting sorrow and anger: she could have been a powerful ally for Bajor and for him, but she persistently chooses self over service. In the end, her attempt to seize the fire of the Pah-wraiths and her death in the Fire Caves confirm Sisko\u2019s long-held suspicion that Winn\u2019s faith was always in her own importance first. For Sisko, she becomes a tragic example of how religious office can be corrupted when humility is absent.",
+        "KeyThemes": [
+          "Religious authority versus prophetic calling",
+          "Jealousy of divine favor",
+          "Political opportunism cloaked in faith",
+          "The cost of spiritual corruption"
+        ],
+        "KeyEpisodes": [
+          {
+            "EpisodeID": "ds9s1e20",
+            "EpisodeTitle": "In the Hands of the Prophets",
+            "Role": "First major clash",
+            "TrajectoryNote": "Winn\u2019s agitation over Federation teachings in Bajoran schools reveals both her political skill and her willingness to inflame tensions for advantage."
+          },
+          {
+            "EpisodeID": "ds9s5e10",
+            "EpisodeTitle": "Rapture",
+            "Role": "Competing interpretations",
+            "TrajectoryNote": "As Sisko\u2019s visions intensify, Winn must face the reality that the Prophets speak directly to the Emissary in ways they do not to her, deepening her resentment."
+          },
+          {
+            "EpisodeID": "ds9s7e21",
+            "EpisodeTitle": "When It Rains...",
+            "Role": "Alliance with Dukat",
+            "TrajectoryNote": "Winn\u2019s secret alliance with Dukat and the Pah-wraiths marks her final break with the path Sisko represents."
+          },
+          {
+            "EpisodeID": "ds9s7e25",
+            "EpisodeTitle": "What You Leave Behind",
+            "Role": "Fall from grace",
+            "TrajectoryNote": "Winn\u2019s last-minute attempt to thwart Dukat in the Fire Caves comes too late; her death completes the arc of a leader destroyed by envy and ambition."
+          }
+        ],
+        "NotableMoments": [
+          {
+            "EpisodeID": "ds9s1e20",
+            "EpisodeTitle": "In the Hands of the Prophets",
+            "Description": "Sisko\u2019s firm defense of Keiko\u2019s school, delivered with measured calm in the face of Winn\u2019s pressure, sets the tone for how he will resist religious coercion in public life."
+          },
+          {
+            "EpisodeID": "ds9s5e10",
+            "EpisodeTitle": "Rapture",
+            "Description": "Lying in the infirmary after his visions, Sisko sees the mix of awe and jealousy in Winn\u2019s eyes and understands that his role as Emissary threatens her sense of authority."
+          }
+        ]
+      },
+      {
+        "RelationshipID": "Sisko-Prophets",
+        "Name": "Benjamin Sisko and the Prophets",
+        "Series": [
+          "DS9"
+        ],
+        "RelationshipType": [
+          "Emissary and non-linear beings",
+          "Reluctant faith"
+        ],
+        "People": [
+          {
+            "Character": "Benjamin Sisko",
+            "BioID": "Sisko"
+          },
+          {
+            "Character": "The Prophets",
+            "BioID": "Prophets"
+          }
+        ],
+        "Overview": "Sisko\u2019s relationship with the Prophets is a journey from resentment to reluctant acceptance to genuine, if complex, faith. At first, he sees them as wormhole aliens whose strange temporal perception interferes with his mission and reopens the wound of Jennifer\u2019s death. As Bajor names him Emissary, he resists being turned into a religious figure. Over time, however, repeated encounters force him to admit that the Prophets have a real, personal interest in him and in Bajor, and that his life has been intertwined with theirs from the start.",
+        "StartingPoint": "In his first encounter in the wormhole, Sisko struggles to explain linear existence to beings who do not experience time as he does. The Prophets, in turn, force him to confront the moment of Jennifer\u2019s death at Wolf 359, making him realize how stuck he has been in that trauma. He leaves the encounter angry but changed, aware that these entities are not simply scientific curiosities. When Bajor proclaims him Emissary, Sisko balks at the title; he is a Starfleet commander, not a religious icon. Yet he cannot deny that the Prophets chose to communicate with him, not a Bajoran priest, and that their guidance continues to shape events around the station.",
+        "Evolution": "As seasons pass, visions, prophecies and direct interventions by the Prophets draw Sisko deeper into their designs. They give him warnings about Bajor\u2019s future, protect the planet by erasing an invading fleet, and send cryptic messages that often seem designed to test his trust. Sisko vacillates between frustration at their opacity and awe at their power. Discovering that his conception was influenced by a Prophet adds a new layer: he is not just chosen by them, he is partly of them. This revelation complicates his sense of free will, but it also clarifies why he feels a unique connection to the wormhole and Bajor. By the end of the war, Sisko accepts that his path leads through sacrifice; his leap into the Fire Caves to stop Dukat and the Pah-wraiths is both a tactical decision and an act of faith. Living with the Prophets outside linear time, he remains aware of those he left behind, especially Jake and Kasidy, and the promise that he will \u2018return\u2019 someday reflects the ongoing, paradoxical nature of his bond with both the Prophets and the people of Bajor.",
+        "KeyThemes": [
+          "Grief transformed into vocation",
+          "Free will versus destiny",
+          "Science officer turned spiritual figure",
+          "Hybrid identity between human and Prophet"
+        ],
+        "KeyEpisodes": [
+          {
+            "EpisodeID": "ds9s1e1",
+            "EpisodeTitle": "Emissary",
+            "Role": "First contact and calling",
+            "TrajectoryNote": "Sisko\u2019s initial confrontation with the Prophets begins his transformation from reluctant commander to spiritual figure, even as he resists the implications."
+          },
+          {
+            "EpisodeID": "ds9s5e10",
+            "EpisodeTitle": "Rapture",
+            "Role": "Overwhelming visions",
+            "TrajectoryNote": "Prophet-induced visions nearly kill Sisko while giving him crucial insight into Bajor\u2019s future, forcing him to weigh his duty against his family\u2019s fear."
+          },
+          {
+            "EpisodeID": "ds9s6e6",
+            "EpisodeTitle": "Sacrifice of Angels",
+            "Role": "Intervention in war",
+            "TrajectoryNote": "The Prophets\u2019 removal of the Dominion fleet, in response to Sisko\u2019s plea, underscores the scale of their power and the depth of their investment in him."
+          },
+          {
+            "EpisodeID": "ds9s7e1",
+            "EpisodeTitle": "Image in the Sand",
+            "Role": "Revelation of origins",
+            "TrajectoryNote": "Learning that a Prophet influenced his birth forces Sisko to reframe his entire life as part of a larger non-linear design."
+          },
+          {
+            "EpisodeID": "ds9s7e25",
+            "EpisodeTitle": "What You Leave Behind",
+            "Role": "Joining the Prophets",
+            "TrajectoryNote": "Sisko\u2019s final act in the Fire Caves and his subsequent existence with the Prophets fulfill his role as Emissary while leaving open the promise of return."
+          }
+        ],
+        "NotableMoments": [
+          {
+            "EpisodeID": "ds9s1e1",
+            "EpisodeTitle": "Emissary",
+            "Description": "When the Prophets force Sisko to relive Wolf 359 until he acknowledges that he is still living in that moment, he realizes that their questions cut deeper than any counselor\u2019s."
+          },
+          {
+            "EpisodeID": "ds9s5e10",
+            "EpisodeTitle": "Rapture",
+            "Description": "After choosing to end his visions to survive for Jake\u2019s sake, Sisko accepts that even as Emissary he must sometimes step back from the Prophets\u2019 pull to honor his human ties."
+          }
+        ]
+      },
+      {
+        "RelationshipID": "Sisko-Section31",
+        "Name": "Benjamin Sisko and Section 31 (via Luther Sloan)",
+        "Series": [
+          "DS9"
+        ],
+        "RelationshipType": [
+          "Federation and its shadow",
+          "Ethics under existential threat"
+        ],
+        "People": [
+          {
+            "Character": "Benjamin Sisko",
+            "BioID": "Sisko"
+          },
+          {
+            "Character": "Luther Sloan",
+            "BioID": "Sloan"
+          }
+        ],
+        "Overview": "Sisko\u2019s limited but telling encounters with Section 31, largely through Luther Sloan\u2019s manipulation of Julian Bashir, force him to confront the darkest corners of the Federation he serves. He has always believed that Starfleet stands for a higher ideal than its enemies; Section 31\u2019s existence challenges that belief by suggesting that the Federation\u2019s safety has been secured, at times, through covert atrocities and unaccountable power.",
+        "StartingPoint": "When Bashir first reports his abduction and recruitment attempt by Section 31, Sisko reacts with a mixture of disbelief and anger. The idea that there exists a clandestine organization operating outside Starfleet\u2019s chain of command and oversight violates everything he has been taught. Yet the documentary evidence is hard to ignore. Sisko\u2019s initial response is to treat Section 31 as a threat to be monitored and, if possible, dismantled, not as a tool to be quietly accepted.",
+        "Evolution": "As the Dominion War grinds on, Sisko sees more of Section 31\u2019s handiwork, particularly in the engineered disease that nearly wipes out the Founders. He is horrified by the idea that genocide might be committed in the Federation\u2019s name without public knowledge or consent. At the same time, he cannot deny that the war has pushed everyone, including himself, toward choices they never imagined making. Having already crossed his own lines in the \u2018In the Pale Moonlight\u2019 conspiracy, Sisko recognizes in Section 31 a version of the Federation unrestrained by the remorse that still haunts him. His dealings with Sloan and the fallout from Section 31\u2019s actions leave Sisko with a bitter but clear understanding: the ideals he fights for are real, but they must be defended not only from external enemies, but from those within who would sacrifice them in the name of security.",
+        "KeyThemes": [
+          "Security versus principle",
+          "The shadow side of utopia",
+          "Accountability in wartime",
+          "Recognizing one\u2019s own capacity for compromise"
+        ],
+        "KeyEpisodes": [
+          {
+            "EpisodeID": "ds9s6e18",
+            "EpisodeTitle": "Inquisition",
+            "Role": "Discovery of Section 31",
+            "TrajectoryNote": "Bashir\u2019s ordeal and Sloan\u2019s revelations force Sisko to accept that an illegal intelligence directorate has been operating behind Starfleet\u2019s back."
+          },
+          {
+            "EpisodeID": "ds9s7e16",
+            "EpisodeTitle": "Inter Arma Enim Silent Leges",
+            "Role": "Laws in wartime",
+            "TrajectoryNote": "Learning the extent of Section 31\u2019s manipulation of the Romulans underscores for Sisko and his crew how far some in the Federation are willing to go in the name of victory."
+          }
+        ],
+        "NotableMoments": [
+          {
+            "EpisodeID": "ds9s6e18",
+            "EpisodeTitle": "Inquisition",
+            "Description": "Sisko\u2019s expression when he hears Sloan\u2019s title and mandate conveys a deep, personal betrayal\u2014proof that the Federation\u2019s bright image hides shadows he can neither fully expose nor fully control."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CharacterID": "Kira",
+    "Name": "Kira Nerys",
+    "Series": [
+      "DS9"
+    ],
+    "Meta": "Bajoran Militia officer and former resistance fighter; first officer on Deep Space 9",
+    "Relationships": [
+      {
+        "RelationshipID": "Sisko-Kira",
+        "Name": "Kira Nerys and Benjamin Sisko",
+        "Series": [
+          "DS9"
+        ],
+        "RelationshipType": [
+          "Commander and first officer",
+          "Faith and politics"
+        ],
+        "People": [
+          {
+            "Character": "Kira Nerys",
+            "BioID": "Kira"
+          },
+          {
+            "Character": "Benjamin Sisko",
+            "BioID": "Sisko"
+          }
+        ],
+        "Overview": "From Kira\u2019s perspective, her relationship with Benjamin Sisko begins as an unwanted reminder of outside control and becomes a partnership she cannot imagine the station surviving without. He arrives as a Starfleet officer sent to \u2018advise\u2019 Bajor, and everything in her history tells her to resist him. Over time, however, she sees that Sisko is not another occupier: he listens when she speaks for Bajor, stands beside her when politics turn ugly and treats her not as a subordinate to be managed but as a leader whose judgment matters. The added complication of his role as Emissary forces Kira to reconcile her fierce faith with her instinct to argue with him like any other commanding officer.",
+        "StartingPoint": "When Sisko first steps onto Deep Space 9, Kira is prepared to fight him as hard as she fought the Cardassians. The station is barely more than wreckage, Bajor is fragile and she has spent her adult life answering to occupiers. Her blunt declaration that she does not want Starfleet there is both a warning and a test. Kira watches carefully to see how Sisko will respond\u2014whether he will try to sideline her, replace her or use her as a token Bajoran face. His willingness to argue, to acknowledge her experience and to back her plays in early crises starts to chip away at her automatic hostility. When the Prophets name him Emissary, Kira is stunned and conflicted: the Prophets have chosen a non-Bajoran officer as their voice, and she must decide whether her faith includes accepting that choice.",
+        "Evolution": "Across years of coups, plagues, religious disputes and war, Kira and Sisko become each other\u2019s default allies. She challenges him when Federation policy grinds against Bajoran needs; he pulls her back when her resistance instincts push toward solutions that would destabilize the government she fought to create. As Emissary, Sisko often wants to downplay his spiritual role, but Kira has seen too much not to believe the Prophets are working through him. This dual view\u2014commander and sacred figure\u2014complicates her emotions, especially when he considers decisions that put his own life at risk. During the Dominion occupation of the station, Kira feels his absence like a missing limb, yet his example guides her choices as she leads the resistance from the inside. By the end of the war, when Sisko is taken by the Prophets, Kira\u2019s grief is mixed with a resolute sense of inheritance: he trusted her to hold DS9 and Bajor together without him, and she intends to honor that trust.",
+        "KeyThemes": [
+          "From occupation to partnership",
+          "Faith intersecting with chain of command",
+          "Speaking truth to power",
+          "Inheriting leadership from a mentor"
+        ],
+        "KeyEpisodes": [
+          {
+            "EpisodeID": "ds9s1e1",
+            "EpisodeTitle": "Emissary",
+            "Role": "Hostility and first cracks of trust",
+            "TrajectoryNote": "Kira\u2019s open challenge to Starfleet\u2019s presence and Sisko\u2019s choice to work with her rather than replace her set the tone for their evolving partnership."
+          },
+          {
+            "EpisodeID": "ds9s2e1",
+            "EpisodeTitle": "The Homecoming",
+            "Role": "Backing her risky loyalties",
+            "TrajectoryNote": "Sisko\u2019s support of Kira\u2019s mission to rescue a Bajoran hero shows her that he is willing to trust her judgment about Bajor\u2019s needs even when it complicates his orders."
+          },
+          {
+            "EpisodeID": "ds9s6e6",
+            "EpisodeTitle": "Sacrifice of Angels",
+            "Role": "Fighting to reclaim their home",
+            "TrajectoryNote": "Retaking DS9 from the Dominion cements for Kira that she and Sisko are co-defenders of Bajor and the wormhole, not merely CO and XO."
+          },
+          {
+            "EpisodeID": "ds9s7e25",
+            "EpisodeTitle": "What You Leave Behind",
+            "Role": "Carrying on without him",
+            "TrajectoryNote": "After Sisko\u2019s departure to the Prophets, Kira\u2019s assumption of command reflects how completely their relationship has shifted from reluctant colleagues to trusted successors."
+          }
+        ],
+        "NotableMoments": [
+          {
+            "EpisodeID": "ds9s2e3",
+            "EpisodeTitle": "The Siege",
+            "Description": "Holding the station against a Bajoran coup alongside Sisko, Kira realizes he is willing to risk his Starfleet career to uphold Bajor\u2019s fragile democracy\u2014and to stand with her."
+          },
+          {
+            "EpisodeID": "ds9s7e25",
+            "EpisodeTitle": "What You Leave Behind",
+            "Description": "Standing at the station\u2019s viewport after Sisko\u2019s disappearance, Kira feels both the ache of loss and the weight of his trust as she prepares to lead in his stead."
+          }
+        ]
+      },
+      {
+        "RelationshipID": "Kira-Odo",
+        "Name": "Kira Nerys and Odo",
+        "Series": [
+          "DS9"
+        ],
+        "RelationshipType": [
+          "Colleagues to deep friendship",
+          "Late-blooming romance"
+        ],
+        "People": [
+          {
+            "Character": "Kira Nerys",
+            "BioID": "Kira"
+          },
+          {
+            "Character": "Odo",
+            "BioID": "Odo"
+          }
+        ],
+        "Overview": "Kira\u2019s relationship with Odo begins as a wary professional alliance and slowly reveals itself as one of the deepest emotional bonds in her life. Odo was the station\u2019s security chief during the occupation, a neutral outsider enforcing Cardassian law, and part of Kira will always remember him in that context. Yet she also knows he turned a blind eye when he could, quietly protecting her and other resistance operatives. As they work together under Federation and Bajoran authority, she comes to rely on his integrity, his refusal to flatter or lie, and his unspoken loyalty. By the time she fully understands the depth of his feelings for her, their friendship is so foundational that risking it for romance feels terrifying.",
+        "StartingPoint": "At the start of DS9, Kira sees Odo as a necessary but unsettling presence: a shapeshifting constable who once answered to Cardassians and now insists on enforcing order under Starfleet. She tests his allegiance almost immediately, pushing him to prioritize Bajoran needs over rigid procedure. Odo, for his part, respects her courage and her record in the resistance, even when her methods exasperate him. Early shared investigations\u2014especially into crimes that touch Bajor\u2019s painful past\u2014force them to confront the compromises both made during the occupation. Discovering that Odo once refused to participate in a sham execution of her, at great personal risk, permanently alters Kira\u2019s view of him: he may be an outsider, but he is not morally neutral.",
+        "Evolution": "As the series progresses, Kira and Odo\u2019s partnership deepens through crises involving Changeling infiltration, Bajoran politics and the Dominion War. Odo\u2019s unspoken love for her colors his actions, but Kira initially sees only a steadfast friend and colleague. When his feelings are finally revealed\u2014most brutally in the crystalized confession he is manipulated into during \u2018Heart of Stone\u2019\u2014Kira is blindsided. She cares for him deeply but is not ready to reciprocate romantically, and the revelation introduces a new awkwardness they must navigate. Over time, shared danger, Odo\u2019s temporary alignment with his people and his eventual return to the station force both of them to articulate what they mean to each other. In \u2018His Way,\u2019 Odo\u2019s awkward, holosuite-assisted courtship and Kira\u2019s decision to meet him halfway mark the moment their bond becomes openly romantic. Even then, it is a romance defined as much by quiet understanding and shared duty as by passion. When Odo ultimately chooses to return to the Great Link to heal his people, Kira\u2019s willingness to let him go, rather than plead for him to stay, demonstrates the depth of her respect and love: she wants what is right for him, even at the cost of her own happiness.",
+        "KeyThemes": [
+          "Trust built from occupation into liberation",
+          "Unspoken love becoming mutual",
+          "Balancing duty to a people with duty to a partner",
+          "Letting go without betraying the relationship"
+        ],
+        "KeyEpisodes": [
+          {
+            "EpisodeID": "ds9s2e8",
+            "EpisodeTitle": "Necessary Evil",
+            "Role": "Reckoning with the past",
+            "TrajectoryNote": "The investigation into an old crime reveals Odo\u2019s earlier refusal to condemn Kira unjustly, reshaping her understanding of his role during the occupation."
+          },
+          {
+            "EpisodeID": "ds9s3e14",
+            "EpisodeTitle": "Heart of Stone",
+            "Role": "Confession under pressure",
+            "TrajectoryNote": "Odo\u2019s coerced declaration of love, and Kira\u2019s initial inability to respond, expose feelings neither of them can fully ignore afterward."
+          },
+          {
+            "EpisodeID": "ds9s6e20",
+            "EpisodeTitle": "His Way",
+            "Role": "Becoming a couple",
+            "TrajectoryNote": "With some musical coaching, Odo finally makes a clumsy but sincere romantic overture, and Kira\u2019s reciprocation turns long-standing friendship into open romance."
+          },
+          {
+            "EpisodeID": "ds9s7e25",
+            "EpisodeTitle": "What You Leave Behind",
+            "Role": "Parting for a greater duty",
+            "TrajectoryNote": "Odo\u2019s departure to join the Great Link, and Kira\u2019s decision to support it, crystallize their relationship as one rooted in mutual respect and painful love."
+          }
+        ],
+        "NotableMoments": [
+          {
+            "EpisodeID": "ds9s2e8",
+            "EpisodeTitle": "Necessary Evil",
+            "Description": "When Kira learns that Odo once risked his own position by refusing to frame her for murder, she silently rewrites years of suspicion about his role under Cardassian rule."
+          },
+          {
+            "EpisodeID": "ds9s6e20",
+            "EpisodeTitle": "His Way",
+            "Description": "Dancing with Odo in Vic\u2019s lounge and then kissing him on the Promenade, Kira feels the strange, exhilarating sensation of a friendship she thought she understood shifting into something more."
+          },
+          {
+            "EpisodeID": "ds9s7e25",
+            "EpisodeTitle": "What You Leave Behind",
+            "Description": "As she watches Odo walk into the lake and dissolve into the Great Link, Kira\u2019s controlled composure hides a fierce ache; her final, raised hand is both farewell and blessing."
+          }
+        ]
+      },
+      {
+        "RelationshipID": "Kira-Resistance",
+        "Name": "Kira Nerys and her Bajoran Resistance comrades",
+        "Series": [
+          "DS9"
+        ],
+        "RelationshipType": [
+          "Found family",
+          "Old loyalties vs new era"
+        ],
+        "People": [
+          {
+            "Character": "Kira Nerys",
+            "BioID": "Kira"
+          },
+          {
+            "Character": "Shakaar Edon",
+            "BioID": "Shakaar"
+          },
+          {
+            "Character": "Furel",
+            "BioID": "Furel"
+          },
+          {
+            "Character": "Lupaza",
+            "BioID": "Lupaza"
+          }
+        ],
+        "Overview": "Kira\u2019s relationship with her old resistance cell is the emotional bedrock that predates Starfleet, Sisko and even the notion of a free Bajor. Shakaar, Furel, Lupaza and the others were the people who fought, starved and bled beside her in the hills; to Kira, they are more than comrades\u2014they are family built in the absence of any other. The loyalty she feels toward them is absolute, and the transition from guerilla warfare to formal government never fully erases the habits and instincts forged during the occupation.",
+        "StartingPoint": "Before the series begins, Kira lives and fights with her cell, committing acts of sabotage that the Cardassians and some in the Federation would call terrorism. Those years shape everything: her distrust of outsiders, her readiness to use force and her inability to tolerate collaborators. When Shakaar and the others re-enter her life after the occupation, she feels an immediate resurgence of that old identity. They remember her not as a liaison officer or first officer, but as the fiery fighter who led raids and made hard calls. That recognition is comforting and dangerous; it tempts her to see politics as just another battlefield.",
+        "Evolution": "As Bajor builds a provisional government and then moves toward Federation membership, Kira must reinterpret what loyalty to her comrades means. When Shakaar stands against Kai Winn\u2019s attempts to seize his farm\u2019s equipment, Kira instinctively sides with him, even when it puts her at odds with the government she now serves. The deaths of Furel and Lupaza, and the targeted killings of other former resistance members, force Kira to confront the long tail of the occupation: the war is over, but its ghosts are still taking lives. She grapples with survivor\u2019s guilt and the realization that some people will never be able to adapt to peace. Over time, Kira learns to honor her past without letting it dictate every decision; helping Shakaar transition from resistance leader to First Minister becomes a way of translating guerilla values\u2014solidarity, courage, refusal to bow to bullies\u2014into a peacetime context. Yet she never forgets that her ability to serve as DS9\u2019s first officer was built on a foundation laid in caves and cellars with these same people.",
+        "KeyThemes": [
+          "From insurgency to governance",
+          "Survivor\u2019s guilt and lingering trauma",
+          "Conflicting duties to friends and institutions",
+          "Carrying the resistance spirit into peacetime"
+        ],
+        "KeyEpisodes": [
+          {
+            "EpisodeID": "ds9s3e24",
+            "EpisodeTitle": "Shakaar",
+            "Role": "Old comrades, new politics",
+            "TrajectoryNote": "Kira\u2019s reunion with Shakaar forces her to choose between Militia orders and loyalty to her former cell, highlighting how thin the line is between resistance hero and political threat."
+          },
+          {
+            "EpisodeID": "ds9s5e11",
+            "EpisodeTitle": "The Darkness and the Light",
+            "Role": "Targeted revenge",
+            "TrajectoryNote": "As someone hunts down her former comrades, Kira is confronted with the human cost of her wartime actions and the impossibility of clean closure after occupation."
+          },
+          {
+            "EpisodeID": "ds9s5e19",
+            "EpisodeTitle": "Ties of Blood and Water",
+            "Role": "Living with the past",
+            "TrajectoryNote": "Kira\u2019s care for a dying Cardassian father figure echoes her unresolved feelings about the war and the lines she drew between \u2018us\u2019 and \u2018them\u2019 alongside her cell."
+          }
+        ],
+        "NotableMoments": [
+          {
+            "EpisodeID": "ds9s3e24",
+            "EpisodeTitle": "Shakaar",
+            "Description": "Standing again in Shakaar\u2019s farmhouse, Kira feels the pull of the old days, recognizing how easy it would be to slip back into a life where every problem is solved with a phaser and a plan."
+          },
+          {
+            "EpisodeID": "ds9s5e11",
+            "EpisodeTitle": "The Darkness and the Light",
+            "Description": "Facing the man targeting her cell, Kira\u2019s rage and sorrow fuse; she refuses to apologize for fighting the occupation but cannot deny the terrible ripples those battles left in their wake."
+          }
+        ]
+      }
+    ]
   }
 ]
