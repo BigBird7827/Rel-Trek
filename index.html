@@ -471,6 +471,7 @@
     </main>
   </div>
   <script>
+    const REL_BASE_URL = "https://raw.githubusercontent.com/BigBird7827/Rel-Trek/main/";
     const characters = [
       { CharacterID: "Kirk", Name: "James T. Kirk", Series: ["TOS"], Meta: "Captain, USS Enterprise (NCC-1701)" },
       { CharacterID: "Spock", Name: "Spock", Series: ["TOS"], Meta: "Science officer, first officer" },
@@ -532,112 +533,8 @@
       }
     };
 
-    const relationships = [
-      {
-        RelationshipID: "Kirk-Spock",
-        Name: "James T. Kirk and Spock",
-        Series: ["TOS"],
-        RelationshipType: ["Command partnership", "Friendship"],
-        People: [
-          { Character: "James T. Kirk", BioID: "Kirk" },
-          { Character: "Spock", BioID: "Spock" }
-        ],
-        Overview: "The relationship between Captain James T. Kirk and his first officer Spock is the central partnership of the original Enterprise era. What begins as a professional command dynamic between an intuitive, instinct driven human captain and a logical, disciplined Vulcan science officer evolves into a deep trust that anchors the crew and often the fate of the ship. Kirk relies on Spock's analytical precision and emotional restraint to challenge and refine his own impulses, while Spock depends on Kirk's intuition and moral certainty to navigate situations where logic alone offers no satisfying answer. Together, they form a complementary pair whose combined strengths consistently resolve crises that neither could solve alone.",
-        StartingPoint: "Early in the five year mission, Kirk views Spock primarily as an indispensable officer, highly competent, occasionally exasperating, and clearly different from the rest of his mostly human crew. Spock, for his part, treats Kirk as a respected commanding officer whose decisions he supports even when they diverge from the most strictly logical course. Episodes like The Galileo Seven reveal the initial tensions in this dynamic, as Kirk struggles with the possibility of losing his science officer while Spock's command decisions under pressure expose gaps between pure logic and crew morale. At this stage, their bond is strong but still framed in terms of duty, rank, and mutual reliability rather than explicit friendship.",
-        Evolution: "Over time, shared crises push Kirk and Spock beyond simple captain and officer roles into something closer to family. In Amok Time, Kirk risks his career and even his life to help Spock through plak tow, demonstrating that his loyalty is not limited to Starfleet protocol. Spock's reactions in episodes like The Tholian Web show how deeply Kirk's apparent loss affects him, cracking the surface of Vulcan control. Their ongoing interactions reveal a growing ease, as Spock increasingly challenges Kirk's assumptions in ways only a true confidant could, while Kirk openly admits how vital Spock's presence is to his command. By the end of the series and into the films, the two men have forged a bond that survives death, resurrection, and separation, defining each other's sense of identity and purpose.",
-        KeyThemes: [
-          "Loyalty",
-          "Logic versus emotion",
-          "Command and responsibility",
-          "Friendship and found family",
-          "Sacrifice"
-        ],
-        KeyEpisodes: [
-          {
-            EpisodeID: "toss1e16",
-            EpisodeTitle: "The Galileo Seven",
-            Role: "Foundational",
-            TrajectoryNote: "Kirk's determination to recover Spock's stranded shuttle highlights how much he already values Spock personally, while Spock's first command test exposes the limits of purely logical leadership."
-          },
-          {
-            EpisodeID: "toss2e1",
-            EpisodeTitle: "Amok Time",
-            Role: "Turning point",
-            TrajectoryNote: "Kirk defies Starfleet orders and risks his career to bring Spock to Vulcan, making explicit that their bond far exceeds normal captain and officer loyalty."
-          },
-          {
-            EpisodeID: "toss3e9",
-            EpisodeTitle: "The Tholian Web",
-            Role: "Emotional revelation",
-            TrajectoryNote: "Believing Kirk lost, Spock's struggle to follow his captain's recorded instructions reveals how profoundly he is affected by Kirk's apparent death."
-          }
-        ],
-        NotableMoments: [
-          {
-            EpisodeID: "toss2e1",
-            EpisodeTitle: "Amok Time",
-            Description: "Spock's joyful reaction when he realizes Kirk is alive briefly strips away his Vulcan reserve and crystallizes how essential Kirk is to him."
-          },
-          {
-            EpisodeID: "toss3e9",
-            EpisodeTitle: "The Tholian Web",
-            Description: "Spock's quiet toast to Kirk after playing his recorded message captures the depth of his respect and affection under a controlled exterior."
-          }
-        ]
-      },
-      {
-        RelationshipID: "Odo-Kira",
-        Name: "Odo and Kira Nerys",
-        Series: ["DS9"],
-        RelationshipType: ["Friendship", "Romantic", "Professional"],
-        People: [
-          { Character: "Odo", BioID: "Odo" },
-          { Character: "Kira Nerys", BioID: "KiraNerys" }
-        ],
-        Overview: "Odo and Kira begin as colleagues on Deep Space Nine, linked by their shared history in the Bajoran resistance and a mutual commitment to protecting the station. Odo's long hidden romantic feelings for Kira deepen over years of working alongside her as first officer, while Kira initially sees him primarily as a trusted friend and ally. Their relationship weaves through political upheavals, personal losses, and the Dominion War, gradually evolving into a complex blend of loyalty, affection, and tension. Together, they embody the intersection of law and rebellion, order and passion, as they navigate both station security and the shifting politics of Bajor and the Alpha Quadrant.",
-        StartingPoint: "When Deep Space Nine's story begins, Kira is a fiery former resistance fighter serving as Bajoran liaison officer, while Odo is the station's enigmatic constable, respected and slightly feared. Their bond is rooted in shared struggle against Cardassian occupation, but they approach the present differently: Kira is openly emotional and defiant, Odo reserved and rule focused. Early episodes show a deep trust already in place, with Kira respecting Odo's integrity even when his methods are stern and Odo valuing Kira's courage and moral clarity. At this stage, only Odo and the audience glimpse his deeper romantic feelings, which he keeps tightly concealed beneath his professional manner.",
-        Evolution: "Over the seasons, their relationship is tested by secrets, shifting allegiances, and the mounting pressures of the Dominion War. Odo's discovery of his people and temporary alignment with the Founders fractures Kira's trust, while her relationships with others force him to confront jealousy and regret. Through reconciliation and shared battles, they rebuild their bond on more honest terms. When they finally acknowledge their romantic feelings in the later seasons, the relationship shifts from unspoken longing to a mature partnership that must still function within Deep Space Nine's command structure. By the end of the series, their connection is one of the emotional pillars of the station's story, even as Odo's decision to rejoin the Great Link forces them into a painful separation defined by love and duty.",
-        KeyThemes: [
-          "Unspoken love",
-          "Trust and betrayal",
-          "War and occupation",
-          "Duty versus desire",
-          "Forgiveness"
-        ],
-        KeyEpisodes: [
-          {
-            EpisodeID: "ds9s3e25",
-            EpisodeTitle: "Facets",
-            Role: "Revelation",
-            TrajectoryNote: "During Jadzia's zhian'tara, Curzon and Odo openly declare love for Kira, exposing feelings Odo has carefully hidden and altering the undercurrent of their dynamic."
-          },
-          {
-            EpisodeID: "ds9s4e14",
-            EpisodeTitle: "Crossfire",
-            Role: "Emotional crisis",
-            TrajectoryNote: "Odo's heartbreak over Kira's relationship with Shakaar pushes him to a breaking point, briefly shattering his self control and redefining the distance between them."
-          },
-          {
-            EpisodeID: "ds9s7e25",
-            EpisodeTitle: "What You Leave Behind",
-            Role: "Coda",
-            TrajectoryNote: "Odo's choice to return to the Great Link and Kira's decision to support him, even at the cost of their future together, crystallize their blend of love, sacrifice, and duty."
-          }
-        ],
-        NotableMoments: [
-          {
-            EpisodeID: "ds9s4e14",
-            EpisodeTitle: "Crossfire",
-            Description: "Odo watches Kira and Shakaar in the turbolift and later destroys his quarters in private, exposing the depth of pain behind his controlled exterior."
-          },
-          {
-            EpisodeID: "ds9s7e25",
-            EpisodeTitle: "What You Leave Behind",
-            Description: "On the edge of the Great Link, Odo and Kira share a final embrace and goodbye, a quiet culmination of years of shared history and hard won intimacy."
-          }
-        ]
-      }
-    ];
+    const relationships = [];
+    // Relationships are now loaded per-character from external JSON.
 
     let currentCharacterId = null;
     let currentRelationships = [];
@@ -709,8 +606,6 @@
     }
 
     function selectCharacter(charId) {
-      currentCharacterId = charId;
-
       const cards = document.querySelectorAll(".character-card");
       cards.forEach(card => {
         if (card.dataset.id === charId) {
@@ -720,17 +615,51 @@
         }
       });
 
-      const cfg = characterConfig[charId];
-      currentRelationships = filterRelationshipsForCharacter(cfg || { bioId: charId });
-      renderRelationshipGrid(currentRelationships);
-      showRelationships();
+      loadRelationshipsForCharacter(charId);
     }
 
-    function filterRelationshipsForCharacter(cfg) {
-      if (!cfg || !cfg.bioId) return [];
-      return relationships.filter(rel =>
-        rel.People && rel.People.some(p => p.BioID === cfg.bioId)
-      );
+    async function loadRelationshipsForCharacter(charId) {
+      const cfg = characterConfig[charId];
+      const grid = document.getElementById("relationship-grid");
+      const subtitle = document.getElementById("relationships-subtitle");
+      const brandTitle = document.getElementById("brand-title");
+      const brandSub = document.getElementById("brand-sub");
+
+      currentCharacterId = charId;
+      currentRelationships = [];
+
+      if (cfg) {
+        if (brandTitle) brandTitle.textContent = cfg.name + " relationships";
+        if (brandSub) brandSub.textContent = cfg.description;
+      }
+
+      if (subtitle) subtitle.textContent = "Loading relationships…";
+      if (grid) grid.innerHTML = "";
+
+      showView("relationships");
+
+      const url = REL_BASE_URL + charId + ".json";
+
+      try {
+        const resp = await fetch(url);
+        if (!resp.ok) {
+          if (subtitle) subtitle.textContent = "No relationships defined yet for this character.";
+          return;
+        }
+        const data = await resp.json();
+        const rels = (data && Array.isArray(data.Relationships)) ? data.Relationships : [];
+        currentRelationships = rels;
+
+        if (!rels.length) {
+          if (subtitle) subtitle.textContent = "No relationships defined yet for this character.";
+          return;
+        }
+
+        if (subtitle) subtitle.textContent = "Relationships for " + (cfg ? cfg.name : (data.Name || charId)) + ".";
+        renderRelationshipGrid(rels);
+      } catch (e) {
+        if (subtitle) subtitle.textContent = "Error loading relationships data.";
+      }
     }
 
     function renderRelationshipGrid(rels) {
