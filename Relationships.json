@@ -4338,6 +4338,204 @@
             "Description": "Watching Jake\u2019s concern from a distance, Nog realizes that withdrawing into Vic\u2019s lounge has not severed their friendship\u2014it has simply put another hard chapter between them that they will have to work through."
           }
         ]
+      },
+      {
+        "RelationshipID": "Nog-Rom",
+        "Name": "Nog and Rom",
+        "Series": [
+          "DS9"
+        ],
+        "RelationshipType": [
+          "Father and son",
+          "Breaking and rebuilding tradition"
+        ],
+        "People": [
+          {
+            "Character": "Nog",
+            "BioID": "Nog"
+          },
+          {
+            "Character": "Rom",
+            "BioID": "Rom"
+          }
+        ],
+        "Overview": "From Nog\u2019s perspective, his relationship with his father Rom begins in embarrassment and ends in profound respect. As a child, Nog sees Rom as a failed Ferengi\u2014timid, bad at business and always overshadowed by Quark. Nog absorbs the message that his father is someone to avoid becoming. Over time, however, he witnesses Rom\u2019s courage, genius for engineering and moral backbone and realizes that the very traits Ferengi culture mocks in his father are what make him worth admiring. The journey from ashamed son to proud supporter of the Grand Nagus is one of Nog\u2019s most important emotional arcs.",
+        "StartingPoint": "Early in life, Nog experiences Rom mostly as background noise in Quark\u2019s bar: a harried parent who works too hard, apologizes too often and rarely stands up to his brother. When Nog gets into trouble, Rom\u2019s fear of authority and Quark\u2019s dominance mean discipline comes in the form of scolding and threats, not guidance. Nog internalizes the idea that his father is weak\u2014someone who cannot protect him from a future of washing glasses and doing Quark\u2019s dirty work. The decision to pursue Starfleet is, in part, a rebellion against what he thinks Rom represents: a small, trapped life on Ferenginar\u2019s fringes.",
+        "Evolution": "As Nog grows older and steps into Starfleet, he begins to see Rom through different eyes. Rom organizing a union in the bar, standing up to Quark and later becoming a key engineer for the station forces Nog to re-evaluate his assumptions. His father is not cowardly; he is careful. He is not stupid; he simply spent years in the wrong job under the wrong brother. When Rom\u2019s engineering skills help save DS9 from Dominion and Cardassian threats, Nog feels a new kind of pride that has nothing to do with profit margins. The culmination comes when Rom is named Grand Nagus. For Nog, the moment is dizzying: the father he once saw as a failure is now reshaping Ferengi society. Their relationship settles into something more equal\u2014Nog the Starfleet officer and Rom the reformer, both blazing paths their childhood selves could not have imagined. Nog no longer defines himself in opposition to his father; instead, he takes him as proof that you can defy expectations and still be Ferengi.",
+        "KeyThemes": [
+          "Re-evaluating a parent",
+          "Courage expressed as quiet resistance",
+          "Redefining Ferengi success",
+          "Pride replacing shame"
+        ],
+        "KeyEpisodes": [
+          {
+            "EpisodeID": "ds9s4e16",
+            "EpisodeTitle": "Bar Association",
+            "Role": "Rom finds his voice",
+            "TrajectoryNote": "Nog sees his father stand up to Quark and organize a union, a shocking act of defiance that hints Rom is more than the timid worker he seemed."
+          },
+          {
+            "EpisodeID": "ds9s3e25",
+            "EpisodeTitle": "Facets",
+            "Role": "Glimpses of potential",
+            "TrajectoryNote": "Events around Dax\u2019s zhian\u2019tara highlight Rom\u2019s technical skill and emotional insight, nudging Nog toward recognizing his father\u2019s strengths."
+          },
+          {
+            "EpisodeID": "ds9s7e24",
+            "EpisodeTitle": "The Dogs of War",
+            "Role": "Rom becomes Grand Nagus",
+            "TrajectoryNote": "Learning that Rom has been chosen to lead the Ferengi Alliance forces Nog to reframe his father as a visionary rather than an embarrassment."
+          }
+        ],
+        "NotableMoments": [
+          {
+            "EpisodeID": "ds9s4e16",
+            "EpisodeTitle": "Bar Association",
+            "Description": "Watching Rom risk everything to demand fair treatment, Nog realizes that his father\u2019s \u2018weakness\u2019 has always concealed a quiet, stubborn courage."
+          },
+          {
+            "EpisodeID": "ds9s7e24",
+            "EpisodeTitle": "The Dogs of War",
+            "Description": "As Rom awkwardly accepts the role of Grand Nagus, Nog feels a surge of pride that has nothing to do with latinum and everything to do with seeing his father finally valued."
+          }
+        ]
+      },
+      {
+        "RelationshipID": "Nog-Sisko",
+        "Name": "Nog and Benjamin Sisko (and Starfleet)",
+        "Series": [
+          "DS9"
+        ],
+        "RelationshipType": [
+          "Mentorship",
+          "Gatekeeper to Starfleet"
+        ],
+        "People": [
+          {
+            "Character": "Nog",
+            "BioID": "Nog"
+          },
+          {
+            "Character": "Benjamin Sisko",
+            "BioID": "Sisko"
+          }
+        ],
+        "Overview": "Nog\u2019s relationship with Captain Sisko is the story of how a Ferengi teenager earns a place in Starfleet through sheer determination. For Nog, Sisko is initially \u2018Jake\u2019s dad\u2019 and the authority figure who might shut down his fun or his future. Over time, Sisko becomes the person whose respect matters most: the one who can open or close the door to the life Nog dreams of. Their connection is defined by tests of commitment, hard conversations about prejudice and performance, and mutual recognition that Nog\u2019s choice to wear the uniform is as serious as any human\u2019s.",
+        "StartingPoint": "At first, Nog is just the Ferengi kid who gets Jake into trouble, and Sisko treats him accordingly\u2014warily, with a parent\u2019s eye on bad influence. When Nog comes to him asking for a recommendation to Starfleet Academy, Sisko is stunned. Ferengi do not join Starfleet; they trade with it. Nog\u2019s insistence that he wants more than a life in the bar forces Sisko to take him seriously. He tests Nog\u2019s resolve, probing whether this is a phase or a genuine calling. Nog\u2019s honesty about his home life and the limits placed on him simply for being who and what he is convinces Sisko that the request is real. Writing that recommendation is Sisko\u2019s first concrete step toward seeing Nog not as a complication in Jake\u2019s life, but as a future officer in his own right.",
+        "Evolution": "As Nog moves from candidate to cadet to ensign, Sisko tracks his progress with a mix of paternal concern and command-level scrutiny. Nog feels both the weight and the honor of that attention. Serving on the station and later in the war, he wants to prove that Sisko was right to believe in him. Whenever he stumbles\u2014whether overwhelmed by Red Squad hero worship on the Valiant or crushed by the trauma of losing his leg\u2014Nog knows that Sisko is watching, not to catch him out, but to see how he will get back up. Sisko, for his part, learns from Nog as well: the Ferengi\u2019s perspective on profit, survival and risk often cuts through Starfleet assumptions. By war\u2019s end, Nog is no longer just Jake\u2019s friend who wanted a chance; he is one of Sisko\u2019s officers, someone the captain can assign serious responsibilities to. For Nog, Sisko\u2019s faith is a constant quiet pressure and a source of pride\u2014proof that a Ferengi can not only wear the uniform, but honor it.",
+        "KeyThemes": [
+          "Breaking species expectations",
+          "Mentorship and sponsorship",
+          "Earning respect through action",
+          "Balancing Starfleet ideals with Ferengi instincts"
+        ],
+        "KeyEpisodes": [
+          {
+            "EpisodeID": "ds9s3e14",
+            "EpisodeTitle": "Heart of Stone",
+            "Role": "The request",
+            "TrajectoryNote": "Nog\u2019s candid explanation of why he wants to join Starfleet\u2014and why Ferenginar offers him no future\u2014persuades Sisko to take a risk on him."
+          },
+          {
+            "EpisodeID": "ds9s5e10",
+            "EpisodeTitle": "Rapture",
+            "Role": "Growing responsibilities",
+            "TrajectoryNote": "As Nog takes on more duties, Sisko\u2019s willingness to entrust him with real tasks shows how far the Ferengi cadet has come in the captain\u2019s eyes."
+          },
+          {
+            "EpisodeID": "ds9s6e22",
+            "EpisodeTitle": "Valiant",
+            "Role": "Challenging blind loyalty",
+            "TrajectoryNote": "The disaster aboard the Valiant forces Nog to confront the dangers of idolizing Starfleet symbols instead of living its principles\u2014lessons Sisko has always tried to teach."
+          },
+          {
+            "EpisodeID": "ds9s7e10",
+            "EpisodeTitle": "It\u2019s Only a Paper Moon",
+            "Role": "Recovery under command",
+            "TrajectoryNote": "Sisko\u2019s patience with Nog\u2019s holosuite-centered recovery reflects a commander who understands that healing a wounded officer sometimes requires unconventional paths."
+          }
+        ],
+        "NotableMoments": [
+          {
+            "EpisodeID": "ds9s3e14",
+            "EpisodeTitle": "Heart of Stone",
+            "Description": "Standing in Sisko\u2019s office, Nog lays out his case with unexpected clarity, and for the first time feels a Starfleet captain look at him not as a nuisance, but as a potential officer."
+          },
+          {
+            "EpisodeID": "ds9s7e10",
+            "EpisodeTitle": "It\u2019s Only a Paper Moon",
+            "Description": "When Sisko allows Nog to remain in Vic\u2019s lounge rather than forcing him back to duty too soon, Nog recognizes a leader who values him as a person, not just as a body in a uniform."
+          }
+        ]
+      },
+      {
+        "RelationshipID": "Nog-DominionWar",
+        "Name": "Nog and the Dominion War",
+        "Series": [
+          "DS9"
+        ],
+        "RelationshipType": [
+          "Young officer and war",
+          "Trauma and growth"
+        ],
+        "People": [
+          {
+            "Character": "Nog",
+            "BioID": "Nog"
+          },
+          {
+            "Character": "Dominion War",
+            "BioID": "DominionWar"
+          }
+        ],
+        "Overview": "For Nog, the Dominion War is not just a historical event\u2014it is the crucible that burns away his boyhood fantasies about Starfleet and leaves a scar he will carry for the rest of his life. He enters the conflict as an eager cadet hungry to prove himself, viewing battles as opportunities to earn respect and advancement. The reality he encounters\u2014grinding attrition, meaningless losses, and a personal injury that takes his leg\u2014forces him to rebuild his sense of self from the ground up. The war becomes a relationship he cannot walk away from: an ever-present shadow shaping his choices, fears and strengths.",
+        "StartingPoint": "Nog\u2019s early notions of Starfleet are romantic. He imagines crisp uniforms, clear lines between right and wrong and missions that end with medals and commendations. When the Dominion War escalates, he sees a chance to step into that story, volunteering for duties at the front and taking pride in every sign that superiors trust him. Serving around seasoned officers, he talks about glory and responsibility with the enthusiasm of someone who has not yet seen what phaser fire does to bodies. Assignments like his time on the Valiant appeal to his desire to belong to an elite group, to prove that a Ferengi can be as brave and capable as any human or Andorian.",
+        "Evolution": "The illusion begins to crack as Nog watches friends and mentors die, and as he sees command decisions that are not clean victories but desperate compromises. The definitive break comes at AR-558, where he loses his leg in a brutal ground engagement. The war, once an arena to earn honor, becomes a source of nightmares and phantom pain. Retreating into Vic Fontaine\u2019s holosuite lounge, Nog tries to construct a version of reality where the war cannot reach him\u2014where his skills and charm are enough to keep everyone safe. Through therapy, music and stubborn support from those around him, he gradually accepts that healing does not mean forgetting. By the time he returns to duty, Nog\u2019s view of the Dominion War has shifted from boyish adventure to sober responsibility. He no longer seeks danger for its own sake; he understands that every assignment carries a cost, and that surviving to do the job well is itself a form of courage. The war takes a piece of him, literally and figuratively, but it also leaves behind a more mature officer who knows why he wears the uniform.",
+        "KeyThemes": [
+          "Disillusionment with romanticized war",
+          "Physical and psychological trauma",
+          "Recovery through community and ritual",
+          "Redefining courage after injury"
+        ],
+        "KeyEpisodes": [
+          {
+            "EpisodeID": "ds9s6e22",
+            "EpisodeTitle": "Valiant",
+            "Role": "Myth versus reality",
+            "TrajectoryNote": "Nog\u2019s admiration for Red Squad and the Valiant\u2019s captain collapses when their reckless pursuit of glory leads to disaster, exposing how deadly hero worship can be."
+          },
+          {
+            "EpisodeID": "ds9s7e8",
+            "EpisodeTitle": "The Siege of AR-558",
+            "Role": "Injury and shock",
+            "TrajectoryNote": "Losing his leg in a brutal firefight shatters Nog\u2019s lingering illusions about clean heroics, confronting him with the personal price of the war."
+          },
+          {
+            "EpisodeID": "ds9s7e10",
+            "EpisodeTitle": "It\u2019s Only a Paper Moon",
+            "Role": "Retreat and recovery",
+            "TrajectoryNote": "Hiding in Vic\u2019s holosuite world, Nog gradually works through his trauma, learning that acknowledging fear and pain is part of being a soldier, not a failure of it."
+          },
+          {
+            "EpisodeID": "ds9s7e25",
+            "EpisodeTitle": "What You Leave Behind",
+            "Role": "After the shooting stops",
+            "TrajectoryNote": "By the end of the war, Nog stands as a veteran who has earned his rank not through fantasies of glory but through survival, sacrifice and hard-won resilience."
+          }
+        ],
+        "NotableMoments": [
+          {
+            "EpisodeID": "ds9s7e8",
+            "EpisodeTitle": "The Siege of AR-558",
+            "Description": "As the reality of his injury sinks in, Nog feels time fracture into a before and after\u2014the moment he stops being the cadet chasing glory and becomes a soldier who has paid in blood."
+          },
+          {
+            "EpisodeID": "ds9s7e10",
+            "EpisodeTitle": "It\u2019s Only a Paper Moon",
+            "Description": "Singing along with Vic in the lounge, Nog realizes he is not erasing the war by staying there; he is gathering the strength to face it and live with what it has done to him."
+          }
+        ]
       }
     ]
   }
