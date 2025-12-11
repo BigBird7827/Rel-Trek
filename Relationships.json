@@ -1222,102 +1222,17 @@
     ]
   },
   {
-    "CharacterID": "Scotty",
-    "Name": "Montgomery Scott",
-    "Series": [
-      "TOS",
-      "Films"
-    ],
-    "Meta": "Chief engineer, USS Enterprise (NCC-1701)",
-    "Relationships": [
-      {
-        "RelationshipID": "Kirk-Scotty",
-        "Name": "Montgomery Scott and James T. Kirk",
-        "Series": [
-          "TOS",
-          "Films"
-        ],
-        "RelationshipType": [
-          "Command and engineering",
-          "Loyalty"
-        ],
-        "People": [
-          {
-            "Character": "Montgomery Scott",
-            "BioID": "Scotty"
-          },
-          {
-            "Character": "James T. Kirk",
-            "BioID": "Kirk"
-          }
-        ],
-        "Overview": "From Scotty\u2019s perspective, his relationship with Captain James T. Kirk is built on the understanding that the ship is their shared responsibility and their shared pride. Kirk asks the Enterprise to do the impossible; Scotty makes the impossible happen, often at great personal strain. Scotty sees Kirk as the one captain who truly appreciates the miracle of keeping a starship together under fire and who trusts his engineer without second-guessing every technical choice. In turn, Scotty\u2019s fierce loyalty to Kirk is rooted in the knowledge that when the captain says he needs more power, it is never vanity\u2014it is because lives, and sometimes entire worlds, depend on the Enterprise answering that call.",
-        "StartingPoint": "By the time viewers first see them together, Scotty and Kirk have already settled into a rhythm: Kirk charges into danger, and Scotty stands ready in engineering, promising every last drop of power he can safely coax from the warp engines. Scotty\u2019s initial view of Kirk is colored by his own background as a working engineer\u2014he respects brilliance but has little patience for officers who treat starships as interchangeable tools. Kirk quickly proves he is different. He listens when Scotty warns that a system cannot take more strain, gives him latitude to improvise repairs that violate the letter of Starfleet manuals, and is not shy about praising his engineer in front of others. That combination of trust and respect convinces Scotty that this is a captain worth breaking regulations and physical limits for.",
-        "Evolution": "As the five-year mission unfolds and into the film era, shared crises temper their partnership into something like a compact between warrior and armorer. In battles against planet-killers, godlike entities, and hostile admirals, Scotty watches Kirk stake everything on the Enterprise\u2019s ability to take one more hit or make one more impossible maneuver, and he responds by pouring his skill and health into keeping the ship alive. At the same time, he does not hesitate to argue when he believes Kirk is asking for too much; their occasional clashes over what the engines can bear show that loyalty does not mean blind obedience. Later, as refits, promotions and changing assignments threaten to distance them, Scotty remains the man Kirk calls when he needs the Enterprise to perform beyond specification. Even when Scotty briefly takes posts elsewhere, his sense of himself as \u2018Kirk\u2019s engineer\u2019 never truly fades, and his pride in the captain\u2019s faith in him anchors his identity as much as his love for the ship.",
-        "KeyThemes": [
-          "Trust in technical expertise",
-          "Pride in the ship as shared home",
-          "Risk and responsibility under fire",
-          "Loyalty expressed through work"
-        ],
-        "KeyEpisodes": [
-          {
-            "EpisodeID": "toss2e6",
-            "EpisodeTitle": "The Doomsday Machine",
-            "Role": "Crisis collaboration",
-            "TrajectoryNote": "Scotty\u2019s frantic repairs aboard the Constellation and later the Enterprise under impossible time pressure deepen his sense that Kirk trusts him absolutely to hold the ship together while the captain executes a daring plan."
-          },
-          {
-            "EpisodeID": "toss3e5",
-            "EpisodeTitle": "Is There in Truth No Beauty?",
-            "Role": "Stretching the ship\u2019s limits",
-            "TrajectoryNote": "Faced with extraordinary stresses on the warp engines, Scotty wrestles with demands that push the Enterprise beyond safe limits, reinforcing his role as the one who translates Kirk\u2019s necessity into workable, if dangerous, engineering solutions."
-          },
-          {
-            "EpisodeID": "toss2e15",
-            "EpisodeTitle": "The Trouble with Tribbles",
-            "Role": "Defending the captain\u2019s honor",
-            "TrajectoryNote": "When a barroom insult to Kirk provokes Scotty into a brawl, it reveals how personally he takes slights against his captain and how intertwined his loyalty to Kirk is with his pride in the Enterprise."
-          },
-          {
-            "EpisodeID": "film-ST4",
-            "EpisodeTitle": "Star Trek IV: The Voyage Home",
-            "Role": "Reinventing the miracle worker",
-            "TrajectoryNote": "Working with primitive twentieth-century materials to build a tank for whale transport, Scotty responds eagerly to Kirk\u2019s confidence that he can bend any technology to their needs, showing that their old dynamic survives even in the most unfamiliar circumstances."
-          }
-        ],
-        "NotableMoments": [
-          {
-            "EpisodeID": "toss2e15",
-            "EpisodeTitle": "The Trouble with Tribbles",
-            "Description": "In debriefing, Scotty sheepishly admits that he only started fighting after a Klingon insulted the Enterprise, not Kirk, a confession that makes clear he equates loyalty to the captain with loyalty to the ship they both cherish."
-          },
-          {
-            "EpisodeID": "toss2e6",
-            "EpisodeTitle": "The Doomsday Machine",
-            "Description": "Sweat-soaked and exhausted, Scotty reports that the engines will hold \u2018just a wee bit longer,\u2019 masking the danger with humor to keep Kirk focused, and underscoring the trust between captain and engineer in the face of annihilation."
-          },
-          {
-            "EpisodeID": "film-ST4",
-            "EpisodeTitle": "Star Trek IV: The Voyage Home",
-            "Description": "Scotty\u2019s delighted reaction when a twentieth-century engineer marvels at his transparent aluminum formula reflects not only his pride in his own ingenuity but also his satisfaction at living up to Kirk\u2019s expectation that he can always find a way."
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "CharacterID": "Picard",
-    "Name": "Jean-Luc Picard",
+    "CharacterID": "Riker",
+    "Name": "William Riker",
     "Series": [
       "TNG",
       "Films"
     ],
-    "Meta": "Captain, USS Enterprise (NCC-1701-D)",
+    "Meta": "First officer, USS Enterprise (NCC-1701-D)",
     "Relationships": [
       {
         "RelationshipID": "Picard-Riker",
-        "Name": "Jean-Luc Picard and William Riker",
+        "Name": "William Riker and Jean-Luc Picard",
         "Series": [
           "TNG",
           "Films"
@@ -1328,413 +1243,359 @@
         ],
         "People": [
           {
-            "Character": "Jean-Luc Picard",
-            "BioID": "Picard"
-          },
-          {
             "Character": "William Riker",
             "BioID": "Riker"
+          },
+          {
+            "Character": "Jean-Luc Picard",
+            "BioID": "Picard"
           }
         ],
-        "Overview": "From Picard\u2019s perspective, his relationship with Commander William Riker is the cornerstone of the Enterprise-D\u2019s stability. Riker is more than just a first officer; he is the trusted intermediary between Picard\u2019s often austere command presence and the younger, more informal officers who populate the ship. Picard values Riker precisely because he will challenge orders when he believes it necessary, transforming their dynamic into a living safeguard against his own blind spots. Over years of shared crises, Picard comes to see Riker as both heir and counterweight\u2014someone who understands his principles deeply enough to uphold them and, when required, to defy him for the ship\u2019s sake.",
-        "StartingPoint": "At the outset, Picard approaches Riker with calculated caution. Having chosen a younger officer who once refused promotion rather than abandon his current captain, Picard wants proof that Riker\u2019s loyalty can transfer without becoming simple deference. Their early tests at Farpoint Station and in subsequent missions are as much about command philosophy as tactics: Picard insists on Riker\u2019s right to review orders and even to countermand them when circumstances demand, signaling that he expects intellect and judgment, not obedience. When Riker proves willing to question him in front of others\u2014respectfully but firmly\u2014Picard recognizes that he has found a rare partner who will help maintain both the captain\u2019s authority and the crew\u2019s trust.",
-        "Evolution": "As the Enterprise-D\u2019s voyages grow more perilous, the bond between captain and first officer is tempered in the crucible of truly existential threats. During Picard\u2019s assimilation by the Borg, he later learns how Riker stepped into command, ordered fire on the very vessel that held him, and still found a way to bring him home. That combination of ruthless necessity and unshakable loyalty cements Picard\u2019s conviction that Riker is the man he hopes will one day succeed him. Repeated offers of independent commands test their relationship, but Riker\u2019s choice to remain aboard confirms for Picard that this partnership is not merely convenient but deeply meaningful. By the time of the later films, their exchanges carry the ease of old comrades; Riker anticipates Picard\u2019s strategic instincts, and Picard trusts his former prot\u00e9g\u00e9 to speak candid truths others might soften, making their command team one of the most resilient in Starfleet.",
+        "Overview": "From Riker\u2019s perspective, his relationship with Captain Jean-Luc Picard is a rare blend of mentorship, challenge and genuine respect. Riker begins his tour on the Enterprise-D determined to make his own mark, yet he quickly recognizes that Picard is not a distant authoritarian but a captain who expects his first officer to think independently and disagree openly when necessary. Over time, Riker comes to see Picard as the standard against which he measures his own readiness for command: a man whose trust he must continually earn, and whose example he cannot simply imitate but must interpret in his own way.",
+        "StartingPoint": "When Riker accepts the assignment to the Enterprise-D, he does so as an ambitious officer who has already turned down one promotion in order to stay with a previous captain. Picard\u2019s request that he personally oversee the saucer reattachment and his insistence that Riker be prepared to countermand his orders make an immediate impression. To Riker, these conditions signal both a test and a promise: if he passes, he will not be a glorified helmsman but a true partner in command. Early missions confirm this understanding, as Picard repeatedly invites Riker\u2019s input during crises, allows him to lead away teams and leaves him in command of the ship with minimal interference.",
+        "Evolution": "As the years go on, Riker\u2019s sense of himself as \u2018Picard\u2019s first officer\u2019 is hardened by experiences that force him to act in the captain\u2019s absence or even against the captain\u2019s will. During the Borg crisis, he is compelled to fire on the cube that holds the assimilated Picard, a decision that crystallizes his understanding of what it means to bear ultimate responsibility. Later, repeated offers of his own command put their relationship under subtle strain: each time Riker hesitates or stays, he must reconcile his loyalty to the Enterprise and Picard with his career ambitions. Ultimately, he finds a balance\u2014remaining aboard long enough to see their shared mission through, then moving on to the Titan only once he feels he can do so without abandoning Picard. By the time of the later films, their relaxed banter and unspoken coordination on the bridge reflect a partnership that has survived trauma, temptation and the passage of years.",
         "KeyThemes": [
-          "Trust and delegated authority",
-          "Mentorship versus independence",
-          "Command under extreme threat",
-          "Challenging the captain for the ship\u2019s good"
+          "Learning to command under a master",
+          "Balancing loyalty and ambition",
+          "Trust in delegated authority",
+          "Carrying on when the captain falls"
         ],
         "KeyEpisodes": [
           {
             "EpisodeID": "tngs1e1",
             "EpisodeTitle": "Encounter at Farpoint",
-            "Role": "Establishing command terms",
-            "TrajectoryNote": "Picard\u2019s insistence that Riker review and, if necessary, countermand his orders establishes a foundation of mutual trust and expectation of independent judgment from the very start of their partnership."
+            "Role": "Terms of the partnership",
+            "TrajectoryNote": "Riker\u2019s first interactions with Picard\u2014being ordered to manually oversee saucer reattachment and to question the captain\u2019s decisions when necessary\u2014set the tone for a relationship built on frankness rather than deference."
           },
           {
             "EpisodeID": "tngs3e26",
             "EpisodeTitle": "The Best of Both Worlds, Part I",
-            "Role": "Captain lost, first officer tested",
-            "TrajectoryNote": "With Picard assimilated, Riker must assume command and contemplate firing on the Borg cube that holds him, proving that he can carry Picard\u2019s principles into action even when they point toward a terrible necessity."
+            "Role": "Acting captain in crisis",
+            "TrajectoryNote": "With Picard taken by the Borg, Riker must step fully into the captain\u2019s role, proving to himself that he can lead in his mentor\u2019s stead even while facing the possibility of destroying him."
           },
           {
             "EpisodeID": "tngs4e1",
             "EpisodeTitle": "The Best of Both Worlds, Part II",
-            "Role": "Aftermath and restored partnership",
-            "TrajectoryNote": "In the uneasy quiet following Picard\u2019s rescue, their resumed working rhythm shows that the trauma has not broken their bond; instead, it has clarified how deeply Picard relies on Riker\u2019s strength in his absence."
+            "Role": "Living with the consequences",
+            "TrajectoryNote": "After Picard\u2019s rescue, Riker confronts the emotional and professional aftermath of the choices he made as acting captain, deepening his appreciation of the burdens Picard carries every day."
           },
           {
             "EpisodeID": "tngs7e25",
             "EpisodeTitle": "All Good Things...",
-            "Role": "End of a voyage",
-            "TrajectoryNote": "Across shifting timelines, Picard\u2019s various relationships with Riker\u2014subordinate, peer, and, in one future, estranged officer\u2014highlight how central their partnership is to the Enterprise\u2019s golden age."
+            "Role": "Future distance, present trust",
+            "TrajectoryNote": "Glimpses of a possible future in which he and Picard are estranged push Riker to recognize how central their partnership is to the Enterprise\u2019s success in the present."
           }
         ],
         "NotableMoments": [
           {
             "EpisodeID": "tngs1e1",
             "EpisodeTitle": "Encounter at Farpoint",
-            "Description": "When Riker refuses to allow the saucer section to rejoin until he has confirmed its safety, Picard\u2019s irritation masks genuine approval: his first officer has chosen the crew\u2019s welfare over appeasing his captain."
+            "Description": "Riker\u2019s insistence on personally verifying the saucer\u2019s safe reattachment before allowing civilians aboard earns Picard\u2019s respect and confirms for Riker that this captain truly wants a first officer who will argue when necessary."
           },
           {
             "EpisodeID": "tngs3e26",
             "EpisodeTitle": "The Best of Both Worlds, Part I",
-            "Description": "Facing the Borg as acting captain, Riker hears the collective speak with Picard\u2019s voice; his refusal to be paralyzed by that horror and his decision to keep fighting embody the trust Picard placed in him."
+            "Description": "Standing on the bridge as acting captain, Riker issues the order to fire on the Borg cube containing Picard, embodying the terrible calculus he has watched his captain make so many times."
           },
           {
             "EpisodeID": "tngs7e25",
             "EpisodeTitle": "All Good Things...",
-            "Description": "In a possible future where Picard appears to be suffering from a degenerative illness, Riker\u2019s skepticism and buried concern underscore how long their shared history runs and how difficult it is for either man to imagine an Enterprise defined without the other."
+            "Description": "In a future timeline, Riker\u2019s initial reluctance to aid Picard\u2019s seemingly irrational quest hints at how much unspoken history lies between them, even as he ultimately cannot ignore the debt he owes his former captain."
           }
         ]
       },
       {
+        "RelationshipID": "Riker-Troi",
+        "Name": "William Riker and Deanna Troi",
+        "Series": [
+          "TNG",
+          "Films"
+        ],
+        "RelationshipType": [
+          "Romantic bond",
+          "Imzadi connection"
+        ],
+        "People": [
+          {
+            "Character": "William Riker",
+            "BioID": "Riker"
+          },
+          {
+            "Character": "Deanna Troi",
+            "BioID": "Troi"
+          }
+        ],
+        "Overview": "Riker experiences his relationship with Deanna Troi as the constant presence of a love that never entirely faded, even when duty and time pulled them apart. She is his imzadi\u2014first love, first deep emotional connection\u2014and the telepathic and emotional bond they forged on Betazed continues to shape the way he understands intimacy and trust. On the Enterprise-D, their connection is complicated by professional roles and other romances, yet Riker never stops feeling that Deanna is the one person who sees past his charm and ambition to the vulnerable man underneath.",
+        "StartingPoint": "When they reunite aboard the Enterprise, Riker carries the weight of having chosen his career over a life with Deanna. He expects awkwardness and perhaps resentment; instead, he finds that she has carved out her own place as ship\u2019s counselor and is determined to maintain a functional friendship. The familiarity of their telepathic shorthand and shared memories often bubbles to the surface, but both strive to keep things professional, especially in front of the crew. Riker feels a mixture of regret and relief: regret for the path not taken, relief that Deanna is still in his life and willing to work beside him despite past hurt.",
+        "Evolution": "Over the course of the series, Riker and Troi\u2019s relationship weaves in and out of romantic possibility. Encounters with old betrothals, rival lovers and alternate futures force them to examine what they truly want from one another. Riker\u2019s jealousy when Deanna pursues other relationships, and his protectiveness when she is in danger, reveal that his feelings never fully receded. Key events\u2014such as confronting his duplicate in \u2018Second Chances\u2019 and seeing how another version of himself might have chosen differently\u2014push Riker to acknowledge that he has been afraid to risk their friendship by asking for more. By the time of the later films, the emotional groundwork laid over years culminates in their decision to marry, confirming what Riker has long felt: that no matter how far his career takes him, his life is intertwined with Deanna\u2019s in a way that transcends rank or posting.",
+        "KeyThemes": [
+          "First love and second chances",
+          "Balancing career and intimacy",
+          "Telepathic and emotional transparency",
+          "Fear of commitment versus fear of loss"
+        ],
+        "KeyEpisodes": [
+          {
+            "EpisodeID": "tngs1e1",
+            "EpisodeTitle": "Encounter at Farpoint",
+            "Role": "Reunion of imzadi",
+            "TrajectoryNote": "Their first meeting on the Enterprise, laden with shared history and unspoken feelings, sets the tone for a relationship that will remain emotionally charged no matter how professional their front."
+          },
+          {
+            "EpisodeID": "tngs3e3",
+            "EpisodeTitle": "The Survivors",
+            "Role": "Comfort and understanding",
+            "TrajectoryNote": "After devastating losses, Riker\u2019s quiet support and Deanna\u2019s intuitive grasp of his turmoil demonstrate the depth of their emotional shorthand."
+          },
+          {
+            "EpisodeID": "tngs3e24",
+            "EpisodeTitle": "Menage \u00e0 Troi",
+            "Role": "Jealousy and rescue",
+            "TrajectoryNote": "Riker\u2019s determination to rescue Deanna from the Ferengi and his discomfort with her mother\u2019s matchmaking antics underline how unresolved his feelings remain."
+          },
+          {
+            "EpisodeID": "tngs6e24",
+            "EpisodeTitle": "Second Chances",
+            "Role": "Confronting the road not taken",
+            "TrajectoryNote": "Facing his transporter duplicate, who still loves Deanna unabashedly, forces Riker to confront how his own fear of commitment shaped both their lives."
+          },
+          {
+            "EpisodeID": "tngs7e25",
+            "EpisodeTitle": "All Good Things...",
+            "Role": "Future grief and unfinished business",
+            "TrajectoryNote": "In a possible future where Deanna has died, Riker\u2019s bitterness toward Picard reveals how central she was to his sense of home and how deeply her loss wounds him."
+          }
+        ],
+        "NotableMoments": [
+          {
+            "EpisodeID": "tngs1e1",
+            "EpisodeTitle": "Encounter at Farpoint",
+            "Description": "When Deanna wordlessly senses Riker\u2019s presence and they lock eyes across the bridge, the flicker of recognition and pain in his expression betrays how immediate their old connection still feels."
+          },
+          {
+            "EpisodeID": "tngs6e24",
+            "EpisodeTitle": "Second Chances",
+            "Description": "Watching Deanna share a tender dance with his duplicate, Riker is forced to acknowledge that part of him will always wonder what might have happened if he had chosen her over his career."
+          },
+          {
+            "EpisodeID": "tngs7e25",
+            "EpisodeTitle": "All Good Things...",
+            "Description": "Riker\u2019s anger when Picard invokes Deanna\u2019s memory in the future timeline reveals that, behind his easy charm, the loss of his imzadi is a wound that never truly healed."
+          }
+        ]
+      },
+      {
+        "RelationshipID": "Riker-Shelby",
+        "Name": "William Riker and Shelby",
+        "Series": [
+          "TNG"
+        ],
+        "RelationshipType": [
+          "Professional rivalry",
+          "Succession tension"
+        ],
+        "People": [
+          {
+            "Character": "William Riker",
+            "BioID": "Riker"
+          },
+          {
+            "Character": "Shelby",
+            "BioID": "Shelby"
+          }
+        ],
+        "Overview": "Riker experiences his relationship with Commander Shelby as a bracing, often uncomfortable mirror held up to his own stalled ambition. Shelby\u2019s aggressive drive, tactical brilliance and open desire to advance challenge Riker in ways few colleagues do. She represents both the officer he once was\u2014hungry, impatient, eager to prove himself\u2014and the potential successor who might take the first officer\u2019s chair if he hesitates too long. Their clashes are professional, but the friction forces Riker to re-examine what he really wants from his career and from his place aboard the Enterprise.",
+        "StartingPoint": "Shelby arrives as a specialist in Borg tactics, immediately testing the patience of the Enterprise senior staff. From the beginning, she pushes boundaries: going on unauthorized away missions, questioning Riker\u2019s cautious approach and making clear that she sees his job as a step on her own ladder. Riker bristles at her presumptuousness and her apparent disregard for the chain of command, yet he cannot deny her competence or the urgency of the crisis they face. Her presence forces him to confront uncomfortable questions about whether he has grown too comfortable as Picard\u2019s first officer and whether his reluctance to accept a promotion has become stagnation rather than thoughtful choice.",
+        "Evolution": "During the Borg crisis, the pressure of imminent catastrophe compresses Riker and Shelby\u2019s rivalry into a brutally efficient working partnership. As acting captain, Riker must decide whether to sideline or empower the ambitious officer who openly covets his position. Choosing the latter, he assigns her critical responsibilities and listens seriously to her tactical proposals, discovering that their contrasting styles\u2014her boldness and his broader strategic caution\u2014can complement rather than cancel each other. By the end of the ordeal, he has come to respect Shelby as a worthy successor, even as he reaffirms his own decision to remain on the Enterprise a while longer. Their brief but intense collaboration leaves Riker with a sharper understanding of his own motivations and a renewed commitment to making active choices about his career instead of letting inertia decide.",
+        "KeyThemes": [
+          "Ambition versus stability",
+          "Respect forged through conflict",
+          "Succession and legacy in command",
+          "Adapting leadership style under pressure"
+        ],
+        "KeyEpisodes": [
+          {
+            "EpisodeID": "tngs3e26",
+            "EpisodeTitle": "The Best of Both Worlds, Part I",
+            "Role": "Rival meets crisis",
+            "TrajectoryNote": "Shelby\u2019s relentless drive and willingness to question Riker\u2019s decisions set up a rivalry that forces him to confront whether he has become too comfortable as first officer."
+          },
+          {
+            "EpisodeID": "tngs4e1",
+            "EpisodeTitle": "The Best of Both Worlds, Part II",
+            "Role": "Rival becomes key subordinate",
+            "TrajectoryNote": "As acting captain, Riker puts Shelby in charge of critical elements of the anti-Borg strategy, signaling that he values her abilities despite their personal friction."
+          }
+        ],
+        "NotableMoments": [
+          {
+            "EpisodeID": "tngs3e26",
+            "EpisodeTitle": "The Best of Both Worlds, Part I",
+            "Description": "Shelby\u2019s unauthorized away mission infuriates Riker, but his decision to rein her in without dismissing her from the team demonstrates that he recognizes both the danger of her recklessness and the value of her insight."
+          },
+          {
+            "EpisodeID": "tngs4e1",
+            "EpisodeTitle": "The Best of Both Worlds, Part II",
+            "Description": "On the bridge during the final assault on the Borg cube, Riker\u2019s calm acceptance of Shelby\u2019s aggressive plan shows how their adversarial dynamic has evolved into a functional division of labor under fire."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CharacterID": "Data",
+    "Name": "Data",
+    "Series": [
+      "TNG",
+      "Films"
+    ],
+    "Meta": "Second officer and operations officer, USS Enterprise (NCC-1701-D)",
+    "Relationships": [
+      {
         "RelationshipID": "Picard-Data",
-        "Name": "Jean-Luc Picard and Data",
+        "Name": "Data and Jean-Luc Picard",
         "Series": [
           "TNG",
           "Films"
         ],
         "RelationshipType": [
           "Mentorship",
-          "Exploration of humanity"
+          "Command trust"
         ],
         "People": [
           {
-            "Character": "Jean-Luc Picard",
-            "BioID": "Picard"
-          },
-          {
             "Character": "Data",
             "BioID": "Data"
+          },
+          {
+            "Character": "Jean-Luc Picard",
+            "BioID": "Picard"
           }
         ],
-        "Overview": "Picard regards Data as both a valued officer and an ongoing philosophical question: what does it truly mean to be sentient, to have rights, to aspire to humanity? From their earliest voyages, Picard recognizes that Data\u2019s quest to understand human behavior is not a curiosity to be indulged but a moral journey that demands the captain\u2019s protection. He sees in Data a reflection of his own struggles to balance duty, emotion and identity, and he comes to view defending Data\u2019s personhood as a stand for the Federation\u2019s highest ideals.",
-        "StartingPoint": "Initially, Picard treats Data with formal courtesy, wary of reducing him either to a machine or a fragile experiment. Data\u2019s flawless performance as an officer makes it easy to value him professionally, but Picard also notes his childlike curiosity and literal-minded questions about social nuance. The turning point comes when Starfleet seeks to dismantle Data for research. Forced to confront whether his second officer is property or person, Picard commits himself fully to the latter, arguing that sentient beings must not be sacrificed for convenience or scientific ambition. In defending Data\u2019s right to choose his own fate, Picard implicitly accepts a long-term responsibility for nurturing that freedom.",
-        "Evolution": "Over time, Picard\u2019s interactions with Data evolve from polite explanations of human custom to deeply personal exchanges about fear, loss and moral choice. He observes Data\u2019s experiments with art, romance and humor, sometimes with exasperation but more often with quiet pride, recognizing in them the same drive for growth that animates his human crew. When Data confronts darker possibilities\u2014such as the existence of Lore or the temptation of emotion chips\u2014Picard guides him not as a technician but as a mentor, insisting that what matters is less how human Data becomes than the kind of person he chooses to be. In the end, Data\u2019s willingness to sacrifice himself to save Picard and the Enterprise leaves the captain with a grief indistinguishable from that felt for any flesh-and-blood friend, proving that whatever its origins, their bond has long since passed into the realm of family.",
+        "Overview": "From Data\u2019s perspective, his relationship with Captain Jean-Luc Picard is a sustained lesson in what it means to be both an officer and a person. Data notes early on that Picard treats him neither as equipment nor as a fragile experiment, but as a colleague whose insights and autonomy matter. Picard\u2019s willingness to consider his opinions, to explain complex moral choices, and to defend his rights when challenged leads Data to regard him as a primary reference model for ethical behavior. Over time, Data concludes that his continued growth toward humanity is inseparable from the trust and protection Picard extends to him.",
+        "StartingPoint": "When Data first serves under Picard, he files numerous internal observations about the captain\u2019s command style: reserved, direct, and highly focused on protocol. Yet he also records instances in which Picard makes small adjustments to accommodate crew well-being, such as allowing informal interactions on the bridge during low-risk operations. Data recognizes these as examples of leadership that integrates efficiency with concern. The turning point in his own understanding comes when Starfleet proposes to disassemble him for study. Picard\u2019s decision to act as his advocate, and his insistence that Data\u2019s sentience entitles him to choose his fate, provide Data with empirical evidence that his captain regards him as more than property. This solidifies Picard in Data\u2019s analysis as both commanding officer and protector of his personhood.",
+        "Evolution": "As their missions continue, Data repeatedly seeks out Picard\u2019s perspective on subjects he finds difficult to quantify: love, loss, regret, and duty that conflicts with personal desire. Picard does not attempt to provide algorithmic answers; instead, he offers stories from his own life and asks Data to weigh options for himself. This approach reinforces Data\u2019s belief that becoming more human is less about mimicking external behavior and more about developing an internal moral framework. When Data confronts darker possibilities\u2014his brother Lore, the temptation of an emotion chip, or the creation and loss of his daughter Lal\u2014Picard\u2019s responses help him calibrate his own reactions, even when he cannot feel them in a human way. In the end, Data\u2019s decision to sacrifice his life to save Picard confirms, in his own logic, that the captain\u2019s example has become integral to his identity: preserving Picard\u2019s continued existence and the ideals he represents is, to Data, the most rational expression of loyalty and the closest approximation of love he can compute.",
         "KeyThemes": [
-          "Sentience and personhood",
-          "Moral responsibility toward artificial life",
-          "Curiosity as a path to humanity",
-          "Mentor and prot\u00e9g\u00e9 under fire"
+          "Recognition of sentience and rights",
+          "Mentorship through example rather than command",
+          "Balancing logic with emerging ethics",
+          "Sacrifice as a logical expression of loyalty"
         ],
         "KeyEpisodes": [
           {
             "EpisodeID": "tngs2e9",
             "EpisodeTitle": "The Measure of a Man",
-            "Role": "Defining personhood",
-            "TrajectoryNote": "Picard\u2019s courtroom defense of Data\u2019s right to choose his own fate transforms their relationship from simple captain\u2013officer to a lifelong commitment to defending his status as a person."
+            "Role": "Legal recognition of personhood",
+            "TrajectoryNote": "Picard\u2019s defense of Data\u2019s right to refuse disassembly provides Data with conclusive evidence that his captain regards him as an individual whose consent matters, altering his model of how authority and autonomy should interact."
           },
           {
             "EpisodeID": "tngs3e16",
             "EpisodeTitle": "The Offspring",
-            "Role": "Data as parent, Picard as advocate",
-            "TrajectoryNote": "When Data creates Lal, Picard must extend his protection to Data\u2019s child, forcing him to articulate the Federation\u2019s duty to new forms of life in the face of bureaucratic pressure."
+            "Role": "Extending Picard\u2019s protection to Lal",
+            "TrajectoryNote": "When Picard supports Data\u2019s decision to create Lal and then defends her status as a new life-form, Data observes that the captain\u2019s ethical concern extends not only to him but to any being who shares his condition."
           },
           {
             "EpisodeID": "tngs6e19",
             "EpisodeTitle": "Lessons",
-            "Role": "Parallel emotional growth",
-            "TrajectoryNote": "As Picard navigates a rare romantic relationship of his own, Data\u2019s analysis of love as a set of learnable behaviors underscores the captain\u2019s awareness that emotional experience cannot be reduced to algorithms."
+            "Role": "Parallel explorations of emotion",
+            "TrajectoryNote": "Data\u2019s analytical advice about romantic relationships, offered while Picard navigates one of his own, allows Data to compare his theoretical understanding of love to the captain\u2019s lived experience."
           },
           {
             "EpisodeID": "tngs7e25",
             "EpisodeTitle": "All Good Things...",
-            "Role": "Enduring trust",
-            "TrajectoryNote": "Across shifting timelines, Data\u2019s unwavering service and Picard\u2019s reliance on his insight show a partnership that endures beyond the constraints of any single moment in time."
+            "Role": "Enduring professional trust",
+            "TrajectoryNote": "Across shifting timelines, Data notes that Picard repeatedly relies on his analytical abilities in situations where others doubt the captain, reinforcing Data\u2019s conclusion that their bond is unusually strong."
           }
         ],
         "NotableMoments": [
           {
             "EpisodeID": "tngs2e9",
             "EpisodeTitle": "The Measure of a Man",
-            "Description": "Picard\u2019s closing argument\u2014that Starfleet must not condemn a race to slavery by declaring Data property\u2014reveals how deeply he has come to identify his officer\u2019s fate with the Federation\u2019s moral integrity."
+            "Description": "After the hearing, Data reflects that Picard\u2019s argument treated him not as a special case but as representative of a potential new form of life, leading Data to update his assessment of the captain\u2019s commitment to abstract principles of rights and freedoms."
           },
           {
             "EpisodeID": "tngs3e16",
             "EpisodeTitle": "The Offspring",
-            "Description": "After Lal\u2019s death, Picard\u2019s quiet presence as Data records memories of his daughter demonstrates a respect for Data\u2019s grief that makes no distinction between android and human sorrow."
+            "Description": "Data\u2019s log entry following Lal\u2019s death notes Picard\u2019s presence and support during the crisis, recording that the captain\u2019s behavior provided a \u2018contextual example\u2019 of compassion that Data intends to emulate, even if he cannot yet feel it."
           },
           {
             "EpisodeID": "tngs7e25",
             "EpisodeTitle": "All Good Things...",
-            "Description": "In a future timeline, Picard\u2019s decision to seek out Data at Cambridge when no one else will listen shows that, even estranged by time and distance, he still trusts Data\u2019s mind above almost any other."
+            "Description": "In the alternate future, Data responds to Picard\u2019s unorthodox questions with serious attention rather than skepticism, demonstrating that his respect for the captain\u2019s judgment persists even when others believe Picard compromised."
           }
         ]
       },
       {
-        "RelationshipID": "Picard-Beverly",
-        "Name": "Jean-Luc Picard and Beverly Crusher",
+        "RelationshipID": "Data-Geordi",
+        "Name": "Data and Geordi La Forge",
         "Series": [
           "TNG",
           "Films"
         ],
         "RelationshipType": [
-          "Romantic tension",
-          "Professional partnership"
+          "Best friends",
+          "Engineering partnership"
         ],
         "People": [
           {
-            "Character": "Jean-Luc Picard",
-            "BioID": "Picard"
+            "Character": "Data",
+            "BioID": "Data"
           },
           {
-            "Character": "Beverly Crusher",
-            "BioID": "Crusher"
+            "Character": "Geordi La Forge",
+            "BioID": "Geordi"
           }
         ],
-        "Overview": "Picard\u2019s relationship with Dr. Beverly Crusher is defined by layers of history, affection and restraint. She is both his chief medical officer and the widow of his former friend, a combination that binds them together even as it imposes boundaries neither quite knows how to cross. Picard trusts Beverly\u2019s judgment implicitly\u2014medical, ethical and personal\u2014and relies on her to speak to him with a frankness few others dare. At the same time, he is acutely aware of his feelings for her and of the risk that acknowledging them could transform their professional dynamic and their connection to her son, Wesley.",
-        "StartingPoint": "When Beverly joins the Enterprise-D, Picard is confronted with unresolved guilt over Jack Crusher\u2019s death under his command and the complication of long-suppressed attraction. He responds by maintaining a careful formality on duty: she is \u2018Doctor\u2019 on the bridge, and he avoids private situations where intimacy might surface. Yet shared history cannot be entirely buried. Their conversations in his ready room and on missions away from the ship frequently drift toward personal topics\u2014her memories of Jack, his regrets, Wesley\u2019s future. From the beginning, Picard senses that Beverly sees through his aloof demeanor more clearly than most, which both comforts and unsettles him.",
-        "Evolution": "As the years pass, Picard and Beverly\u2019s relationship oscillates between cautious distance and moments of startling openness. Crises that threaten one or the other strip away pretense: trapped in collapsing realities, confronting deadly viruses, or forced into telepathic honesty, they reveal feelings they cannot easily un-say. Nevertheless, both prioritize the well-being of the crew and Wesley over their own desires, repeatedly stepping back from the brink of a deeper romantic commitment. Glimpses of alternate futures\u2014where they marry and later divorce\u2014force Picard to confront the idea that some version of their story plays out beyond his control. In the timeline he knows, he settles into an enduring bond marked by shared confidence, occasional frustration, and the unspoken understanding that they have chosen duty and stability over risking everything on love.",
+        "Overview": "Data perceives his relationship with Geordi La Forge as his closest approximation of human friendship. Geordi interacts with him without condescension, jokes with him, and invites him into off-duty activities in ways that give Data an empirical framework for understanding companionship. In engineering and on the bridge, their combined skills create a highly efficient problem-solving unit, but it is Geordi\u2019s willingness to treat Data as a person\u2014with quirks, preferences, and the capacity to learn\u2014that most strongly influences Data\u2019s self-concept.",
+        "StartingPoint": "Early in their service together, Data notes that Geordi addresses him in a relaxed, informal manner and appears to enjoy his company beyond strictly professional contexts. Geordi explains human idioms, laughs at Data\u2019s misunderstandings, and invites him to social events such as poker games. Data initially interprets these interactions as opportunities to collect data on human behavior, but he gradually recognizes that Geordi derives reciprocal enjoyment from their time together. This leads Data to classify Geordi not only as a colleague but as a \u2018friend,\u2019 a label he continues to refine through observation.",
+        "Evolution": "Over time, Data\u2019s friendship with Geordi becomes a stable emotional anchor, even if Data cannot feel that attachment in the human sense. He observes that Geordi defends him when others question his value, collaborates with him on complex engineering solutions, and expresses distress when Data is damaged, lost or altered. Crises involving his own malfunction, the influence of Lore, or the introduction of the emotion chip place severe strain on their relationship; in each case, Data later analyzes Geordi\u2019s reactions\u2014fear, anger, forgiveness\u2014as evidence that friendship involves risk and vulnerability. From these experiences, Data concludes that maintaining their bond requires more than logical compatibility: it demands honesty about his own changes and a willingness to accept that he can hurt those he cares about. By the later years of the Enterprise-D and beyond, he routinely factors Geordi\u2019s well-being into his decision-making, an implicit acknowledgment that their connection has become central to his personal matrix of values.",
         "KeyThemes": [
-          "Love constrained by duty",
-          "Guilt and forgiveness",
-          "Balancing personal and professional roles",
-          "Family entanglements in command"
+          "Friendship as mutual recognition",
+          "Learning humanity through everyday interaction",
+          "Trust under technological and psychological stress",
+          "Balancing analytical clarity with emotional risk"
         ],
         "KeyEpisodes": [
           {
-            "EpisodeID": "tngs4e5",
-            "EpisodeTitle": "Remember Me",
-            "Role": "Fear of losing her",
-            "TrajectoryNote": "As Beverly vanishes into a collapsing universe, Picard\u2019s frantic efforts to reach and rescue her reveal how integral she has become to his sense of the Enterprise as home."
+            "EpisodeID": "tngs3e6",
+            "EpisodeTitle": "Booby Trap",
+            "Role": "Collaborative problem solving",
+            "TrajectoryNote": "Working with Geordi to free the Enterprise from an energy-draining trap reinforces Data\u2019s assessment that their complementary skills in engineering and analysis create an unusually effective partnership."
           },
           {
-            "EpisodeID": "tngs7e8",
-            "EpisodeTitle": "Attached",
-            "Role": "Forced honesty",
-            "TrajectoryNote": "Linked telepathically, Picard and Beverly are compelled to confront their buried emotions and the reasons they have avoided a romantic relationship, bringing years of subtext into the open."
+            "EpisodeID": "tngs4e18",
+            "EpisodeTitle": "Identity Crisis",
+            "Role": "Protecting a friend from transformation",
+            "TrajectoryNote": "As Geordi begins to undergo a disturbing physical change, Data\u2019s methodical investigation is driven not only by duty but by a clear priority on his friend\u2019s survival and autonomy."
           },
           {
-            "EpisodeID": "tngs7e25",
-            "EpisodeTitle": "All Good Things...",
-            "Role": "Alternate future, alternate choice",
-            "TrajectoryNote": "In a possible future where they marry and later divorce, Picard is forced to consider that his caution may spare them pain but also forever delay a connection they both desire."
+            "EpisodeID": "tngs7e1",
+            "EpisodeTitle": "Descent, Part II",
+            "Role": "Repairing damage after betrayal",
+            "TrajectoryNote": "Having abducted Geordi under Lore\u2019s influence, Data must confront the fact that his altered state endangered the person he most often turns to for support, prompting a deeper examination of responsibility within friendship."
+          },
+          {
+            "EpisodeID": "tngs4e11",
+            "EpisodeTitle": "Data's Day",
+            "Role": "Everyday evidence of friendship",
+            "TrajectoryNote": "In his log, Data\u2019s detailed observations about Geordi\u2019s advice and reactions during a single day aboard the Enterprise demonstrate that he uses their interactions as a key reference for understanding human social norms."
           }
         ],
         "NotableMoments": [
           {
-            "EpisodeID": "tngs7e8",
-            "EpisodeTitle": "Attached",
-            "Description": "Sharing thoughts on the planet\u2019s surface, Picard admits how long he has loved Beverly, and her mixture of surprise, warmth and conflict lays bare the emotional terrain they have both carefully skirted for years."
+            "EpisodeID": "tngs4e11",
+            "EpisodeTitle": "Data's Day",
+            "Description": "Data records that he considers Geordi his \u2018best friend,\u2019 an explicit classification that reflects the cumulative weight of countless shared shifts, conversations and problem-solving sessions."
           },
           {
-            "EpisodeID": "tngs7e25",
-            "EpisodeTitle": "All Good Things...",
-            "Description": "Picard\u2019s awkward interactions with a future Beverly, now his ex-wife yet still a trusted colleague, hint at a path not taken in his current life and the cost of his lifelong caution."
+            "EpisodeID": "tngs7e1",
+            "EpisodeTitle": "Descent, Part II",
+            "Description": "After being freed from Lore\u2019s control, Data apologizes to Geordi for endangering him; Geordi\u2019s mixture of hurt and reassurance provides Data with a concrete example of forgiveness within a close relationship."
           },
           {
-            "EpisodeID": "tngs1e1",
-            "EpisodeTitle": "Encounter at Farpoint",
-            "Description": "Their first meeting aboard the Enterprise-D crackles with unspoken history, as Picard\u2019s stiff formality and Beverly\u2019s cool professionalism barely conceal mutual awareness of Jack Crusher\u2019s ghost standing between them."
-          }
-        ]
-      },
-      {
-        "RelationshipID": "Picard-Wesley",
-        "Name": "Jean-Luc Picard and Wesley Crusher",
-        "Series": [
-          "TNG"
-        ],
-        "RelationshipType": [
-          "Mentorship",
-          "Parental responsibility"
-        ],
-        "People": [
-          {
-            "Character": "Jean-Luc Picard",
-            "BioID": "Picard"
-          },
-          {
-            "Character": "Wesley Crusher",
-            "BioID": "Wesley"
-          }
-        ],
-        "Overview": "Picard experiences his relationship with Wesley Crusher as a complicated blend of guilt, pride and protective obligation. Having commanded the mission in which Wesley\u2019s father died, he feels a lingering responsibility toward Jack\u2019s son that goes far beyond formal duty. Wesley\u2019s presence on the Enterprise forces Picard to confront the personal consequences of command decisions he would prefer to treat as abstractions, and the boy\u2019s hero worship only sharpens Picard\u2019s determination not to fail him a second time.",
-        "StartingPoint": "At first, Picard is clearly uncomfortable around Wesley and children in general. Wesley\u2019s habit of appearing on the bridge uninvited and his eagerness to impress chafe against Picard\u2019s preference for decorum. Yet when the Traveller reveals the depth of Wesley\u2019s potential, Picard realizes that he cannot keep the young man at arm\u2019s length. He begins to invite Wesley into command discussions, offers him supervised access to the helm and, crucially, speaks to him with the seriousness he reserves for adults. From these early steps, a mentor\u2013prot\u00e9g\u00e9 relationship emerges, colored always by the ghost of Jack Crusher and the unspoken question of whether Picard can ever truly be a positive paternal figure.",
-        "Evolution": "As Wesley matures, Picard takes a more active role in shaping his path, recommending him for Starfleet Academy and holding him to high standards of conduct. When Wesley stumbles\u2014most notably in the Nova Squadron scandal\u2014Picard responds with a mixture of sternness and compassion, determined that the young man will learn from his mistakes rather than be destroyed by them. Their confrontations are painful precisely because Picard refuses to excuse Wesley\u2019s actions out of sentiment; in insisting on accountability, he offers Wesley the same respect he would give any officer. Even when Wesley ultimately chooses a less conventional road under the Traveller\u2019s guidance, Picard\u2019s pride in his growth and relief at his survival outweigh his disappointment, and he carries with him the sense that, for a time, he helped guide a life that might otherwise have been defined only by loss.",
-        "KeyThemes": [
-          "Guilt and second chances",
-          "Growing up under a captain\u2019s eye",
-          "Integrity and accountability",
-          "Balancing mentorship with discipline"
-        ],
-        "KeyEpisodes": [
-          {
-            "EpisodeID": "tngs1e6",
-            "EpisodeTitle": "Where No One Has Gone Before",
-            "Role": "Recognizing Wesley\u2019s gifts",
-            "TrajectoryNote": "After the Traveller highlights Wesley\u2019s rare potential, Picard begins to view the boy not as a nuisance but as someone whose development demands careful guidance."
-          },
-          {
-            "EpisodeID": "tngs4e9",
-            "EpisodeTitle": "Final Mission",
-            "Role": "Facing mortality together",
-            "TrajectoryNote": "Stranded on a dying moon, Picard and Wesley confront the possibility of Picard\u2019s death, allowing long-suppressed feelings about Jack, duty and family to surface."
-          },
-          {
-            "EpisodeID": "tngs5e19",
-            "EpisodeTitle": "The First Duty",
-            "Role": "Hard lessons in integrity",
-            "TrajectoryNote": "Picard\u2019s stern rebuke of Wesley for his role in a deadly Academy cover-up demonstrates the captain\u2019s belief that honesty and responsibility are the true markers of adulthood."
-          }
-        ],
-        "NotableMoments": [
-          {
-            "EpisodeID": "tngs4e9",
-            "EpisodeTitle": "Final Mission",
-            "Description": "Dehydrated and near collapse, Picard speaks to Wesley about Jack with a candor he has long avoided, effectively passing a measure of paternal blessing to the young man he has watched grow up aboard his ship."
-          },
-          {
-            "EpisodeID": "tngs5e19",
-            "EpisodeTitle": "The First Duty",
-            "Description": "In Picard\u2019s office, his forceful reminder that \u2018the first duty of every Starfleet officer is to the truth\u2019 cuts Wesley deeply but also marks a crucial step in their relationship, as Picard refuses to shield him from the consequences of his choices."
-          },
-          {
-            "EpisodeID": "tngs1e6",
-            "EpisodeTitle": "Where No One Has Gone Before",
-            "Description": "Picard\u2019s decision to take the Traveller\u2019s warning seriously and to nurture Wesley\u2019s talents shows an early willingness to invest personally in the boy\u2019s future despite his discomfort with children."
-          }
-        ]
-      },
-      {
-        "RelationshipID": "Picard-Guinan",
-        "Name": "Jean-Luc Picard and Guinan",
-        "Series": [
-          "TNG"
-        ],
-        "RelationshipType": [
-          "Deep friendship",
-          "Counsel"
-        ],
-        "People": [
-          {
-            "Character": "Jean-Luc Picard",
-            "BioID": "Picard"
-          },
-          {
-            "Character": "Guinan",
-            "BioID": "Guinan"
-          }
-        ],
-        "Overview": "To Picard, Guinan is both confidante and enigma\u2014a being whose long life and quiet perception make her counsel unlike anyone else\u2019s aboard the Enterprise. He turns to her not for tactical advice but for the kind of perspective that cannot be gleaned from reports or sensor logs. Guinan understands his need for solitude and his reluctance to burden subordinates with his doubts, offering a space where he can lay aside the mask of command and examine his choices as a man rather than as a captain.",
-        "StartingPoint": "Their relationship begins off-screen, with hints of a shared history connected to Guinan\u2019s long-lived past and Picard\u2019s earlier career. By the time audiences encounter them together, a deep trust is already in place: Picard allows Guinan extraordinary latitude in Ten Forward, and she in turn treats him not as a distant authority figure but as an old friend. Early conversations over a drink establish the pattern: she asks unvarnished questions, he answers with more honesty than he offers almost anyone else, and she responds with observations that cut through his self-justifications in ways he grudgingly appreciates.",
-        "Evolution": "As events unfold that tug at the fabric of reality itself, Guinan\u2019s unique awareness makes her indispensable to Picard. When timelines are altered or threats loom that only she can sense, he must choose whether to trust her instincts over the apparent facts before him. Each time he does, and is vindicated, his reliance on her deepens, shifting from simple friendship to something closer to spiritual partnership. Guinan\u2019s ability to see Picard not only as he is but as he might become helps him navigate guilt over past actions, fear of the Borg and the weight of command decisions that cannot be undone. In return, Picard offers her respect and protection within Starfleet\u2019s hierarchy, ensuring that her voice is heard when it matters most.",
-        "KeyThemes": [
-          "Trust beyond evidence",
-          "Loneliness of command",
-          "Time, memory and identity",
-          "Quiet spaces for truth-telling"
-        ],
-        "KeyEpisodes": [
-          {
-            "EpisodeID": "tngs2e16",
-            "EpisodeTitle": "Q Who",
-            "Role": "Warning ignored",
-            "TrajectoryNote": "Guinan\u2019s unease about Q\u2019s games and the looming Borg threat underscores her role as an early warning system Picard is still learning to heed."
-          },
-          {
-            "EpisodeID": "tngs3e15",
-            "EpisodeTitle": "Yesterday's Enterprise",
-            "Role": "Guardian of the correct timeline",
-            "TrajectoryNote": "In an altered reality, Guinan alone senses history gone wrong and convinces Picard to send the Enterprise-C back to its fate, a choice he makes largely on the strength of his faith in her."
-          },
-          {
-            "EpisodeID": "tngs4e1",
-            "EpisodeTitle": "The Best of Both Worlds, Part II",
-            "Role": "Recovering from trauma",
-            "TrajectoryNote": "After Picard\u2019s assimilation, Guinan helps him begin to process the violation and guilt of his experience with the Borg, offering a listening ear rather than platitudes."
-          }
-        ],
-        "NotableMoments": [
-          {
-            "EpisodeID": "tngs3e15",
-            "EpisodeTitle": "Yesterday's Enterprise",
-            "Description": "In the war-torn alternate timeline, Guinan confronts a hard-edged version of Picard with the assertion that reality itself is wrong; his decision to act on her conviction rather than the tactical situation marks one of his greatest leaps of faith."
-          },
-          {
-            "EpisodeID": "tngs4e1",
-            "EpisodeTitle": "The Best of Both Worlds, Part II",
-            "Description": "Quietly sharing a drink with Guinan after the Borg crisis, Picard allows his composure to crack just enough to acknowledge his trauma, trusting that she will neither pity him nor diminish what he has endured."
-          },
-          {
-            "EpisodeID": "tngs2e16",
-            "EpisodeTitle": "Q Who",
-            "Description": "When Guinan and Q recognize one another, Picard watches the exchange with keen interest, recognizing that Guinan\u2019s history is far larger than he understands and that her presence on his ship is no accident."
-          }
-        ]
-      },
-      {
-        "RelationshipID": "Picard-Worf",
-        "Name": "Jean-Luc Picard and Worf",
-        "Series": [
-          "TNG"
-        ],
-        "RelationshipType": [
-          "Command and cultural bridge",
-          "Honor and duty"
-        ],
-        "People": [
-          {
-            "Character": "Jean-Luc Picard",
-            "BioID": "Picard"
-          },
-          {
-            "Character": "Worf",
-            "BioID": "Worf"
-          }
-        ],
-        "Overview": "Picard sees his relationship with Lieutenant Worf as a constant negotiation between Federation law and Klingon honor. As the first Klingon mainline Starfleet officer to serve on a flagship, Worf embodies both a political symbol and a personal experiment in reconciliation between former enemies. Picard respects Worf\u2019s integrity and warrior ethos, but he is also aware that every decision involving his security chief will be scrutinized for what it says about the Federation\u2019s trust in Klingons and vice versa.",
-        "StartingPoint": "At the beginning, Picard evaluates Worf primarily as a capable security and tactical officer, assigning him to key posts even before Tasha Yar\u2019s death. When Worf assumes her duties, Picard notes his discipline and his strict adherence to both Starfleet protocols and Klingon concepts of honor. Early missions involving the Klingon Empire reveal how often Worf\u2019s instincts diverge from official policy; Picard responds not by suppressing those impulses but by engaging with them, asking Worf to explain Klingon perspectives and, in doing so, learning to see diplomatic problems through his officer\u2019s eyes.",
-        "Evolution": "As political crises embroil the Klingon Empire, Picard\u2019s role as arbiter of succession forces him into Worf\u2019s personal story in ways neither could have anticipated. He witnesses firsthand Worf\u2019s willingness to bear dishonor to preserve the Empire\u2019s stability and later his refusal to compromise his ethics for political convenience. Each time, Picard must decide whether to uphold Starfleet neutrality or to intervene on Worf\u2019s behalf, knowing that his choices will shape not only one officer\u2019s career but the broader relationship between their peoples. Over time, mutual respect deepens into something akin to familial loyalty: Worf entrusts his son\u2019s future to Picard\u2019s judgment, and Picard, in turn, trusts Worf to speak bluntly when Klingon values collide with Federation ideals. By the end of their time together, Picard regards Worf not just as a representative of another culture but as proof that former enemies can share a code of honor without erasing their differences.",
-        "KeyThemes": [
-          "Cultural identity within Starfleet",
-          "Honor versus political necessity",
-          "Mentorship across former enemy lines",
-          "Family, legacy and duty"
-        ],
-        "KeyEpisodes": [
-          {
-            "EpisodeID": "tngs3e17",
-            "EpisodeTitle": "Sins of the Father",
-            "Role": "Arbiter and ally",
-            "TrajectoryNote": "Picard\u2019s investigation into the Khitomer massacre and his support of Worf\u2019s choice to accept discommendation reveal his willingness to shoulder political risk to honor his officer\u2019s integrity."
-          },
-          {
-            "EpisodeID": "tngs4e26",
-            "EpisodeTitle": "Redemption",
-            "Role": "Balancing neutrality and loyalty",
-            "TrajectoryNote": "As civil war looms, Picard must maintain Federation neutrality even while facilitating Worf\u2019s return to Klingon service, walking a tightrope between personal loyalty and political responsibility."
-          },
-          {
-            "EpisodeID": "tngs5e1",
-            "EpisodeTitle": "Redemption II",
-            "Role": "Aftermath and return",
-            "TrajectoryNote": "When Worf ultimately returns to the Enterprise, Picard\u2019s acceptance demonstrates that temporary divergence in duty has not diminished his trust in the Klingon officer\u2019s commitment to Starfleet."
-          },
-          {
-            "EpisodeID": "tngs7e21",
-            "EpisodeTitle": "Firstborn",
-            "Role": "Concern for Worf as father",
-            "TrajectoryNote": "Observing Worf\u2019s struggles with Alexander, Picard\u2019s quiet guidance reinforces his belief that his security chief\u2019s greatest battles are often fought in the realm of family and heritage."
-          }
-        ],
-        "NotableMoments": [
-          {
-            "EpisodeID": "tngs3e17",
-            "EpisodeTitle": "Sins of the Father",
-            "Description": "In the High Council chamber, Picard stands at Worf\u2019s side as he confronts the truth about his family, making it clear that Starfleet\u2019s highest-ranking representatives will not abandon their officer to Klingon politics."
-          },
-          {
-            "EpisodeID": "tngs4e26",
-            "EpisodeTitle": "Redemption",
-            "Description": "Picard\u2019s visible discomfort as he orders Worf to relinquish his Starfleet commission underscores how personally he feels the loss, even as he recognizes that honoring Worf\u2019s path requires letting him go."
-          },
-          {
-            "EpisodeID": "tngs7e21",
-            "EpisodeTitle": "Firstborn",
-            "Description": "Aboard the Enterprise, Picard\u2019s gentle questions about Alexander\u2019s future reflect his understanding that Worf\u2019s struggle to reconcile Klingon and Federation values in his son mirrors his own journey in Starfleet."
+            "EpisodeID": "tngs3e6",
+            "EpisodeTitle": "Booby Trap",
+            "Description": "In engineering, the ease with which Geordi and Data trade ideas and finish one another\u2019s technical thoughts illustrates a level of trust and familiarity that Data later cites as evidence of strong interpersonal connection."
           }
         ]
       }
