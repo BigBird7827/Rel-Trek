@@ -5484,5 +5484,976 @@
         ]
       }
     ]
+  },
+  {
+    "CharacterID": "Janeway",
+    "Name": "Kathryn Janeway",
+    "Series": [
+      "VOY"
+    ],
+    "Meta": "Starfleet captain of the USS Voyager, Kathryn Janeway is a scientist-soldier who blends curiosity with an uncompromising sense of duty. Stranded in the Delta Quadrant with a mixed Starfleet\u2013Maquis crew, she takes personal responsibility for every life under her command and for the decisions\u2014ethical and tactical\u2014that shape their long journey home.",
+    "Relationships": [
+      {
+        "RelationshipID": "Janeway-SevenOfNine",
+        "Name": "Kathryn Janeway and Seven of Nine",
+        "Series": [
+          "VOY"
+        ],
+        "RelationshipType": [
+          "Mentor/Student",
+          "Found Family",
+          "Command Dynamic",
+          "Rehabilitation"
+        ],
+        "People": [
+          {
+            "Character": "Kathryn Janeway",
+            "BioID": "Janeway"
+          },
+          {
+            "Character": "Seven of Nine",
+            "BioID": "SevenOfNine"
+          }
+        ],
+        "Overview": "Janeway\u2019s relationship with Seven of Nine is the emotional and ethical core of Voyager\u2019s later years. She forcibly severs Seven from the Borg Collective, then spends the rest of the journey trying to help her reclaim an individual identity. Their connection is volatile and intense: Janeway oscillates between captain, parent, teacher, and adversary, while Seven challenges her assumptions about humanity, utilitarian choices, and what it means to belong to a crew. Their bond is marked by arguments as often as by trust, but both women repeatedly stake their lives and futures on the other\u2019s growth.",
+        "StartingPoint": "The relationship begins in the crucible of crisis during the alliance with the Borg against Species 8472. In \u201cScorpion, Part II,\u201d Janeway agrees to accept a Borg representative on Voyager, and Seven is chosen as that liaison. Initially, Seven regards Janeway as an obstacle to collective efficiency and attempts to seize control of the ship. Janeway\u2019s pivotal decision in \u201cThe Gift\u201d to sever Seven from the Collective and keep her aboard is both an act of rescue and an imposition of Starfleet values, setting up a dynamic where Seven feels stripped of her old identity while being pressured into a new one she did not consent to.",
+        "Evolution": "Over time, hostility gives way to an uneasy mentorship and then to a fiercely protective, quasi-familial bond. Janeway becomes Seven\u2019s primary advocate, encouraging her to explore individuality in \u201cThe Raven,\u201d defending her autonomy against the Borg in \u201cDark Frontier,\u201d and trusting her with vital responsibilities despite setbacks. Seven, in turn, challenges Janeway\u2019s moral certainty and strategic gambles, calling out perceived hypocrisy or risk. By \u201cEndgame,\u201d both the Prime and future Admiral Janeway are deeply marked by Seven\u2019s fate; the future Janeway\u2019s plan to alter history is driven in part by grief and guilt over the losses Seven and the crew endured. The relationship ends not with sentimental closure but with mutual respect, ongoing tension, and a sense that both women have been permanently changed by the other.",
+        "KeyThemes": [
+          "Identity, autonomy, and the right to choose who you are after oppression",
+          "Mentorship that blurs lines between duty, affection, and control",
+          "The ethics of \u201csaving\u201d someone by forcing change upon them",
+          "Trust forged through repeated high-stakes crises and survival",
+          "Mother\u2013daughter overtones within a strict Starfleet hierarchy"
+        ],
+        "KeyEpisodes": [
+          {
+            "EpisodeID": "voys4e1",
+            "EpisodeTitle": "Scorpion, Part II",
+            "Role": "Origin point of their alliance and conflict",
+            "TrajectoryNote": "Seven joins the crew as a Borg liaison, immediately clashing with Janeway over control and purpose."
+          },
+          {
+            "EpisodeID": "voys4e2",
+            "EpisodeTitle": "The Gift",
+            "Role": "Severing Seven from the Collective",
+            "TrajectoryNote": "Janeway\u2019s decision to remove Seven\u2019s link to the Collective creates both a rescue narrative and a forced rebirth."
+          },
+          {
+            "EpisodeID": "voys4e6",
+            "EpisodeTitle": "The Raven",
+            "Role": "Exploring Seven\u2019s trauma and past",
+            "TrajectoryNote": "Janeway supports Seven as resurfacing memories and fear drive her to flee, underscoring a commitment to Seven\u2019s healing."
+          },
+          {
+            "EpisodeID": "voys5e15",
+            "EpisodeTitle": "Dark Frontier, Part I",
+            "Role": "Risking everything to strike at the Borg",
+            "TrajectoryNote": "Janeway\u2019s high-risk plan involving Seven exposes tensions between strategic necessity and Seven\u2019s vulnerability to the Collective."
+          },
+          {
+            "EpisodeID": "voys7e25",
+            "EpisodeTitle": "Endgame, Part I",
+            "Role": "Future Janeway\u2019s regret over Seven\u2019s fate",
+            "TrajectoryNote": "Admiral Janeway\u2019s time-altering plan is driven in part by the suffering and death Seven experiences in the original timeline."
+          }
+        ],
+        "NotableMoments": [
+          {
+            "EpisodeID": "voys4e2",
+            "EpisodeTitle": "The Gift",
+            "Description": "Janeway stands by as Seven, terrified and furious, is cut off from the Collective, promising that Seven will not face her new life alone."
+          },
+          {
+            "EpisodeID": "voys4e25",
+            "EpisodeTitle": "One",
+            "Description": "When a nebula forces the crew into stasis, Seven endures months of isolation to keep Voyager safe, driven in part by Janeway\u2019s expectations and trust."
+          },
+          {
+            "EpisodeID": "voys5e15",
+            "EpisodeTitle": "Dark Frontier, Part I",
+            "Description": "Janeway\u2019s willingness to use Seven as a linchpin in a bold strike against the Borg strains their relationship, forcing Seven to question whether she is a person or a tool."
+          },
+          {
+            "EpisodeID": "voys7e25",
+            "EpisodeTitle": "Endgame, Part I",
+            "Description": "Future Janeway\u2019s anguish over Seven\u2019s eventual death reveals how deeply intertwined their lives and choices have become."
+          }
+        ]
+      },
+      {
+        "RelationshipID": "Janeway-Chakotay",
+        "Name": "Kathryn Janeway and Chakotay",
+        "Series": [
+          "VOY"
+        ],
+        "RelationshipType": [
+          "Command Partnership",
+          "Potential Romance",
+          "Maquis\u2013Starfleet Reconciliation"
+        ],
+        "People": [
+          {
+            "Character": "Kathryn Janeway",
+            "BioID": "Janeway"
+          },
+          {
+            "Character": "Chakotay",
+            "BioID": "Chakotay"
+          }
+        ],
+        "Overview": "Janeway and Chakotay form Voyager\u2019s central command partnership, uniting a Starfleet captain and a former Maquis commander. Their relationship balances mutual respect, philosophical disagreement, and an undercurrent of romantic tension that both largely suppress for the sake of the crew. Chakotay often serves as Janeway\u2019s conscience and sounding board, pushing back when her decisions grow too rigid or self-sacrificing, while Janeway trusts him to translate her orders into loyalty among the former Maquis. Together they embody the larger project of welding two adversarial groups into a single Starfleet crew in the Delta Quadrant.",
+        "StartingPoint": "The alliance is forged in \u201cCaretaker,\u201d when Janeway chooses to destroy the Array and strand Voyager in the Delta Quadrant rather than allow the Kazon to exploit it. This decision also strands Chakotay\u2019s Maquis ship and crew. With their vessels crippled, Janeway offers Chakotay the role of first officer as a way to unify their people. Their early dynamic is cautious but respectful: both recognize the other\u2019s leadership ability, yet Chakotay must set aside a history of resistance to Starfleet authority, and Janeway must prove she will treat Maquis as full partners rather than criminals under probation.",
+        "Evolution": "As the journey continues, Janeway and Chakotay\u2019s relationship deepens into a resilient partnership tested by mutiny, isolation, and moral dilemmas. Episodes like \u201cState of Flux\u201d and \u201cEquinox\u201d see Chakotay challenging Janeway when he believes her judgment has been compromised, even at the risk of open conflict. \u201cResolutions\u201d briefly allows them to explore a more openly intimate connection when they are presumed lost, but both ultimately recommit to the crew over personal desires. By the later seasons and \u201cEndgame,\u201d their bond is defined less by unspoken romantic possibility and more by shared history and responsibility; they understand each other\u2019s compromises and regrets in a way no one else aboard can.",
+        "KeyThemes": [
+          "Leadership partnership and the burden of command in isolation",
+          "Reconciling former enemies into a single, functional crew",
+          "Duty versus personal desire and potential romance",
+          "Moral disagreement handled through loyalty rather than rebellion",
+          "The importance of a trusted first officer as emotional ballast"
+        ],
+        "KeyEpisodes": [
+          {
+            "EpisodeID": "voys1e1",
+            "EpisodeTitle": "Caretaker",
+            "Role": "Formation of the command team",
+            "TrajectoryNote": "Janeway and Chakotay join forces out of necessity, setting up a partnership that unites Starfleet and Maquis."
+          },
+          {
+            "EpisodeID": "voys1e11",
+            "EpisodeTitle": "State of Flux",
+            "Role": "Testing trust with Maquis loyalties",
+            "TrajectoryNote": "Chakotay navigates divided loyalties as Seska\u2019s betrayal forces Janeway to rely on his insight into his former crew."
+          },
+          {
+            "EpisodeID": "voys2e25",
+            "EpisodeTitle": "Resolutions",
+            "Role": "Exploration of romantic potential",
+            "TrajectoryNote": "Stranded and believed dead, Janeway and Chakotay begin building a life together before duty calls them back."
+          },
+          {
+            "EpisodeID": "voys4e1",
+            "EpisodeTitle": "Scorpion, Part II",
+            "Role": "Command disagreement in crisis",
+            "TrajectoryNote": "Chakotay openly opposes Janeway\u2019s Borg alliance strategy, showing that their partnership can survive serious conflict."
+          },
+          {
+            "EpisodeID": "voys7e25",
+            "EpisodeTitle": "Endgame, Part I",
+            "Role": "Shared history at the journey\u2019s end",
+            "TrajectoryNote": "Their long service together informs both Janeway\u2019s choices and Chakotay\u2019s quiet acceptance of her final gambits."
+          }
+        ],
+        "NotableMoments": [
+          {
+            "EpisodeID": "voys1e1",
+            "EpisodeTitle": "Caretaker",
+            "Description": "Janeway offers Chakotay the position of first officer, a gesture that transforms former adversaries into partners in command."
+          },
+          {
+            "EpisodeID": "voys2e25",
+            "EpisodeTitle": "Resolutions",
+            "Description": "Believing they will never see Voyager again, Janeway and Chakotay relax their professional boundaries and nearly begin a shared life."
+          },
+          {
+            "EpisodeID": "voys4e1",
+            "EpisodeTitle": "Scorpion, Part II",
+            "Description": "Chakotay\u2019s refusal to follow Janeway\u2019s Borg strategy without question forces them to work through disagreement rather than bury it."
+          },
+          {
+            "EpisodeID": "voys5e26",
+            "EpisodeTitle": "Equinox, Part II",
+            "Description": "Chakotay confronts Janeway over her ruthless pursuit of Captain Ransom, reminding her of the principles she risks abandoning."
+          }
+        ]
+      },
+      {
+        "RelationshipID": "Janeway-Tuvok",
+        "Name": "Kathryn Janeway and Tuvok",
+        "Series": [
+          "VOY"
+        ],
+        "RelationshipType": [
+          "Friendship",
+          "Command Trust",
+          "Mentor/Advisor"
+        ],
+        "People": [
+          {
+            "Character": "Kathryn Janeway",
+            "BioID": "Janeway"
+          },
+          {
+            "Character": "Tuvok",
+            "BioID": "Tuvok"
+          }
+        ],
+        "Overview": "Janeway\u2019s relationship with Tuvok is a quiet but foundational friendship built on long-standing trust and Vulcan pragmatism. As her chief of security and tactical officer, Tuvok provides rigorous logic and unflinching honesty, often tempering Janeway\u2019s more emotional or risky impulses. He is one of the few people who can challenge her directly without damaging their bond. Their connection predates Voyager\u2019s mission, giving Janeway a rare sense of continuity and familiarity in the Delta Quadrant.",
+        "StartingPoint": "By the time of \u201cCaretaker,\u201d Janeway and Tuvok already have a shared history, including his undercover assignment among the Maquis. Janeway\u2019s decision to place a trusted officer in Chakotay\u2019s crew\u2014and Tuvok\u2019s willingness to carry out that assignment\u2014speaks to the depth of their professional trust. When Voyager is stranded, Janeway leans heavily on Tuvok\u2019s assessments of threat and protocol, and he supports her controversial choice to destroy the Array with clear-eyed affirmation rather than emotional reassurance.",
+        "Evolution": "As the journey continues, their relationship deepens beyond simple captain\u2013officer dynamics. In episodes like \u201cPrime Factors\u201d and \u201cMeld,\u201d Tuvok remains a stabilizing presence while Janeway grapples with crew discontent and moral compromise. \u201cFlashback\u201d reveals more of their shared Starfleet past, reinforcing that Tuvok has seen Janeway through earlier crises. When Tuvok\u2019s control falters in \u201cRiddles,\u201d Janeway\u2019s patience and concern highlight the personal side of their friendship: she values him not just as a tactical mind but as a unique, trusted individual whose presence anchors her in an unpredictable quadrant.",
+        "KeyThemes": [
+          "Logic-based counsel balancing a human captain\u2019s emotion",
+          "Trust rooted in long shared service and undercover work",
+          "Friendship expressed through candor rather than sentiment",
+          "The cost of command and the need for a truth-telling advisor",
+          "Respect for cultural and emotional difference within Starfleet"
+        ],
+        "KeyEpisodes": [
+          {
+            "EpisodeID": "voys1e1",
+            "EpisodeTitle": "Caretaker",
+            "Role": "Reliance on a trusted tactical officer",
+            "TrajectoryNote": "Janeway leans on Tuvok\u2019s judgment as she makes the fateful decision to destroy the Array and strand the ship."
+          },
+          {
+            "EpisodeID": "voys1e10",
+            "EpisodeTitle": "Prime Factors",
+            "Role": "Navigating crew dissent together",
+            "TrajectoryNote": "Janeway and Tuvok confront the fallout from the crew\u2019s attempted theft of technology, reinforcing her reliance on his principled counsel."
+          },
+          {
+            "EpisodeID": "voys2e16",
+            "EpisodeTitle": "Meld",
+            "Role": "Tuvok\u2019s brush with violence",
+            "TrajectoryNote": "Tuvok\u2019s mind-meld with a murderer destabilizes him, and Janeway must balance compassion with security concerns."
+          },
+          {
+            "EpisodeID": "voys3e2",
+            "EpisodeTitle": "Flashback",
+            "Role": "Shared Starfleet history revealed",
+            "TrajectoryNote": "Exploration of an earlier mission underscores how long Tuvok and Janeway have relied on each other in crisis."
+          },
+          {
+            "EpisodeID": "voys6e6",
+            "EpisodeTitle": "Riddles",
+            "Role": "Janeway\u2019s care when Tuvok changes",
+            "TrajectoryNote": "When brain damage alters Tuvok\u2019s personality, Janeway supports his recovery, revealing the depth of her personal attachment."
+          }
+        ],
+        "NotableMoments": [
+          {
+            "EpisodeID": "voys1e1",
+            "EpisodeTitle": "Caretaker",
+            "Description": "Tuvok backs Janeway\u2019s decision to destroy the Array, providing calm, analytical support at the moment of her most controversial choice."
+          },
+          {
+            "EpisodeID": "voys3e2",
+            "EpisodeTitle": "Flashback",
+            "Description": "Janeway joins Tuvok in reliving a past mission, affirming their shared experiences and trust that predate Voyager\u2019s ordeal."
+          },
+          {
+            "EpisodeID": "voys6e6",
+            "EpisodeTitle": "Riddles",
+            "Description": "Janeway\u2019s gentle patience with a changed Tuvok shows that she values him as a friend, not just as a logical advisor."
+          }
+        ]
+      },
+      {
+        "RelationshipID": "Janeway-TheDoctor",
+        "Name": "Kathryn Janeway and The Doctor",
+        "Series": [
+          "VOY"
+        ],
+        "RelationshipType": [
+          "Captain-Crew",
+          "Creator-Created Tension",
+          "Personhood Debate"
+        ],
+        "People": [
+          {
+            "Character": "Kathryn Janeway",
+            "BioID": "Janeway"
+          },
+          {
+            "Character": "The Doctor",
+            "BioID": "TheDoctor"
+          }
+        ],
+        "Overview": "Janeway and the Doctor embody Voyager\u2019s exploration of holographic personhood. Initially, she treats him as an emergency tool\u2014a program to be activated when needed\u2014yet over time she becomes the arbiter of his expanding rights and freedoms. Their relationship is marked by both support and friction: Janeway authorizes upgrades, artistic pursuits, and independence, but also occasionally limits his autonomy when it collides with Starfleet regulations or shipboard needs. The Doctor constantly tests the boundaries of what she is willing to recognize as sentience and citizenship.",
+        "StartingPoint": "When Voyager is thrown into the Delta Quadrant and the medical staff is lost, Janeway has no choice but to rely on the Emergency Medical Hologram as the ship\u2019s full-time doctor. Early on, in episodes like \u201cPhage,\u201d she uses her authority to insist that the crew treat the Doctor with respect, even though she herself still sees him as a sophisticated piece of technology. The Doctor\u2019s complaints about being left running or ignored force Janeway to confront the inconsistency between Starfleet\u2019s ideals and the way an apparently self-aware program is being used.",
+        "Evolution": "Over the years, Janeway\u2019s stance shifts from pragmatic user to reluctant champion of the Doctor\u2019s individuality. In \u201cThe Swarm,\u201d she sanctions risky measures to preserve his matrix, acknowledging his value beyond mere utility. \u201cMessage in a Bottle\u201d and \u201cSomeone to Watch Over Me\u201d show her increasingly comfortable with his quirks and ambitions, even as she rolls her eyes at his vanity. Conflict peaks in episodes like \u201cLatent Image\u201d and \u201cAuthor, Author,\u201d where the Doctor\u2019s trauma and legal status force Janeway to balance crew safety, Federation law, and her own evolving belief that he is a person. By the end of the journey, she has helped carve out a new category of rights for holograms, even if the legal framework remains incomplete.",
+        "KeyThemes": [
+          "The emergence of personhood in an artificial intelligence",
+          "Tension between shipboard need and individual rights",
+          "A captain\u2019s power to grant or deny autonomy",
+          "Creativity and self-expression as proof of sentience",
+          "Legal recognition versus lived reality of being \u201calive\u201d"
+        ],
+        "KeyEpisodes": [
+          {
+            "EpisodeID": "voys3e4",
+            "EpisodeTitle": "The Swarm",
+            "Role": "Preserving the Doctor\u2019s program",
+            "TrajectoryNote": "Janeway authorizes experimental repairs, treating the Doctor as irreplaceable rather than as expendable software."
+          },
+          {
+            "EpisodeID": "voys4e14",
+            "EpisodeTitle": "Message in a Bottle",
+            "Role": "Expanding the Doctor\u2019s sphere of action",
+            "TrajectoryNote": "Janeway entrusts the Doctor with a critical long-range mission, underscoring her confidence in his judgment."
+          },
+          {
+            "EpisodeID": "voys5e11",
+            "EpisodeTitle": "Latent Image",
+            "Role": "Confronting trauma and editing memory",
+            "TrajectoryNote": "Janeway\u2019s decision to alter the Doctor\u2019s memories exposes how much control she still claims over his inner life."
+          },
+          {
+            "EpisodeID": "voys5e22",
+            "EpisodeTitle": "Someone to Watch Over Me",
+            "Role": "Humor and mentorship around social growth",
+            "TrajectoryNote": "Janeway watches the Doctor\u2019s awkward attempt to coach Seven in romance, amused but supportive of his evolving humanity."
+          },
+          {
+            "EpisodeID": "voys7e20",
+            "EpisodeTitle": "Author, Author",
+            "Role": "Legal fight for holographic rights",
+            "TrajectoryNote": "Janeway advocates for the Doctor\u2019s status as an artist and individual, helping set precedent for holographic personhood."
+          }
+        ],
+        "NotableMoments": [
+          {
+            "EpisodeID": "voys3e4",
+            "EpisodeTitle": "The Swarm",
+            "Description": "Janeway chooses to risk experimental procedures to save the Doctor\u2019s matrix, signaling that he is more than a replaceable tool."
+          },
+          {
+            "EpisodeID": "voys5e11",
+            "EpisodeTitle": "Latent Image",
+            "Description": "Confronted with the Doctor\u2019s psychological crisis, Janeway admits the moral weight of having once edited his memories without true consent."
+          },
+          {
+            "EpisodeID": "voys7e20",
+            "EpisodeTitle": "Author, Author",
+            "Description": "Janeway\u2019s testimony and advocacy help push Federation legal authorities toward recognizing the Doctor\u2019s authorship and individuality."
+          }
+        ]
+      },
+      {
+        "RelationshipID": "Janeway-BorgQueen",
+        "Name": "Kathryn Janeway and the Borg Queen",
+        "Series": [
+          "VOY"
+        ],
+        "RelationshipType": [
+          "Adversaries",
+          "Strategic Rivalry",
+          "Ideological Conflict"
+        ],
+        "People": [
+          {
+            "Character": "Kathryn Janeway",
+            "BioID": "Janeway"
+          },
+          {
+            "Character": "Borg Queen",
+            "BioID": "BorgQueen"
+          }
+        ],
+        "Overview": "Janeway\u2019s relationship with the Borg Queen is a high-stakes contest between individualist Federation ideals and the Borg\u2019s totalizing collective. Where Picard\u2019s conflict with the Borg was marked by personal violation as Locutus, Janeway\u2019s rivalry is defined by repeated negotiations, betrayals, and gambits that reshape the balance of power in the Delta Quadrant. Both women are consummate strategists willing to take enormous risks for their respective collectives, making their encounters a chess match where entire civilizations are at stake.",
+        "StartingPoint": "Although the Borg are known to Starfleet before Voyager, Janeway\u2019s direct entanglement with the Queen crystallizes around the events of \u201cScorpion.\u201d Facing annihilation by Species 8472, Janeway proposes an alliance with the Borg, a move that leads to Seven of Nine\u2019s presence aboard the ship and draws the Queen\u2019s attention. Even when the Queen is not physically present, Janeway\u2019s willingness to weaponize Borg technology and knowledge marks her as a unique threat. From the outset, the Queen sees Janeway as both a useful tool and an unpredictable variable that could disrupt the Collective\u2019s plans.",
+        "Evolution": "Subsequent encounters turn their dynamic into a personal feud layered atop strategic necessity. In \u201cDark Frontier,\u201d Janeway\u2019s plan to steal a transwarp coil and recon the Borg tests the limits of how far she will go, while the Queen attempts to exploit Janeway\u2019s guilt and Seven\u2019s ties to the Collective. \u201cUnimatrix Zero\u201d escalates matters as Janeway directly aids Borg drones in rebellion, effectively committing ideological sabotage inside the Collective. By \u201cEndgame,\u201d Admiral Janeway\u2019s infiltration of the transwarp hub and deliberate infection of the Borg Collective with a crippling pathogen represent a final, devastating play: she is willing to risk massive temporal and strategic consequences to permanently undercut the Queen\u2019s power and get Voyager home.",
+        "KeyThemes": [
+          "Individual freedom versus enforced collective unity",
+          "Moral compromise in existential war against the Borg",
+          "Negotiation with an implacable, manipulative enemy",
+          "Using the enemy\u2019s tools at the risk of becoming like them",
+          "The long-term consequences of decisive, ruthless victory"
+        ],
+        "KeyEpisodes": [
+          {
+            "EpisodeID": "voys4e1",
+            "EpisodeTitle": "Scorpion, Part II",
+            "Role": "Alliance of necessity with the Borg",
+            "TrajectoryNote": "Janeway\u2019s unprecedented alliance and introduction of Seven mark her as a unique adversary and occasional negotiator with the Collective."
+          },
+          {
+            "EpisodeID": "voys5e15",
+            "EpisodeTitle": "Dark Frontier, Part I",
+            "Role": "Deep-cover strike against the Borg",
+            "TrajectoryNote": "Janeway\u2019s mission to steal a transwarp coil puts her into direct psychological and strategic conflict with the Queen over Seven\u2019s fate."
+          },
+          {
+            "EpisodeID": "voys6e26",
+            "EpisodeTitle": "Unimatrix Zero, Part I",
+            "Role": "Supporting internal Borg resistance",
+            "TrajectoryNote": "Janeway commits to aiding a nascent rebellion within the Collective, escalating their conflict to ideological warfare."
+          },
+          {
+            "EpisodeID": "voys7e25",
+            "EpisodeTitle": "Endgame, Part I",
+            "Role": "Final confrontation planning",
+            "TrajectoryNote": "Admiral Janeway prepares to carry a neurolytic pathogen into the heart of Borg space, turning her rivalry with the Queen into a terminal gambit."
+          }
+        ],
+        "NotableMoments": [
+          {
+            "EpisodeID": "voys5e15",
+            "EpisodeTitle": "Dark Frontier, Part I",
+            "Description": "The Queen taunts Janeway with visions of Seven\u2019s \u201ctrue home,\u201d while Janeway counters with a plan that turns Borg arrogance against them."
+          },
+          {
+            "EpisodeID": "voys6e26",
+            "EpisodeTitle": "Unimatrix Zero, Part I",
+            "Description": "Janeway agrees to be assimilated as part of a mission to seed a virus within the Collective, demonstrating how far she will go to undermine the Queen."
+          },
+          {
+            "EpisodeID": "voys7e25",
+            "EpisodeTitle": "Endgame, Part I",
+            "Description": "Admiral Janeway allows herself to be captured, baiting the Queen into proximity so the pathogen and temporal gambit can take effect."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CharacterID": "Chakotay",
+    "Name": "Chakotay",
+    "Series": [
+      "VOY"
+    ],
+    "Meta": "A former Maquis commander turned Starfleet first officer, Chakotay serves as Kathryn Janeway\u2019s steady partner in leading the mixed crew of the USS Voyager through the Delta Quadrant. Spiritual, reflective, and quietly stubborn, he balances loyalty to his Maquis past with a deepening commitment to Starfleet principles and to the people he has sworn to bring home.",
+    "Relationships": [
+      {
+        "RelationshipID": "Janeway-Chakotay",
+        "Name": "Chakotay and Kathryn Janeway",
+        "Series": [
+          "VOY"
+        ],
+        "RelationshipType": [
+          "Command Partnership",
+          "Potential Romance",
+          "Maquis\u2013Starfleet Reconciliation"
+        ],
+        "People": [
+          {
+            "Character": "Chakotay",
+            "BioID": "Chakotay"
+          },
+          {
+            "Character": "Kathryn Janeway",
+            "BioID": "Janeway"
+          }
+        ],
+        "Overview": "For Chakotay, Janeway is both the captain he chose to follow and the person who asked him to set aside a life of resistance to rebuild something better. Their relationship anchors his transformation from Maquis rebel to Starfleet first officer. He admires her resolve and intellect, yet he is also one of the few willing to confront her when she pushes herself and the crew too far. Beneath the formalities of rank, there is an undercurrent of affection and unrealized romantic possibility that he keeps mostly in check for the crew\u2019s sake, even when circumstances tempt them to imagine a different life.",
+        "StartingPoint": "In \u201cCaretaker,\u201d Chakotay begins on the opposite side of the law, leading a Maquis ship hunted by Starfleet and the Cardassians. When the Caretaker\u2019s array drags both vessels into the Delta Quadrant, his choice to ram the Kazon ship and save Voyager\u2019s crew leaves his own vessel destroyed. Janeway\u2019s decision to destroy the Array strands them all, but she immediately offers Chakotay the role of first officer. Accepting that post means redefining himself: he must convince his Maquis to accept Starfleet discipline and trust a captain who just sacrificed their only route home in the name of principle.",
+        "Evolution": "Over the years, Chakotay and Janeway\u2019s bond weathers crises of trust, mutiny scenarios, and near-romantic interludes. In \u201cState of Flux,\u201d he is forced to confront Seska\u2019s betrayal and its implications for Janeway\u2019s faith in him and his former crew. \u201cResolutions\u201d offers him a glimpse of life with Janeway unburdened by command, but he ultimately supports returning to Voyager when rescue arrives, shelving his own desires. In \u201cScorpion, Part II\u201d and \u201cEquinox, Part II,\u201d he challenges Janeway when he believes alliances with the Borg or ruthless pursuit of another captain cross ethical lines. By \u201cEndgame,\u201d their disagreements and shared scars have solidified into a partnership where each understands that the other carries the same burden of every life lost on the way home.",
+        "KeyThemes": [
+          "Transforming from rebel leader to loyal first officer without losing integrity",
+          "Balancing loyalty to a captain with the duty to challenge her choices",
+          "Unspoken romantic possibilities sacrificed for the good of the crew",
+          "Healing Starfleet\u2013Maquis divisions through shared command",
+          "Quiet emotional support beneath a disciplined professional front"
+        ],
+        "KeyEpisodes": [
+          {
+            "EpisodeID": "voys1e1",
+            "EpisodeTitle": "Caretaker",
+            "Role": "Forging a command alliance from former enemies",
+            "TrajectoryNote": "Chakotay accepts Janeway\u2019s offer to become first officer, committing himself and his Maquis to a unified crew."
+          },
+          {
+            "EpisodeID": "voys1e11",
+            "EpisodeTitle": "State of Flux",
+            "Role": "Seska\u2019s betrayal and shaken trust",
+            "TrajectoryNote": "Seska\u2019s treachery forces Chakotay to confront his past choices and how they reflect on Janeway\u2019s trust in him."
+          },
+          {
+            "EpisodeID": "voys2e25",
+            "EpisodeTitle": "Resolutions",
+            "Role": "Isolated together with romance on the horizon",
+            "TrajectoryNote": "Believing they are stranded, Chakotay allows himself to imagine a shared life with Janeway before duty reasserts itself."
+          },
+          {
+            "EpisodeID": "voys4e1",
+            "EpisodeTitle": "Scorpion, Part II",
+            "Role": "Command conflict over the Borg alliance",
+            "TrajectoryNote": "Chakotay\u2019s opposition to Janeway\u2019s strategy tests whether their partnership can survive open disagreement."
+          },
+          {
+            "EpisodeID": "voys7e25",
+            "EpisodeTitle": "Endgame, Part I",
+            "Role": "Looking back on years of shared command",
+            "TrajectoryNote": "Their long history shapes Chakotay\u2019s responses to Admiral Janeway\u2019s final, risky plan to bring the crew home."
+          }
+        ],
+        "NotableMoments": [
+          {
+            "EpisodeID": "voys1e1",
+            "EpisodeTitle": "Caretaker",
+            "Description": "On Voyager\u2019s bridge, Chakotay stands at Janeway\u2019s side as first officer, signaling to both Starfleet and Maquis that their future is now shared."
+          },
+          {
+            "EpisodeID": "voys2e25",
+            "EpisodeTitle": "Resolutions",
+            "Description": "Building a cabin and tending a garden with Janeway, Chakotay lets down his guard, crafting a life that might have been if command were no longer an issue."
+          },
+          {
+            "EpisodeID": "voys4e1",
+            "EpisodeTitle": "Scorpion, Part II",
+            "Description": "Chakotay\u2019s refusal to blindly support Janeway\u2019s Borg strategy leads to a fracture that they must carefully, deliberately repair."
+          },
+          {
+            "EpisodeID": "voys5e26",
+            "EpisodeTitle": "Equinox, Part II",
+            "Description": "Chakotay confronts Janeway over her uncompromising pursuit of Ransom, forcing her to re-examine just how far she is willing to go."
+          }
+        ]
+      },
+      {
+        "RelationshipID": "Chakotay-BElannaTorres",
+        "Name": "Chakotay and B'Elanna Torres",
+        "Series": [
+          "VOY"
+        ],
+        "RelationshipType": [
+          "Mentor/Prot\u00e9g\u00e9",
+          "Former Maquis",
+          "Older Brother\u2013Younger Sister"
+        ],
+        "People": [
+          {
+            "Character": "Chakotay",
+            "BioID": "Chakotay"
+          },
+          {
+            "Character": "B'Elanna Torres",
+            "BioID": "BElannaTorres"
+          }
+        ],
+        "Overview": "Chakotay\u2019s relationship with B'Elanna Torres is rooted in their shared Maquis past and his decision to see potential where others saw only volatility. As her former captain and later her first officer, he plays an older-brother and mentor role, helping her channel rage and self-loathing into engineering genius and leadership. Their bond is marked by blunt honesty: he does not coddle her or excuse her outbursts, but he consistently stands up for her value to the crew and her right to define herself beyond Starfleet prejudices and Klingon stereotypes.",
+        "StartingPoint": "Before Voyager, Chakotay recruits B'Elanna into the Maquis, recognizing that her brilliance and anger against the Cardassians can be honed into effective resistance. On Voyager in \u201cParallax,\u201d when Janeway is searching for a new chief engineer, Chakotay advocates strongly for B'Elanna despite her assault on a superior officer. His willingness to stake his reputation on her sets the tone: he expects her to control her temper and accept responsibility, but will fight to ensure she is not dismissed as merely a problem case.",
+        "Evolution": "Over time, their relationship shifts from captain\u2013subordinate to something closer to family. In episodes like \u201cDreadnought,\u201d Chakotay stands by B'Elanna as she confronts the consequences of her past actions, including a Cardassian missile she helped create. \u201cLearning Curve\u201d and other early stories underscore his role in helping Maquis, including B'Elanna, adapt to Starfleet structure. Later, in \u201cExtreme Risk,\u201d he notices that her behavior has become disturbingly self-destructive and presses her to acknowledge her trauma, pushing her toward help. Even as her romantic focus turns to Tom Paris, Chakotay remains a steady figure who understands the roots of her anger and the cost of her growth.",
+        "KeyThemes": [
+          "Seeing potential in someone others dismiss as too volatile",
+          "Mentorship that balances tough expectations with loyalty",
+          "Transition from Maquis insurgency to Starfleet responsibility",
+          "Managing rage, trauma, and cultural identity in a command structure",
+          "Enduring, non-romantic family-like bonds within a small crew"
+        ],
+        "KeyEpisodes": [
+          {
+            "EpisodeID": "voys1e2",
+            "EpisodeTitle": "Parallax",
+            "Role": "Championing B'Elanna as chief engineer",
+            "TrajectoryNote": "Chakotay\u2019s support helps convince Janeway to promote B'Elanna despite her disciplinary record."
+          },
+          {
+            "EpisodeID": "voys1e15",
+            "EpisodeTitle": "Learning Curve",
+            "Role": "Guiding Maquis into Starfleet norms",
+            "TrajectoryNote": "Chakotay\u2019s history with the Maquis informs how B'Elanna and others are pushed to adapt without losing themselves."
+          },
+          {
+            "EpisodeID": "voys2e17",
+            "EpisodeTitle": "Dreadnought",
+            "Role": "Confronting the past together",
+            "TrajectoryNote": "Chakotay backs B'Elanna as she tries to undo the damage caused by a weapon she once helped program."
+          },
+          {
+            "EpisodeID": "voys5e3",
+            "EpisodeTitle": "Extreme Risk",
+            "Role": "Calling out self-destructive behavior",
+            "TrajectoryNote": "He confronts B'Elanna about her reckless holodeck programs, pushing her to face her depression and grief."
+          }
+        ],
+        "NotableMoments": [
+          {
+            "EpisodeID": "voys1e2",
+            "EpisodeTitle": "Parallax",
+            "Description": "Chakotay\u2019s insistence that B'Elanna is the best engineer for the job, despite her temper, signals his belief in her potential."
+          },
+          {
+            "EpisodeID": "voys2e17",
+            "EpisodeTitle": "Dreadnought",
+            "Description": "As B'Elanna risks her life to stop the missile, Chakotay\u2019s concern underscores how personally he takes her safety and redemption."
+          },
+          {
+            "EpisodeID": "voys5e3",
+            "EpisodeTitle": "Extreme Risk",
+            "Description": "Seeing through B'Elanna\u2019s bravado, Chakotay refuses to ignore the signs of depression, urging her to seek help rather than burn out."
+          }
+        ]
+      },
+      {
+        "RelationshipID": "Chakotay-TomParis",
+        "Name": "Chakotay and Tom Paris",
+        "Series": [
+          "VOY"
+        ],
+        "RelationshipType": [
+          "Redemption Arc",
+          "Former Enemies",
+          "Professional Respect"
+        ],
+        "People": [
+          {
+            "Character": "Chakotay",
+            "BioID": "Chakotay"
+          },
+          {
+            "Character": "Tom Paris",
+            "BioID": "TomParis"
+          }
+        ],
+        "Overview": "Chakotay\u2019s relationship with Tom Paris moves from deep mistrust to grudging respect and finally to a stable, if understated, friendship. As a Maquis commander who once saw Paris as a traitor and opportunist, Chakotay initially regards him with open contempt. Over time, he watches Paris earn the crew\u2019s trust, take responsibility for his mistakes, and grow into a reliable pilot and officer. Their dynamic tracks Voyager\u2019s broader theme of second chances and the possibility of genuine change under pressure.",
+        "StartingPoint": "Before Voyager, Paris infiltrated the Maquis on behalf of Starfleet and failed, leaving Chakotay with every reason to despise him. In \u201cCaretaker,\u201d when Janeway brings Paris aboard as a guide to find Chakotay\u2019s ship, the tension is palpable; Chakotay sees him as a sellout who only helps when it serves his own interests. Stranded together in the Delta Quadrant, they are forced into the same chain of command: Paris as the ship\u2019s helm officer, Chakotay as first officer overseeing a man he once wanted nothing to do with.",
+        "Evolution": "The turning point in their relationship comes through shared crises and Paris\u2019s willingness to shoulder consequences. In \u201cInvestigations,\u201d Paris\u2019s apparent disgruntlement and departure mask an undercover assignment to expose a traitor, a plan that leaves Chakotay feeling justifiably angry at being kept in the dark. Yet the mission\u2019s success demonstrates that Paris will take real risks for the ship. Later, in \u201cThirty Days,\u201d Chakotay watches Paris accept demotion and imprisonment for disobeying Janeway in an attempt to save an ocean world, recognizing a more mature sense of responsibility. By the later seasons, their interactions are tinged less with hostility and more with the quiet understanding of men who have both rebuilt their lives under Janeway\u2019s command.",
+        "KeyThemes": [
+          "Earning trust after betrayal and failed undercover work",
+          "Redemption through consistent, responsible action over time",
+          "First officer as disciplinarian yet quiet supporter",
+          "Balancing personal judgment with recognition of growth",
+          "Shared investment in Voyager\u2019s success despite rocky history"
+        ],
+        "KeyEpisodes": [
+          {
+            "EpisodeID": "voys1e1",
+            "EpisodeTitle": "Caretaker",
+            "Role": "From contempt to forced cooperation",
+            "TrajectoryNote": "Chakotay and Paris must work together despite their fraught Maquis history once both are stranded on Voyager."
+          },
+          {
+            "EpisodeID": "voys2e20",
+            "EpisodeTitle": "Investigations",
+            "Role": "Paris\u2019s undercover role and Chakotay\u2019s anger",
+            "TrajectoryNote": "Paris\u2019s secret mission exposes a traitor but leaves Chakotay feeling manipulated and sidelined."
+          },
+          {
+            "EpisodeID": "voys3e25",
+            "EpisodeTitle": "Worst Case Scenario",
+            "Role": "Holographic mutiny as pressure valve",
+            "TrajectoryNote": "A training simulation of a Chakotay-led mutiny lets Tom and others work through underlying tensions in a controlled setting."
+          },
+          {
+            "EpisodeID": "voys5e9",
+            "EpisodeTitle": "Thirty Days",
+            "Role": "Watching Paris accept punishment",
+            "TrajectoryNote": "Chakotay observes Paris\u2019s willingness to accept demotion and confinement, recognizing how far he has come from the man he once mistrusted."
+          }
+        ],
+        "NotableMoments": [
+          {
+            "EpisodeID": "voys1e1",
+            "EpisodeTitle": "Caretaker",
+            "Description": "On the Maquis ship and later on Voyager, Chakotay\u2019s initial hostility toward Paris underscores just how far the pilot will have to go to earn his respect."
+          },
+          {
+            "EpisodeID": "voys2e20",
+            "EpisodeTitle": "Investigations",
+            "Description": "Learning that Paris\u2019s insubordination was an act, Chakotay is furious at being kept out of the loop, but the operation\u2019s success plants seeds of renewed respect."
+          },
+          {
+            "EpisodeID": "voys5e9",
+            "EpisodeTitle": "Thirty Days",
+            "Description": "Seeing Paris accept the consequences of his actions, Chakotay recognizes a fellow officer who has finally embraced accountability."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CharacterID": "Tuvok",
+    "Name": "Tuvok",
+    "Series": [
+      "VOY"
+    ],
+    "Meta": "A Vulcan security chief and tactical officer aboard the USS Voyager, Tuvok is a disciplined Starfleet veteran whose logic and candor make him one of Janeway\u2019s most trusted advisors. His undercover work with the Maquis, long history in Starfleet, and commitment to Vulcan principles shape how he relates to a diverse and often emotional crew stranded in the Delta Quadrant.",
+    "Relationships": [
+      {
+        "RelationshipID": "Janeway-Tuvok",
+        "Name": "Tuvok and Kathryn Janeway",
+        "Series": [
+          "VOY"
+        ],
+        "RelationshipType": [
+          "Friendship",
+          "Command Trust",
+          "Mentor/Advisor"
+        ],
+        "People": [
+          {
+            "Character": "Tuvok",
+            "BioID": "Tuvok"
+          },
+          {
+            "Character": "Kathryn Janeway",
+            "BioID": "Janeway"
+          }
+        ],
+        "Overview": "For Tuvok, Janeway is not only his captain but a long-standing colleague whose judgment he respects enough to follow into the most uncertain of circumstances. Their relationship is built on candor: she expects him to tell her the logical, unvarnished truth even when it contradicts her instincts, and he does so without hesitation. His calm presence and methodical thinking help steady her in moments of crisis, while she in turn trusts him with responsibilities\u2014from undercover assignments to acting as her surrogate voice of reason\u2014that few others could shoulder.",
+        "StartingPoint": "By the time of \u201cCaretaker,\u201d Tuvok has already served with Janeway and earned her trust deeply enough to go undercover in Chakotay\u2019s Maquis cell at her request. When Voyager is stranded in the Delta Quadrant and the Maquis are folded into the crew, Tuvok quietly resumes his role as security chief and advisor. Janeway\u2019s reliance on Tuvok\u2019s analysis\u2014particularly in deciding to destroy the Caretaker\u2019s array\u2014shows that she counts on him to confirm when her emotionally driven choices still align with logic and Starfleet principles. Tuvok\u2019s willingness to challenge her in private while supporting her in public sets the tone for their dynamic.",
+        "Evolution": "Over the course of Voyager\u2019s journey, Tuvok and Janeway\u2019s relationship deepens as they weather mutinies, moral dilemmas, and personal crises. In \u201cPrime Factors,\u201d Tuvok\u2019s unilateral decision to aid a technology theft forces Janeway to discipline him, revealing that even her closest advisor can misjudge how far to bend rules for the crew\u2019s sake. \u201cMeld\u201d and \u201cRiddles\u201d expose Tuvok\u2019s vulnerabilities\u2014mind meld trauma, loss of control\u2014and Janeway\u2019s response is to safeguard both her friend and her officer, balancing compassion with duty. \u201cFlashback\u201d highlights their shared history aboard the Excelsior, underscoring that their trust predates Voyager\u2019s mission. By the later seasons, their exchanges are marked by a shorthand that assumes mutual understanding; Tuvok needs few words to convey critical counsel, and Janeway often acts on it immediately.",
+        "KeyThemes": [
+          "Vulcan logic as a counterweight to a human captain\u2019s intuition",
+          "The value of a truth-telling advisor in command",
+          "Balancing personal friendship with professional duty",
+          "Trust forged through long service and undercover risk",
+          "Respect for difference within a tightly knit crew"
+        ],
+        "KeyEpisodes": [
+          {
+            "EpisodeID": "voys1e1",
+            "EpisodeTitle": "Caretaker",
+            "Role": "Reaffirming a trusted advisory role",
+            "TrajectoryNote": "Tuvok\u2019s counsel helps Janeway justify the destruction of the Array despite the cost to the crew."
+          },
+          {
+            "EpisodeID": "voys1e10",
+            "EpisodeTitle": "Prime Factors",
+            "Role": "Crossing a line for the crew\u2019s benefit",
+            "TrajectoryNote": "Tuvok\u2019s secret cooperation in stealing technology tests Janeway\u2019s trust and their shared view of protocol."
+          },
+          {
+            "EpisodeID": "voys2e16",
+            "EpisodeTitle": "Meld",
+            "Role": "Tuvok\u2019s stability under threat",
+            "TrajectoryNote": "The aftermath of a dangerous mind meld shows Janeway supporting Tuvok through psychological upheaval."
+          },
+          {
+            "EpisodeID": "voys3e2",
+            "EpisodeTitle": "Flashback",
+            "Role": "Revealing long shared history",
+            "TrajectoryNote": "Exploration of a past Excelsior mission underscores that their trust is rooted in years of prior service."
+          },
+          {
+            "EpisodeID": "voys6e6",
+            "EpisodeTitle": "Riddles",
+            "Role": "Janeway\u2019s care for a changed Tuvok",
+            "TrajectoryNote": "Tuvok\u2019s altered personality prompts Janeway to protect his well-being while still relying on his unique contributions."
+          }
+        ],
+        "NotableMoments": [
+          {
+            "EpisodeID": "voys1e1",
+            "EpisodeTitle": "Caretaker",
+            "Description": "Tuvok\u2019s calm affirmation of Janeway\u2019s plan to destroy the Array helps her make a controversial choice without hesitation."
+          },
+          {
+            "EpisodeID": "voys1e10",
+            "EpisodeTitle": "Prime Factors",
+            "Description": "Janeway\u2019s disappointment in Tuvok after his secretive actions reveals the emotional weight she attaches to his integrity."
+          },
+          {
+            "EpisodeID": "voys6e6",
+            "EpisodeTitle": "Riddles",
+            "Description": "Janeway\u2019s patient interactions with a more openly emotional Tuvok show that her respect for him transcends his usual Vulcan demeanor."
+          }
+        ]
+      },
+      {
+        "RelationshipID": "Tuvok-Neelix",
+        "Name": "Tuvok and Neelix",
+        "Series": [
+          "VOY"
+        ],
+        "RelationshipType": [
+          "Odd Couple",
+          "Comic Foils",
+          "Slow-Burn Friendship"
+        ],
+        "People": [
+          {
+            "Character": "Tuvok",
+            "BioID": "Tuvok"
+          },
+          {
+            "Character": "Neelix",
+            "BioID": "Neelix"
+          }
+        ],
+        "Overview": "Tuvok and Neelix form Voyager\u2019s most overt odd-couple pairing: a reserved Vulcan devoted to logic and order constantly beset by an exuberant, emotionally driven Talaxian. Early on, Tuvok finds Neelix\u2019s chatter, cuisine, and uninvited intrusions into his space intolerable, while Neelix is fascinated by Tuvok\u2019s calm and determined to break through his stoicism. What begins as irritation and mockery slowly evolves into genuine, if understated, affection, with both learning to navigate each other\u2019s vastly different temperaments.",
+        "StartingPoint": "From Voyager\u2019s earliest days in the Delta Quadrant, Neelix appoints himself morale officer and cook, roles that put him frequently in Tuvok\u2019s orbit whether the Vulcan wants it or not. In \u201cPhage,\u201d Neelix\u2019s irrepressible energy contrasts sharply with Tuvok\u2019s composure as they deal with Neelix\u2019s life-threatening organ theft. Tuvok\u2019s dry critiques of Neelix\u2019s methods and emotional volatility highlight his impatience, while Neelix responds by trying even harder to get a reaction out of him. Their initial dynamic is defined by Tuvok\u2019s desire for distance and Neelix\u2019s refusal to grant it.",
+        "Evolution": "As Voyager\u2019s journey continues, shared experiences slowly erode the wall between them. The combined being \u201cTuvix\u201d in the episode of the same name forces everyone, including Tuvok and Neelix, to confront how much each brings to the crew; the aftermath leaves lingering discomfort and an unspoken recognition of shared value. In episodes like \u201cRiddles,\u201d Neelix\u2019s patient care for an injured Tuvok reveals a quiet loyalty that goes beyond comic annoyance. Over time, Tuvok\u2019s responses to Neelix soften from open criticism to measured tolerance, and rare moments of Vulcan-style appreciation signal that he has come to accept Neelix as a friend, even if he would never use that word lightly.",
+        "KeyThemes": [
+          "Clashing temperaments learning mutual respect",
+          "Patience and persistence in building unlikely friendships",
+          "The value of emotional warmth versus rigid control",
+          "Finding common ground through shared danger and recovery",
+          "Affection expressed through subtle shifts rather than grand gestures"
+        ],
+        "KeyEpisodes": [
+          {
+            "EpisodeID": "voys1e5",
+            "EpisodeTitle": "Phage",
+            "Role": "Early clash of temperaments",
+            "TrajectoryNote": "Neelix\u2019s crisis highlights the contrast between his emotional reactions and Tuvok\u2019s composed pragmatism."
+          },
+          {
+            "EpisodeID": "voys2e24",
+            "EpisodeTitle": "Tuvix",
+            "Role": "Fusion of opposites into one being",
+            "TrajectoryNote": "The merged Tuvix embodies traits of both, forcing the crew to consider how essential each man is in his own right."
+          },
+          {
+            "EpisodeID": "voys3e22",
+            "EpisodeTitle": "Real Life",
+            "Role": "Shared exposure to family and loss themes",
+            "TrajectoryNote": "Interactions around the Doctor\u2019s holofamily and crew morale show their differing approaches to emotional support."
+          },
+          {
+            "EpisodeID": "voys6e6",
+            "EpisodeTitle": "Riddles",
+            "Role": "Neelix\u2019s care for an altered Tuvok",
+            "TrajectoryNote": "Neelix\u2019s dedication while Tuvok struggles with cognitive changes deepens their connection beyond comic friction."
+          }
+        ],
+        "NotableMoments": [
+          {
+            "EpisodeID": "voys2e24",
+            "EpisodeTitle": "Tuvix",
+            "Description": "The existence and tragic fate of Tuvix force both Tuvok and Neelix to acknowledge the unique strengths each brings to the crew."
+          },
+          {
+            "EpisodeID": "voys6e6",
+            "EpisodeTitle": "Riddles",
+            "Description": "Neelix patiently helps the injured Tuvok relearn routines and social cues, demonstrating a loyalty that Tuvok quietly accepts."
+          },
+          {
+            "EpisodeID": "voys7e22",
+            "EpisodeTitle": "Homestead",
+            "Description": "As Neelix prepares to leave Voyager, Tuvok\u2019s small but deliberate gesture of respect in the Mess Hall serves as a rare, wordless farewell."
+          }
+        ]
+      },
+      {
+        "RelationshipID": "Tuvok-SevenOfNine",
+        "Name": "Tuvok and Seven of Nine",
+        "Series": [
+          "VOY"
+        ],
+        "RelationshipType": [
+          "Professional Respect",
+          "Disciplined Minds",
+          "Outsider Bond"
+        ],
+        "People": [
+          {
+            "Character": "Tuvok",
+            "BioID": "Tuvok"
+          },
+          {
+            "Character": "Seven of Nine",
+            "BioID": "SevenOfNine"
+          }
+        ],
+        "Overview": "Tuvok and Seven of Nine share a quiet kinship as highly disciplined outsiders aboard Voyager. Both rely on rigorous mental control\u2014Vulcan logic and Borg-honed efficiency\u2014to navigate a crew that often leads with emotion. While Janeway and the Doctor handle most of Seven\u2019s emotional and social development, Tuvok offers a model of how to live with intense mental discipline without surrendering individuality, and he treats Seven as a capable officer rather than a project in need of constant correction.",
+        "StartingPoint": "Seven\u2019s arrival in \u201cScorpion, Part II\u201d and \u201cThe Gift\u201d initially positions her at odds with much of the crew, but Tuvok evaluates her primarily in terms of threat assessment and utility. As security chief, he monitors her potential connection to the Collective, yet his interactions are not driven by fear so much as by procedure. When Seven begins to participate more fully in ship operations, Tuvok\u2019s matter-of-fact approach gives her clear expectations and boundaries, which she understands and respects.",
+        "Evolution": "Over time, their interactions reveal a shared understanding of what it means to be perceived as emotionless or alien. In episodes where Seven\u2019s Borg past resurfaces or her control is tested, Tuvok\u2019s perspective on mental discipline and identity offers a counterpart to Janeway\u2019s more emotional guidance. He recognizes her competence on the bridge and in away missions, involving her in tactical deliberations without condescension. While they rarely engage in overtly personal conversations, the mutual respect between them is evident in how they accept each other\u2019s bluntness and focus on efficiency, often working together seamlessly when crises demand precise coordination.",
+        "KeyThemes": [
+          "Shared experience of being perceived as cold or overly logical",
+          "Professional respect between disciplined, efficient officers",
+          "Using mental control as a tool rather than a denial of self",
+          "Finding camaraderie in being outsiders within a human crew",
+          "Unspoken understanding rather than overt emotional bonding"
+        ],
+        "KeyEpisodes": [
+          {
+            "EpisodeID": "voys4e1",
+            "EpisodeTitle": "Scorpion, Part II",
+            "Role": "Initial integration of Seven into the crew",
+            "TrajectoryNote": "Tuvok\u2019s security-focused assessment of Seven sets a procedural, rather than emotional, tone for their early interactions."
+          },
+          {
+            "EpisodeID": "voys4e2",
+            "EpisodeTitle": "The Gift",
+            "Role": "Adjusting to Seven\u2019s separation from the Collective",
+            "TrajectoryNote": "As Seven struggles with her new state, Tuvok\u2019s composed presence contrasts with more emotional reactions from others."
+          },
+          {
+            "EpisodeID": "voys4e25",
+            "EpisodeTitle": "One",
+            "Role": "Parallel experiences of isolation and control",
+            "TrajectoryNote": "Seven\u2019s enforced solitude and reliance on discipline echo Tuvok\u2019s own approach to managing fear and uncertainty."
+          },
+          {
+            "EpisodeID": "voys5e15",
+            "EpisodeTitle": "Dark Frontier, Part I",
+            "Role": "Operational trust in the face of Borg danger",
+            "TrajectoryNote": "Tuvok relies on Seven\u2019s expertise in planning against the Borg, reflecting his recognition of her tactical value."
+          }
+        ],
+        "NotableMoments": [
+          {
+            "EpisodeID": "voys4e25",
+            "EpisodeTitle": "One",
+            "Description": "Seven\u2019s determination to endure months of isolation to protect the crew mirrors Tuvok\u2019s own ethos of disciplined self-sacrifice."
+          },
+          {
+            "EpisodeID": "voys5e15",
+            "EpisodeTitle": "Dark Frontier, Part I",
+            "Description": "In tactical discussions about the Borg, Tuvok addresses Seven as an equal expert, signaling his full professional respect."
+          }
+        ]
+      },
+      {
+        "RelationshipID": "Tuvok-TheDoctor",
+        "Name": "Tuvok and The Doctor",
+        "Series": [
+          "VOY"
+        ],
+        "RelationshipType": [
+          "Philosophical Foils",
+          "Professional Colleagues",
+          "Personhood Debate"
+        ],
+        "People": [
+          {
+            "Character": "Tuvok",
+            "BioID": "Tuvok"
+          },
+          {
+            "Character": "The Doctor",
+            "BioID": "TheDoctor"
+          }
+        ],
+        "Overview": "Tuvok and the Doctor occupy complementary roles as highly capable specialists whose perspectives often push against human norms on Voyager. The Doctor\u2019s growing emotional expressiveness and vanity contrast sharply with Tuvok\u2019s restraint, yet both value precision, efficiency, and logic in their own ways. Their interactions frequently highlight questions of what constitutes a person: Tuvok evaluates the Doctor\u2019s sentience through a Vulcan lens, taking his rights and responsibilities seriously even when he disapproves of the hologram\u2019s theatrics.",
+        "StartingPoint": "Early in Voyager\u2019s time in the Delta Quadrant, Tuvok engages with the Doctor primarily as the ship\u2019s physician and as a piece of critical technology that must be protected. Incidents in sickbay and security drills expose the Doctor\u2019s frustrations at being treated like a tool, while Tuvok responds with characteristically blunt assessments of his performance and priorities. The Doctor\u2019s complaints about respect and autonomy prompt Tuvok to consider, in practice, the Vulcan principle of recognizing intelligence and self-awareness wherever it arises.",
+        "Evolution": "As the Doctor\u2019s program evolves, Tuvok increasingly treats him as a colleague whose judgments carry real weight. In episodes like \u201cThe Swarm\u201d and \u201cLatent Image,\u201d where the Doctor\u2019s matrix and psychological stability are at risk, Tuvok supports efforts to preserve him while also probing the logical basis of his decisions and emotional responses. The Doctor\u2019s later artistic and legal battles in \u201cAuthor, Author\u201d further crystallize Tuvok\u2019s view of him as a being who must be evaluated by Vulcan standards of consciousness, not by his lack of a biological body. Though Tuvok rarely indulges the Doctor\u2019s ego, his willingness to debate ethics and strategy with him reflects an underlying respect.",
+        "KeyThemes": [
+          "Defining personhood beyond biology through a Vulcan lens",
+          "Balancing respect for individuality with expectations of discipline",
+          "Contrasting expressions of logic and emotion in problem-solving",
+          "Professional collaboration between security and medical officers",
+          "Quiet acknowledgment of an artificial being\u2019s growth and rights"
+        ],
+        "KeyEpisodes": [
+          {
+            "EpisodeID": "voys3e4",
+            "EpisodeTitle": "The Swarm",
+            "Role": "Valuing the Doctor beyond utility",
+            "TrajectoryNote": "Efforts to repair the Doctor\u2019s degrading program underscore his importance as more than just software."
+          },
+          {
+            "EpisodeID": "voys5e11",
+            "EpisodeTitle": "Latent Image",
+            "Role": "Evaluating the Doctor\u2019s moral crisis",
+            "TrajectoryNote": "The crew, including Tuvok, must confront the implications of a hologram developing psychological trauma."
+          },
+          {
+            "EpisodeID": "voys7e20",
+            "EpisodeTitle": "Author, Author",
+            "Role": "Legal recognition of holographic rights",
+            "TrajectoryNote": "The debate over the Doctor\u2019s authorship pushes Tuvok and others to apply principles of sentience to an artificial being."
+          }
+        ],
+        "NotableMoments": [
+          {
+            "EpisodeID": "voys3e4",
+            "EpisodeTitle": "The Swarm",
+            "Description": "Tuvok\u2019s participation in the effort to preserve the Doctor\u2019s matrix reflects an acceptance that his loss would be more than the loss of a tool."
+          },
+          {
+            "EpisodeID": "voys5e11",
+            "EpisodeTitle": "Latent Image",
+            "Description": "Discussions around the Doctor\u2019s trauma give Tuvok an opportunity to weigh in on the logic of treating his suffering as real and consequential."
+          },
+          {
+            "EpisodeID": "voys7e20",
+            "EpisodeTitle": "Author, Author",
+            "Description": "As the crew presses for the Doctor\u2019s rights as an author, Tuvok\u2019s stance is grounded in Vulcan logic applied to a non-biological consciousness."
+          }
+        ]
+      }
+    ]
   }
 ]
